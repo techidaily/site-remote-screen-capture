@@ -1,6 +1,6 @@
-# TechiDaily
+# Remote Screen Capture Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://remote-screen-capture.techidaily.com](https://remote-screen-capture.techidaily.com)
 
 ## Publish
 

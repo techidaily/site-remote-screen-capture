@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TechiDaily
+title: Remote Screen Capture
 subtitle: 'Enjoy life easier but more creative!'
-description: 'TechiDaily is the largest, most trusted online solution for everyone to learn, share their knowledge, and help other people.'
-keywords: 'Tools, File explorer, Convert, Repair tools, data recovery'
-author: Nova
+description: 'Remote Screen Capture is the largest, most trusted online solution for everyone to learn, share their knowledge, and help other people.'
+keywords: 'screen-recording,screen-capture,video-screen-grab,desktop-recording,screen-video-capture,screen-mirroring-recording,on-screen-recording,screen-activity-recording,remote-screen-capture,screen-sharing-recording,digital-screen-recording,visual-screen-recording,video-capture, Tools, File explorer, Convert, Repair tools, data recovery'
+author: Rowling
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://android-transfer.techidaily.com
+url: https://remote-screen-capture.techidaily.com
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -112,9 +112,9 @@ sitemap:
 ## 执行 hexo clean && hexo deploy 。
 ## 如果提交失败
 ## cd .deploy_git
-## git push -u git@github.com:techidaily/site-android-transfer.git HEAD:gh-pages --force
+## git push -u git@github.com:techidaily/site-remote-screen-capture.git HEAD:gh-pages --force
 deploy:
   type: git
   repo:  
-    url: git@github.com:techidaily/site-android-transfer.git
+    url: git@github.com:techidaily/site-remote-screen-capture.git
     branch: gh-pages
