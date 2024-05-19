@@ -1,0 +1,244 @@
+---
+title: "\"[Updated] 2024 Approved  Optimized OBS Options for Low-End Systems\""
+date: 2024-05-18T13:22:43.213Z
+updated: 2024-05-19T13:22:43.213Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [Updated] 2024 Approved: Optimized OBS Options for Low-End Systems\""
+excerpt: "\"This Article Describes [Updated] 2024 Approved: Optimized OBS Options for Low-End Systems\""
+keywords: "\"Optimal OBS Settings,Low-Cost OBS,Enhanced OBS Efficiency,Budget-Friendly OBS,Streaming on a Dime (OBS),Accessible OBS Features,Affordable OBS Options\""
+thumbnail: https://www.lifewire.com/thmb/URpxAt_UNeiJBr0hk-AFwm2D8lg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-change-your-tiktok-username-and-profile-picture-048cd3c3b4854846ab46f920e862332f.jpg
+---
+
+## Optimized OBS Options for Low-End Systems
+
+In the past two decades, the digital and IT industry is growing at a jet pace. Programmers are inventing more applications to make our life easier. Similarly, the invention of youtube is one of its prevalent examples of all inventions. Billions of people are watching youtube, among them, millions are video streamers. Today Youtubers and other platform streamers are building costly computational machines to stream their videos with high resolutions and frames per second but it's not the case for everyone like you and I cannot afford to build those high-end PC or Laptops.
+
+Therefore, after vast research on the internet, our team came up with an optimal solution to show you a way to stream your videos lag-free, jitter-free, and without any blurriness in a costless way possible. We recommend you the best studio software known as OBS for your streaming using the best OBS settings for your low-end PC or a Laptop. These OBS settings will let you record videos for low-end PC or laptops to stream now without any issues. Keeping things in a little hurry let's straight dive into the real stuff of this article.
+
+## 1\. Video Settings
+
+Since we are concerned about the streaming of video. It is important to know how to set up your videos settings. To set your video settings you need to follow the steps given below.
+
+### Step 1: Go to Settings
+
+First, you will need to launch your OBS software. On the main menu, you have to go to file-> settings. You will see a new window will pop up for settings as shown in the figure below.
+
+![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
+
+### Step 2: Settings That You Should Keep
+
+Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
+
+Output tab, which is the resolution of the video that the people will watch. For fast and lag-free streaming it's best to keep both the output and base resolution the same to avoid any conversion between the resolution by CPU. So click on output resolution and choose **1280\*720** again. If you noticed your computer is still lagging then it's best to change to 480p but below this, it's not recommended.
+
+![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
+
+After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
+
+### Step 3: Output Settings
+
+Once you are done with the general video settings now it's time you should come to the output settings. For that, you will need to choose the output from the main vertical tab as shown in the figure below in 1\. You will see a new window appears with a variety of settings. Now it's time to choose the advanced setting as shown in 2 in the figure to see all settings to be edited.
+
+![obs output settings edited](https://images.wondershare.com/filmora/article-images/obs-output-settings-edited.jpg)
+
+Let's move towards the detail settings for the output video for your audience it's best to choose the settings shown in the figure and below for lag-free and jitter-free video.
+
+**Encoder:**
+
+The first setting is the encoder setting for your output video. There are two options for it, if you are not using any NVidia graphics card and relying on CPU then it is best to choose x264, which will utilize your CPU.
+
+**Rescale Output:**
+
+The rescale output settings should be kept the same as 720p of the video you are streaming.
+
+**Rate Control:**
+
+Keep the rate control CBR.
+
+**Bitrate:**
+
+Normally, for low-end PCs, you should keep the bitrate to 3000 kbps. However, if you are finding it struggling with your PC in the form of a lag or jitteriness then it's recommended to drop it low till you get the better results. For the NVIDIA card keep the bitrate to 3000 as it is perfectly fine for it.
+
+**CPU Usage Preset:**
+
+It comes with a lot of options to keep your CPU usage for the video. It is best recommended to keep the CPU usage very fast for good results. If you are using an NVIDIA graphics card then it is best to change the CPU usage to "performance” to get the best out of your machine.
+
+**Profile:**
+
+By default, the profile option is disabled and you should keep these settings as it is if you are not using the NVIDIA card but if it's not so then it's recommended to choose the “main” on the profiling option.
+
+So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
+
+## 2\. Audio Settings
+
+For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
+
+### Step 1: Output Audio
+
+The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
+
+![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
+
+### Step 2: Audio Tab Settings
+
+![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+
+The audio consists of many settings,it is divided into categories lets start one by one and explain it.
+
+**Sample Rate and Channels:**
+
+It is the resolution of the audio. The more the sampling rate the more the bits of the audio you sent which means the more the quality of the audio improves. However, there is no need to keep it high but an optimum value works well too. Therefore, keep it **48khz** for the best result as shown. Another thing is a channel, which contains a lot of options but most of you will want the **“stereo”** since it’s the most common choice from the streamers.
+
+**Desktop Audios:**
+
+The desktop audio depends on the device you are using for the audio. It is best to use the default if you don’t know about your device otherwise choose USB if you are audio uses the USB port. For the second audio source, you can choose desktop audio 2 and set it accordingly.
+
+**Auxiliary Audio:**
+
+The streamers usually have one mic source but if you have multiple mic sources then you choose up to 4 auxiliary audio ports and set the device's settings.
+
+**Meter: Decay Rate & Peak Meter Type:**
+
+The meter is a decibel meter (dB). It is a measurement of volume. The more the decibels, the more it is loud. So use the decay rate to choose between fast, medium, and slow volumes accordingly to your needs. The Peak Meter type is used for your CPU usage. IF you have set higher CPU usage then go for the “true peak” otherwise chose “sample peak”.
+
+Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
+
+## 3\. Stream Settings
+
+Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
+
+### Step 1: Stream Tab
+
+The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
+
+![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
+
+### Step 2: Streaming Settings
+
+**Service:**
+
+Here you have to choose the platform on which you are going to stream your videos. It consists of multiple names of popular streaming servers such as youtube, twitch, Facebook live, etc.
+
+**Server:**
+
+This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
+
+## 4\. Best Alternative to OBS
+
+There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
+
+![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Filmora is one of the best editing applications for modifying your videos in the most creative way possible. A lot of streamers prefer using Filmora for their video content and they are using it for editing. Use Filmora to edit your videos before streaming them to any of the servers. You can keep the encoder settings, a variety of streaming extensions for videos, and put artistic effects on videos before streaming them with Filmora.
+
+There may be a lot of other software which serve the same purpose but the best one is decided by the features and functionality associated with it. It’s not wise to recommend software or the best settings before trying it yourself. Here in this article, a research-based recommendation was suggested by trying each one of the options before coming to a suggestion. However, it is no doubt that low-end PCs and Laptops depend on the settings of the streaming application for the best performance. Therefore, after reading this article I hope it will help you in setting up your machine to stream perfectly.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Filmora is one of the best editing applications for modifying your videos in the most creative way possible. A lot of streamers prefer using Filmora for their video content and they are using it for editing. Use Filmora to edit your videos before streaming them to any of the servers. You can keep the encoder settings, a variety of streaming extensions for videos, and put artistic effects on videos before streaming them with Filmora.
+
+There may be a lot of other software which serve the same purpose but the best one is decided by the features and functionality associated with it. It’s not wise to recommend software or the best settings before trying it yourself. Here in this article, a research-based recommendation was suggested by trying each one of the options before coming to a suggestion. However, it is no doubt that low-end PCs and Laptops depend on the settings of the streaming application for the best performance. Therefore, after reading this article I hope it will help you in setting up your machine to stream perfectly.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Filmora is one of the best editing applications for modifying your videos in the most creative way possible. A lot of streamers prefer using Filmora for their video content and they are using it for editing. Use Filmora to edit your videos before streaming them to any of the servers. You can keep the encoder settings, a variety of streaming extensions for videos, and put artistic effects on videos before streaming them with Filmora.
+
+There may be a lot of other software which serve the same purpose but the best one is decided by the features and functionality associated with it. It’s not wise to recommend software or the best settings before trying it yourself. Here in this article, a research-based recommendation was suggested by trying each one of the options before coming to a suggestion. However, it is no doubt that low-end PCs and Laptops depend on the settings of the streaming application for the best performance. Therefore, after reading this article I hope it will help you in setting up your machine to stream perfectly.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Filmora is one of the best editing applications for modifying your videos in the most creative way possible. A lot of streamers prefer using Filmora for their video content and they are using it for editing. Use Filmora to edit your videos before streaming them to any of the servers. You can keep the encoder settings, a variety of streaming extensions for videos, and put artistic effects on videos before streaming them with Filmora.
+
+There may be a lot of other software which serve the same purpose but the best one is decided by the features and functionality associated with it. It’s not wise to recommend software or the best settings before trying it yourself. Here in this article, a research-based recommendation was suggested by trying each one of the options before coming to a suggestion. However, it is no doubt that low-end PCs and Laptops depend on the settings of the streaming application for the best performance. Therefore, after reading this article I hope it will help you in setting up your machine to stream perfectly.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-voiceover-vitality-energizing-your-powerpoint-presentations-for-2024/"><u>"\"[Updated] Voiceover Vitality  Energizing Your PowerPoint Presentations for 2024\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expert-strategies-for-live-streaming-using-obs-for-2024/"><u>"Expert Strategies for Live Streaming Using OBS for 2024"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-securing-skype-audio-with-obs-recording-techniques/"><u>"[New] Securing Skype Audio with OBS Recording Techniques"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-dive-deep-into-sims-4-gameplay-with-videography-for-2024/"><u>"[New] Dive Deep Into Sims 4 Gameplay with Videography for 2024"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715701267682-securing-perfect-images-on-pc-check-out-these-top-5-tools/"><u>"Securing Perfect Images on PC? Check Out These Top 5 Tools!"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-superior-software-packages-to-improve-webcam-videos/"><u>"\"[Updated] 2024 Approved  Superior Software Packages to Improve Webcam Videos\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-dreamy-minecraft-domiciles-decoded/"><u>"\"[New] 2024 Approved  Dreamy Minecraft Domiciles Decoded\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streamline-broadcasts-the-ultimate-guide-for-obspluszoom/"><u>"\"[Updated] 2024 Approved  Streamline Broadcasts  The Ultimate Guide for OBS+Zoom\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-mac-recording-software-for-productivity-for-2024/"><u>"Essential Mac Recording Software for Productivity for 2024"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-invisible-lines-in-virtual-meetings-for-2024/"><u>"The Ultimate Guide to Invisible Lines in Virtual Meetings for 2024"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pro-tools-for-netflix-capture-a-mac-guide-of-six-strategies/"><u>"\"[Updated] 2024 Approved  Pro Tools for Netflix Capture  A Mac Guide of Six Strategies\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pioneering-3-approaches-to-ipad-voice-capture/"><u>"\"2024 Approved  Pioneering 3 Approaches to iPad Voice Capture\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-share-screen-on-google-meet/"><u>"How to Share Screen on Google Meet"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/full-reveal-on-camstudios-recording-capabilities/"><u>"Full Reveal on CamStudio's Recording Capabilities"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-iptv-recording-on-various-platforms/"><u>"[Updated] In 2024, IPTV Recording on Various Platforms"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-step-by-step-guide-to-instagram-livestreaming-using-obs/"><u>"\"[New] In 2024, Step-by-Step Guide to Instagram Livestreaming Using OBS\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-vigorous-voice-examination-iteration-no-8/"><u>"\"[New] 2024 Approved  Vigorous Voice Examination - Iteration No. 8\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-5-must-know-fixes-to-avoid-darkness-on-game-capture-by-obs/"><u>"\"[Updated] In 2024, 5 Must-Know Fixes to Avoid Darkness on Game Capture by OBS\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts/"><u>"[Updated] In 2024, Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-audiophiles-guide-download-and-review-sound-files/"><u>"\"In 2024, Audiophile's Guide  Download & Review Sound Files\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-whatsapp-call-data-a-compreayers-guide/"><u>"\"[New] Capturing WhatsApp Call Data  A Compreayer's Guide\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-practices-for-livestreaming-and-archiving-sports-events/"><u>"\"2024 Approved  Best Practices for Livestreaming & Archiving Sports Events\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-intuitive-guide-how-to-capture-on-vimeo/"><u>"\"[Updated] 2024 Approved  Intuitive Guide  How to Capture on Vimeo\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/prime-cloud-call-recorder-pros-for-2024/"><u>"Prime Cloud Call Recorder Pros for 2024"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-microphone-feedback-audio-recorder/"><u>"\"[Updated] In 2024, Microphone Feedback  Audio Recorder\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-librecam-studio/"><u>"[New] In 2024, Unveiling the Secrets of LibreCam Studio"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streammasters-obs-edition-for-2024/"><u>"\"StreamMasters  OBS Edition for 2024\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-full-featured-insight-mac-meets-screenflow-v4/"><u>"\"[New] Full-Featured Insight  Mac Meets ScreenFlow V4\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-streamlining-presentations-webcam-screen-capture-techniques/"><u>"\"[New] In 2024, Streamlining Presentations  Webcam Screen Capture Techniques\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/best-online-echo-chambers-for-2024/"><u>"Best Online Echo Chambers for 2024"</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-quick-start-5-simple-ways-to-document-your-minecraft-journey-on-a-mac/"><u>"\"2024 Approved  Quick Start  5 Simple Ways to Document Your Minecraft Journey on a Mac\""</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-protecting-and-preserving-your-musical-legacy-three-ways/"><u>"\"[New] In 2024, Protecting and Preserving Your Musical Legacy  Three Ways\""</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-14-plus-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 14 Plus Without a Home Button</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-15-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 15 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/top-rated-vegas-pro-alternatives-for-mac-free-paid-and-premium-options-for-2024/"><u>Top-Rated Vegas Pro Alternatives for Mac Free, Paid, and Premium Options for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-15-pro-max-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone 15 Pro Max Passcode Easily Video Inside</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-ultimate-index-of-podcast-syndication-directories/"><u>New 2024 Approved Ultimate Index of Podcast Syndication Directories</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-poco-c50-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Poco C50? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-z-flip-5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy Z Flip 5 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-asus-rog-phone-7-ultimate-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-secrets-to-make-2d-game-animation/"><u>2024 Approved Secrets to Make 2D Game Animation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-se-2022-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone SE (2022) with/without SIM Card</u></a></li>
+</ul></div>
+
