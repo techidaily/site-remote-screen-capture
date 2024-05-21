@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Obs Full-Screen Fix Announced\""
-date: 2024-05-18T13:03:19.607Z
-updated: 2024-05-19T13:03:19.607Z
+date: 2024-05-19T23:33:41.804Z
+updated: 2024-05-20T23:33:41.804Z
 tags: 
   - screen-recording
   - ai video
@@ -295,4 +295,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100t-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100t | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-the-ultimate-guide-to-5-exceptional-mp3-merger-applications-on-mac-devices/"><u>Updated The Ultimate Guide to 5 Exceptional MP3 Merger Applications on Mac Devices</u></a></li>
 </ul></div>
+
 

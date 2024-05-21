@@ -582,3 +582,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-honor-play-8t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Honor Play 8T Quickly | Dr.fone</u></a></li>
 </ul></div>
 
+

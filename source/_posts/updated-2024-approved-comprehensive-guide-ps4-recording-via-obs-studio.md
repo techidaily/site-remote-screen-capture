@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Comprehensive Guide  PS4 Recording via OBS Studio\""
-date: 2024-05-18T12:58:08.709Z
-updated: 2024-05-19T12:58:08.709Z
+date: 2024-05-19T23:33:27.339Z
+updated: 2024-05-20T23:33:27.339Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-realme-11-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Realme 11 5G Devices</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-ce-3-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord CE 3 5G to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

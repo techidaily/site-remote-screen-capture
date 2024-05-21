@@ -378,3 +378,4 @@ These were the most common ways to record videos on the iTunes platform. Althoug
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Smart 7 HD? | Dr.fone</u></a></li>
 </ul></div>
 
+

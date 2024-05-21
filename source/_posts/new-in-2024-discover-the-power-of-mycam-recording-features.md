@@ -236,3 +236,4 @@ If you want to record your webcam video, MyCam serves the purpose perfectly. But
 <li><a href="https://screen-mirror.techidaily.com/a-guide-itel-a05s-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Itel A05s Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

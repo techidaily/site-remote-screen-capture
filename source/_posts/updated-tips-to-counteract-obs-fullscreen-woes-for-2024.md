@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips to Counteract OBS Fullscreen Woes for 2024"
-date: 2024-05-18T13:12:22.527Z
-updated: 2024-05-19T13:12:22.527Z
+date: 2024-05-19T23:34:07.619Z
+updated: 2024-05-20T23:34:07.619Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-y100i-power-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo Y100i Power 5G to Mac? | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-choosing-a-pinnacle-of-auditory-experience-a-modern-approach/"><u>New 2024 Approved Choosing a Pinnacle of Auditory Experience A Modern Approach</u></a></li>
 </ul></div>
+
 

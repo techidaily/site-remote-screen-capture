@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Silence Issue  Fixing Audio Absence in OBS\""
-date: 2024-05-18T12:50:15.146Z
-updated: 2024-05-19T12:50:15.146Z
+date: 2024-05-19T23:33:04.841Z
+updated: 2024-05-20T23:33:04.841Z
 tags: 
   - screen-recording
   - ai video
@@ -539,4 +539,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-infinix-note-30-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Infinix Note 30 5G Step-by-Step Solutions | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s23-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S23</u></a></li>
 </ul></div>
+
 

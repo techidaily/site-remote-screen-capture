@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Elite Collection  Best Kung Fu Arcade Games\""
-date: 2024-05-18T12:48:07.677Z
-updated: 2024-05-19T12:48:07.677Z
+date: 2024-05-19T23:32:58.535Z
+updated: 2024-05-20T23:32:58.535Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ Follow @Richard Bennett
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-unleash-your-creativity-with-these-5-premium-mp3-recorder-apps/"><u>Updated In 2024, Unleash Your Creativity with These 5 Premium MP3 Recorder Apps</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-lenovo-thinkphone-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Lenovo ThinkPhone Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Navigating Advanced Features in OBS Studio (Android)"
-date: 2024-05-18T12:46:50.954Z
-updated: 2024-05-19T12:46:50.954Z
+date: 2024-05-19T23:32:55.037Z
+updated: 2024-05-20T23:32:55.037Z
 tags: 
   - screen-recording
   - ai video
@@ -529,4 +529,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Apple iPhone 6? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-tiktok-videos-all-you-want-to-know-for-2024/"><u>New How to Translate TikTok Videos? All You Want to Know for 2024</u></a></li>
 </ul></div>
+
 

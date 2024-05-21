@@ -1,7 +1,7 @@
 ---
 title: "Basic OBS Setup Tips for Budget Machines"
-date: 2024-05-18T13:09:18.820Z
-updated: 2024-05-19T13:09:18.820Z
+date: 2024-05-19T23:33:59.488Z
+updated: 2024-05-20T23:33:59.488Z
 tags: 
   - screen-recording
   - ai video
@@ -271,4 +271,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-vdieo-software.techidaily.com/1714093279756-disappointed-that-cant-use-pinnacle-studio-on-mac-weve-got-you-covered-check-out-our-list-below-for-some-great-alternatives-to-pinnacle-studio-for-mac-users/"><u>Disappointed that Cant Use Pinnacle Studio on Mac? Weve Got You Covered! Check Out Our List Below for some Great Alternatives to Pinnacle Studio for Mac Users for 2024</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-the-anatomy-of-great-lower-thirds-a-guide-for-fcpx-editors/"><u>In 2024, The Anatomy of Great Lower Thirds A Guide for FCPX Editors</u></a></li>
 </ul></div>
+
 

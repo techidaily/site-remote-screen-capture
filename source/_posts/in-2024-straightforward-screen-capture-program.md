@@ -434,3 +434,4 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 </ul></div>
 
+

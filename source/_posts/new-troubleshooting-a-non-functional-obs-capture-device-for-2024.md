@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Troubleshooting a Non-Functional OBS Capture Device for 2024\""
-date: 2024-05-18T13:01:49.328Z
-updated: 2024-05-19T13:01:49.328Z
+date: 2024-05-19T23:33:37.474Z
+updated: 2024-05-20T23:33:37.474Z
 tags: 
   - screen-recording
   - ai video
@@ -305,4 +305,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-12-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 12 Pro</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-video-polisher-refine-your-clips-into-stunning-works-of-art/"><u>Updated The Video Polisher Refine Your Clips Into Stunning Works of Art</u></a></li>
 </ul></div>
+
 

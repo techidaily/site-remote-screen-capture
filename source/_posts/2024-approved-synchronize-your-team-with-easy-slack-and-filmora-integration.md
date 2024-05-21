@@ -558,3 +558,4 @@ Follow @Shanoon Cox
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-note-12r-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi Note 12R Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

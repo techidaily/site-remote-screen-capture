@@ -1,7 +1,7 @@
 ---
 title: "HotFirebox Screenshot Extensions"
-date: 2024-05-18T12:55:11.276Z
-updated: 2024-05-19T12:55:11.276Z
+date: 2024-05-19T23:33:18.221Z
+updated: 2024-05-20T23:33:18.221Z
 tags: 
   - screen-recording
   - ai video
@@ -694,4 +694,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-free-image-resources-for-entrepreneurs-and-small-businesses/"><u>2024 Approved Free Image Resources for Entrepreneurs and Small Businesses</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-11-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 11</u></a></li>
 </ul></div>
+
 

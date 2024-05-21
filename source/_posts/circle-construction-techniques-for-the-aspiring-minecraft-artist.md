@@ -1,7 +1,7 @@
 ---
 title: "Circle Construction Techniques for the Aspiring Minecraft Artist"
-date: 2024-05-18T12:58:42.514Z
-updated: 2024-05-19T12:58:42.514Z
+date: 2024-05-19T23:33:29.161Z
+updated: 2024-05-20T23:33:29.161Z
 tags: 
   - screen-recording
   - ai video
@@ -376,4 +376,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-best-dark-moody-luts-during-editing-for-2024/"><u>New Best Dark Moody LUTs During Editing for 2024</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS, Apples New iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

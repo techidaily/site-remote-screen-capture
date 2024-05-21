@@ -415,3 +415,4 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/in-2024-create-animated-social-media-posts-in-canva/"><u>In 2024, Create Animated Social Media Posts in Canva</u></a></li>
 </ul></div>
 
+

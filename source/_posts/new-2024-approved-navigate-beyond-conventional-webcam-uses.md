@@ -429,3 +429,4 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-important-it-is-to-perform-color-correction-to-your-video-here-is-a-solution-with-after-effects-color-correction-with-illustrative-videos./"><u>2024 Approved How Important It Is to Perform Color Correction to Your Video? Here Is a Solution with After Effects Color Correction with Illustrative Videos</u></a></li>
 </ul></div>
 
+

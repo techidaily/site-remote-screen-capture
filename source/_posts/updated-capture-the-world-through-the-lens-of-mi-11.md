@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Capture the World Through the Lens of Mi 11"
-date: 2024-05-18T12:52:48.161Z
-updated: 2024-05-19T12:52:48.161Z
+date: 2024-05-19T23:33:11.813Z
+updated: 2024-05-20T23:33:11.813Z
 tags: 
   - screen-recording
   - ai video
@@ -580,4 +580,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-poco-c55-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Poco C55</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-wondershare-filmora-for-clean-audio-a-guide-to-banishing-background-sounds/"><u>New Wondershare Filmora for Clean Audio A Guide to Banishing Background Sounds</u></a></li>
 </ul></div>
+
 

@@ -435,3 +435,4 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a1-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A1 5G to PC? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Quick Start  Setting Up and Using OBS on a Mac Computer\""
-date: 2024-05-18T13:07:01.181Z
-updated: 2024-05-19T13:07:01.181Z
+date: 2024-05-19T23:33:52.078Z
+updated: 2024-05-20T23:33:52.078Z
 tags: 
   - screen-recording
   - ai video
@@ -321,4 +321,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-take-your-videos-to-the-next-level-adding-effects-in-fcp-x-3-steps/"><u>Updated 2024 Approved Take Your Videos to the Next Level Adding Effects in FCP X (3 Steps)</u></a></li>
 <li><a href="https://howto.techidaily.com/vivo-s17-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo S17 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
+
 

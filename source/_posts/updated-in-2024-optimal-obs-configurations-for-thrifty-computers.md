@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Optimal OBS Configurations for Thrifty Computers"
-date: 2024-05-18T13:03:08.876Z
-updated: 2024-05-19T13:03:08.876Z
+date: 2024-05-19T23:33:41.318Z
+updated: 2024-05-20T23:33:41.318Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oppo-find-n3-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Oppo Find N3 FRP Locks</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-vn-video-editor-for-pc-a-concise-review-and-guide/"><u>New 2024 Approved VN Video Editor for PC A Concise Review and Guide</u></a></li>
 </ul></div>
+
 

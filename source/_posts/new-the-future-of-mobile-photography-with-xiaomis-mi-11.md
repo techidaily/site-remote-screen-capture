@@ -1,7 +1,7 @@
 ---
 title: "[New] The Future of Mobile Photography with Xiaomi's Mi 11"
-date: 2024-05-18T13:10:26.196Z
-updated: 2024-05-19T13:10:26.196Z
+date: 2024-05-19T23:34:02.402Z
+updated: 2024-05-20T23:34:02.402Z
 tags: 
   - screen-recording
   - ai video
@@ -579,4 +579,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-15-best-video-to-gif-app-on-iphone-and-android/"><u>In 2024, 15 Best Video to GIF App on iPhone and Android</u></a></li>
 </ul></div>
+
 

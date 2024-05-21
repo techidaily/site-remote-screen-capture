@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Choosing Between OBS and Fraps for Capture\""
-date: 2024-05-18T12:49:09.621Z
-updated: 2024-05-19T12:49:09.621Z
+date: 2024-05-19T23:33:01.530Z
+updated: 2024-05-20T23:33:01.530Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://ai-video-tools.techidaily.com/updated-optimize-your-rig-premiere-pro-system-requirements-and-setup-guide-for-2024/"><u>Updated Optimize Your Rig Premiere Pro System Requirements and Setup Guide for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-sony-xperia-5-v-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Sony Xperia 5 V to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

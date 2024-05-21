@@ -816,3 +816,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/pixel-calculator-demystified-a-simple-ratio-guide/"><u>Pixel Calculator Demystified A Simple Ratio Guide</u></a></li>
 </ul></div>
 
+

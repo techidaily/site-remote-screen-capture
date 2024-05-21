@@ -519,3 +519,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-12-websites-with-triggered-animate-on-scroll-examples/"><u>New In 2024, 12 Websites with Triggered Animate on Scroll Examples</u></a></li>
 </ul></div>
 
+

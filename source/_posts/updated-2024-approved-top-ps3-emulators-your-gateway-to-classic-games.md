@@ -537,3 +537,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-optimal-video-size-for-instagram-a-guide-to-aspect-ratios/"><u>New In 2024, Optimal Video Size for Instagram A Guide to Aspect Ratios</u></a></li>
 </ul></div>
 
+

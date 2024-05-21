@@ -243,3 +243,4 @@ We have stated all the different ways to record the screen of your Dell laptop. 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-20-premier-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 20 Premier 5G to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

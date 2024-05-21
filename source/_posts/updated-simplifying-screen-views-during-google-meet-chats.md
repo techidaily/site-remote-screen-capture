@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplifying Screen Views During Google Meet Chats"
-date: 2024-05-18T13:03:40.041Z
-updated: 2024-05-19T13:03:40.041Z
+date: 2024-05-19T23:33:42.748Z
+updated: 2024-05-20T23:33:42.748Z
 tags: 
   - screen-recording
   - ai video
@@ -745,4 +745,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/updated-easy-guide-to-apply-slow-zoom-effects-to-videos/"><u>Updated Easy Guide to Apply Slow Zoom Effects to Videos</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-oneplus-ace-2v-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from OnePlus Ace 2V to iPhone 14 and 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

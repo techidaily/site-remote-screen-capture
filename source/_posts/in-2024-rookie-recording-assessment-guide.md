@@ -664,3 +664,4 @@ With Debut Video Capture, the video quality is good and the way that working wit
 <li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-8-hd-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 8 HD in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
 
+

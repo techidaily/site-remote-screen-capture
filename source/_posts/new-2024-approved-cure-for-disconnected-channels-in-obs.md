@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Cure for Disconnected Channels in OBS\""
-date: 2024-05-18T13:08:00.042Z
-updated: 2024-05-19T13:08:00.042Z
+date: 2024-05-19T23:33:54.951Z
+updated: 2024-05-20T23:33:54.951Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://audio-editing.techidaily.com/updated-step-by-step-guide-to-extracting-and-editing-audio-in-adobe-premiere-pro/"><u>Updated Step-by-Step Guide to Extracting and Editing Audio in Adobe Premiere Pro</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-90-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor 90 Black and White | Dr.fone</u></a></li>
 </ul></div>
+
 

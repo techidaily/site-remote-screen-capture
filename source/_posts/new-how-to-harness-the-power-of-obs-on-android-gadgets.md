@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Harness the Power of OBS on Android Gadgets"
-date: 2024-05-18T12:57:14.677Z
-updated: 2024-05-19T12:57:14.677Z
+date: 2024-05-19T23:33:24.998Z
+updated: 2024-05-20T23:33:24.998Z
 tags: 
   - screen-recording
   - ai video
@@ -507,4 +507,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-nokia-c110-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Nokia C110 | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-the-top-10-most-impressive-4k-video-examples-for-2024/"><u>New The Top 10 Most Impressive 4K Video Examples for 2024</u></a></li>
 </ul></div>
+
 

@@ -229,3 +229,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-tecno-pova-5-pro-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Tecno Pova 5 Pro to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
 
+

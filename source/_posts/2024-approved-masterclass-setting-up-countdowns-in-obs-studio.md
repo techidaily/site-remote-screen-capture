@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Masterclass  Setting Up Countdowns in OBS Studio\""
-date: 2024-05-18T12:58:04.381Z
-updated: 2024-05-19T12:58:04.381Z
+date: 2024-05-19T23:33:27.110Z
+updated: 2024-05-20T23:33:27.110Z
 tags: 
   - screen-recording
   - ai video
@@ -271,4 +271,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-c51-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco C51 Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-y100i-power-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo Y100i Power 5G FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

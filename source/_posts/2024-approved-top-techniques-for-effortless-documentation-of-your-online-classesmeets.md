@@ -487,3 +487,4 @@ Filmora provides you with an easy and intuitive interface allowing you to record
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-want-to-add-motion-effects-to-your-texts-in-your-video-learn-the-simple-steps-to-create-motion-text-effects-in-popular-video-editors.m/"><u>Updated 2024 Approved Want to Add Motion Effects to Your Texts in Your Video? Learn the Simple Steps to Create Motion Text Effects in Popular Video Editors</u></a></li>
 </ul></div>
 
+

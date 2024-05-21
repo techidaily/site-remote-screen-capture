@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Securing Sound Output  Fixes for Silent OBS Streams\""
-date: 2024-05-18T12:59:26.493Z
-updated: 2024-05-19T12:59:26.493Z
+date: 2024-05-19T23:33:31.058Z
+updated: 2024-05-20T23:33:31.058Z
 tags: 
   - screen-recording
   - ai video
@@ -595,4 +595,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://voice-adjusting.techidaily.com/updated-vanguard-6-audio-file-segmentation-systems/"><u>Updated Vanguard 6 Audio File Segmentation Systems</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 Pro 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
+
 

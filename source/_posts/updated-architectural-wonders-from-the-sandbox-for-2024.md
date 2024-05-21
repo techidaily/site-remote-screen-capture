@@ -325,3 +325,4 @@ Follow @Shanoon Cox
 <li><a href="https://video-creation-software.techidaily.com/timer-tutorial-how-to-create-a-countdown-in-fcpx-fast-for-2024/"><u>Timer Tutorial How to Create a Countdown in FCPX Fast for 2024</u></a></li>
 </ul></div>
 
+

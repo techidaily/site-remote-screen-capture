@@ -264,3 +264,4 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://sound-optimizing.techidaily.com/sonic-storytelling-showcasing-sound-waves-and-engaging-animated-sequences-with-sony-vegas-pro/"><u>Sonic Storytelling Showcasing Sound Waves & Engaging Animated Sequences with Sony Vegas Pro</u></a></li>
 </ul></div>
 
+

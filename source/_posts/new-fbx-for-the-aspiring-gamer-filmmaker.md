@@ -1,7 +1,7 @@
 ---
 title: "[New] FBX for the Aspiring Gamer Filmmaker"
-date: 2024-05-18T12:51:52.624Z
-updated: 2024-05-19T12:51:52.624Z
+date: 2024-05-19T23:33:09.494Z
+updated: 2024-05-20T23:33:09.494Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ If you are looking for a screen recorder that is specifically designed to captur
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-motorola-moto-g04-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Motorola Moto G04 via a USB Cable | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Nokia C02 | Dr.fone</u></a></li>
 </ul></div>
+
 

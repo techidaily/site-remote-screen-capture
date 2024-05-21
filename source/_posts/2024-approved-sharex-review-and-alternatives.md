@@ -293,3 +293,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-14-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 14 Pro Screen | Stellar</u></a></li>
 </ul></div>
 
+

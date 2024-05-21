@@ -1,7 +1,7 @@
 ---
 title: "IPhone Sound Capturing 101 – Voice Memo Processing"
-date: 2024-05-18T12:55:26.589Z
-updated: 2024-05-19T12:55:26.589Z
+date: 2024-05-19T23:33:19.185Z
+updated: 2024-05-20T23:33:19.185Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ There is no limit of recording time when it comes to recording a voice memo or n
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-from-script-to-screen-the-top-explainer-video-software/"><u>Updated 2024 Approved From Script to Screen The Top Explainer Video Software</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

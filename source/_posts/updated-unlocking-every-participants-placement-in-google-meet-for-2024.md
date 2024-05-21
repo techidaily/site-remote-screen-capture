@@ -596,3 +596,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2000-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2000 File Error</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Troubleshooting OBS Frame Loss"
-date: 2024-05-18T12:54:44.254Z
-updated: 2024-05-19T12:54:44.254Z
+date: 2024-05-19T23:33:17.001Z
+updated: 2024-05-20T23:33:17.001Z
 tags: 
   - screen-recording
   - ai video
@@ -611,4 +611,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-flip-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo X Flip Phone without Any Data Loss</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-open-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus Open Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

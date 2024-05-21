@@ -678,3 +678,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A56s 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

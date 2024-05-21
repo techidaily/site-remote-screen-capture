@@ -595,3 +595,4 @@ Vidma Video Recorder light empowers you to screen record recordings without any 
 <li><a href="https://screen-mirror.techidaily.com/top-4-ways-for-apple-iphone-12-to-mac-mirroring-drfone-by-drfone-ios/"><u>Top 4 Ways for Apple iPhone 12 to Mac Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

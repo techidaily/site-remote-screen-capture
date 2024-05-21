@@ -1,7 +1,7 @@
 ---
 title: "Keeping Consistent Pacing in OBS Broadcasts for 2024"
-date: 2024-05-18T13:04:43.825Z
-updated: 2024-05-19T13:04:43.825Z
+date: 2024-05-19T23:33:45.827Z
+updated: 2024-05-20T23:33:45.827Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-phone-friendly-format-tips-for-shooting-vertical-video-for-2024/"><u>New Phone-Friendly Format Tips for Shooting Vertical Video for 2024</u></a></li>
 </ul></div>
+
 

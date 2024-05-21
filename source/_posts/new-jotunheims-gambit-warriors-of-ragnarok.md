@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Jotunheim's Gambit  Warriors of Ragnarok\""
-date: 2024-05-18T12:48:04.180Z
-updated: 2024-05-19T12:48:04.180Z
+date: 2024-05-19T23:32:58.366Z
+updated: 2024-05-20T23:32:58.366Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-video-apps.techidaily.com/new-video-editing-showdown-final-cut-pro-or-lumafusion-for-2024/"><u>New Video Editing Showdown Final Cut Pro or LumaFusion for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-top-8-augmented-reality-video-games-for-2024/"><u>Updated Top 8 Augmented Reality Video Games for 2024</u></a></li>
 </ul></div>
+
 

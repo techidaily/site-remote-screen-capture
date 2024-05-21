@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Roguelike Vs. Roguelite  Debates and History Explained With Game Examples\""
-date: 2024-05-18T13:09:47.458Z
-updated: 2024-05-19T13:09:47.458Z
+date: 2024-05-19T23:34:00.675Z
+updated: 2024-05-20T23:34:00.675Z
 tags: 
   - screen-recording
   - ai video
@@ -336,4 +336,5 @@ Follow @Ollie Mattison
 <li><a href="https://voice-adjusting.techidaily.com/probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series-for-2024/"><u>Probing Sound Clarity An Updated Analysis of Cambridges CXU Series for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oneplus-open-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from OnePlus Open to iPhone 14 and 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -484,3 +484,4 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-itel-a60s-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Itel A60s to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
 
+

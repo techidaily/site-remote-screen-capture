@@ -1,7 +1,7 @@
 ---
 title: "[New] Countdown Configuration Guide for OBS Enthusiasts for 2024"
-date: 2024-05-18T13:11:16.882Z
-updated: 2024-05-19T13:11:16.882Z
+date: 2024-05-19T23:34:04.804Z
+updated: 2024-05-20T23:34:04.804Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-effortless-webm-to-mp3-conversion-top-10-solutions/"><u>New 2024 Approved Effortless WebM to MP3 Conversion Top 10 Solutions</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-spark-20c-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Spark 20C to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

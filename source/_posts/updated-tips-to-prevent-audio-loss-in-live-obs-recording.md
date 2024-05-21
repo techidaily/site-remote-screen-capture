@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tips to Prevent Audio Loss in Live OBS Recording"
-date: 2024-05-18T13:08:11.661Z
-updated: 2024-05-19T13:08:11.661Z
+date: 2024-05-19T23:33:55.438Z
+updated: 2024-05-20T23:33:55.438Z
 tags: 
   - screen-recording
   - ai video
@@ -583,4 +583,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-14-pro-max-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 14 Pro Max</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

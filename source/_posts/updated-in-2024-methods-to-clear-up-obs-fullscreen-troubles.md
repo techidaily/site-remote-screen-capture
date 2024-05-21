@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Methods to Clear Up OBS Fullscreen Troubles"
-date: 2024-05-18T12:48:40.305Z
-updated: 2024-05-19T12:48:40.305Z
+date: 2024-05-19T23:33:00.177Z
+updated: 2024-05-20T23:33:00.177Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-c53-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme C53 Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-free-wmv-video-merger-tools-top-picks/"><u>New 2024 Approved Free WMV Video Merger Tools Top Picks</u></a></li>
 </ul></div>
+
 

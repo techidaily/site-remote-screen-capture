@@ -510,3 +510,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/this-blog-post-will-walk-you-through-how-to-resize-videos-using-vlc-well-cover-what-the-default-settings-are-for-video-resolutions-how-to-change-them-and-wh/"><u>This Blog Post Will Walk You Through How to Resize Videos Using VLC. Well Cover What the Default Settings Are for Video Resolutions, How to Change Them, and Why Its Important to Know What Size of Video Youre Uploading Before Uploading It</u></a></li>
 </ul></div>
 
+

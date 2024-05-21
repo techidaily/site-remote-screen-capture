@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Unleash Your Potential  Detailed Guide for PS4 Recordings with OBS\""
-date: 2024-05-18T12:47:30.301Z
-updated: 2024-05-19T12:47:30.301Z
+date: 2024-05-19T23:32:56.754Z
+updated: 2024-05-20T23:32:56.754Z
 tags: 
   - screen-recording
   - ai video
@@ -371,4 +371,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-poco-m6-pro-4g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Poco M6 Pro 4G Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

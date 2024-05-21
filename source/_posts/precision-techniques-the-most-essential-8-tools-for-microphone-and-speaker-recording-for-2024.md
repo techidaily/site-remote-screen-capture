@@ -779,3 +779,4 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://video-creation-software.techidaily.com/new-shrink-mpeg2-files-get-virtualdub-for-video-compression/"><u>New Shrink MPEG2 Files Get VirtualDub for Video Compression</u></a></li>
 </ul></div>
 
+

@@ -748,3 +748,4 @@ The vast majority accept the nature of their recorded video would be as old as i
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-get-creative-with-fcp-x-a-3-step-guide-to-adding-awesome-effects/"><u>Updated Get Creative with FCP X A 3-Step Guide to Adding Awesome Effects</u></a></li>
 </ul></div>
 
+

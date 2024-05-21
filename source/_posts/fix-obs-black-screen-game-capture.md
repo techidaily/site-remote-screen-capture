@@ -1,7 +1,7 @@
 ---
 title: "Fix OBS Black Screen Game Capture"
-date: 2024-05-18T12:49:18.528Z
-updated: 2024-05-19T12:49:18.528Z
+date: 2024-05-19T23:33:02.001Z
+updated: 2024-05-20T23:33:02.001Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo Y100 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Google Pixel 8? | Dr.fone</u></a></li>
 </ul></div>
+
 

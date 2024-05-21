@@ -519,3 +519,4 @@ Recording TV shows is no more an impossible thing whether you are streaming the 
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-itel-a60-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Itel A60 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

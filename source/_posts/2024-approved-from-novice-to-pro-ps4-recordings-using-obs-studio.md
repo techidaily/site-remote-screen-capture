@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Novice to Pro  PS4 Recordings Using OBS Studio\""
-date: 2024-05-18T12:58:26.034Z
-updated: 2024-05-19T12:58:26.034Z
+date: 2024-05-19T23:33:28.168Z
+updated: 2024-05-20T23:33:28.168Z
 tags: 
   - screen-recording
   - ai video
@@ -367,4 +367,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://animation-videos.techidaily.com/updated-20-free-after-effects-logo-reveal-templates-you-will-want-to-know-for-2024/"><u>Updated 20 Free After Effects Logo Reveal Templates You Will Want to Know for 2024</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-the-art-of-diminishing-sound-effects-fading-out-audio-in-imovie-projects/"><u>New 2024 Approved The Art of Diminishing Sound Effects Fading Out Audio in iMovie Projects</u></a></li>
 </ul></div>
+
 

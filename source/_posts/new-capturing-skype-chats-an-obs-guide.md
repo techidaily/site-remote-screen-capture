@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Skype Chats  An OBS Guide\""
-date: 2024-05-18T12:58:45.477Z
-updated: 2024-05-19T12:58:45.477Z
+date: 2024-05-19T23:33:29.255Z
+updated: 2024-05-20T23:33:29.255Z
 tags: 
   - screen-recording
   - ai video
@@ -335,4 +335,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Honor X7b | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-magic-v2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor Magic V2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

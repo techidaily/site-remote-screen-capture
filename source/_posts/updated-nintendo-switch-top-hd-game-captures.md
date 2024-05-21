@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Nintendo Switch  Top HD Game Captures\""
-date: 2024-05-18T12:51:56.401Z
-updated: 2024-05-19T12:51:56.401Z
+date: 2024-05-19T23:33:09.646Z
+updated: 2024-05-20T23:33:09.646Z
 tags: 
   - screen-recording
   - ai video
@@ -552,4 +552,5 @@ Follow @Ollie Mattison
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Sony Xperia 5 V | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-whatsapp-status-designers-top-rated-apps/"><u>Updated In 2024, WhatsApp Status Designers Top Rated Apps</u></a></li>
 </ul></div>
+
 

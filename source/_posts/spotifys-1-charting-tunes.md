@@ -1,7 +1,7 @@
 ---
 title: "Spotify's #1 Charting Tunes"
-date: 2024-05-18T12:58:13.854Z
-updated: 2024-05-19T12:58:13.854Z
+date: 2024-05-19T23:33:27.628Z
+updated: 2024-05-20T23:33:27.628Z
 tags: 
   - screen-recording
   - ai video
@@ -1056,4 +1056,5 @@ There is no option available to record a stream on Spotify. If you are a premium
 <li><a href="https://ai-topics.techidaily.com/2024-approved-exploring-key-components-and-creation-process-of-ai-face-generators/"><u>2024 Approved Exploring Key Components and Creation Process of AI Face Generators</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo T2 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

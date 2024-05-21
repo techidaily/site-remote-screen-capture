@@ -193,3 +193,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-note-30-vip-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Note 30 VIP Without Power Button | Dr.fone</u></a></li>
 </ul></div>
 
+

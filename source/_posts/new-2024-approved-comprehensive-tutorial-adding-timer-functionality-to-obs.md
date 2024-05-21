@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Comprehensive Tutorial  Adding Timer Functionality to OBS\""
-date: 2024-05-18T13:08:54.568Z
-updated: 2024-05-19T13:08:54.568Z
+date: 2024-05-19T23:33:57.981Z
+updated: 2024-05-20T23:33:57.981Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-streamlining-your-workflow-import-and-export-videos-in-adobe-premiere-pro-2023/"><u>2024 Approved Streamlining Your Workflow Import and Export Videos in Adobe Premiere Pro 2023</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-13-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 13 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
 </ul></div>
+
 

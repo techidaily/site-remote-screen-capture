@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Wonders of OBS on Android Devices"
-date: 2024-05-18T13:12:24.955Z
-updated: 2024-05-19T13:12:24.955Z
+date: 2024-05-19T23:34:07.734Z
+updated: 2024-05-20T23:34:07.734Z
 tags: 
   - screen-recording
   - ai video
@@ -491,4 +491,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-normalizing-audio-in-3-quick-ways-audio-normalization/"><u>New 2024 Approved Normalizing Audio in 3 Quick Ways-Audio Normalization</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-motorola-edge-40-neo-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Motorola Edge 40 Neo with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

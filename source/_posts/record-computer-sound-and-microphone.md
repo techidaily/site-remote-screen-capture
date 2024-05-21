@@ -1,7 +1,7 @@
 ---
 title: "Record Computer Sound and Microphone"
-date: 2024-05-18T12:54:01.662Z
-updated: 2024-05-19T12:54:01.662Z
+date: 2024-05-19T23:33:15.184Z
+updated: 2024-05-20T23:33:15.184Z
 tags: 
   - screen-recording
   - ai video
@@ -783,4 +783,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Realme GT 3? | Dr.fone</u></a></li>
 </ul></div>
+
 

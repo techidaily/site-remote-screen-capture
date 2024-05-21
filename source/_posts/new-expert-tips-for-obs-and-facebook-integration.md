@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Tips for OBS and Facebook Integration"
-date: 2024-05-18T13:08:20.047Z
-updated: 2024-05-19T13:08:20.047Z
+date: 2024-05-19T23:33:56.389Z
+updated: 2024-05-20T23:33:56.389Z
 tags: 
   - screen-recording
   - ai video
@@ -375,4 +375,5 @@ Facebook Live provides an exciting and entertaining opportunity to connect with 
 <li><a href="https://audio-shaping.techidaily.com/navigating-the-nuances-of-noise-cancelling-sound-effects-using-final-cut-pro-xs-autoduck-feature-for-2024/"><u>Navigating the Nuances of Noise-Cancelling Sound Effects Using Final Cut Pro Xs AutoDuck Feature for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/mastering-audio-transitions-2-methods-for-fading-in-and-out-in-final-cut-pro-for-2024/"><u>Mastering Audio Transitions 2 Methods for Fading In and Out in Final Cut Pro for 2024</u></a></li>
 </ul></div>
+
 

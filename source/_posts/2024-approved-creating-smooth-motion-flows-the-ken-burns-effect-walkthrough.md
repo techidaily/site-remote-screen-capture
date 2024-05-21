@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Creating Smooth Motion Flows  The Ken Burns Effect Walkthrough\""
-date: 2024-05-18T12:52:48.432Z
-updated: 2024-05-19T12:52:48.432Z
+date: 2024-05-19T23:33:11.834Z
+updated: 2024-05-20T23:33:11.834Z
 tags: 
   - screen-recording
   - ai video
@@ -339,4 +339,5 @@ Follow @Max Wales
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi Note 12 4G</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-tips-to-make-cinematic-color-grading/"><u>New 2024 Approved Tips to Make Cinematic Color Grading</u></a></li>
 </ul></div>
+
 

@@ -875,3 +875,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/new-camtasia-vs-captivate-which-to-choose/"><u>New Camtasia Vs Captivate - Which to Choose?</u></a></li>
 </ul></div>
 
+

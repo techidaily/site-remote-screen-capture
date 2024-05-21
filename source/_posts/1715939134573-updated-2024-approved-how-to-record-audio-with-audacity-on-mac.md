@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Record Audio with Audacity on Mac\""
-date: 2024-05-18T12:54:26.175Z
-updated: 2024-05-19T12:54:26.175Z
+date: 2024-05-19T23:33:16.228Z
+updated: 2024-05-20T23:33:16.229Z
 tags: 
   - screen-recording
   - ai video
@@ -296,4 +296,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Poco M6 Pro 4G | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-web-based-video-teaser-creators/"><u>Updated 2024 Approved Web-Based Video Teaser Creators</u></a></li>
 </ul></div>
+
 

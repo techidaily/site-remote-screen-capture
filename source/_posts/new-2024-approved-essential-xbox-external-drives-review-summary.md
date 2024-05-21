@@ -615,3 +615,4 @@ Follow @Ollie Mattison
 <li><a href="https://smart-video-creator.techidaily.com/mac-gopro-editing-101-from-import-to-export/"><u>Mac GoPro Editing 101 From Import to Export</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Utilizing Inbuilt Cameras for Screen Recording on Mate and P Series Smartphones (Mate 10, Mate 20; P20, P10)."
-date: 2024-05-18T13:01:07.610Z
-updated: 2024-05-19T13:01:07.610Z
+date: 2024-05-19T23:33:35.687Z
+updated: 2024-05-20T23:33:35.687Z
 tags: 
   - screen-recording
   - ai video
@@ -410,4 +410,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-best-zero-cost-game-video-editing-tools-this-year/"><u>Updated 2024 Approved Best Zero-Cost Game Video Editing Tools This Year</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Why does the pokemon go battle league not available On Apple iPhone XS | Dr.fone</u></a></li>
 </ul></div>
+
 

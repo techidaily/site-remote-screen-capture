@@ -389,3 +389,4 @@ Follow @Liza Brown
 <li><a href="https://ai-editing-video.techidaily.com/tutorial-to-add-effects-with-movavi-slideshow-maker/"><u>Tutorial to Add Effects with Movavi Slideshow Maker</u></a></li>
 </ul></div>
 
+

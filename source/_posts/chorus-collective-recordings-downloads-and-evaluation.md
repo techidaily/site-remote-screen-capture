@@ -438,3 +438,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-add-subtitles-to-videos-with-kapwing-step-by-step/"><u>Updated In 2024, Add Subtitles To Videos With Kapwing Step by Step</u></a></li>
 </ul></div>
 
+

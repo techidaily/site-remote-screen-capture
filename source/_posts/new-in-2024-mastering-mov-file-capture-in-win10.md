@@ -665,3 +665,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-xiaomi-redmi-12-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Xiaomi Redmi 12 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

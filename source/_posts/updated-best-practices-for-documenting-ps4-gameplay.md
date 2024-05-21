@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Practices for Documenting PS4 Gameplay"
-date: 2024-05-18T12:51:06.950Z
-updated: 2024-05-19T12:51:06.950Z
+date: 2024-05-19T23:33:07.137Z
+updated: 2024-05-20T23:33:07.137Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Phone with Broken Screen</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-expert-recommended-4k-video-converters-free-trial-and-paid-options/"><u>In 2024, Expert-Recommended 4K Video Converters (Free Trial & Paid Options)</u></a></li>
 </ul></div>
+
 

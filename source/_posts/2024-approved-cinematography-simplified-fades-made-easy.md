@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Cinematography Simplified  Fades Made Easy\""
-date: 2024-05-18T13:09:39.003Z
-updated: 2024-05-19T13:09:39.003Z
+date: 2024-05-19T23:34:00.301Z
+updated: 2024-05-20T23:34:00.301Z
 tags: 
   - screen-recording
   - ai video
@@ -474,4 +474,5 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-from-vid-to-gif-28-expert-approved-conversion-software/"><u>New 2024 Approved From Vid to GIF 28 Expert-Approved Conversion Software</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-se-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone SE Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Troubleshooting OBS Full Screen Malfunction\""
-date: 2024-05-18T12:50:17.028Z
-updated: 2024-05-19T12:50:17.028Z
+date: 2024-05-19T23:33:04.931Z
+updated: 2024-05-20T23:33:04.931Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-infinix-hot-40-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Infinix Hot 40 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-meizu-21-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Meizu 21 without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 

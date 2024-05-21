@@ -574,3 +574,4 @@ Follow @Ollie Mattison
 <li><a href="https://smart-video-creator.techidaily.com/new-a-picture-in-picture-effect-is-a-very-popular-effect-in-that-it-allows-us-to-see-two-images-at-once-this-tutorial-shows-you-how-to-create-this-in-fcp/"><u>New A Picture-in-Picture Effect Is a Very Popular Effect in that It Allows Us to See Two Images at Once. This Tutorial Shows You How to Create This in FCP</u></a></li>
 </ul></div>
 
+

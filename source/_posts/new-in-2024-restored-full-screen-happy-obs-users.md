@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Restored Full Screen, Happy OBS Users"
-date: 2024-05-18T13:04:00.500Z
-updated: 2024-05-19T13:04:00.500Z
+date: 2024-05-19T23:33:43.628Z
+updated: 2024-05-20T23:33:43.628Z
 tags: 
   - screen-recording
   - ai video
@@ -304,4 +304,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-honor-x9b-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Honor X9b Phone When You Forget the Password</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-optimize-your-view-amazon-prime-video-aspect-ratio-hacks/"><u>New 2024 Approved Optimize Your View Amazon Prime Video Aspect Ratio Hacks</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Balancing Volume Levels in OBS Streaming"
-date: 2024-05-18T12:54:48.038Z
-updated: 2024-05-19T12:54:48.038Z
+date: 2024-05-19T23:33:17.159Z
+updated: 2024-05-20T23:33:17.159Z
 tags: 
   - screen-recording
   - ai video
@@ -586,4 +586,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Motorola Moto G04 | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/essential-websites-to-access-pristine-free-audio-fx/"><u>Essential Websites to Access Pristine Free Audio FX</u></a></li>
 </ul></div>
+
 

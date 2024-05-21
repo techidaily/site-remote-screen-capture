@@ -529,3 +529,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/learn-to-merge-clips-in-davinci-resolve-simple-steps/"><u>Learn to Merge Clips in DaVinci Resolve Simple Steps</u></a></li>
 </ul></div>
 
+

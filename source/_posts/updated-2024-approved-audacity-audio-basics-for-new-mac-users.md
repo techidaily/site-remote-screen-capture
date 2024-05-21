@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Audacity Audio Basics for New Mac Users\""
-date: 2024-05-18T12:47:03.360Z
-updated: 2024-05-19T12:47:03.360Z
+date: 2024-05-19T23:32:55.553Z
+updated: 2024-05-20T23:32:55.553Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-vertical-video-mastery-a-smartphone-creators-guide/"><u>New In 2024, Vertical Video Mastery A Smartphone Creators Guide</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online/"><u>Updated 2024 Approved Create AI Avatar Video with AI Avatar | Wondershare Virbo Online</u></a></li>
 </ul></div>
+
 

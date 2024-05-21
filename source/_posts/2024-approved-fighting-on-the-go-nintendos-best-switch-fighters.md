@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Fighting on the Go  Nintendo's Best Switch Fighters\""
-date: 2024-05-18T12:50:04.096Z
-updated: 2024-05-19T12:50:04.096Z
+date: 2024-05-19T23:33:04.349Z
+updated: 2024-05-20T23:33:04.349Z
 tags: 
   - screen-recording
   - ai video
@@ -762,4 +762,5 @@ For macOS 10.12 or later
 <li><a href="https://animation-videos.techidaily.com/10-best-romance-anime-movies-you-need-to-watch-for-2024/"><u>10 Best Romance Anime Movies You Need to Watch for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-y100-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
+
 

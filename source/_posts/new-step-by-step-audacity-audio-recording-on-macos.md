@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step  Audacity Audio Recording on MacOS\""
-date: 2024-05-18T12:48:06.871Z
-updated: 2024-05-19T12:48:06.871Z
+date: 2024-05-19T23:32:58.510Z
+updated: 2024-05-20T23:32:58.510Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-x100-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo X100 FRP</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-no-more-shaky-cam-free-video-stabilization-software-for-windows-and-macos/"><u>Updated 2024 Approved No More Shaky Cam Free Video Stabilization Software for Windows and macOS</u></a></li>
 </ul></div>
+
 

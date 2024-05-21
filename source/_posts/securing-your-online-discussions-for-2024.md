@@ -450,3 +450,4 @@ The answer to the question "Can you record a Google hangout?" is yes. You can us
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-defy-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Defy 2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
+

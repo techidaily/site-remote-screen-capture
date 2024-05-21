@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Capturing Your Craft  Minecraft Gameplay on a Mac\""
-date: 2024-05-18T12:59:18.131Z
-updated: 2024-05-19T12:59:18.131Z
+date: 2024-05-19T23:33:30.701Z
+updated: 2024-05-20T23:33:30.701Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Minecraft has been a popular game because of its different worlds and modes. The
 <li><a href="https://techidaily.com/recover-apple-iphone-12-mini-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 mini Data From iOS iCloud | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-add-adjustment-layer-clip-in-davinci-resolve-in-2024/"><u>New How to Add Adjustment Layer (Clip) in DaVinci Resolve, In 2024</u></a></li>
 </ul></div>
+
 

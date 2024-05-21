@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Professional Video Editing  Implementing the Ken Burns Effect in Camtasa for 2024\""
-date: 2024-05-18T12:47:07.951Z
-updated: 2024-05-19T12:47:07.951Z
+date: 2024-05-19T23:32:55.800Z
+updated: 2024-05-20T23:32:55.800Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ Follow @Max Wales
 <li><a href="https://ai-live-streaming.techidaily.com/how-to-watch-nba-live-stream-free-anywhere/"><u>How To Watch NBA Live Stream Free Anywhere</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-10-online-rotators-for-rotating-videos/"><u>Updated 2024 Approved 10 Online Rotators for Rotating Videos</u></a></li>
 </ul></div>
+
 

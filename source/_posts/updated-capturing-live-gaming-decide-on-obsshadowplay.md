@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Live Gaming - Decide on OBS/ShadowPlay\""
-date: 2024-05-18T13:08:21.130Z
-updated: 2024-05-19T13:08:21.130Z
+date: 2024-05-19T23:33:56.456Z
+updated: 2024-05-20T23:33:56.456Z
 tags: 
   - screen-recording
   - ai video
@@ -221,4 +221,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-poco-m6-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Poco M6 5G without App | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo S17e | Dr.fone</u></a></li>
 </ul></div>
+
 

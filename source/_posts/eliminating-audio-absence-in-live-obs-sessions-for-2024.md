@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Audio Absence in Live OBS Sessions for 2024"
-date: 2024-05-18T13:07:35.971Z
-updated: 2024-05-19T13:07:35.971Z
+date: 2024-05-19T23:33:53.501Z
+updated: 2024-05-20T23:33:53.501Z
 tags: 
   - screen-recording
   - ai video
@@ -569,4 +569,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://audio-shaping.techidaily.com/updated-audio-cutting-101-disconnecting-sounds-from-your-iphonemac-videos/"><u>Updated Audio Cutting 101 Disconnecting Sounds From Your iPhone/Mac Videos</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-10-android-video-editing-apps-for-cinematic-creations/"><u>Updated 2024 Approved Top 10 Android Video Editing Apps for Cinematic Creations</u></a></li>
 </ul></div>
+
 

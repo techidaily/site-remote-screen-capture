@@ -239,3 +239,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-a38-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on A38?</u></a></li>
 </ul></div>
 
+

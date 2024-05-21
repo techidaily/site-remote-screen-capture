@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shogun's Call  A List of Top 10 Games Reflecting Tsushi Values for 2024\""
-date: 2024-05-18T13:12:53.810Z
-updated: 2024-05-19T13:12:53.810Z
+date: 2024-05-19T23:34:09.374Z
+updated: 2024-05-20T23:34:09.374Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-perfect-aspect-ratio-for-instagram-videos/"><u>Updated In 2024, The Perfect Aspect Ratio for Instagram Videos</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-best-male-to-female-voice-changers-windows-and-mac/"><u>2024 Approved Best Male to Female Voice Changers Windows and Mac</u></a></li>
 </ul></div>
+
 

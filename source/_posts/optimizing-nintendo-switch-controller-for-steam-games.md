@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Nintendo Switch Controller for Steam Games"
-date: 2024-05-18T12:51:36.385Z
-updated: 2024-05-19T12:51:36.385Z
+date: 2024-05-19T23:33:08.510Z
+updated: 2024-05-20T23:33:08.510Z
 tags: 
   - screen-recording
   - ai video
@@ -482,4 +482,5 @@ Follow @Ollie Mattison
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco C55? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 To Other iPhone 14 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Record Voice Memo on iPhone?"
-date: 2024-05-18T12:46:24.070Z
-updated: 2024-05-19T12:46:24.070Z
+date: 2024-05-19T23:32:53.739Z
+updated: 2024-05-20T23:32:53.739Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ There is no limit of recording time when it comes to recording a voice memo or n
 <li><a href="https://ai-editing-video.techidaily.com/how-to-make-a-jaw-dropping-time-lapse-video-for-2024/"><u>How to Make A Jaw-Dropping Time Lapse Video for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential Guide to Compositing Using Blending Modes"
-date: 2024-05-18T12:46:55.266Z
-updated: 2024-05-19T12:46:55.266Z
+date: 2024-05-19T23:32:55.202Z
+updated: 2024-05-20T23:32:55.202Z
 tags: 
   - screen-recording
   - ai video
@@ -463,4 +463,5 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/updated-10-realistic-cartoon-characters-you-will-run-away-from-if-you-met-in-r/"><u>Updated 10 Realistic Cartoon Characters You Will Run Away From if You Met in R</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-sonic-synthesis-ranking-top-linux-audio-tools-for-free-and-premium-users/"><u>Updated Sonic Synthesis Ranking Top Linux Audio Tools for Free and Premium Users</u></a></li>
 </ul></div>
+
 

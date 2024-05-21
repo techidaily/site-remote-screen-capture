@@ -413,3 +413,4 @@ A screen recorder is an instrument that catches content on your Mac screen and s
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-note-30-vip-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Note 30 VIP Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

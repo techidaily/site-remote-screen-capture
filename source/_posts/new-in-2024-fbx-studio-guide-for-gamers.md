@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, FBX Studio Guide for Gamers"
-date: 2024-05-18T12:47:05.254Z
-updated: 2024-05-19T12:47:05.254Z
+date: 2024-05-19T23:32:55.639Z
+updated: 2024-05-20T23:32:55.639Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ If you are looking for a screen recorder that is specifically designed to captur
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-10-best-software-to-reverse-audio-online-desktop-and-phone/"><u>New In 2024, 10 Best Software to Reverse Audio Online, Desktop, and Phone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-list-of-free-mp4-video-cutter-tools/"><u>New In 2024, The Ultimate List of Free MP4 Video Cutter Tools</u></a></li>
 </ul></div>
+
 

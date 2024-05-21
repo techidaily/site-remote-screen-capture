@@ -502,3 +502,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-calculate-and-change-video-aspect-ratio-online/"><u>2024 Approved How to Calculate & Change Video Aspect Ratio Online</u></a></li>
 </ul></div>
 
+

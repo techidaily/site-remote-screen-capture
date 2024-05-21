@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  10 Basic Blocks House Concepts for MC Players\""
-date: 2024-05-18T13:00:29.300Z
-updated: 2024-05-19T13:00:29.300Z
+date: 2024-05-19T23:33:33.777Z
+updated: 2024-05-20T23:33:33.777Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/split-audio-from-a-video-in-adobe-premiere-pro-step-by-step-for-2024/"><u>Split Audio From a Video in Adobe Premiere Pro Step by Step for 2024</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/adding-titles-in-fcpx-a-beginners-guide-to-professional-results-for-2024/"><u>Adding Titles in FCPX A Beginners Guide to Professional Results for 2024</u></a></li>
 </ul></div>
+
 

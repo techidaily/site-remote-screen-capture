@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] PS4 to Video  Complete OBS Broadcasting Guide\""
-date: 2024-05-18T13:07:41.679Z
-updated: 2024-05-19T13:07:41.679Z
+date: 2024-05-19T23:33:53.756Z
+updated: 2024-05-20T23:33:53.756Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cartoon-video-creation-made-easy-top-10-online-and-pc-tools/"><u>In 2024, Cartoon Video Creation Made Easy Top 10 Online and PC Tools</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

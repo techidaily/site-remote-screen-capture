@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Customize Screenshot Storing on Mac"
-date: 2024-05-18T13:09:39.279Z
-updated: 2024-05-19T13:09:39.279Z
+date: 2024-05-19T23:34:00.321Z
+updated: 2024-05-20T23:34:00.321Z
 tags: 
   - screen-recording
   - ai video
@@ -401,4 +401,5 @@ Follow @Max Wales
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c55-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme C55?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-every-compositor-should-know-the-tips-of-color-match-in-after-effects/"><u>2024 Approved Every Compositor Should Know The Tips of Color Match in After Effects</u></a></li>
 </ul></div>
+
 

@@ -827,3 +827,4 @@ Follow @Shanoon Cox
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nubia-red-magic-8s-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nubia Red Magic 8S Pro to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
 
+

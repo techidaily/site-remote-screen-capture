@@ -1,7 +1,7 @@
 ---
 title: "\"The Way of the Warrior  Game Lineup Mirroring Ghost of Tsushima\""
-date: 2024-05-18T12:55:12.083Z
-updated: 2024-05-19T12:55:12.083Z
+date: 2024-05-19T23:33:18.272Z
+updated: 2024-05-20T23:33:18.272Z
 tags: 
   - screen-recording
   - ai video
@@ -617,4 +617,5 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g04-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G04? | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-sound-choice-handbook-understanding-and-selecting-superior-audio-formats/"><u>New 2024 Approved The Sound Choice Handbook Understanding & Selecting Superior Audio Formats</u></a></li>
 </ul></div>
+
 

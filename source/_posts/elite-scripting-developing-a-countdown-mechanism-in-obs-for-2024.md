@@ -1,7 +1,7 @@
 ---
 title: "\"Elite Scripting  Developing a Countdown Mechanism in OBS for 2024\""
-date: 2024-05-18T12:48:47.808Z
-updated: 2024-05-19T12:48:47.808Z
+date: 2024-05-19T23:33:00.443Z
+updated: 2024-05-20T23:33:00.443Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-gionee-f3-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Gionee F3 Pro Quickly | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/ensuring-consistent-acoustic-output-how-to-calibrate-volumes-in-vlc-media-center/"><u>Ensuring Consistent Acoustic Output How to Calibrate Volumes in VLC Media Center</u></a></li>
 </ul></div>
+
 

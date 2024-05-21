@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Fixing Full Screen Failure in Obs"
-date: 2024-05-18T12:49:17.716Z
-updated: 2024-05-19T12:49:17.716Z
+date: 2024-05-19T23:33:01.959Z
+updated: 2024-05-20T23:33:01.959Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-blaze-2-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Blaze 2 5G</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y36i-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y36i without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

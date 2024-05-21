@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Professional Video Editing  Implementing the Ken Burns Effect in Camtasa\""
-date: 2024-05-18T13:11:05.287Z
-updated: 2024-05-19T13:11:05.287Z
+date: 2024-05-19T23:34:04.265Z
+updated: 2024-05-20T23:34:04.265Z
 tags: 
   - screen-recording
   - ai video
@@ -370,4 +370,5 @@ Follow @Max Wales
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-a1x-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo A1x 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-a-step-by-step-guide-to-crafting-professional-level-android-media-with-audio-integration/"><u>Updated 2024 Approved A Step-by-Step Guide to Crafting Professional-Level Android Media With Audio Integration</u></a></li>
 </ul></div>
+
 

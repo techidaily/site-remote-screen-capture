@@ -1,7 +1,7 @@
 ---
 title: "[New] How To Add a Countdown Timer in OBS for 2024"
-date: 2024-05-18T12:47:44.282Z
-updated: 2024-05-19T12:47:44.282Z
+date: 2024-05-19T23:32:57.400Z
+updated: 2024-05-20T23:32:57.400Z
 tags: 
   - screen-recording
   - ai video
@@ -295,4 +295,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-nokia-c110-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Nokia C110 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/essential-guide-integrating-audio-with-animated-gifs-on-macos-for-2024/"><u>Essential Guide Integrating Audio with Animated GIFs on macOS for 2024</u></a></li>
 </ul></div>
+
 

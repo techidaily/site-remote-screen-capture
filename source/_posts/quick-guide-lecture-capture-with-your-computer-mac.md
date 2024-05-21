@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Guide  Lecture Capture with Your Computer (Mac)\""
-date: 2024-05-18T13:00:00.214Z
-updated: 2024-05-19T13:00:00.214Z
+date: 2024-05-19T23:33:32.472Z
+updated: 2024-05-20T23:33:32.472Z
 tags: 
   - screen-recording
   - ai video
@@ -336,4 +336,5 @@ Mac is the working framework known for its flexible usefulness, and every one of
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-guide-to-free-online-video-stabilization-top-8-tools-and-tips/"><u>Updated In 2024, The Ultimate Guide to Free Online Video Stabilization Top 8 Tools and Tips</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713949352576-do-you-want-to-add-subtitles-to-your-videos-efficiently-this-article-will-introduce-an-online-subtitle-editor-that-will-help-you-to-create-subtitles-for-you/"><u>Do You Want to Add Subtitles to Your Videos Efficiently? This Article Will Introduce an Online Subtitle Editor that Will Help You to Create Subtitles for Your Video for 2024</u></a></li>
 </ul></div>
+
 

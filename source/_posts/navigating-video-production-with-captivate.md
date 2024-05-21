@@ -1,7 +1,7 @@
 ---
 title: "Navigating Video Production with Captivate"
-date: 2024-05-18T13:03:15.855Z
-updated: 2024-05-19T13:03:15.855Z
+date: 2024-05-19T23:33:41.646Z
+updated: 2024-05-20T23:33:41.646Z
 tags: 
   - screen-recording
   - ai video
@@ -420,4 +420,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-to-delete-white-background-in-photoshop-how-to-create-a-transparent-background-in-photoshop-steps-to-get-rid-of-white-background-i/"><u>Updated 2024 Approved How to Delete White Background in Photoshop. How to Create a Transparent Background in Photoshop? Steps to Get Rid of White Background in Photoshop</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-6s-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 6s to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

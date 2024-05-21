@@ -296,3 +296,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-itel-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Itel .</u></a></li>
 </ul></div>
 
+

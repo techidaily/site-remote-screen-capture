@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Avoiding Pitfalls in Low-Light Portrait Photography\""
-date: 2024-05-18T12:50:35.657Z
-updated: 2024-05-19T12:50:35.657Z
+date: 2024-05-19T23:33:05.806Z
+updated: 2024-05-20T23:33:05.806Z
 tags: 
   - screen-recording
   - ai video
@@ -194,4 +194,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://smart-video-creator.techidaily.com/new-free-best-top-11-animated-logo-makers-creative-logo-tips-for-2024/"><u>New FREE Best Top 11 Animated Logo Makers Creative Logo Tips for 2024</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-7-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone 7 to New iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

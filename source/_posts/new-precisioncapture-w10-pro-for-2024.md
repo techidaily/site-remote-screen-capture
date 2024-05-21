@@ -550,3 +550,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://video-content-creator.techidaily.com/new-optimize-your-facebook-video-cover-a-guide-to-perfect-sizing/"><u>New Optimize Your Facebook Video Cover A Guide to Perfect Sizing</u></a></li>
 </ul></div>
 
+

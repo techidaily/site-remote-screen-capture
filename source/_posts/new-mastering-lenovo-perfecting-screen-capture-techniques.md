@@ -480,3 +480,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-itel-a60-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Itel A60 Phone</u></a></li>
 </ul></div>
 
+

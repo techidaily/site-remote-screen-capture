@@ -997,3 +997,4 @@ If you are not satisfied with OBS Studio due to its complicated user interface, 
 <li><a href="https://video-ai-editor.techidaily.com/new-top-picks-lightweight-video-editors-for-smooth-performance/"><u>New Top Picks Lightweight Video Editors for Smooth Performance</u></a></li>
 </ul></div>
 
+

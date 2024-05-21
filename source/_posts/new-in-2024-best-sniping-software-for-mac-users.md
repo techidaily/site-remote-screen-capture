@@ -289,3 +289,4 @@ For macOS 10.12 or later
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a78-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A78 to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

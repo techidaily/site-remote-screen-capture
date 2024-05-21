@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Obs Full Screen Troubles  Now Under Control\""
-date: 2024-05-18T13:05:15.043Z
-updated: 2024-05-19T13:05:15.043Z
+date: 2024-05-19T23:33:47.194Z
+updated: 2024-05-20T23:33:47.194Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-y36-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo Y36 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-30-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Zero 30 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

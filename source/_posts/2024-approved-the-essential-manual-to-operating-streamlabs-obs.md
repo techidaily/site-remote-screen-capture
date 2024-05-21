@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Essential Manual to Operating Streamlabs OBS\""
-date: 2024-05-18T13:01:24.660Z
-updated: 2024-05-19T13:01:24.660Z
+date: 2024-05-19T23:33:36.468Z
+updated: 2024-05-20T23:33:36.468Z
 tags: 
   - screen-recording
   - ai video
@@ -316,4 +316,5 @@ While using Streamlabs, most of the templates available are nothing more than st
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max with IMEI Code?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-c55-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme C55 Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

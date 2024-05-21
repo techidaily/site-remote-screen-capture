@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Shoot Slow Motion Video on iPhone"
-date: 2024-05-18T12:53:37.587Z
-updated: 2024-05-19T12:53:37.587Z
+date: 2024-05-19T23:33:14.168Z
+updated: 2024-05-20T23:33:14.168Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-guide-10-imovie-alternatives-for-android-devices/"><u>New 2024 Approved The Ultimate Guide 10 iMovie Alternatives for Android Devices</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

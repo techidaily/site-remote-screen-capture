@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Capturing Sound on Mac  An Audacity Tutorial\""
-date: 2024-05-18T12:49:56.552Z
-updated: 2024-05-19T12:49:56.552Z
+date: 2024-05-19T23:33:04.067Z
+updated: 2024-05-20T23:33:04.067Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-xiaomi-redmi-a2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Xiaomi Redmi A2? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Capture Your Skype Sessions on Mac and Windows"
-date: 2024-05-18T12:55:56.014Z
-updated: 2024-05-19T12:55:56.014Z
+date: 2024-05-19T23:33:21.038Z
+updated: 2024-05-20T23:33:21.038Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ Follow @Max Wales
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo Find X7? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-nokia-c22-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia C22 Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

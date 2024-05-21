@@ -1,7 +1,7 @@
 ---
 title: "[New] Restoring OBS Full Screen Display for 2024"
-date: 2024-05-18T12:57:42.505Z
-updated: 2024-05-19T12:57:42.505Z
+date: 2024-05-19T23:33:26.081Z
+updated: 2024-05-20T23:33:26.081Z
 tags: 
   - screen-recording
   - ai video
@@ -296,4 +296,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-editing-video.techidaily.com/top-10-sound-extractors-to-extract-sound-from-video-for-2024/"><u>Top 10 Sound Extractors to Extract Sound From Video for 2024</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-fcpx-power-user-unlock-40-time-saving-keyboard-shortcuts/"><u>New 2024 Approved FCPX Power User Unlock 40 Time-Saving Keyboard Shortcuts</u></a></li>
 </ul></div>
+
 

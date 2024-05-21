@@ -600,3 +600,4 @@ There are different types of video grabbers available. You can opt for video gra
 <li><a href="https://sound-optimizing.techidaily.com/professional-linux-sound-capture-a-rundown-of-top-software-for-studio-quality-audio/"><u>Professional Linux Sound Capture A Rundown of Top Software for Studio-Quality Audio</u></a></li>
 </ul></div>
 
+

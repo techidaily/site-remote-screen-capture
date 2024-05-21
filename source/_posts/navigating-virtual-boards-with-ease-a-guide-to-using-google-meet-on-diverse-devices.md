@@ -526,3 +526,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-how-to-create-ken-burns-effect-detaied-steps/"><u>Updated In 2024, How to Create Ken Burns Effect? Detaied Steps</u></a></li>
 </ul></div>
 
+

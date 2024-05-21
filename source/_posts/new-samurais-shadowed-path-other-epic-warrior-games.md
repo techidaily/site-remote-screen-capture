@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Samurai's Shadowed Path - Other Epic Warrior Games\""
-date: 2024-05-18T12:59:47.012Z
-updated: 2024-05-19T12:59:47.012Z
+date: 2024-05-19T23:33:31.888Z
+updated: 2024-05-20T23:33:31.888Z
 tags: 
   - screen-recording
   - ai video
@@ -595,4 +595,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/updated-what-is-ts-format-and-how-to-play-ts-files-basic-tips-for-2024/"><u>Updated What Is TS Format and How To Play TS Files? Basic Tips for 2024</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/get-more-out-of-your-videos-10-free-alternatives-to-windows-movie-maker/"><u>Get More Out of Your Videos 10 Free Alternatives to Windows Movie Maker</u></a></li>
 </ul></div>
+
 

@@ -684,3 +684,4 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-get-more-engagement-the-simplest-way-to-resize-vertical-videos-for-social-media/"><u>New 2024 Approved Get More Engagement The Simplest Way to Resize Vertical Videos for Social Media</u></a></li>
 </ul></div>
 
+

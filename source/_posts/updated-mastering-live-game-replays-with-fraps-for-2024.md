@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering Live Game Replays with Fraps for 2024"
-date: 2024-05-18T12:55:48.706Z
-updated: 2024-05-19T12:55:48.706Z
+date: 2024-05-19T23:33:20.657Z
+updated: 2024-05-20T23:33:20.657Z
 tags: 
   - screen-recording
   - ai video
@@ -357,4 +357,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://screen-mirror.techidaily.com/best-3-poco-c50-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Poco C50 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-xcover-7-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy XCover 7 to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

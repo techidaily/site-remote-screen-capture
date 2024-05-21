@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shadowed Swords & Honored Combatants  Must-Try Titles Inspired by Ghost of Tsushi for 2024\""
-date: 2024-05-18T12:54:12.977Z
-updated: 2024-05-19T12:54:12.977Z
+date: 2024-05-19T23:33:15.685Z
+updated: 2024-05-20T23:33:15.685Z
 tags: 
   - screen-recording
   - ai video
@@ -592,4 +592,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-new-to-video-editing-try-these-user-friendly-options/"><u>In 2024, New to Video Editing? Try These User-Friendly Options</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-13t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 13T without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 

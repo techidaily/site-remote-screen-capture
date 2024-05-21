@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Solo Mastery  How to Turn Off Apex Legends' Cross-Play Feature\""
-date: 2024-05-18T13:01:40.067Z
-updated: 2024-05-19T13:01:40.067Z
+date: 2024-05-19T23:33:37.052Z
+updated: 2024-05-20T23:33:37.052Z
 tags: 
   - screen-recording
   - ai video
@@ -360,4 +360,5 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/is-your-realme-12-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 12 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-realme-c55-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Realme C55 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -198,3 +198,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://smart-video-creator.techidaily.com/new-how-to-resize-and-crop-images-in-fcpx-2023-update-for-2024/"><u>New How to Resize and Crop Images in FCPX 2023 Update for 2024</u></a></li>
 </ul></div>
 
+

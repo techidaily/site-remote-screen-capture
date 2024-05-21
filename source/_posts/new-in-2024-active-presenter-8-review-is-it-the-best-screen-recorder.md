@@ -303,3 +303,4 @@ Overall, Active Presenter 8 stands out as a comprehensive screen recording and v
 <li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-10-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 10 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

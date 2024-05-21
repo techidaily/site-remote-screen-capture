@@ -279,3 +279,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://ai-editing-video.techidaily.com/updated-top-6-online-video-speed-controller-for-chrome-safari-firefox/"><u>Updated TOP 6 Online Video Speed Controller for Chrome, Safari, Firefox</u></a></li>
 </ul></div>
 
+

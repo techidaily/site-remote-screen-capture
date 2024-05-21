@@ -238,3 +238,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Speech  IPhone Memo-Making Steps\""
-date: 2024-05-18T13:02:23.353Z
-updated: 2024-05-19T13:02:23.353Z
+date: 2024-05-19T23:33:39.301Z
+updated: 2024-05-20T23:33:39.301Z
 tags: 
   - screen-recording
   - ai video
@@ -502,4 +502,5 @@ There is no limit of recording time when it comes to recording a voice memo or n
 <li><a href="https://ai-video-editing.techidaily.com/gimp-green-screen/"><u>Gimp Green Screen</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Nokia C12 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

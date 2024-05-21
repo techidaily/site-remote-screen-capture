@@ -697,3 +697,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/samsung-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung  won't play MOV videos, how to fix ?</u></a></li>
 </ul></div>
 
+

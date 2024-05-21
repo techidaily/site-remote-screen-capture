@@ -1,7 +1,7 @@
 ---
 title: "Take Fullscreen Digital Canvas"
-date: 2024-05-18T13:09:50.960Z
-updated: 2024-05-19T13:09:50.960Z
+date: 2024-05-19T23:34:00.834Z
+updated: 2024-05-20T23:34:00.834Z
 tags: 
   - screen-recording
   - ai video
@@ -507,4 +507,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-gaming-intro-makers-for-windows-and-mac-for-2024/"><u>The Ultimate Guide to Gaming Intro Makers for Windows and Mac for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-iphone-8-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From iPhone 8 without Password?</u></a></li>
 </ul></div>
+
 

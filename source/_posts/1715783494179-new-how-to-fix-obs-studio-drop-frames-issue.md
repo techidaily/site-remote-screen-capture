@@ -1,7 +1,7 @@
 ---
 title: "[New] How To Fix OBS Studio Drop Frames Issue"
-date: 2024-05-18T12:53:19.757Z
-updated: 2024-05-19T12:53:19.757Z
+date: 2024-05-19T23:33:13.249Z
+updated: 2024-05-20T23:33:13.249Z
 tags: 
   - screen-recording
   - ai video
@@ -564,4 +564,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Sony Xperia 5 V</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s23-ultra-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 Ultra Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
+
 

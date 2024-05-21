@@ -447,3 +447,4 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://fix-guide.techidaily.com/reasons-for-itel-a60-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel A60 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 
+

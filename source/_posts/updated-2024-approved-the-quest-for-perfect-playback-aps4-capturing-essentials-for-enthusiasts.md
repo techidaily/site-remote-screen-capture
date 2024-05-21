@@ -387,3 +387,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://phone-solutions.techidaily.com/forgot-your-xiaomi-redmi-note-12r-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Xiaomi Redmi Note 12R lock screen pattern, PIN or password? Here’s what to do</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Stop Screen Blackouts with OBS Game Recordings for 2024"
-date: 2024-05-18T12:54:21.327Z
-updated: 2024-05-19T12:54:21.327Z
+date: 2024-05-19T23:33:16.061Z
+updated: 2024-05-20T23:33:16.061Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-get-ready-to-rewind-the-top-10-slow-motion-video-players/"><u>Updated Get Ready to Rewind The Top 10 Slow Motion Video Players</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-mastering-pc-sound-recording-using-audacity-at-no-cost/"><u>Updated In 2024, Mastering PC Sound Recording Using Audacity at No Cost</u></a></li>
 </ul></div>
+
 

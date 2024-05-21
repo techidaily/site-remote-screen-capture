@@ -540,3 +540,4 @@ If you are an avid player of Sims 4, you should record your gameplay and upload 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-spark-10-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Spark 10 4G to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

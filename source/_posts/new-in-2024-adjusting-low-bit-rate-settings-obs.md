@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Adjusting Low-Bit Rate Settings (OBS)\""
-date: 2024-05-18T12:55:19.073Z
-updated: 2024-05-19T12:55:19.073Z
+date: 2024-05-19T23:33:18.559Z
+updated: 2024-05-20T23:33:18.559Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-transform-your-brand-11-free-animated-logo-makers-and-essential-design-tips-for-2024/"><u>Updated Transform Your Brand 11 Free Animated Logo Makers & Essential Design Tips for 2024</u></a></li>
 </ul></div>
+
 

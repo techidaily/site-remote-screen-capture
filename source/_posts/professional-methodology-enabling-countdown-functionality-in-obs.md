@@ -1,7 +1,7 @@
 ---
 title: "\"Professional Methodology  Enabling Countdown Functionality in OBS\""
-date: 2024-05-18T12:51:20.173Z
-updated: 2024-05-19T12:51:20.173Z
+date: 2024-05-19T23:33:07.819Z
+updated: 2024-05-20T23:33:07.819Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-photo-video-maker-apps-with-song-pc-mobile-online-for-2024/"><u>Updated Best Photo Video Maker Apps with Song PC, Mobile, Online for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-blur-faces-or-objects-in-videos-best-apps-for-ios-and-android/"><u>New 2024 Approved Blur Faces or Objects in Videos Best Apps for iOS and Android</u></a></li>
 </ul></div>
+
 

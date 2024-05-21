@@ -1,7 +1,7 @@
 ---
 title: "Set Up Your First Google Meet & Plan It"
-date: 2024-05-18T12:56:58.453Z
-updated: 2024-05-19T12:56:58.453Z
+date: 2024-05-19T23:33:24.268Z
+updated: 2024-05-20T23:33:24.268Z
 tags: 
   - screen-recording
   - ai video
@@ -673,4 +673,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://ai-editing-video.techidaily.com/new-learn-everything-about-leeming-lut-pro/"><u>New Learn Everything About Leeming LUT Pro</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-image-aspect-ratio-converters-on-the-web/"><u>In 2024, Best Image Aspect Ratio Converters on the Web</u></a></li>
 </ul></div>
+
 

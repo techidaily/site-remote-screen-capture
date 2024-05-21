@@ -1,7 +1,7 @@
 ---
 title: "\"Streamlining Gaming Experience  How to Record Games OBS\""
-date: 2024-05-18T13:01:53.161Z
-updated: 2024-05-19T13:01:53.161Z
+date: 2024-05-19T23:33:37.639Z
+updated: 2024-05-20T23:33:37.639Z
 tags: 
   - screen-recording
   - ai video
@@ -393,4 +393,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Gionee F3 Pro | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-mini-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 mini | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -273,3 +273,4 @@ There is no doubt that taking a timelapse video with iPhone is a cakewalk Howeve
 <li><a href="https://techidaily.com/hard-resetting-an-sony-xperia-1-v-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Sony Xperia 1 V Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
 
+

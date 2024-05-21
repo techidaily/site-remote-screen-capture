@@ -579,3 +579,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://ai-voice-clone.techidaily.com/what-is-talking-avatar/"><u>What Is Talking Avatar?</u></a></li>
 </ul></div>
 
+

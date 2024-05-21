@@ -1,7 +1,7 @@
 ---
 title: "\"Perfecting Your Video Game Broadcast  The OBS Way\""
-date: 2024-05-18T13:00:28.478Z
-updated: 2024-05-19T13:00:28.478Z
+date: 2024-05-19T23:33:33.737Z
+updated: 2024-05-20T23:33:33.737Z
 tags: 
   - screen-recording
   - ai video
@@ -408,4 +408,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor Magic5 Ultimate? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713951643172-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-with-a-simple-alternative/"><u>Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative for 2024</u></a></li>
 </ul></div>
+
 

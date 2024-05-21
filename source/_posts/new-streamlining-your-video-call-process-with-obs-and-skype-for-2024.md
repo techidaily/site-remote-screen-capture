@@ -386,3 +386,4 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-best-apps-for-editing-vertical-videos-on-your-smartphone/"><u>Updated Best Apps for Editing Vertical Videos on Your Smartphone</u></a></li>
 </ul></div>
 
+

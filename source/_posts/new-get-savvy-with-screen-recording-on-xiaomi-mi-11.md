@@ -1,7 +1,7 @@
 ---
 title: "[New] Get Savvy with Screen Recording on Xiaomi Mi 11"
-date: 2024-05-18T13:01:51.799Z
-updated: 2024-05-19T13:01:51.799Z
+date: 2024-05-19T23:33:37.567Z
+updated: 2024-05-20T23:33:37.567Z
 tags: 
   - screen-recording
   - ai video
@@ -579,4 +579,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On OnePlus 11 5G? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-are-you-ready-to-animate-game-character-from-scratch/"><u>New In 2024, Are You Ready to Animate Game Character From Scratch?</u></a></li>
 </ul></div>
+
 

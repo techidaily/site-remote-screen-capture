@@ -479,3 +479,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-xs-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone XS Without iTunes | Dr.fone</u></a></li>
 </ul></div>
 
+

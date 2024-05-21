@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Mac  Basic Sound Recording in Audacity\""
-date: 2024-05-18T13:06:25.989Z
-updated: 2024-05-19T13:06:25.989Z
+date: 2024-05-19T23:33:50.521Z
+updated: 2024-05-20T23:33:50.521Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-easy-steps-to-mastering-voice-transformation-apps-for-iphones/"><u>New In 2024, Easy Steps to Mastering Voice Transformation Apps for iPhones</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-find-x7-ultra-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Find X7 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 

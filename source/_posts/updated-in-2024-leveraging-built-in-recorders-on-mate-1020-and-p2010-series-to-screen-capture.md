@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture\""
-date: 2024-05-18T13:12:34.634Z
-updated: 2024-05-19T13:12:34.634Z
+date: 2024-05-19T23:34:08.169Z
+updated: 2024-05-20T23:34:08.170Z
 tags: 
   - screen-recording
   - ai video
@@ -372,4 +372,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/new-mirroring-magic-how-to-flip-a-video-clip-in-final-cut-pro/"><u>New Mirroring Magic How to Flip a Video Clip in Final Cut Pro</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-how-can-you-use-clownfish-voice-changer-on-discord-fortnite-skype-for-2024/"><u>Updated How Can You Use Clownfish Voice Changer on Discord/ Fortnite/ Skype for 2024</u></a></li>
 </ul></div>
+
 

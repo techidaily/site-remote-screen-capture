@@ -1,7 +1,7 @@
 ---
 title: "[New] Set Custom Save Path for Screen Captures (Mac)"
-date: 2024-05-18T12:48:21.942Z
-updated: 2024-05-19T12:48:21.942Z
+date: 2024-05-19T23:32:59.423Z
+updated: 2024-05-20T23:32:59.423Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-free-video-looping-websites-top-10-picks-for-seamless-repeats/"><u>New 2024 Approved Free Video Looping Websites Top 10 Picks for Seamless Repeats</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-poco-m6-pro-4g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Poco M6 Pro 4G? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Reset and Fix OBS Fullscreen Issue"
-date: 2024-05-18T12:50:48.643Z
-updated: 2024-05-19T12:50:48.643Z
+date: 2024-05-19T23:33:06.309Z
+updated: 2024-05-20T23:33:06.309Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-100-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor 100? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-razr-40-ultra-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Razr 40 Ultra fingerprint</u></a></li>
 </ul></div>
+
 

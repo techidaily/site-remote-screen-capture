@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Reducing OBS Streaming Bitrate"
-date: 2024-05-18T13:12:47.150Z
-updated: 2024-05-19T13:12:47.150Z
+date: 2024-05-19T23:34:08.797Z
+updated: 2024-05-20T23:34:08.797Z
 tags: 
   - screen-recording
   - ai video
@@ -290,4 +290,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://video-creation-software.techidaily.com/new-find-the-best-aiff-converter-for-your-needs-a-step-by-step-guide-for-2024/"><u>New Find the Best AIFF Converter for Your Needs A Step-by-Step Guide for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-c210-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia C210 For Mobile Legends? | Dr.fone</u></a></li>
 </ul></div>
+
 

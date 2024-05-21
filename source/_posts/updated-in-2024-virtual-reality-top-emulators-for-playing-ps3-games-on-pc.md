@@ -543,3 +543,4 @@ For macOS 10.12 or later
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-10-best-tools-to-change-aspect-ratio-of-videos/"><u>New In 2024, 10 Best Tools to Change Aspect Ratio of Videos</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Clearing Dark Frames on Video Capture Software"
-date: 2024-05-18T12:55:25.245Z
-updated: 2024-05-19T12:55:25.245Z
+date: 2024-05-19T23:33:19.118Z
+updated: 2024-05-20T23:33:19.118Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-zooms-silent-mode-a-comprehensive-manual-for-device-based-muting/"><u>Updated In 2024, Zooms Silent Mode A Comprehensive Manual for Device-Based Muting</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-word-2003-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2003 document electronically</u></a></li>
 </ul></div>
+
 

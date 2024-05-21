@@ -413,3 +413,4 @@ Attracting the attention of a viewer always necessitates the use of visual eleme
 <li><a href="https://smart-video-creator.techidaily.com/create-a-stunning-video-resume-4-top-tools-and-free-resources/"><u>Create a Stunning Video Resume 4 Top Tools and Free Resources</u></a></li>
 </ul></div>
 
+

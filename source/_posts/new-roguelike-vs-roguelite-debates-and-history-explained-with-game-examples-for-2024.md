@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Roguelike Vs. Roguelite  Debates and History Explained With Game Examples for 2024\""
-date: 2024-05-18T12:52:58.736Z
-updated: 2024-05-19T12:52:58.736Z
+date: 2024-05-19T23:33:12.259Z
+updated: 2024-05-20T23:33:12.259Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Follow @Ollie Mattison
 <li><a href="https://sound-tweaking.techidaily.com/how-to-acquire-authentic-rumbles-sighs-and-gaseous-effects-audio-files/"><u>How to Acquire Authentic Rumbles, Sighs, and Gaseous Effects Audio Files</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-nokia-c210-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Nokia C210 to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
+
 

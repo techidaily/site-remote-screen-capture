@@ -480,3 +480,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-g22-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for G22</u></a></li>
 </ul></div>
 
+

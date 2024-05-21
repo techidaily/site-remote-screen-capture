@@ -498,3 +498,4 @@ In this article, we have provided some software to record the video from the web
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-infinix-note-30-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Infinix Note 30 Phone that is Locked?</u></a></li>
 </ul></div>
 
+

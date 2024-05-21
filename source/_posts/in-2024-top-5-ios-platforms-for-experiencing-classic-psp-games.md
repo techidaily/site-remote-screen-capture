@@ -393,3 +393,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-motion-blur-photo-with-gimp-step-by-step-guide/"><u>2024 Approved Motion Blur Photo With GIMP Step-By-Step Guide</u></a></li>
 </ul></div>
 
+

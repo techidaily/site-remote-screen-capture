@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Exploring the Merits of OBS Studio & Fraps for Recording Screens"
-date: 2024-05-18T12:57:29.292Z
-updated: 2024-05-19T12:57:29.292Z
+date: 2024-05-19T23:33:25.530Z
+updated: 2024-05-20T23:33:25.530Z
 tags: 
   - screen-recording
   - ai video
@@ -238,4 +238,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 11 | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-editing-videos-on-mac-os-x-yosemite-a-beginners-guide/"><u>Updated 2024 Approved Editing Videos on Mac OS X Yosemite A Beginners Guide</u></a></li>
 </ul></div>
+
 

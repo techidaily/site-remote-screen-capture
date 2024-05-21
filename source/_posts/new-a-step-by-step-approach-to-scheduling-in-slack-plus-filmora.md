@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Step-by-Step Approach to Scheduling in Slack + Filmora\""
-date: 2024-05-18T12:52:47.348Z
-updated: 2024-05-19T12:52:47.348Z
+date: 2024-05-19T23:33:11.790Z
+updated: 2024-05-20T23:33:11.790Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>Updated 2024 Approved How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-realme-narzo-60-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme Narzo 60 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

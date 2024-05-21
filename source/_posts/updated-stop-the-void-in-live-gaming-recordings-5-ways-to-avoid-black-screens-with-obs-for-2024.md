@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Stop the Void in Live Gaming Recordings  5 Ways to Avoid Black Screens with OBS for 2024\""
-date: 2024-05-18T13:11:34.695Z
-updated: 2024-05-19T13:11:34.695Z
+date: 2024-05-19T23:34:05.524Z
+updated: 2024-05-20T23:34:05.524Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-make-your-own-invitation-videos-top-10-free-tools/"><u>New In 2024, Make Your Own Invitation Videos Top 10 Free Tools</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/harnessing-ai-for-audio-to-text-conversion-in-the-new-decade/"><u>Harnessing AI for Audio to Text Conversion in the New Decade</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Adding Panoramic Movement  A Camtasa Guide to Ken Burns for 2024\""
-date: 2024-05-18T13:12:49.814Z
-updated: 2024-05-19T13:12:49.814Z
+date: 2024-05-19T23:34:09.189Z
+updated: 2024-05-20T23:34:09.189Z
 tags: 
   - screen-recording
   - ai video
@@ -369,4 +369,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/new-transform-your-photos-into-captivating-videos-on-mac-os-for-2024/"><u>New Transform Your Photos Into Captivating Videos on Mac OS for 2024</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/2024-approved-top-windows-10-audio-engineer/"><u>2024 Approved Top Windows 10 Audio Engineer</u></a></li>
 </ul></div>
+
 

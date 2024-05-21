@@ -471,3 +471,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/new-text-reveal-animation-easy-masking-filmora/"><u>New TEXT REVEAL Animation | Easy Masking Filmora</u></a></li>
 </ul></div>
 
+

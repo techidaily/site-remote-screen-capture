@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Advanced Techniques  Developing Elapsed Time Features in OBS Software\""
-date: 2024-05-18T12:54:47.224Z
-updated: 2024-05-19T12:54:47.224Z
+date: 2024-05-19T23:33:17.132Z
+updated: 2024-05-20T23:33:17.132Z
 tags: 
   - screen-recording
   - ai video
@@ -313,4 +313,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Realme C33 2023 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-huawei-nova-y71-device-sim-by-drfone-android/"><u>Easily Unlock Your Huawei Nova Y71 Device SIM</u></a></li>
 </ul></div>
+
 

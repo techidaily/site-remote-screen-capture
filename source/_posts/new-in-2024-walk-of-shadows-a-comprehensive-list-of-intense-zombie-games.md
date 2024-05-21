@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Walk of Shadows  A Comprehensive List of Intense Zombie Games\""
-date: 2024-05-18T12:53:16.259Z
-updated: 2024-05-19T12:53:16.259Z
+date: 2024-05-19T23:33:13.031Z
+updated: 2024-05-20T23:33:13.031Z
 tags: 
   - screen-recording
   - ai video
@@ -338,4 +338,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://audio-editing.techidaily.com/updated-pioneering-audio-visual-integration-generating-waveforms-and-introducing-dynamic-animations-with-premiere-pro-for-2024/"><u>Updated Pioneering Audio-Visual Integration Generating Waveforms & Introducing Dynamic Animations with Premiere Pro for 2024</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-2024-approved-how-to-record-sound-on-mac-5-useful-tips-for-you/"><u>Updated 2024 Approved How to Record Sound on Mac? 5 Useful Tips for You</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Uniting OBS and Zoom  A Compreehensive Video Guide for 2024\""
-date: 2024-05-18T13:05:17.452Z
-updated: 2024-05-19T13:05:17.452Z
+date: 2024-05-19T23:33:47.307Z
+updated: 2024-05-20T23:33:47.307Z
 tags: 
   - screen-recording
   - ai video
@@ -412,4 +412,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y36-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y36 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Stopping Auto-Capture in Apple's Recorder\""
-date: 2024-05-18T12:46:28.638Z
-updated: 2024-05-19T12:46:28.638Z
+date: 2024-05-19T23:32:54.052Z
+updated: 2024-05-20T23:32:54.052Z
 tags: 
   - screen-recording
   - ai video
@@ -455,4 +455,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-11-pro-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 11 Pro? Complete Guide</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/2024-approved-how-to-easily-use-korean-to-english-video-translators/"><u>2024 Approved How To Easily Use Korean to English Video Translators</u></a></li>
 </ul></div>
+
 

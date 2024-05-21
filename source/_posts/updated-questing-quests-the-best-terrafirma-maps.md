@@ -532,3 +532,4 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2003-stellar-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2003 | Stellar</u></a></li>
 </ul></div>
 
+

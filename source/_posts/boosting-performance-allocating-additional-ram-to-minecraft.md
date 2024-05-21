@@ -1,7 +1,7 @@
 ---
 title: "\"Boosting Performance  Allocating Additional RAM to Minecraft\""
-date: 2024-05-18T13:07:38.135Z
-updated: 2024-05-19T13:07:38.135Z
+date: 2024-05-19T23:33:53.599Z
+updated: 2024-05-20T23:33:53.599Z
 tags: 
   - screen-recording
   - ai video
@@ -597,4 +597,5 @@ Follow @Ollie Mattison
 <li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-6-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 6 Plus Prevention & Solution | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-f23-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo F23 5G to New Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Silence Issue  Fixing Audio Absence in OBS\""
-date: 2024-05-18T13:02:17.918Z
-updated: 2024-05-19T13:02:17.918Z
+date: 2024-05-19T23:33:38.785Z
+updated: 2024-05-20T23:33:38.785Z
 tags: 
   - screen-recording
   - ai video
@@ -583,4 +583,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://sound-tweaking.techidaily.com/the-ultimate-list-10-prime-web-destinations-for-high-quality-wallpapers-and-background-videos/"><u>The Ultimate List 10 Prime Web Destinations for High-Quality Wallpapers and Background Videos</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-unveiling-the-undiscovered-essence-of-jazz-a-comprehensive-overview/"><u>Updated Unveiling the Undiscovered Essence of Jazz A Comprehensive Overview</u></a></li>
 </ul></div>
+
 

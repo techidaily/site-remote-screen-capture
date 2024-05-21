@@ -1,7 +1,7 @@
 ---
 title: "\"Nightscape Notables  Tips for Capturing Starlit Portraits\""
-date: 2024-05-18T12:53:18.143Z
-updated: 2024-05-19T12:53:18.143Z
+date: 2024-05-19T23:33:13.151Z
+updated: 2024-05-20T23:33:13.151Z
 tags: 
   - screen-recording
   - ai video
@@ -168,4 +168,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://audio-editing.techidaily.com/new-top-rated-no-cost-vocal-transformer-guide-and-professional-audio-sculpting-with-filmora-tutorials/"><u>New Top-Rated No-Cost Vocal Transformer Guide and Professional Audio Sculpting with Filmora Tutorials</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/from-boring-to-brilliant-best-apps-for-whatsapp-status-videos/"><u>From Boring to Brilliant Best Apps for WhatsApp Status Videos</u></a></li>
 </ul></div>
+
 

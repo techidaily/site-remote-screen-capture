@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Skype Groups  Setting Up Windows/Mac Conversations for 2024\""
-date: 2024-05-18T13:04:36.758Z
-updated: 2024-05-19T13:04:36.758Z
+date: 2024-05-19T23:33:45.563Z
+updated: 2024-05-20T23:33:45.563Z
 tags: 
   - screen-recording
   - ai video
@@ -720,4 +720,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-brighten-a-video-in-windows-10-step-by-step-guide/"><u>Updated How to Brighten a Video in Windows 10 | Step-By-Step Guide</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-rid-of-camera-shake-top-free-video-stabilizers-for-smooth-footage/"><u>New 2024 Approved Get Rid of Camera Shake Top Free Video Stabilizers for Smooth Footage</u></a></li>
 </ul></div>
+
 

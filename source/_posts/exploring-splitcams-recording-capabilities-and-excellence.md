@@ -239,3 +239,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f14-5g-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy F14 5G has native MOV support?</u></a></li>
 </ul></div>
 
+

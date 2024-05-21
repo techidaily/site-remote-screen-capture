@@ -279,3 +279,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Samsung Galaxy S23 Tactical Edition</u></a></li>
 </ul></div>
 
+

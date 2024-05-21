@@ -1,7 +1,7 @@
 ---
 title: "Using OBS with Zoom [The Easiest Steps]"
-date: 2024-05-18T12:58:43.860Z
-updated: 2024-05-19T12:58:43.860Z
+date: 2024-05-19T23:33:29.210Z
+updated: 2024-05-20T23:33:29.210Z
 tags: 
   - screen-recording
   - ai video
@@ -433,4 +433,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-magic-6-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor Magic 6 Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X Passcode without iTunes without Knowing Passcode?</u></a></li>
 </ul></div>
+
 

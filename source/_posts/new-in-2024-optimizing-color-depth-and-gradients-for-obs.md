@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Optimizing Color Depth and Gradients for OBS"
-date: 2024-05-18T13:09:46.108Z
-updated: 2024-05-19T13:09:46.108Z
+date: 2024-05-19T23:34:00.605Z
+updated: 2024-05-20T23:34:00.605Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-x9b-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor X9b to iPad | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-featured-list-of-best-sounding-pop-melodies-and-lyrics-for-video-production-for-2024/"><u>Updated Featured List of Best-Sounding Pop Melodies and Lyrics for Video Production for 2024</u></a></li>
 </ul></div>
+
 

@@ -425,3 +425,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-v30-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V30 Pro to Protect Your Individual Information</u></a></li>
 </ul></div>
 
+

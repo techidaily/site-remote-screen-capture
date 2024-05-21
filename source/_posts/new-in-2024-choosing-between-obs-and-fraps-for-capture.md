@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Choosing Between OBS and Fraps for Capture"
-date: 2024-05-18T12:54:52.361Z
-updated: 2024-05-19T12:54:52.361Z
+date: 2024-05-19T23:33:17.332Z
+updated: 2024-05-20T23:33:17.332Z
 tags: 
   - screen-recording
   - ai video
@@ -253,4 +253,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-video-illumination-software/"><u>New 2024 Approved Top Video Illumination Software</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-x100-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo X100 Pro.</u></a></li>
 </ul></div>
+
 

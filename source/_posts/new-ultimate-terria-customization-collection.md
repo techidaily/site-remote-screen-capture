@@ -808,3 +808,4 @@ Follow @Shanoon Cox
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-zte-axon-40-lite-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your ZTE Axon 40 Lite Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

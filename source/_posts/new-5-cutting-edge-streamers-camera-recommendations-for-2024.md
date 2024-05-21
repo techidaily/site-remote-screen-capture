@@ -764,3 +764,4 @@ Follow @Max Wales
 <li><a href="https://fix-guide.techidaily.com/itel-a60s-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A60s Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 
+

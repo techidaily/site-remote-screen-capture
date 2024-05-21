@@ -587,3 +587,4 @@ Follow @Max Wales
 <li><a href="https://voice-adjusting.techidaily.com/perfecting-audio-balance-the-guide-to-volume-control-in-audacity/"><u>Perfecting Audio Balance The Guide to Volume Control in Audacity</u></a></li>
 </ul></div>
 
+

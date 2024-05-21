@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Methods for Amending Silent OBS Recordings"
-date: 2024-05-18T12:59:01.123Z
-updated: 2024-05-19T12:59:01.123Z
+date: 2024-05-19T23:33:29.906Z
+updated: 2024-05-20T23:33:29.906Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone SE | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/in-2024-sync-up-5-essential-apps-for-making-lip-sync-videos/"><u>In 2024, Sync Up! 5 Essential Apps for Making Lip Sync Videos</u></a></li>
 </ul></div>
+
 

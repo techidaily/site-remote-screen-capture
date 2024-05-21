@@ -345,3 +345,4 @@ There are many different types of game recording software for Windows available,
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-samsung-galaxy-a15-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Samsung Galaxy A15 5G?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Cutting Down High-Bitrate OBS Streams\""
-date: 2024-05-18T13:07:08.252Z
-updated: 2024-05-19T13:07:08.252Z
+date: 2024-05-19T23:33:52.385Z
+updated: 2024-05-20T23:33:52.385Z
 tags: 
   - screen-recording
   - ai video
@@ -273,4 +273,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-macvideo-editor/"><u>New MacVideo Editor</u></a></li>
 </ul></div>
+
 

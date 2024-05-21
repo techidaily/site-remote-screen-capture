@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Unveiling the Secrets of Dark Sky Photography"
-date: 2024-05-18T13:12:06.082Z
-updated: 2024-05-19T13:12:06.082Z
+date: 2024-05-19T23:34:06.867Z
+updated: 2024-05-20T23:34:06.867Z
 tags: 
   - screen-recording
   - ai video
@@ -187,4 +187,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://audio-editing.techidaily.com/2024-approved-integrating-dialogue-and-effects-advanced-audio-editing-with-premiere-pro/"><u>2024 Approved Integrating Dialogue & Effects Advanced Audio Editing with Premiere Pro</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-12-mini-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From Apple iPhone 12 mini?</u></a></li>
 </ul></div>
+
 

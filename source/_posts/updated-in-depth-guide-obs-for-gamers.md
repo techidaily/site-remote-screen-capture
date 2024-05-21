@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In-Depth Guide  OBS for Gamers\""
-date: 2024-05-18T13:02:43.798Z
-updated: 2024-05-19T13:02:43.798Z
+date: 2024-05-19T23:33:40.147Z
+updated: 2024-05-20T23:33:40.147Z
 tags: 
   - screen-recording
   - ai video
@@ -391,4 +391,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-11-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone 11</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel A70 Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Countdown Configuration Guide for OBS Enthusiasts"
-date: 2024-05-18T13:04:16.631Z
-updated: 2024-05-19T13:04:16.631Z
+date: 2024-05-19T23:33:44.638Z
+updated: 2024-05-20T23:33:44.638Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-convert-video-to-image-a-step-by-step-guide-with-10-best-tools/"><u>Updated 2024 Approved Convert Video to Image A Step-by-Step Guide with 10 Best Tools</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 14 | Dr.fone</u></a></li>
 </ul></div>
+
 

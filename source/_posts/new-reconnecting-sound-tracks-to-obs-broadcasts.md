@@ -1,7 +1,7 @@
 ---
 title: "[New] Reconnecting Sound Tracks to OBS Broadcasts"
-date: 2024-05-18T13:10:40.191Z
-updated: 2024-05-19T13:10:40.191Z
+date: 2024-05-19T23:34:02.960Z
+updated: 2024-05-20T23:34:02.960Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 15 Plus | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia Device</u></a></li>
 </ul></div>
+
 

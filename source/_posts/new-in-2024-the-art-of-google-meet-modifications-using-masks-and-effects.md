@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, The Art of Google Meet Modifications  Using Masks & Effects\""
-date: 2024-05-18T12:58:55.184Z
-updated: 2024-05-19T12:58:55.184Z
+date: 2024-05-19T23:33:29.696Z
+updated: 2024-05-20T23:33:29.696Z
 tags: 
   - screen-recording
   - ai video
@@ -628,4 +628,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-tools.techidaily.com/updated-streamline-your-workflow-best-light-video-editors-for-2024/"><u>Updated Streamline Your Workflow Best Light Video Editors for 2024</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-x9a-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor X9a Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

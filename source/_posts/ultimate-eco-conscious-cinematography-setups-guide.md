@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Eco-Conscious Cinematography Setups Guide\""
-date: 2024-05-18T12:56:59.258Z
-updated: 2024-05-19T12:56:59.258Z
+date: 2024-05-19T23:33:24.309Z
+updated: 2024-05-20T23:33:24.309Z
 tags: 
   - screen-recording
   - ai video
@@ -436,4 +436,5 @@ Attracting the attention of a viewer always necessitates the use of visual eleme
 <li><a href="https://audio-editing.techidaily.com/new-audio-integration-in-microsoft-powerpoint-comprehensive-tips-for-windows-and-mac-enthusiasts-for-2024/"><u>New Audio Integration in Microsoft PowerPoint Comprehensive Tips for Windows and Mac Enthusiasts for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/learn-more-about-the-video-editing-interface-of-wondershare-filmora-for-2024/"><u>Learn More About the Video Editing Interface of Wondershare Filmora for 2024</u></a></li>
 </ul></div>
+
 

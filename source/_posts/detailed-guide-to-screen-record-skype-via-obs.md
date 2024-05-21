@@ -1,7 +1,7 @@
 ---
 title: "Detailed Guide to Screen Record Skype via OBS"
-date: 2024-05-18T13:03:48.378Z
-updated: 2024-05-19T13:03:48.378Z
+date: 2024-05-19T23:33:43.048Z
+updated: 2024-05-20T23:33:43.048Z
 tags: 
   - screen-recording
   - ai video
@@ -373,4 +373,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-s24plus-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy S24+ Easily?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Agni 2 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

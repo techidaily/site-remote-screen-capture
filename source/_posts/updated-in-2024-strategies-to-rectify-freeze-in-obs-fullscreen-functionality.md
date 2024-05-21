@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Strategies to Rectify Freeze in OBS Fullscreen Functionality"
-date: 2024-05-18T12:50:16.220Z
-updated: 2024-05-19T12:50:16.220Z
+date: 2024-05-19T23:33:04.896Z
+updated: 2024-05-20T23:33:04.896Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://smart-video-editing.techidaily.com/new-video-editing-platforms-with-professional-soundtracks-2024-review/"><u>New Video Editing Platforms with Professional Soundtracks (2024 Review)</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-11-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme 11 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

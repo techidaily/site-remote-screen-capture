@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Incorporating OBS  Setting Up A Countdown Scheduler\""
-date: 2024-05-18T12:50:21.605Z
-updated: 2024-05-19T12:50:21.605Z
+date: 2024-05-19T23:33:05.138Z
+updated: 2024-05-20T23:33:05.138Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Motorola Moto G 5G (2023)</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-x-jump-cuts-masterclass-learn-from-the-pros-for-2024/"><u>New Final Cut Pro X Jump Cuts Masterclass Learn From the Pros for 2024</u></a></li>
 </ul></div>
+
 

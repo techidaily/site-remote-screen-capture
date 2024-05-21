@@ -501,3 +501,4 @@ TinyTake is not difficult to utilize screen catch and recorder, which you can us
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

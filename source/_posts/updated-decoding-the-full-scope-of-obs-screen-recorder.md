@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Decoding the Full Scope of OBS Screen Recorder"
-date: 2024-05-18T13:01:55.066Z
-updated: 2024-05-19T13:01:55.066Z
+date: 2024-05-19T23:33:37.714Z
+updated: 2024-05-20T23:33:37.714Z
 tags: 
   - screen-recording
   - ai video
@@ -512,4 +512,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-add-text-in-adobe-rush/"><u>2024 Approved How to Add Text in Adobe Rush</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s23-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S23 Ultra to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

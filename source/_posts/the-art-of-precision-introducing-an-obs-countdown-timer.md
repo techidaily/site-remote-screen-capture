@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Precision  Introducing an OBS Countdown Timer\""
-date: 2024-05-18T13:05:56.345Z
-updated: 2024-05-19T13:05:56.345Z
+date: 2024-05-19T23:33:49.227Z
+updated: 2024-05-20T23:33:49.227Z
 tags: 
   - screen-recording
   - ai video
@@ -284,4 +284,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-sony-xperia-10-v-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Sony Xperia 10 V FRP In 3 Different Ways</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-13-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 13 Pro</u></a></li>
 </ul></div>
+
 

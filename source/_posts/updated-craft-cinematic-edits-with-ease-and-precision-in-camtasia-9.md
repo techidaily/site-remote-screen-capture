@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Craft Cinematic Edits with Ease and Precision in Camtasia 9"
-date: 2024-05-18T12:46:25.686Z
-updated: 2024-05-19T12:46:25.686Z
+date: 2024-05-19T23:32:53.919Z
+updated: 2024-05-20T23:32:53.919Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-honor-v-purse-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Honor V Purse</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-cutting-it-down-a-step-by-step-guide-to-trimming-videos-on-kapwing/"><u>New 2024 Approved Cutting It Down A Step-by-Step Guide to Trimming Videos on Kapwing</u></a></li>
 </ul></div>
+
 

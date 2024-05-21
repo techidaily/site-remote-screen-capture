@@ -1,7 +1,7 @@
 ---
 title: "[New] Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones"
-date: 2024-05-18T13:10:55.817Z
-updated: 2024-05-19T13:10:55.817Z
+date: 2024-05-19T23:34:03.604Z
+updated: 2024-05-20T23:34:03.604Z
 tags: 
   - screen-recording
   - ai video
@@ -408,4 +408,5 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/new-converting-audacity-projects-to-mp3-format/"><u>New Converting Audacity Projects to MP3 Format</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/new-subtle-audio-degradation-features-in-adobe-rush-new-version-2023/"><u>New Subtle Audio Degradation Features in Adobe Rush (New Version, 2023)</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS High Encoding - How to Fix for 2024\""
-date: 2024-05-18T12:49:13.395Z
-updated: 2024-05-19T12:49:13.395Z
+date: 2024-05-19T23:33:01.723Z
+updated: 2024-05-20T23:33:01.723Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ai-editing-video.techidaily.com/updated-6-free-tools-to-radial-blur-photos-online/"><u>Updated 6 Free Tools To Radial Blur Photos Online</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-phantom-v-flip-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Phantom V Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

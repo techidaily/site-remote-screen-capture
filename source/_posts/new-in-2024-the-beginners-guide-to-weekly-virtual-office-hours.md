@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Beginner's Guide to Weekly Virtual Office Hours"
-date: 2024-05-18T13:08:05.985Z
-updated: 2024-05-19T13:08:05.985Z
+date: 2024-05-19T23:33:55.211Z
+updated: 2024-05-20T23:33:55.211Z
 tags: 
   - screen-recording
   - ai video
@@ -634,4 +634,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-9-best-podcast-microphones-for-all-levels/"><u>New In 2024, 9 Best Podcast Microphones for All Levels</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-low-budget-film-editing-software/"><u>New 2024 Approved The Ultimate Guide to Low-Budget Film Editing Software</u></a></li>
 </ul></div>
+
 

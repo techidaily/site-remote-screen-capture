@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Syncing Muted Voices with OBS Streams\""
-date: 2024-05-18T12:50:01.141Z
-updated: 2024-05-19T12:50:01.141Z
+date: 2024-05-19T23:33:04.245Z
+updated: 2024-05-20T23:33:04.245Z
 tags: 
   - screen-recording
   - ai video
@@ -562,4 +562,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-editing-video.techidaily.com/guide-to-create-freeze-frame-clone-effect-video-for-2024/"><u>Guide to Create Freeze Frame Clone Effect Video for 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-directory-of-free-non-copyrighted-background-song-sources/"><u>Updated In 2024, Directory of Free, Non-Copyrighted Background Song Sources</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] IPhone Screen Capture  Simplified Guide\""
-date: 2024-05-18T12:49:06.113Z
-updated: 2024-05-19T12:49:06.113Z
+date: 2024-05-19T23:33:01.403Z
+updated: 2024-05-20T23:33:01.403Z
 tags: 
   - screen-recording
   - ai video
@@ -530,4 +530,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-creator.techidaily.com/updated-mac-video-creator-effortless-video-production-for-beginners-and-pros/"><u>Updated Mac Video Creator Effortless Video Production for Beginners and Pros</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27 5G Phone without Google Account?</u></a></li>
 </ul></div>
+
 

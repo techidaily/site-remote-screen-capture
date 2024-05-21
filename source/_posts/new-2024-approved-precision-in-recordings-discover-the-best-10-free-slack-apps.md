@@ -485,3 +485,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-driven-video-production.techidaily.com/unlock-cinematic-storytelling-using-ken-burns-effect-in-final-cut-pro/"><u>Unlock Cinematic Storytelling Using Ken Burns Effect in Final Cut Pro</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Best Extensions to Capture Firefox\""
-date: 2024-05-18T12:54:52.631Z
-updated: 2024-05-19T12:54:52.631Z
+date: 2024-05-19T23:33:17.338Z
+updated: 2024-05-20T23:33:17.338Z
 tags: 
   - screen-recording
   - ai video
@@ -675,4 +675,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oneplus-11r-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from OnePlus 11R to New Phone | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-how-to-install-videoleap-video-editor-on-your-macbook/"><u>New 2024 Approved How to Install Videoleap Video Editor on Your MacBook</u></a></li>
 </ul></div>
+
 

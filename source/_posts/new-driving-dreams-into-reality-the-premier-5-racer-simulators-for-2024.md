@@ -494,3 +494,4 @@ For macOS 10.12 or later
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-magic-6-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor Magic 6 to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
 
+

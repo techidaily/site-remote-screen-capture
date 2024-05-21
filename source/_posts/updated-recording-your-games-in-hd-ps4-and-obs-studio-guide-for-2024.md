@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Recording Your Games in HD  PS4 & OBS Studio Guide for 2024\""
-date: 2024-05-18T12:58:54.646Z
-updated: 2024-05-19T12:58:54.646Z
+date: 2024-05-19T23:33:29.680Z
+updated: 2024-05-20T23:33:29.680Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-smart-8-hd-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Smart 8 HD to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo V30 | Dr.fone</u></a></li>
 </ul></div>
+
 

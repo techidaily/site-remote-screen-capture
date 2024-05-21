@@ -757,3 +757,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-the-ultimate-guide-to-calculating-aspect-ratios-for-photos/"><u>2024 Approved The Ultimate Guide to Calculating Aspect Ratios for Photos</u></a></li>
 </ul></div>
 
+

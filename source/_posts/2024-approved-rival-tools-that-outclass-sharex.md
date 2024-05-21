@@ -275,3 +275,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://sound-optimizing.techidaily.com/mastering-live-sound-techniques-for-capturing-real-time-audio-broadcasts/"><u>Mastering Live Sound Techniques for Capturing Real-Time Audio Broadcasts</u></a></li>
 </ul></div>
 
+

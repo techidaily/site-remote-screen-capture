@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Top 8 Choices  Affordable, Open Source Videoconferencing Apps\""
-date: 2024-05-18T12:51:58.283Z
-updated: 2024-05-19T12:51:58.283Z
+date: 2024-05-19T23:33:09.740Z
+updated: 2024-05-20T23:33:09.740Z
 tags: 
   - screen-recording
   - ai video
@@ -713,4 +713,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>Updated 2024 Approved Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/cost-free-audio-enhancement-in-photos-for-android-and-windows-users/"><u>Cost-Free Audio Enhancement in Photos for Android and Windows Users</u></a></li>
 </ul></div>
+
 

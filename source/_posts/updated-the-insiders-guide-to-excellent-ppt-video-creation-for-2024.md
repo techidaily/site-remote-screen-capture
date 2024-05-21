@@ -394,3 +394,4 @@ Directly recording a PowerPoint presentation is simple, although not all program
 <li><a href="https://ai-video-editing.techidaily.com/how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
 </ul></div>
 
+

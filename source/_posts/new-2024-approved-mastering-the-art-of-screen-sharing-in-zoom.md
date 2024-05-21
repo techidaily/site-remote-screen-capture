@@ -585,3 +585,4 @@ Follow @Richard Bennett
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-nokia-xr21-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nokia XR21? Here Are Real Fixes | Dr.fone</u></a></li>
 </ul></div>
 
+

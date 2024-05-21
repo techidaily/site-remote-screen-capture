@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Illuminate Your Gaming Recordings  Avoid Black Screens with OBS\""
-date: 2024-05-18T13:02:59.951Z
-updated: 2024-05-19T13:02:59.951Z
+date: 2024-05-19T23:33:40.922Z
+updated: 2024-05-20T23:33:40.922Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://video-content-creator.techidaily.com/updated-master-video-storytelling-with-adobe-premiere-pro-on-mac-for-2024/"><u>Updated Master Video Storytelling with Adobe Premiere Pro on Mac for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-a1x-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo A1x 5G to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

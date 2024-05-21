@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Examining Screen Capture Efficacy  OBS Studio vs Fraps\""
-date: 2024-05-18T13:07:04.732Z
-updated: 2024-05-19T13:07:04.732Z
+date: 2024-05-19T23:33:52.218Z
+updated: 2024-05-20T23:33:52.218Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-m14-4g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy M14 4G Phone Network-Ready</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-x9a-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor X9a FRP Bypass Instantly</u></a></li>
 </ul></div>
+
 

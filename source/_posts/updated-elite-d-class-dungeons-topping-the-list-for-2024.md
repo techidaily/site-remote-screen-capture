@@ -790,3 +790,4 @@ Follow @Richard Bennett
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Hot 40 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Banishing the Darkness  Tips for a Bright Screen on OBS for 2024\""
-date: 2024-05-18T13:03:49.724Z
-updated: 2024-05-19T13:03:49.724Z
+date: 2024-05-19T23:33:43.118Z
+updated: 2024-05-20T23:33:43.118Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-redmi-note-13-proplus-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi Redmi Note 13 Pro+ 5G?</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-bring-your-photos-to-life-a-video-creation-tutorial/"><u>In 2024, Bring Your Photos to Life A Video Creation Tutorial</u></a></li>
 </ul></div>
+
 

@@ -400,3 +400,4 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-redmi-k70e-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi Redmi K70E Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -356,3 +356,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-xcover-6-pro-tactical-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy XCover 6 Pro Tactical Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
 </ul></div>
 
+

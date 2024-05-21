@@ -494,3 +494,4 @@ Follow @Max Wales
 <li><a href="https://blog-min.techidaily.com/how-to-restore-previous-version-of-excel-2016-file-stellar-by-stellar-guide/"><u>How to Restore Previous Version of Excel 2016 File? | Stellar</u></a></li>
 </ul></div>
 
+

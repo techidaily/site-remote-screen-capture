@@ -606,3 +606,4 @@ Follow @Ollie Mattison
 <li><a href="https://smart-video-editing.techidaily.com/new-pixel-perfect-calculating-the-ideal-screen-ratio/"><u>New Pixel Perfect Calculating the Ideal Screen Ratio</u></a></li>
 </ul></div>
 
+

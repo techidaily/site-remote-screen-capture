@@ -592,3 +592,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-m34-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy M34?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Reconnecting Sound Tracks to OBS Broadcasts"
-date: 2024-05-18T13:07:10.682Z
-updated: 2024-05-19T13:07:10.682Z
+date: 2024-05-19T23:33:52.491Z
+updated: 2024-05-20T23:33:52.491Z
 tags: 
   - screen-recording
   - ai video
@@ -584,4 +584,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-samsung-galaxy-s24plus-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Samsung Galaxy S24+</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/breaking-down-mp4s-removing-sound-tracks-and-silence-for-2024/"><u>Breaking Down MP4s Removing Sound Tracks and Silence for 2024</u></a></li>
 </ul></div>
+
 

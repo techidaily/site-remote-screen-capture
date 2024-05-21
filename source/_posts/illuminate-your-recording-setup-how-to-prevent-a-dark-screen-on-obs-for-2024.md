@@ -1,7 +1,7 @@
 ---
 title: "\"Illuminate Your Recording Setup  How to Prevent a Dark Screen on OBS for 2024\""
-date: 2024-05-18T12:57:16.844Z
-updated: 2024-05-19T12:57:16.844Z
+date: 2024-05-19T23:33:25.076Z
+updated: 2024-05-20T23:33:25.076Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y100a-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y100A</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-a56s-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo A56s 5G for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

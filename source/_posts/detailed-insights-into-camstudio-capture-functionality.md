@@ -1,7 +1,7 @@
 ---
 title: "Detailed Insights Into CamStudio Capture Functionality"
-date: 2024-05-18T13:04:41.382Z
-updated: 2024-05-19T13:04:41.382Z
+date: 2024-05-19T23:33:45.715Z
+updated: 2024-05-20T23:33:45.715Z
 tags: 
   - screen-recording
   - ai video
@@ -219,4 +219,5 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-find-x7-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Find X7? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

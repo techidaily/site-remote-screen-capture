@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Hands-On Approach to iOS Audio Capture\""
-date: 2024-05-18T12:51:05.873Z
-updated: 2024-05-19T12:51:05.873Z
+date: 2024-05-19T23:33:07.105Z
+updated: 2024-05-20T23:33:07.105Z
 tags: 
   - screen-recording
   - ai video
@@ -494,4 +494,5 @@ There is no limit of recording time when it comes to recording a voice memo or n
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-in-this-article-you-will-learn-how-to-record-creative-cinematic-videos-using-a-smartphone-and-edit-the-video-with-wondershare-filmora/"><u>2024 Approved In This Article, You Will Learn How to Record Creative Cinematic Videos Using a Smartphone and Edit the Video with Wondershare Filmora</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-redmi-13c-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Redmi 13C 5G</u></a></li>
 </ul></div>
+
 

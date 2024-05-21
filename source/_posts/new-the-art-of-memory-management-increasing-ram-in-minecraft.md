@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Art of Memory Management  Increasing RAM in Minecraft\""
-date: 2024-05-18T13:08:50.215Z
-updated: 2024-05-19T13:08:50.215Z
+date: 2024-05-19T23:33:57.865Z
+updated: 2024-05-20T23:33:57.865Z
 tags: 
   - screen-recording
   - ai video
@@ -618,4 +618,5 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-it-poco-x5-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Poco X5 Pro Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Vivo X Fold 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

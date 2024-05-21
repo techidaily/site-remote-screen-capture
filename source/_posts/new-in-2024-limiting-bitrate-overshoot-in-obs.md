@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Limiting Bitrate Overshoot in OBS"
-date: 2024-05-18T13:08:03.283Z
-updated: 2024-05-19T13:08:03.283Z
+date: 2024-05-19T23:33:55.061Z
+updated: 2024-05-20T23:33:55.061Z
 tags: 
   - screen-recording
   - ai video
@@ -260,4 +260,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-oneplus-12-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General OnePlus 12 Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x9b-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X9b Device</u></a></li>
 </ul></div>
+
 

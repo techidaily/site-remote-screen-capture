@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Ken Burns Effect Techniques for Camtasia Users\""
-date: 2024-05-18T13:06:31.642Z
-updated: 2024-05-19T13:06:31.642Z
+date: 2024-05-19T23:33:50.729Z
+updated: 2024-05-20T23:33:50.729Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Follow @Max Wales
 <li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 Pro After Forgetting my PIN Code?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-realme-11-proplus-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme 11 Pro+ FRP</u></a></li>
 </ul></div>
+
 

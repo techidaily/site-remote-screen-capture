@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Latest Tricks for iOS Screenshots & Recording"
-date: 2024-05-18T12:46:26.221Z
-updated: 2024-05-19T12:46:26.221Z
+date: 2024-05-19T23:32:53.957Z
+updated: 2024-05-20T23:32:53.957Z
 tags: 
   - screen-recording
   - ai video
@@ -466,4 +466,5 @@ Follow @Shanoon Cox
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y78plus-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y78+ Location | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/updated-sony-vegas-too-expensive-affordable-alternatives-for-windows/"><u>Updated Sony Vegas Too Expensive? Affordable Alternatives for Windows</u></a></li>
 </ul></div>
+
 

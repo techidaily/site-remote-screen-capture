@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Creative Filmmaking on a Budget  Using Smartphones as Webcams\""
-date: 2024-05-18T13:05:49.366Z
-updated: 2024-05-19T13:05:49.366Z
+date: 2024-05-19T23:33:48.549Z
+updated: 2024-05-20T23:33:48.549Z
 tags: 
   - screen-recording
   - ai video
@@ -599,4 +599,5 @@ Follow @Max Wales
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme Easily?</u></a></li>
 <li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-12-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 12? 5 Tips You Must Know</u></a></li>
 </ul></div>
+
 

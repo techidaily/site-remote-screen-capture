@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Taming High-Bit Rate in OBS\""
-date: 2024-05-18T12:49:46.583Z
-updated: 2024-05-19T12:49:46.583Z
+date: 2024-05-19T23:33:03.322Z
+updated: 2024-05-20T23:33:03.322Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://video-ai-editor.techidaily.com/updated-best-free-video-editing-apps-for-android-no-watermark-required-for-2024/"><u>Updated Best Free Video Editing Apps for Android No Watermark Required for 2024</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-no-cost-solutions-top-5-free-3gp-video-rotation-tools/"><u>New 2024 Approved No-Cost Solutions Top 5 Free 3GP Video Rotation Tools</u></a></li>
 </ul></div>
+
 

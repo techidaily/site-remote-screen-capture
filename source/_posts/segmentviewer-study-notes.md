@@ -1,7 +1,7 @@
 ---
 title: "SegmentViewer Study Notes"
-date: 2024-05-18T13:01:52.887Z
-updated: 2024-05-19T13:01:52.887Z
+date: 2024-05-19T23:33:37.628Z
+updated: 2024-05-20T23:33:37.628Z
 tags: 
   - screen-recording
   - ai video
@@ -231,4 +231,5 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://ai-video-tools.techidaily.com/new-stop-motion-in-the-cloud-a-review-of-top-software-and-their-features/"><u>New Stop Motion in the Cloud A Review of Top Software and Their Features</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/most-popular-websites-offering-montage-audio-archives/"><u>Most Popular Websites Offering Montage Audio Archives</u></a></li>
 </ul></div>
+
 

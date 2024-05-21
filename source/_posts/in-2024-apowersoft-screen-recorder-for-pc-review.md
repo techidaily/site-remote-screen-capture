@@ -550,3 +550,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-y36i-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y36i Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 
+

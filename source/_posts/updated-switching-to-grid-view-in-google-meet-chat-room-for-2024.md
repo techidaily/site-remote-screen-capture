@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Switching to Grid View in Google Meet Chat Room for 2024"
-date: 2024-05-18T12:55:51.952Z
-updated: 2024-05-19T12:55:51.952Z
+date: 2024-05-19T23:33:20.830Z
+updated: 2024-05-20T23:33:20.830Z
 tags: 
   - screen-recording
   - ai video
@@ -627,4 +627,5 @@ Follow @Richard Bennett
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for OnePlus Nord N30 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/the-best-of-the-best-avchd-video-editing-software-for-2024/"><u>The Best of the Best AVCHD Video Editing Software for 2024</u></a></li>
 </ul></div>
+
 

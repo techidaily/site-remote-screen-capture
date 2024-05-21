@@ -1052,3 +1052,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-vdieo-software.techidaily.com/new-adjusting-aspect-ratio-in-final-cut-pro-tips-and-tricks-for-editors/"><u>New Adjusting Aspect Ratio in Final Cut Pro Tips and Tricks for Editors</u></a></li>
 </ul></div>
 
+

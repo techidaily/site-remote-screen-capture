@@ -306,3 +306,4 @@ There are many different types of game recording software for Windows available,
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-nubia-red-magic-8s-proplus-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 </ul></div>
 
+

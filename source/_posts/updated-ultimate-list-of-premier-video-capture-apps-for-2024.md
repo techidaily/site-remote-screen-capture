@@ -723,3 +723,4 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 12 mini?</u></a></li>
 </ul></div>
 
+

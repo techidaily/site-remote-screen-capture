@@ -1,7 +1,7 @@
 ---
 title: "\"MiniMCA Haven  Unveiling Simple Homes in Minecraft\""
-date: 2024-05-18T13:12:07.699Z
-updated: 2024-05-19T13:12:07.700Z
+date: 2024-05-19T23:34:06.945Z
+updated: 2024-05-20T23:34:06.945Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ Follow @Ollie Mattison
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-15-proipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 15 Pro/iPad/iPod</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-free-top10-best-whiteboard-animation-software-for-2024/"><u>Updated FREE Top10 Best Whiteboard Animation Software for 2024</u></a></li>
 </ul></div>
+
 

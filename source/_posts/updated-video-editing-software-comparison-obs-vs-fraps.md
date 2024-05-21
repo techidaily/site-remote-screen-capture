@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Video Editing Software Comparison  OBS vs Fraps\""
-date: 2024-05-18T13:05:31.116Z
-updated: 2024-05-19T13:05:31.116Z
+date: 2024-05-19T23:33:47.899Z
+updated: 2024-05-20T23:33:47.899Z
 tags: 
   - screen-recording
   - ai video
@@ -296,4 +296,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone XS With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

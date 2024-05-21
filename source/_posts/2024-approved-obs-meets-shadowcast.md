@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  OBS Meets ShadowCast\""
-date: 2024-05-18T12:48:32.772Z
-updated: 2024-05-19T12:48:32.772Z
+date: 2024-05-19T23:32:59.874Z
+updated: 2024-05-20T23:32:59.874Z
 tags: 
   - screen-recording
   - ai video
@@ -230,4 +230,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-add-effects-in-premiere-pro/"><u>Updated 2024 Approved How to Add Effects in Premiere Pro</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C300 | Dr.fone</u></a></li>
 </ul></div>
+
 

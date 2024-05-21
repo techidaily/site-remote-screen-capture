@@ -1,7 +1,7 @@
 ---
 title: "[New] Resolving Bandwidth Issues in High Quality OBS"
-date: 2024-05-18T12:48:34.384Z
-updated: 2024-05-19T12:48:34.384Z
+date: 2024-05-19T23:32:59.933Z
+updated: 2024-05-20T23:32:59.933Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo Y100 5G? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo A58 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

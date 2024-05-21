@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Creating Smooth Motion Flows  The Ken Burns Effect Walkthrough\""
-date: 2024-05-18T13:11:54.279Z
-updated: 2024-05-19T13:11:54.279Z
+date: 2024-05-19T23:34:06.438Z
+updated: 2024-05-20T23:34:06.438Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-12-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 12 Pro Randomly Asking for Apple ID Password</u></a></li>
 </ul></div>
+
 

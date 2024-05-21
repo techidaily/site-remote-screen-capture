@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Methods to Rectify OBS Fullscreen Crash\""
-date: 2024-05-18T12:49:12.589Z
-updated: 2024-05-19T12:49:12.589Z
+date: 2024-05-19T23:33:01.680Z
+updated: 2024-05-20T23:33:01.680Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-infinix-note-30-vip-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Infinix Note 30 VIP</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-tecno-spark-10-5g-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Tecno Spark 10 5G using Video Repair Utility?</u></a></li>
 </ul></div>
+
 

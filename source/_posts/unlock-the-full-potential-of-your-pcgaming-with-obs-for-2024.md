@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Full Potential of Your PC/Gaming with OBS for 2024"
-date: 2024-05-18T12:46:29.979Z
-updated: 2024-05-19T12:46:29.979Z
+date: 2024-05-19T23:32:54.116Z
+updated: 2024-05-20T23:32:54.116Z
 tags: 
   - screen-recording
   - ai video
@@ -396,4 +396,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-getting-started-with-hd-video-a-beginners-guide-to-pixels-and-resolution/"><u>Updated 2024 Approved Getting Started with HD Video A Beginners Guide to Pixels and Resolution</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-aspect-ratio-calculator-roundup-top-online-options/"><u>Updated Aspect Ratio Calculator Roundup Top Online Options</u></a></li>
 </ul></div>
+
 

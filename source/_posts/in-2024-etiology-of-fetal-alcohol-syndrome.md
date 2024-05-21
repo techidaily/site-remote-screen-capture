@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Etiology of Fetal Alcohol Syndrome"
-date: 2024-05-18T13:12:40.485Z
-updated: 2024-05-19T13:12:40.485Z
+date: 2024-05-19T23:34:08.462Z
+updated: 2024-05-20T23:34:08.462Z
 tags: 
   - screen-recording
   - ai video
@@ -904,4 +904,5 @@ Follow @Richard Bennett
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-navigating-audacity-setup-on-chrome-os-devices-for-beginners/"><u>In 2024, Navigating Audacity Setup on Chrome OS Devices for Beginners</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-15ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 15/iPad Without Computer | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Eliminating Frame Drops in OBS Broadcasts\""
-date: 2024-05-18T13:03:41.925Z
-updated: 2024-05-19T13:03:41.925Z
+date: 2024-05-19T23:33:42.804Z
+updated: 2024-05-20T23:33:42.804Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-editors-anthology-where-to-obtain-legal-public-domain-tunes/"><u>Updated In 2024, The Editors Anthology Where to Obtain Legal, Public Domain Tunes</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-12-pro-max-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 12 Pro Max and iPad Securely</u></a></li>
 </ul></div>
+
 

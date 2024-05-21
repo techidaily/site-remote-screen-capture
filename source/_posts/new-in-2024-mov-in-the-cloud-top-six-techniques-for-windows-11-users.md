@@ -642,3 +642,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lenovo-thinkphone-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Lenovo ThinkPhone to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
 
+

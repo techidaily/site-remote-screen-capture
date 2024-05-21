@@ -480,3 +480,4 @@ If you love to play on Steam platform and you want to record your Steam gameplay
 <li><a href="https://ai-video-editing.techidaily.com/detailed-tutorial-to-rotate-a-video-in-cyberlink-powerdirector/"><u>Detailed Tutorial to Rotate a Video in Cyberlink PowerDirector</u></a></li>
 </ul></div>
 
+

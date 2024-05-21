@@ -1,7 +1,7 @@
 ---
 title: "\"Time Trackers in Action  Using OBS for Timed Events\""
-date: 2024-05-18T12:56:43.067Z
-updated: 2024-05-19T12:56:43.067Z
+date: 2024-05-19T23:33:23.279Z
+updated: 2024-05-20T23:33:23.279Z
 tags: 
   - screen-recording
   - ai video
@@ -296,4 +296,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://howto.techidaily.com/why-does-my-motorola-moto-g13-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola Moto G13 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Lava Blaze 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

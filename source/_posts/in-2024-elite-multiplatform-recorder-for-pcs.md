@@ -389,3 +389,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-vn-video-editor-for-mac-a-comprehensive-guide-and-alternative-options/"><u>2024 Approved VN Video Editor for Mac A Comprehensive Guide and Alternative Options</u></a></li>
 </ul></div>
 
+

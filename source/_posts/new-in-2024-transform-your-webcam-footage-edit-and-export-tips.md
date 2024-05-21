@@ -496,3 +496,4 @@ Follow @Max Wales
 <li><a href="https://video-ai-editor.techidaily.com/new-social-media-design-essentials-aspect-ratios-and-image-dimensions/"><u>New Social Media Design Essentials Aspect Ratios and Image Dimensions</u></a></li>
 </ul></div>
 
+

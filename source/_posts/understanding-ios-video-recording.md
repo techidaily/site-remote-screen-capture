@@ -1,7 +1,7 @@
 ---
 title: "Understanding iOS Video Recording"
-date: 2024-05-18T13:09:19.914Z
-updated: 2024-05-19T13:09:19.914Z
+date: 2024-05-19T23:33:59.524Z
+updated: 2024-05-20T23:33:59.524Z
 tags: 
   - screen-recording
   - ai video
@@ -622,4 +622,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a23-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A23 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-f15-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy F15 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

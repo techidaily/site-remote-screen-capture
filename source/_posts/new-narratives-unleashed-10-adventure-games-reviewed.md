@@ -822,3 +822,4 @@ Follow @Richard Bennett
 <li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-samsung-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Samsung Galaxy Z Fold 5 ?</u></a></li>
 </ul></div>
 
+

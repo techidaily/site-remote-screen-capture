@@ -1,7 +1,7 @@
 ---
 title: "Archive PowerPoint Into Video Repository"
-date: 2024-05-18T12:59:57.789Z
-updated: 2024-05-19T12:59:57.789Z
+date: 2024-05-19T23:33:32.369Z
+updated: 2024-05-20T23:33:32.369Z
 tags: 
   - screen-recording
   - ai video
@@ -582,4 +582,5 @@ Follow @Max Wales
 <li><a href="https://video-ai-editor.techidaily.com/updated-vlc-slow-motion-step-by-step-guide/"><u>Updated VLC Slow Motion Step-by-Step Guide</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/exploring-androids-premier-sound-editing-tools-a-top-10-list-that-doesnt-feature-audacity-for-2024/"><u>Exploring Androids Premier Sound Editing Tools A Top-10 List that Doesnt Feature Audacity for 2024</u></a></li>
 </ul></div>
+
 

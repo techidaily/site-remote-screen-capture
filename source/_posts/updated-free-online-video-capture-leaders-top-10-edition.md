@@ -999,3 +999,4 @@ Follow @Liza Brown
 <li><a href="https://ai-video-editing.techidaily.com/do-you-want-to-create-adjustment-layers-in-final-cut-pro-this-article-will-discuss-a-simple-yet-efficient-method-to-generate-adjustment-layers-in-final-cut-/"><u>Do You Want to Create Adjustment Layers in Final Cut Pro? This Article Will Discuss a Simple yet Efficient Method to Generate Adjustment Layers in Final Cut Pro</u></a></li>
 </ul></div>
 
+

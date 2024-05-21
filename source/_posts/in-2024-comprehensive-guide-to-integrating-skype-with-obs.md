@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Comprehensive Guide to Integrating Skype with OBS"
-date: 2024-05-18T13:00:29.849Z
-updated: 2024-05-19T13:00:29.849Z
+date: 2024-05-19T23:33:33.808Z
+updated: 2024-05-20T23:33:33.808Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://video-ai-editor.techidaily.com/updated-make-movies-on-the-go-top-android-video-editor-apps/"><u>Updated Make Movies on the Go Top Android Video Editor Apps</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-tecno-spark-10c-by-fonelab-android-recover-music/"><u>The way to get back lost music from Tecno Spark 10C</u></a></li>
 </ul></div>
+
 

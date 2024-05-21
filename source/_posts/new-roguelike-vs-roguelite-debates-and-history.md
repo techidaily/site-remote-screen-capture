@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Roguelike Vs. Roguelite  Debates and History\""
-date: 2024-05-18T12:57:00.881Z
-updated: 2024-05-19T12:57:00.881Z
+date: 2024-05-19T23:33:24.378Z
+updated: 2024-05-20T23:33:24.378Z
 tags: 
   - screen-recording
   - ai video
@@ -303,4 +303,5 @@ Follow @Ollie Mattison
 <li><a href="https://audio-shaping.techidaily.com/new-in-2024-10-best-podcasting-audio-to-text-transcription-software-freeandpaid/"><u>New In 2024, 10 Best Podcasting Audio to Text Transcription Software FREE&PAID</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro Max To Other iPhone 13 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

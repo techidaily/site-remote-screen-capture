@@ -1,7 +1,7 @@
 ---
 title: "[New] Ceasing Noise During OBS Recordings"
-date: 2024-05-18T12:59:18.670Z
-updated: 2024-05-19T12:59:18.670Z
+date: 2024-05-19T23:33:30.734Z
+updated: 2024-05-20T23:33:30.734Z
 tags: 
   - screen-recording
   - ai video
@@ -555,4 +555,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-find-x6-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Find X6 | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-create-epic-reactions-the-best-video-makers-to-use/"><u>New In 2024, Create Epic Reactions The Best Video Makers to Use</u></a></li>
 </ul></div>
+
 

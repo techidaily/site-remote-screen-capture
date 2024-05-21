@@ -722,3 +722,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers on Windows 11 & 10 & 7</u></a></li>
 </ul></div>
 
+

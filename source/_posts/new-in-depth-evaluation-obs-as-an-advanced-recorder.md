@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In-Depth Evaluation  OBS as an Advanced Recorder\""
-date: 2024-05-18T13:12:10.125Z
-updated: 2024-05-19T13:12:10.125Z
+date: 2024-05-19T23:34:07.088Z
+updated: 2024-05-20T23:34:07.088Z
 tags: 
   - screen-recording
   - ai video
@@ -530,4 +530,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://animation-videos.techidaily.com/how-to-make-gif-instagram/"><u>How to Make GIF Instagram</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus Without Passcode? | Dr.fone</u></a></li>
 </ul></div>
+
 

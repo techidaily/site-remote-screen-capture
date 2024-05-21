@@ -930,3 +930,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-add-green-screen-effects-in-final-cut-pro/"><u>2024 Approved Add Green Screen Effects in Final Cut Pro</u></a></li>
 </ul></div>
 
+

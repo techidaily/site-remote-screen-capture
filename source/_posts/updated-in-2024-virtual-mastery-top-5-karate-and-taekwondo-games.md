@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Virtual Mastery  Top 5 Karate and Taekwondo Games\""
-date: 2024-05-18T12:57:13.056Z
-updated: 2024-05-19T12:57:13.056Z
+date: 2024-05-19T23:33:24.935Z
+updated: 2024-05-20T23:33:24.935Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-poco-c51-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Poco C51</u></a></li>
 </ul></div>
+
 

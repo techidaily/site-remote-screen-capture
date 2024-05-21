@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, In-Depth Instructions  Installing Countdown Clocks in OBS\""
-date: 2024-05-18T12:55:36.026Z
-updated: 2024-05-19T12:55:36.026Z
+date: 2024-05-19T23:33:20.062Z
+updated: 2024-05-20T23:33:20.062Z
 tags: 
   - screen-recording
   - ai video
@@ -302,4 +302,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oneplus-open-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on OnePlus Open Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi 13T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

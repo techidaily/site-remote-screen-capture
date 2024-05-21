@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Mastering OBS for Android Streaming"
-date: 2024-05-18T12:46:42.079Z
-updated: 2024-05-19T12:46:42.079Z
+date: 2024-05-19T23:32:54.638Z
+updated: 2024-05-20T23:32:54.638Z
 tags: 
   - screen-recording
   - ai video
@@ -516,4 +516,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Android? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-12-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 12 to Mac Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

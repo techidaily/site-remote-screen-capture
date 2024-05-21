@@ -420,3 +420,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-optimal-video-size-for-instagram-a-guide-to-aspect-ratios/"><u>New In 2024, Optimal Video Size for Instagram A Guide to Aspect Ratios</u></a></li>
 </ul></div>
 
+

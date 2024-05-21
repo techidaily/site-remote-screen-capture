@@ -1,7 +1,7 @@
 ---
 title: "Flagship Firefox Screenshot Tools for 2024"
-date: 2024-05-18T12:51:34.222Z
-updated: 2024-05-19T12:51:34.222Z
+date: 2024-05-19T23:33:08.395Z
+updated: 2024-05-20T23:33:08.395Z
 tags: 
   - screen-recording
   - ai video
@@ -665,4 +665,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-x50iplus-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor X50i+ Pattern Lock Screen</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/transform-your-videos-with-slow-motion-on-kapwing-a-beginner-friendly-guide/"><u>Transform Your Videos with Slow Motion on Kapwing A Beginner-Friendly Guide</u></a></li>
 </ul></div>
+
 

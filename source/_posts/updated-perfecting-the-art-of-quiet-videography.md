@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting the Art of Quiet Videography"
-date: 2024-05-18T13:11:42.776Z
-updated: 2024-05-19T13:11:42.776Z
+date: 2024-05-19T23:34:05.898Z
+updated: 2024-05-20T23:34:05.898Z
 tags: 
   - screen-recording
   - ai video
@@ -465,4 +465,5 @@ After documenting, you might need to make your video more interesting. iPhone pr
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c51-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco C51 Phone without PIN</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/2024-approved-the-best-free-and-paid-video-editors-for-windows-11/"><u>2024 Approved The Best Free and Paid Video Editors for Windows 11</u></a></li>
 </ul></div>
+
 

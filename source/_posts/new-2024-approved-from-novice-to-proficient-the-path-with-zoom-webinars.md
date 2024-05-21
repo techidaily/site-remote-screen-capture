@@ -546,3 +546,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-to-use-face-tracking-in-after-effects-to-quickly-mask-out-faces-animate-objects-on-faces-and-more/"><u>In 2024, Learn How to Use Face Tracking in After Effects to Quickly Mask Out Faces, Animate Objects on Faces, and More</u></a></li>
 </ul></div>
 
+

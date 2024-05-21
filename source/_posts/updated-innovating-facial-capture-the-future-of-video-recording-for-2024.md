@@ -1214,3 +1214,4 @@ If your interest is to make quality videos with your face and screens and as wel
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Play 40C | Dr.fone</u></a></li>
 </ul></div>
 
+

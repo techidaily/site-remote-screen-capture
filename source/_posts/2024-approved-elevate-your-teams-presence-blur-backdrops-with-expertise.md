@@ -793,3 +793,4 @@ Follow @Richard Bennett
 <li><a href="https://video-ai-editor.techidaily.com/vertical-victory-mastering-phone-aspect-ratios-for-maximum-impact/"><u>Vertical Victory Mastering Phone Aspect Ratios for Maximum Impact</u></a></li>
 </ul></div>
 
+

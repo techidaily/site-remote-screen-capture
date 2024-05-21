@@ -1146,3 +1146,4 @@ Follow @Liza Brown
 <li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-itel-a05s-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Itel A05s</u></a></li>
 </ul></div>
 
+

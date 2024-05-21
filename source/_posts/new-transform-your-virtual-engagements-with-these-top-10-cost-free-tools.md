@@ -512,3 +512,4 @@ Follow @Shanoon Cox
 <li><a href="https://techidaily.com/complete-tutorial-for-lava-blaze-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Lava Blaze 2 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Effective OBS Transitions to Facebook Live"
-date: 2024-05-18T13:04:53.532Z
-updated: 2024-05-19T13:04:53.532Z
+date: 2024-05-19T23:33:46.193Z
+updated: 2024-05-20T23:33:46.193Z
 tags: 
   - screen-recording
   - ai video
@@ -383,4 +383,5 @@ Facebook Live provides an exciting and entertaining opportunity to connect with 
 <li><a href="https://animation-videos.techidaily.com/in-2024-how-to-send-and-add-snapchat-gifs-100-in-easy-way/"><u>In 2024, How to Send and Add Snapchat GIFs 100 in Easy Way</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-make-your-photos-move-the-10-best-animation-tools-for-beginners-for-2024/"><u>Updated Make Your Photos Move The 10 Best Animation Tools for Beginners for 2024</u></a></li>
 </ul></div>
+
 

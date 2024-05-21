@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Creative Filmmaking on a Budget  Using Smartphones as Webcams\""
-date: 2024-05-18T13:03:06.190Z
-updated: 2024-05-19T13:03:06.190Z
+date: 2024-05-19T23:33:41.191Z
+updated: 2024-05-20T23:33:41.191Z
 tags: 
   - screen-recording
   - ai video
@@ -638,4 +638,5 @@ Follow @Max Wales
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-razr-40-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Razr 40 to Laptop Without USB | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y56 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

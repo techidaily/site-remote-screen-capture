@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Gameplay to Video  Full Guide on PS4 with OBS\""
-date: 2024-05-18T13:12:58.346Z
-updated: 2024-05-19T13:12:58.346Z
+date: 2024-05-19T23:34:09.543Z
+updated: 2024-05-20T23:34:09.543Z
 tags: 
   - screen-recording
   - ai video
@@ -366,4 +366,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://meme-emoji.techidaily.com/10-trending-memes-right-now-include-image-gifvideo-for-2024/"><u>10 Trending Memes Right Now (Include Image/ GIF/Video) for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-honor-x7b-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Honor X7b</u></a></li>
 </ul></div>
+
 

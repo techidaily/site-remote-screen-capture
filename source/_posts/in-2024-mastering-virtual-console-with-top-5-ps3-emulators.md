@@ -522,3 +522,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/how-to-change-video-thumbnail-on-google-drive/"><u>How to Change Video Thumbnail on Google Drive</u></a></li>
 </ul></div>
 
+

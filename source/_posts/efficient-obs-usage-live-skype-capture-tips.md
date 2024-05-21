@@ -1,7 +1,7 @@
 ---
 title: "\"Efficient OBS Usage  Live Skype Capture Tips\""
-date: 2024-05-18T12:46:23.803Z
-updated: 2024-05-19T12:46:23.803Z
+date: 2024-05-19T23:32:53.716Z
+updated: 2024-05-20T23:32:53.716Z
 tags: 
   - screen-recording
   - ai video
@@ -345,4 +345,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://sound-tweaking.techidaily.com/new-advanced-audio-engineering-applying-real-time-volume-automation-in-windows-edition-of-adobe-premiere-pro-for-2024/"><u>New Advanced Audio Engineering Applying Real-Time Volume Automation in Windows Edition of Adobe Premiere Pro for 2024</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/speak-different-live-free-the-essential-guide-to-the-leading-free-voice-modification-tools-of-2e-2024/"><u>Speak Different, Live Free The Essential Guide to the Leading FREE Voice Modification Tools of 2E 2024</u></a></li>
 </ul></div>
+
 

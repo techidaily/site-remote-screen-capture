@@ -278,3 +278,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/new-ways-to-make-sure-your-recording-slideshow-in-powerpoint-is-not-wrong/"><u>New Ways to Make Sure Your Recording Slideshow in Powerpoint Is Not Wrong</u></a></li>
 </ul></div>
 
+

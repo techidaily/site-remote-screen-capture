@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mastering Camtasia  Ken Burns Technique Unveiled\""
-date: 2024-05-18T13:07:25.081Z
-updated: 2024-05-19T13:07:25.081Z
+date: 2024-05-19T23:33:53.101Z
+updated: 2024-05-20T23:33:53.101Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-motorola-g24-power-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Motorola G24 Power on Windows?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Motorola G54 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] QuickCapture  Stop & Save Screenshot Command\""
-date: 2024-05-18T13:09:40.371Z
-updated: 2024-05-19T13:09:40.371Z
+date: 2024-05-19T23:34:00.355Z
+updated: 2024-05-20T23:34:00.355Z
 tags: 
   - screen-recording
   - ai video
@@ -422,4 +422,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on ZTE Blade A73 5G | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone SE (2022)?</u></a></li>
 </ul></div>
+
 

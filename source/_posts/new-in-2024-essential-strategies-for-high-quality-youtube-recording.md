@@ -775,3 +775,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-creating-stunning-motion-blur-in-final-cut-pro-for-2024/"><u>New The Ultimate Guide to Creating Stunning Motion Blur in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 
+

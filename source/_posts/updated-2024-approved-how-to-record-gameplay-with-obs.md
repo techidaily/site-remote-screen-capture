@@ -436,3 +436,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://techidaily.com/how-to-reset-a-asus-rog-phone-8-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Asus ROG Phone 8 Pro Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

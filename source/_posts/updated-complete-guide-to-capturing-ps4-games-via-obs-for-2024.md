@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Complete Guide to Capturing PS4 Games via OBS for 2024"
-date: 2024-05-18T12:51:26.656Z
-updated: 2024-05-19T12:51:26.656Z
+date: 2024-05-19T23:33:08.092Z
+updated: 2024-05-20T23:33:08.092Z
 tags: 
   - screen-recording
   - ai video
@@ -374,4 +374,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone 11 Pro</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-easy-peasy-top-free-video-editing-software-for-newcomers/"><u>Updated In 2024, Easy Peasy Top Free Video Editing Software for Newcomers</u></a></li>
 </ul></div>
+
 

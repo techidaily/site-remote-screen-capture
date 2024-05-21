@@ -696,3 +696,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y78plus-t1-edition-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y78+ (T1) Edition Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
 
+

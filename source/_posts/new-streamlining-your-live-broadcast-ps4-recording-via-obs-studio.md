@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Streamlining Your Live Broadcast  PS4 Recording via OBS Studio\""
-date: 2024-05-18T12:59:37.078Z
-updated: 2024-05-19T12:59:37.078Z
+date: 2024-05-19T23:33:31.468Z
+updated: 2024-05-20T23:33:31.468Z
 tags: 
   - screen-recording
   - ai video
@@ -369,4 +369,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-font-effect-for-2024/"><u>New How to Add Font Effect for 2024</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-8-best-daw-for-windows-107-freepaid-for-2024/"><u>Updated 8 Best DAW for Windows 10/7 (Free/Paid) for 2024</u></a></li>
 </ul></div>
+
 
