@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Action-Packed Escapades - The Next Big Things Post-GTA V\""
-date: 2024-05-18T13:14:35.835Z
-updated: 2024-05-19T13:14:35.835Z
+date: 2024-06-09T13:32:46.925Z
+updated: 2024-06-10T13:32:46.925Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Action-Packed Escapades - The Next Big Things Post-GTA V\""
 excerpt: "\"This Article Describes [New] In 2024, Action-Packed Escapades - The Next Big Things Post-GTA V\""
 keywords: "\"GTA V Escape Hunt,Action Games Unleashed,Post-Videogame Adventures,Thrilling Escapades Series,Next Big Titles Gaming,AfterGTA Excursions,New Gaming Experiences\""
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## Action-Packed Escapades - The Next Big Things Post-GTA V

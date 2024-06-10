@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Chats  Complete FBM Conversation History\""
-date: 2024-05-19T23:34:00.288Z
-updated: 2024-05-20T23:34:00.288Z
+date: 2024-06-09T13:32:44.469Z
+updated: 2024-06-10T13:32:44.469Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Capturing Chats: Complete FBM Conversation History\""
 excerpt: "\"This Article Describes [Updated] Capturing Chats: Complete FBM Conversation History\""
 keywords: "FBM History Chat,Save Facebook Chats,Full Conversation FB,FB Messaging Archive,FB Chat Logs Complete,Capture FB Chat Data,Total FBM Convo Record"
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## Capturing Chats: Complete FBM Conversation History

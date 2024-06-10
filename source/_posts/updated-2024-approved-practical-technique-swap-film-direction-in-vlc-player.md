@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Practical Technique  Swap Film Direction in VLC Player\""
-date: 2024-05-18T13:35:20.867Z
-updated: 2024-05-19T13:35:20.867Z
+date: 2024-06-09T13:32:49.798Z
+updated: 2024-06-10T13:32:49.798Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Practical Technique: Swap Film Direction in VLC Player\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Practical Technique: Swap Film Direction in VLC Player\""
 keywords: "VLC Film Direction Swap,Swap Direction VLC Player,Practical Film Editing VLC,Reverse Video Playback VLC,VLC Rewind Feature,Film Reverse in VLC,VLC Video Flip Technique"
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## Practical Technique: Swap Film Direction in VLC Player

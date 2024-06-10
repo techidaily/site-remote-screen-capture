@@ -1,7 +1,7 @@
 ---
 title: "Capture the World Through the Lens of Mi 11"
-date: 2024-05-18T13:33:19.728Z
-updated: 2024-05-19T13:33:19.728Z
+date: 2024-06-09T13:32:35.460Z
+updated: 2024-06-10T13:32:35.460Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Capture the World Through the Lens of Mi 11"
 excerpt: "This Article Describes Capture the World Through the Lens of Mi 11"
 keywords: "Lens Mi11,Mi11 Photography,Mi11 World Shots,Mi11 Travel Cam,Mi11 Global Images,Mi11 Visuals Magic,Mi11 Lens Expertise"
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## Capture the World Through the Lens of Mi 11

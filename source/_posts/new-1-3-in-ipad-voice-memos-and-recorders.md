@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 1-3 in iPad Voice Memos & Recorders\""
-date: 2024-05-18T13:19:47.655Z
-updated: 2024-05-19T13:19:47.655Z
+date: 2024-06-09T13:32:48.751Z
+updated: 2024-06-10T13:32:48.751Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 1-3 in iPad Voice Memos & Recorders\""
 excerpt: "\"This Article Describes [New] 1-3 in iPad Voice Memos & Recorders\""
 keywords: "IPad Voice Recording,Portable iPad Memos,Digital iPad Notes,IPad Audio Memo App,IPad Speech Capture Device,IPad Sound Memorizer,Mobile iPad Recorders"
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## 1-3 in iPad Voice Memos & Recorders

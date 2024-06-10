@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Record Video on Google Hangouts\""
-date: 2024-05-19T23:33:26.707Z
-updated: 2024-05-20T23:33:26.707Z
+date: 2024-06-09T13:32:52.900Z
+updated: 2024-06-10T13:32:52.900Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: How to Record Video on Google Hangouts\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: How to Record Video on Google Hangouts\""
 keywords: "Hangout Video Record,Google Hangouts Capture,Recording Calls Hangouts,Hangouts Screen Recording,Save Hangouts Videos,Video Recording Hangouts,Capture Hangouts Call"
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## How to Record Video on Google Hangouts

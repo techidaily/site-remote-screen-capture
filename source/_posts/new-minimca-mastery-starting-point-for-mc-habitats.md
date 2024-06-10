@@ -1,7 +1,7 @@
 ---
 title: "\"[New] MiniMCA Mastery  Starting Point for MC Habitats\""
-date: 2024-05-19T23:33:14.811Z
-updated: 2024-05-20T23:33:14.811Z
+date: 2024-06-09T13:32:35.152Z
+updated: 2024-06-10T13:32:35.152Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] MiniMCA Mastery: Starting Point for MC Habitats\""
 excerpt: "\"This Article Describes [New] MiniMCA Mastery: Starting Point for MC Habitats\""
 keywords: "MiniMCAMasteryBasis,MCHabitatStarting,MCHabitatBasics,MiniMCAHabitatBegins,MiniMCAHabitatStarter,MCHabitatFoundation,MiniMCAForMC,Mastering MC Habitats,Starting with MC Habitat Fundamentals,MiniMCA Guide to MC Ecosystems,Foundations of MC Habitat via MiniMCA,Beginner's Path in MiniMCA for MC Systems,Essentials of MC Habitats,Introduction to Mastering MC Environments with MiniMCA"
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## MiniMCA Mastery: Starting Point for MC Habitats

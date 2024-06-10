@@ -1,7 +1,7 @@
 ---
 title: "Charismatic Communicator Overview, Part 8"
-date: 2024-05-18T13:24:02.610Z
-updated: 2024-05-19T13:24:02.610Z
+date: 2024-06-09T13:32:38.854Z
+updated: 2024-06-10T13:32:38.854Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Charismatic Communicator Overview, Part 8"
 excerpt: "This Article Describes Charismatic Communicator Overview, Part 8"
 keywords: "Charisma Comm Chat,Charismatic Orv,Speak Charisma,Communication Skill,Charismatic Influence,Part 7 Insight,Charisma Talk Guide"
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## Charismatic Communicator Overview, Part 8

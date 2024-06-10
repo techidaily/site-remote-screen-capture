@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Walking Dead  Top Picks for Horror Gamers\""
-date: 2024-05-19T23:32:59.776Z
-updated: 2024-05-20T23:32:59.776Z
+date: 2024-06-09T13:32:40.952Z
+updated: 2024-06-10T13:32:40.952Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Walking Dead: Top Picks for Horror Gamers\""
 excerpt: "\"This Article Describes [Updated] In 2024, Walking Dead: Top Picks for Horror Gamers\""
 keywords: "Walking Dead Horror Games,Zombie Game Recommendations,Fearful Gaming Selections,Undead Adventure Choices,Scariest Gamer Picks,Dark Narrative Video Games,Best Zombie Strategy Games"
-thumbnail: https://www.lifewire.com/thmb/xDM-B4zVSXt5n027L2C5oNwTDN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIrendering_CROPPED_Guillaume_GettyImages-1418477818-d0a9c5ce09584a1099f21a5f1f690a88.jpg
+thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg
 ---
 
 ## Walking Dead: Top Picks for Horror Gamers

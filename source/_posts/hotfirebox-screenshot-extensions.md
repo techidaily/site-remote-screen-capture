@@ -1,7 +1,7 @@
 ---
 title: "HotFirebox Screenshot Extensions"
-date: 2024-05-19T23:33:18.221Z
-updated: 2024-05-20T23:33:18.221Z
+date: 2024-06-09T13:32:38.810Z
+updated: 2024-06-10T13:32:38.810Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes HotFirebox Screenshot Extensions"
 excerpt: "This Article Describes HotFirebox Screenshot Extensions"
 keywords: "HotFirebox Screen Ext,Firebox Screen Save,HotFirebox Screenshots,Extended Firebox Display,Firebox Image Capture,HotScreenshot Toolkit,Firebox Visual Extensions"
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## HotFirebox Screenshot Extensions

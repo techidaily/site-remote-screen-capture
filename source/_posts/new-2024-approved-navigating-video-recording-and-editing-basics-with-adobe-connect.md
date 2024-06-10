@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Navigating Video Recording & Editing Basics with Adobe Connect\""
-date: 2024-05-18T13:34:50.941Z
-updated: 2024-05-19T13:34:50.941Z
+date: 2024-06-09T13:32:41.521Z
+updated: 2024-06-10T13:32:41.521Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Navigating Video Recording & Editing Basics with Adobe Connect\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Navigating Video Recording & Editing Basics with Adobe Connect\""
 keywords: "Basic Adobe Connect Skills,Video Record Adobe Tech,Edit Adobe Learn Guide,Mastering Adobe Connect,Adobe Connect Basics,Connect Recording Tips,Adobe Edit Training"
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## Navigating Video Recording & Editing Basics with Adobe Connect

@@ -1,7 +1,7 @@
 ---
 title: "Record Webcam Video with VLC"
-date: 2024-05-18T13:44:56.095Z
-updated: 2024-05-19T13:44:56.095Z
+date: 2024-06-09T13:32:51.888Z
+updated: 2024-06-10T13:32:51.888Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Record Webcam Video with VLC"
 excerpt: "This Article Describes Record Webcam Video with VLC"
 keywords: "VLC Record Webcam,Video Capture VLC,VLC Webcam Streaming,VLC Video Recording,VLC Live Camera Feed,Easy Webcam with VLC,VLC Cam Video Save"
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Record Webcam Video with VLC

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Audacity Audio Basics for New Mac Users\""
-date: 2024-05-19T23:32:55.553Z
-updated: 2024-05-20T23:32:55.553Z
+date: 2024-06-09T13:32:46.136Z
+updated: 2024-06-10T13:32:46.136Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Audacity Audio Basics for New Mac Users\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Audacity Audio Basics for New Mac Users\""
 keywords: "NewMacAudioBasics,MacUserAudacityGuide,BasicAudacityTips,LearningAudacityApp,MacAudacityStarter,AudacityForMacNewbie,BasicsOfAudacityMac"
-thumbnail: https://www.lifewire.com/thmb/iwoCmi7AdF2SQEdJBdU3jN_mTWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-136612668-5c640cc5c9e77c00010a4ff4.jpg
+thumbnail: https://thmb.techidaily.com/fd49bc993ce8510e13bd3ece8f5853b9890f1d550e51d2b3c30dcfc01a7a61b2.jpg
 ---
 
 ## Audacity Audio Basics for New Mac Users

@@ -1,7 +1,7 @@
 ---
 title: "Easy Ways to Record a PowerPoint Presentation"
-date: 2024-05-18T13:39:32.729Z
-updated: 2024-05-19T13:39:32.729Z
+date: 2024-06-09T13:32:40.901Z
+updated: 2024-06-10T13:32:40.902Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Easy Ways to Record a PowerPoint Presentation"
 excerpt: "This Article Describes Easy Ways to Record a PowerPoint Presentation"
 keywords: "PPT Recording Tips,PowerPoint Save Audio,Quick Presentation Record,Easy Slideshow Capture,Save Speech From PPT,Simplify Slidecasts,Streamline PPT Playback"
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## Easy Ways to Record a PowerPoint Presentation

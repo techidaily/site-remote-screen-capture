@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Harness the Power of OBS on Android Gadgets"
-date: 2024-05-19T23:33:24.998Z
-updated: 2024-05-20T23:33:24.998Z
+date: 2024-06-09T13:32:49.605Z
+updated: 2024-06-10T13:32:49.605Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Harness the Power of OBS on Android Gadgets"
 excerpt: "This Article Describes [New] How to Harness the Power of OBS on Android Gadgets"
 keywords: "OBS Android Tips,Android OBS Guide,OBS for Mobile Devices,Mastering OBS on Android,Enhancing OBS Android Use,Optimize OBS on Gadgets,Learn OBS Android Techniques"
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## How to Harness the Power of OBS on Android Gadgets

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Civic Challenge Champions  Premier Elections Videogames\""
-date: 2024-05-18T13:24:37.260Z
-updated: 2024-05-19T13:24:37.260Z
+date: 2024-06-09T13:32:46.969Z
+updated: 2024-06-10T13:32:46.969Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Civic Challenge Champions: Premier Elections Videogames\""
 excerpt: "\"This Article Describes [Updated] Civic Challenge Champions: Premier Elections Videogames\""
 keywords: "Civics Game Leaders,Prime Vote Games,Election Gaming Champ,Voters' Virtual Race,Civic Puzzle Quest,Premier Democracy Play,Electorate Strategy Board"
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Civic Challenge Champions: Premier Elections Videogames

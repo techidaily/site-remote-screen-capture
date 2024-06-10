@@ -1,7 +1,7 @@
 ---
 title: "How to Change Name in Google Meet for 2024"
-date: 2024-05-19T23:34:07.156Z
-updated: 2024-05-20T23:34:07.156Z
+date: 2024-06-09T13:32:43.177Z
+updated: 2024-06-10T13:32:43.177Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Change Name in Google Meet for 2024"
 excerpt: "This Article Describes How to Change Name in Google Meet for 2024"
 keywords: "Changing Google Meet Name,Google Meet Username Update,New Identity on Google Meet,Google Meet Rename Process,Google Meet Profile Change,Altering Meet Display Name,Google Meet User Edit"
-thumbnail: https://www.lifewire.com/thmb/7xkPKaI2xi5sTbIeFjMPxaWn7Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-tvos_a-star-is-born_060319-b01aea7d8a1949609359d8d96b1a22e0.jpg
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
 ## Navigating Google Meet Profile Edit (Laptop/Mobile)

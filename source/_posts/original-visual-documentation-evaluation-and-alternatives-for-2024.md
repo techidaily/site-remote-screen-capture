@@ -1,7 +1,7 @@
 ---
 title: "Original Visual Documentation Evaluation & Alternatives for 2024"
-date: 2024-05-18T13:23:05.636Z
-updated: 2024-05-19T13:23:05.636Z
+date: 2024-06-09T13:32:39.706Z
+updated: 2024-06-10T13:32:39.706Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Original Visual Documentation Evaluation & Alternatives for 2024"
 excerpt: "This Article Describes Original Visual Documentation Evaluation & Alternatives for 2024"
 keywords: "DocuEval Original,VisDoc Alternate,OrigVisual Assess,AltVisual Insight,Original Doc Test,Visual Eval Base,Vision Doc Options"
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Original Visual Documentation Evaluation & Alternatives

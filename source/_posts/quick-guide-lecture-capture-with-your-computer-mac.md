@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Guide  Lecture Capture with Your Computer (Mac)\""
-date: 2024-05-19T23:33:32.472Z
-updated: 2024-05-20T23:33:32.472Z
+date: 2024-06-09T13:32:55.047Z
+updated: 2024-06-10T13:32:55.047Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Quick Guide: Lecture Capture with Your Computer (Mac)\""
 excerpt: "\"This Article Describes Quick Guide: Lecture Capture with Your Computer (Mac)\""
 keywords: "Mac Lecture Recording,Quick Capture Mac,Easy Mac Recording,Mac Lecture Capture Guide,Simple Mac Audio Record,Mac Computer Recording,Rapid Mac Video Capture"
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## Quick Guide: Lecture Capture with Your Computer (Mac)

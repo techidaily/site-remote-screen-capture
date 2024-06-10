@@ -1,7 +1,7 @@
 ---
 title: "\"FBX Gaming  A Complete Video Guide\""
-date: 2024-05-19T23:33:01.998Z
-updated: 2024-05-20T23:33:01.998Z
+date: 2024-06-09T13:32:55.020Z
+updated: 2024-06-10T13:32:55.020Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes FBX Gaming: A Complete Video Guide\""
 excerpt: "\"This Article Describes FBX Gaming: A Complete Video Guide\""
 keywords: "\"FBX Gaming Tutorial,Video Gaming Basics,Comprehensive Gameplay Guide,Understanding FBX Format,In-Depth Gaming Strategies,Mastering Video Games,Essential Gamer's Manual\""
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## FBX Gaming: A Complete Video Guide

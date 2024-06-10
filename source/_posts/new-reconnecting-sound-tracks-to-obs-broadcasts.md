@@ -1,7 +1,7 @@
 ---
 title: "[New] Reconnecting Sound Tracks to OBS Broadcasts"
-date: 2024-05-19T23:34:02.960Z
-updated: 2024-05-20T23:34:02.960Z
+date: 2024-06-09T13:32:46.758Z
+updated: 2024-06-10T13:32:46.758Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Reconnecting Sound Tracks to OBS Broadcasts"
 excerpt: "This Article Describes [New] Reconnecting Sound Tracks to OBS Broadcasts"
 keywords: "\"Sports Event Streaming Tips,Recording Sports Live,Broadcasting Sports Events,Elite Sports Broadcasting,High-Quality Sport Viewing,Streaming Sport Games,Record Sports Competitions\""
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## Reconnecting Sound Tracks to OBS Broadcasts

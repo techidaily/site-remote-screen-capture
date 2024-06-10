@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Selecting the Ideal Screen Recording Application  OBS vs Fraps Showdown\""
-date: 2024-05-18T13:46:10.002Z
-updated: 2024-05-19T13:46:10.002Z
+date: 2024-06-09T13:32:54.852Z
+updated: 2024-06-10T13:32:54.852Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Selecting the Ideal Screen Recording Application: OBS vs Fraps Showdown\""
 excerpt: "\"This Article Describes [New] In 2024, Selecting the Ideal Screen Recording Application: OBS vs Fraps Showdown\""
 keywords: "OBS Screen Recording,Fraps Capture Tool,Best Recording Software,OBS Vs Fraps,Screen Record Comparison,Top Screen Recorder App,Choosing Recording Apps"
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## Selecting the Ideal Screen Recording Application: OBS vs Fraps Showdown

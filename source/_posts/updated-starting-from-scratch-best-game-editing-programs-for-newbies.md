@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Starting From Scratch  Best Game Editing Programs for Newbies\""
-date: 2024-05-18T13:19:37.089Z
-updated: 2024-05-19T13:19:37.089Z
+date: 2024-06-09T13:32:46.292Z
+updated: 2024-06-10T13:32:46.292Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Starting From Scratch: Best Game Editing Programs for Newbies\""
 excerpt: "\"This Article Describes [Updated] Starting From Scratch: Best Game Editing Programs for Newbies\""
 keywords: "\"Newbie Game Edit,Beginning Editing,First Editor Guide,Entry-Level Editing Tools,Novice Program Selection,Basic Edit Systems,Start Fresh Programming\""
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## Starting From Scratch: Best Game Editing Programs for Newbies

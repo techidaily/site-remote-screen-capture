@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Resolve HDR Video Issue  Clearing Blank Display for 2024\""
-date: 2024-05-18T13:50:39.240Z
-updated: 2024-05-19T13:50:39.240Z
+date: 2024-06-09T13:32:46.260Z
+updated: 2024-06-10T13:32:46.261Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Resolve HDR Video Issue: Clearing Blank Display for 2024\""
 excerpt: "\"This Article Describes [Updated] Resolve HDR Video Issue: Clearing Blank Display for 2024\""
 keywords: "Fix HDR Glitches,HDMI Black Screen,Clear HDR Display,HDR Error Resolution,HDR Image Cleanup,Remove HDR Blank,HD Video Problems"
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## Resolve HDR Video Issue: Clearing Blank Display

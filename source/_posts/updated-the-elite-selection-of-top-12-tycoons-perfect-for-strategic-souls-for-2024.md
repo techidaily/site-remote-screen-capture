@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Elite Selection of Top 12 Tycoons - Perfect for Strategic Souls for 2024\""
-date: 2024-05-19T23:34:04.324Z
-updated: 2024-05-20T23:34:04.324Z
+date: 2024-06-09T13:32:48.499Z
+updated: 2024-06-10T13:32:48.499Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] The Elite Selection of Top 12 Tycoons - Perfect for Strategic Souls for 2024\""
 excerpt: "\"This Article Describes [Updated] The Elite Selection of Top 12 Tycoons - Perfect for Strategic Souls for 2024\""
 keywords: "Tycoon Elites,Wealthy Moguls,Top Rich Leaders,Strategic Titans,Business Giants,Super Rich Masters,Elite Economists"
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## The Elite Selection of Top 12 Tycoons - Perfect for Strategic Souls

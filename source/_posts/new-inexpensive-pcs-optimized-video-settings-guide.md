@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Inexpensive PCs  Optimized Video Settings Guide\""
-date: 2024-05-19T23:33:31.335Z
-updated: 2024-05-20T23:33:31.336Z
+date: 2024-06-09T13:32:41.765Z
+updated: 2024-06-10T13:32:41.765Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Inexpensive PCs: Optimized Video Settings Guide\""
 excerpt: "\"This Article Describes [New] Inexpensive PCs: Optimized Video Settings Guide\""
 keywords: "\"Budget PC Gaming,Cost-Effective Graphics,Economical PC Upgrades,Affordable PC Specs,Low-Cost PC Options,Value PC Settings Guide,Cheap PC Performance Tips\""
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## Inexpensive PCs: Optimized Video Settings Guide

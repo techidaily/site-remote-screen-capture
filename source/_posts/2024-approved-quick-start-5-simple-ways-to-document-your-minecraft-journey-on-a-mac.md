@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quick Start  5 Simple Ways to Document Your Minecraft Journey on a Mac\""
-date: 2024-05-18T13:27:42.802Z
-updated: 2024-05-19T13:27:42.802Z
+date: 2024-06-09T13:32:52.810Z
+updated: 2024-06-10T13:32:52.810Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Quick Start: 5 Simple Ways to Document Your Minecraft Journey on a Mac\""
 excerpt: "\"This Article Describes 2024 Approved: Quick Start: 5 Simple Ways to Document Your Minecraft Journey on a Mac\""
 keywords: "Minecraft Journaling Basics,Mojang Storytelling Guide,Quick Minecraft Notes Tips,Easy Minecraft Diary Tracking,Mac Journey Documentation,Basic Minecraft Planner,Simplified Map Logging"
-thumbnail: https://www.lifewire.com/thmb/0LHpu91V9jV229cdma0w0BAh3EI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-logo-steering-wheel-25522ee2c5664139948ebfd1cb1df653.jpg
+thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
 ---
 
 ## Quick Start: 5 Simple Ways to Document Your Minecraft Journey on a Mac

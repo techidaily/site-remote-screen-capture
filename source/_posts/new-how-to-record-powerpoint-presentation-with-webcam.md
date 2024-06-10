@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Record PowerPoint Presentation with Webcam"
-date: 2024-05-19T23:34:00.817Z
-updated: 2024-05-20T23:34:00.817Z
+date: 2024-06-09T13:32:39.369Z
+updated: 2024-06-10T13:32:39.369Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] How to Record PowerPoint Presentation with Webcam"
 excerpt: "This Article Describes [New] How to Record PowerPoint Presentation with Webcam"
 keywords: "PowerPoint Recording,Webcam Capture,Speaking Sessions,Live Presentations,WebCam Screen Sharing,Online Presentation,Video Conference Tools"
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## How to Record PowerPoint Presentation with Webcam

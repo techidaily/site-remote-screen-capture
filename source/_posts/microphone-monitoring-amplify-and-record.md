@@ -1,7 +1,7 @@
 ---
 title: "\"Microphone Monitoring  Amplify and Record\""
-date: 2024-05-18T13:38:35.286Z
-updated: 2024-05-19T13:38:35.286Z
+date: 2024-06-09T13:32:44.230Z
+updated: 2024-06-10T13:32:44.230Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Microphone Monitoring: Amplify and Record\""
 excerpt: "\"This Article Describes Microphone Monitoring: Amplify and Record\""
 keywords: "IPhone Screen Recorder Simplified,Easy iPhone 7 Recording,IPhone 7 Screen Save Tech,Streamlined iPhone Recording,Simple Screen Record on iOS,IPhone 7 Capture Function,Quick Screen Record iPhone"
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Microphone Monitoring: Amplify and Record

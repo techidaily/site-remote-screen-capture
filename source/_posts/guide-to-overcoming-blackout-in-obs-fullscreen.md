@@ -1,7 +1,7 @@
 ---
 title: "Guide to Overcoming Blackout in OBS Fullscreen"
-date: 2024-05-18T13:41:03.601Z
-updated: 2024-05-19T13:41:03.601Z
+date: 2024-06-09T13:32:36.000Z
+updated: 2024-06-10T13:32:36.000Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Guide to Overcoming Blackout in OBS Fullscreen"
 excerpt: "This Article Describes Guide to Overcoming Blackout in OBS Fullscreen"
 keywords: "OBS Fullscreen Blackout Fix,Overcoming OBS Screen Loss,Guide to OBS Outage Resolution,OBS Blackout Troubleshooting Guide,Fullscreen OBS Recovery Steps,Solving OBS Blank Screen Issue,How to Stop OBS Blackouts"
-thumbnail: https://www.lifewire.com/thmb/vmRvggsBE9toSpXM8p1WS8O5Wjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
 ---
 
 ## Guide to Overcoming Blackout in OBS Fullscreen

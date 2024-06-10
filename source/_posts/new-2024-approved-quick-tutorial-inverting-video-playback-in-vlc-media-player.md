@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Quick Tutorial  Inverting Video Playback in VLC Media Player\""
-date: 2024-05-19T23:34:03.272Z
-updated: 2024-05-20T23:34:03.272Z
+date: 2024-06-09T13:32:41.393Z
+updated: 2024-06-10T13:32:41.393Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Quick Tutorial: Inverting Video Playback in VLC Media Player\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Quick Tutorial: Inverting Video Playback in VLC Media Player\""
 keywords: "VLC Video Invert,VLC Reverse Play,VLC Flip Videos,VLC Switch Video,Invert VLC Videos,Reverse Video VLC,Flipback in VLC"
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## Quick Tutorial: Inverting Video Playback in VLC Media Player

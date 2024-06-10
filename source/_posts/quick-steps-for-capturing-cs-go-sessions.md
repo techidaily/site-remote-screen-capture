@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Steps for Capturing CS  GO Sessions\""
-date: 2024-05-19T23:33:16.504Z
-updated: 2024-05-20T23:33:16.504Z
+date: 2024-06-09T13:32:41.929Z
+updated: 2024-06-10T13:32:41.929Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Quick Steps for Capturing CS: GO Sessions\""
 excerpt: "\"This Article Describes Quick Steps for Capturing CS: GO Sessions\""
 keywords: "\"Quick Counter-Strike,CS GO Session Capture,Game Recording Guide,Fast CS Go Screen Grabs,Efficient Stealth Gaming,CS:GO Saves Techniques,Speedy Gameplay Archiving\""
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## Quick Steps for Capturing CS: GO Sessions

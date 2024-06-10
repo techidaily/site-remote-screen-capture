@@ -1,7 +1,7 @@
 ---
 title: "Solutions for Enabling Audio in OBS Broadcasts"
-date: 2024-05-18T13:46:15.617Z
-updated: 2024-05-19T13:46:15.617Z
+date: 2024-06-09T13:32:53.317Z
+updated: 2024-06-10T13:32:53.317Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Solutions for Enabling Audio in OBS Broadcasts"
 excerpt: "This Article Describes Solutions for Enabling Audio in OBS Broadcasts"
 keywords: "\"Prime Broadcast Capture,Prime Solutions Broadcast,Broadcast Capture Exclusive,OBS Alternative Solutions,Prime OBS-Free Capture,Premium Broadcast Technology,Optimal Broadcasting Without OBS\""
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## Solutions for Enabling Audio in OBS Broadcasts

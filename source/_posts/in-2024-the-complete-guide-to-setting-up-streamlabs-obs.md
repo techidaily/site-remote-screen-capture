@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Complete Guide to Setting Up Streamlabs OBS"
-date: 2024-05-18T13:16:24.318Z
-updated: 2024-05-19T13:16:24.318Z
+date: 2024-06-09T13:32:43.784Z
+updated: 2024-06-10T13:32:43.784Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, The Complete Guide to Setting Up Streamlabs OBS"
 excerpt: "This Article Describes In 2024, The Complete Guide to Setting Up Streamlabs OBS"
 keywords: "Streamlabs OBS Setup Guide,Beginner's OBS for Streamlabs,OBS Configuration Tutorial,Streamlabs Broadcast Prep,Essential OBS Steps,Mastering OBS in Streamlabs,Start with OBS Setup Guide"
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## The Complete Guide to Setting Up Streamlabs OBS

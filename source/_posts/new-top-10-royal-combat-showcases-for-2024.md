@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 10 Royal Combat Showcases for 2024"
-date: 2024-05-18T13:33:18.404Z
-updated: 2024-05-19T13:33:18.404Z
+date: 2024-06-09T13:32:41.100Z
+updated: 2024-06-10T13:32:41.100Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Top 10 Royal Combat Showcases for 2024"
 excerpt: "This Article Describes [New] Top 10 Royal Combat Showcases for 2024"
 keywords: "Top Royals Fights,Combat Royale List,Royal Battle Highlights,Leading Warriors Showdown,Elite Royals Combat,Premier Royalties Skirmish,Best Royal Fight Spectacle"
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Top 10 Royal Combat Showcases
