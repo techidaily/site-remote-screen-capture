@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Harnessing Your Creative Power with iPad for Time-Lapses\""
-date: 2024-05-18T13:48:29.704Z
-updated: 2024-05-19T13:48:29.704Z
+date: 2024-06-18T13:56:01.631Z
+updated: 2024-06-19T13:56:01.631Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Harnessing Your Creative Power with iPad for Time-Lapses\""
 excerpt: "\"This Article Describes [Updated] Harnessing Your Creative Power with iPad for Time-Lapses\""
 keywords: "OBS Editing Tips,Speed up OBS Edits,Quick OBS Editing Tricks,Improve OBS Edit Flow,Efficient OBS Processing,OBS Editing Acceleration,Optimize OBS Workflow"
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Harnessing Your Creative Power with iPad for Time-Lapses

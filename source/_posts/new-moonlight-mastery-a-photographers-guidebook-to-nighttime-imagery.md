@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Moonlight Mastery  A Photographer's Guidebook to Nighttime Imagery\""
-date: 2024-05-19T23:33:27.131Z
-updated: 2024-05-20T23:33:27.131Z
+date: 2024-06-18T13:56:00.182Z
+updated: 2024-06-19T13:56:00.182Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Moonlight Mastery: A Photographer's Guidebook to Nighttime Imagery\""
 excerpt: "\"This Article Describes [New] Moonlight Mastery: A Photographer's Guidebook to Nighttime Imagery\""
 keywords: "Pro Video Recorder Reviews,Top Video Gear Insights,Ultimate Cam Criteria Guide,Best Camcorder Ratings,Home Cinematographer's Choices,Premium Video Recorders,Expert Tech Camera Test"
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## Moonlight Mastery: A Photographer's Guidebook to Nighttime Imagery

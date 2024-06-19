@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Syncing Muted Voices with OBS Streams\""
-date: 2024-05-19T23:33:04.245Z
-updated: 2024-05-20T23:33:04.245Z
+date: 2024-06-18T13:56:01.285Z
+updated: 2024-06-19T13:56:01.285Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Syncing Muted Voices with OBS Streams\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Syncing Muted Voices with OBS Streams\""
 keywords: "Easy TF2 Recording,Simple Steam Capture,TF2 Latest Updates,Quick TF2 Audio,Team Fortress Sounds,Stream TF2 Update,TF2 Sound Recording"
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Syncing Muted Voices with OBS Streams

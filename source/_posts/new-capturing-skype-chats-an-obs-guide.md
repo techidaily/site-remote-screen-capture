@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Skype Chats  An OBS Guide\""
-date: 2024-05-19T23:33:29.255Z
-updated: 2024-05-20T23:33:29.255Z
+date: 2024-06-18T13:56:04.065Z
+updated: 2024-06-19T13:56:04.065Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Capturing Skype Chats: An OBS Guide\""
 excerpt: "\"This Article Describes [New] Capturing Skype Chats: An OBS Guide\""
 keywords: "Skype Chat Recording Tutorial,OBS Skype Transcription,Capture Skype Calls Easy,Skype Conversations Archive,Secure Skype Speech Save,OBS Video Call Notes,Live Stream Skype Guide"
-thumbnail: https://www.lifewire.com/thmb/g1kkp8ne6jm5E7rMiTd4CMgu2Fw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642981042-5a903651a18d9e0037d31742.jpg
+thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4e9a9bd97f972e7408a7d734.jpg
 ---
 
 ## Capturing Skype Chats: An OBS Guide

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Record Minecraft on Mac\""
-date: 2024-05-19T23:33:10.976Z
-updated: 2024-05-20T23:33:10.976Z
+date: 2024-06-18T13:56:08.400Z
+updated: 2024-06-19T13:56:08.400Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Record Minecraft on Mac\""
 excerpt: "\"This Article Describes 2024 Approved: How to Record Minecraft on Mac\""
 keywords: "Minecraft Recording Guide,Mac Minecraft Screen Capture,Minecraft Screen Save Mac,Minecraft Video Recorder Mac,Mac Game Capture Techniques,Record Minecraft on Mac,Mac Minecraft Live Streaming"
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## How to Record Minecraft on Mac

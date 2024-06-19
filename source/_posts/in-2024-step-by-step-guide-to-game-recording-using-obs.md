@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step Guide to Game Recording Using OBS\""
-date: 2024-05-19T23:33:26.602Z
-updated: 2024-05-20T23:33:26.602Z
+date: 2024-06-18T13:56:05.755Z
+updated: 2024-06-19T13:56:05.755Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Step-by-Step Guide to Game Recording Using OBS\""
 excerpt: "\"This Article Describes In 2024, Step-by-Step Guide to Game Recording Using OBS\""
 keywords: "\"OBS Game Record,Steps for OSB,OBS Capture Gaming,Simple OBS Guide,OBS Studio Tutorial,OBS Game Screening,Step-by-Step OSB Recording\""
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## Step-by-Step Guide to Game Recording Using OBS

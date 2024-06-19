@@ -1,7 +1,7 @@
 ---
 title: "How to Record a GoToMeeting Session on PCs and Smartphones?"
-date: 2024-05-19T23:32:55.253Z
-updated: 2024-05-20T23:32:55.253Z
+date: 2024-06-18T13:56:10.137Z
+updated: 2024-06-19T13:56:10.137Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Record a GoToMeeting Session on PCs and Smartphones?"
 excerpt: "This Article Describes How to Record a GoToMeeting Session on PCs and Smartphones?"
 keywords: "Meeting Recording Techniques,GoToMeeting Mobile Guide,PC Session Recording Tips,Smartphone GoToRecording,GoToMeeting Screen Capture,WebConferencing Audio Save,Virtual Sessions on Devices"
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## How to Record a GoToMeeting Session on PCs and Smartphones?

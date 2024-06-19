@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Infinite Space  Top 10 External Hard Drives for PS5\""
-date: 2024-05-18T13:47:39.847Z
-updated: 2024-05-19T13:47:39.847Z
+date: 2024-06-18T13:56:07.385Z
+updated: 2024-06-19T13:56:07.385Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Infinite Space: Top 10 External Hard Drives for PS5\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Infinite Space: Top 10 External Hard Drives for PS5\""
 keywords: "\"PS5 Storage Upgrade,High-Speed HDDs PS5,Elite PS5 Expansion SSD/HDD,Ultimate PS5 External Drives,Premium Space for PS5 Games,Fastest HDD PS5 Game Library,Top PS5 Portable Storage\""
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## Infinite Space: Top 10 External Hard Drives for PS5

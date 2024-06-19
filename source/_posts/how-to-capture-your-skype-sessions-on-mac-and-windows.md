@@ -1,7 +1,7 @@
 ---
 title: "How to Capture Your Skype Sessions on Mac and Windows"
-date: 2024-05-19T23:33:21.038Z
-updated: 2024-05-20T23:33:21.038Z
+date: 2024-06-18T13:56:01.563Z
+updated: 2024-06-19T13:56:01.563Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Capture Your Skype Sessions on Mac and Windows"
 excerpt: "This Article Describes How to Capture Your Skype Sessions on Mac and Windows"
 keywords: "Skype Recording Guide,Save Skype Calls PC/Mac,Skype Session Recordings,Learn Skype Capture Methods,Mac Windows Skype Saves,Screencasting Skype Sessions,Record Skype Chats Easily"
-thumbnail: https://www.lifewire.com/thmb/znoWsXihZpXFxhbw3VKHAcQ2O3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
 ---
 
 ## How to Capture Your Skype Sessions on Mac and Windows

@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Shot  Screen + Sound Combo for 2024\""
-date: 2024-05-18T13:17:26.747Z
-updated: 2024-05-19T13:17:26.747Z
+date: 2024-06-18T13:56:12.263Z
+updated: 2024-06-19T13:56:12.263Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Quick Shot: Screen + Sound Combo for 2024\""
 excerpt: "\"This Article Describes Quick Shot: Screen + Sound Combo for 2024\""
 keywords: "Quickshot Screen Mix,RapidShoot Soundscape,QuickShot AudioVideo,SpeedyCapture Audio,InstantShot SyncSound,FastFraming SoundBlend,SwiftPicture AudioPair"
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## Quick Shot: Screen + Sound Combo

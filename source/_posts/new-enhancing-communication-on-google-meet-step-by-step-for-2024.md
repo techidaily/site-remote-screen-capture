@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Enhancing Communication on Google Meet [Step-by-Step] for 2024\""
-date: 2024-05-19T23:33:28.605Z
-updated: 2024-05-20T23:33:28.605Z
+date: 2024-06-18T13:56:08.706Z
+updated: 2024-06-19T13:56:08.706Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Enhancing Communication on Google Meet [Step-by-Step] for 2024\""
 excerpt: "\"This Article Describes [New] Enhancing Communication on Google Meet [Step-by-Step] for 2024\""
 keywords: "\"Google Meet Speak Tips,Improve Online Discussions,Step Guide: Meet Communication,Mastering Video Conferencing,Enhancing Screen Participation,Optimal Remote Collaboration,Boost Group Engagement on Google\""
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## Enhancing Communication on Google Meet [Step-by-Step]
@@ -48,21 +48,21 @@ While using a laptop or desktop computer, using the chat feature is very easy. A
 
 Once you have joined the session, look towards the bottom right-hand side of your screen. Over there you will see numerous options, but do not get confused. Make your way over to the speech bubble sign, and click on that, as shown in the image below.
 
-![ Google Meet Chat Option  ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
+![Google Meet Chat Option](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
 Upon clicking the speech bubble, a chat window will open on the right-hand side of your screen. On the bottom of the window, there will be a blank text box.
 
-![ Google Meet in-call message  ](https://images.wondershare.com/filmora/article-images/google-meet-in-call-message-window.jpg)
+![Google Meet in-call message](https://images.wondershare.com/filmora/article-images/google-meet-in-call-message-window.jpg)
 
 Click on the blank text box and type the message that you would like to share.
 
-![ Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
+![Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
 
 After typing the message, in order to send it to all the participants in the meeting, click the send button. Another way of sending the message is simply by pressing the “Enter” key on your keyboard.
 
 As soon as you press the arrow, your message will be visible to all the members available in the meeting at that point in time.
 
-![ Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
+![Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
 
 ## Part 2: How to Chat in Google Meet Mobile App?
 
@@ -72,19 +72,19 @@ The first thing is first, join a Google Meet conference on your Google Meet mobi
 
 After you have joined the meeting, tap on the further options button located at the bottom of your screen. This is the button that has three dots on it.
 
-![ Google Meet chat mobile button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-more-options-button.jpg)
+![Google Meet chat mobile button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-more-options-button.jpg)
 
 When you press the further options button on Google Meet, more options will show up regarding subtitles, adding new participants to the meeting, and more. From all of these many options, you must select the “in-call messages” option, to enable private chatting on Google Meet.
 
-![ Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
+![Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
 
 After you click the option, your screen will show a text box pop-up on your entire screen. This is where you will type out a message or paste a link that you would like to share with other members of the Google Meet conference. Once you have typed a write up of the message that you would like to convey in the meeting, simply press send.
 
-![ Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
+![Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
 
 After you click send, the message/messages will be shared with all other participants in the meeting. Keep in mind you cannot delete messages on Google Meet, so send messages wisely. By using the chat feature individuals can get their message across to all the members in the meeting without disrupting the entire meeting itself. There is no need to unmute your microphone to communicate when you have the chat feature available to you as well.
 
-![ Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
+![Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
 
 ## Part 3: How to Create a Group Chat on Google Meet?
 
@@ -94,7 +94,7 @@ For this to work, first, go to Gmail and create a hangout group. To create a han
 
 After doing that, paste the email address of the participant that you would like to invite and add them to the hangout.
 
-![ create group chat on Google Meet  ](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
+![create group chat on Google Meet](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
 
 Following that, send them a hangouts link and enable video.
 
@@ -118,17 +118,17 @@ Simply join the meeting that you would like to become a part of.
 
 Once you have joined the Google Meet session, make your way over to the bottom right side of your screen and locate the speech bubble icon and click that.
 
-![ Google Meet chat option ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
+![Google Meet chat option](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
 After clicking on the speech bubble icon, a messaging window will open on the right side of your screen.
 
 From there go over to the messaging text box and right-click on your computer device for an additional options menu. No matter which device you are using, the first option in the additional menu will be that of emoticons and symbols.
 
-![ Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
+![Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
 
 Click the emoji and symbols option and a popup of all the emojis available on your device will appear on the screen, as shown in the image below.
 
-![ Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
+![Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
 
 ## Part 7: How to Turn off Google Meet Chat?
 
@@ -140,11 +140,11 @@ First, join a Google Meet session that you are hosting. Remember, to make use of
 
 After joining the session, make your way to the host settings of the meeting. To get to the host settings, click the “Meeting safety” button located on the bottom right-hand side of your screen.
 
-![ Google Meet security option](https://images.wondershare.com/filmora/article-images/google-meet-security-setting-option.jpg)
+![Google Meet security option](https://images.wondershare.com/filmora/article-images/google-meet-security-setting-option.jpg)
 
 A popup will appear on the right-hand side of your screen with options and settings. From these settings click on the “send chat messages” button to disable the chat feature.
 
-![ Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
+![Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
 
 ## Part 8: How to Retrieve Google Meet Chat History?
 
@@ -189,21 +189,21 @@ While using a laptop or desktop computer, using the chat feature is very easy. A
 
 Once you have joined the session, look towards the bottom right-hand side of your screen. Over there you will see numerous options, but do not get confused. Make your way over to the speech bubble sign, and click on that, as shown in the image below.
 
-![ Google Meet Chat Option  ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
+![Google Meet Chat Option](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
 Upon clicking the speech bubble, a chat window will open on the right-hand side of your screen. On the bottom of the window, there will be a blank text box.
 
-![ Google Meet in-call message  ](https://images.wondershare.com/filmora/article-images/google-meet-in-call-message-window.jpg)
+![Google Meet in-call message](https://images.wondershare.com/filmora/article-images/google-meet-in-call-message-window.jpg)
 
 Click on the blank text box and type the message that you would like to share.
 
-![ Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
+![Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
 
 After typing the message, in order to send it to all the participants in the meeting, click the send button. Another way of sending the message is simply by pressing the “Enter” key on your keyboard.
 
 As soon as you press the arrow, your message will be visible to all the members available in the meeting at that point in time.
 
-![ Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
+![Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
 
 ## Part 2: How to Chat in Google Meet Mobile App?
 
@@ -213,19 +213,19 @@ The first thing is first, join a Google Meet conference on your Google Meet mobi
 
 After you have joined the meeting, tap on the further options button located at the bottom of your screen. This is the button that has three dots on it.
 
-![ Google Meet chat mobile button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-more-options-button.jpg)
+![Google Meet chat mobile button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-more-options-button.jpg)
 
 When you press the further options button on Google Meet, more options will show up regarding subtitles, adding new participants to the meeting, and more. From all of these many options, you must select the “in-call messages” option, to enable private chatting on Google Meet.
 
-![ Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
+![Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
 
 After you click the option, your screen will show a text box pop-up on your entire screen. This is where you will type out a message or paste a link that you would like to share with other members of the Google Meet conference. Once you have typed a write up of the message that you would like to convey in the meeting, simply press send.
 
-![ Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
+![Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
 
 After you click send, the message/messages will be shared with all other participants in the meeting. Keep in mind you cannot delete messages on Google Meet, so send messages wisely. By using the chat feature individuals can get their message across to all the members in the meeting without disrupting the entire meeting itself. There is no need to unmute your microphone to communicate when you have the chat feature available to you as well.
 
-![ Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
+![Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
 
 ## Part 3: How to Create a Group Chat on Google Meet?
 
@@ -235,7 +235,7 @@ For this to work, first, go to Gmail and create a hangout group. To create a han
 
 After doing that, paste the email address of the participant that you would like to invite and add them to the hangout.
 
-![ create group chat on Google Meet  ](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
+![create group chat on Google Meet](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
 
 Following that, send them a hangouts link and enable video.
 
@@ -259,17 +259,17 @@ Simply join the meeting that you would like to become a part of.
 
 Once you have joined the Google Meet session, make your way over to the bottom right side of your screen and locate the speech bubble icon and click that.
 
-![ Google Meet chat option ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
+![Google Meet chat option](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
 After clicking on the speech bubble icon, a messaging window will open on the right side of your screen.
 
 From there go over to the messaging text box and right-click on your computer device for an additional options menu. No matter which device you are using, the first option in the additional menu will be that of emoticons and symbols.
 
-![ Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
+![Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
 
 Click the emoji and symbols option and a popup of all the emojis available on your device will appear on the screen, as shown in the image below.
 
-![ Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
+![Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
 
 ## Part 7: How to Turn off Google Meet Chat?
 
@@ -281,11 +281,11 @@ First, join a Google Meet session that you are hosting. Remember, to make use of
 
 After joining the session, make your way to the host settings of the meeting. To get to the host settings, click the “Meeting safety” button located on the bottom right-hand side of your screen.
 
-![ Google Meet security option](https://images.wondershare.com/filmora/article-images/google-meet-security-setting-option.jpg)
+![Google Meet security option](https://images.wondershare.com/filmora/article-images/google-meet-security-setting-option.jpg)
 
 A popup will appear on the right-hand side of your screen with options and settings. From these settings click on the “send chat messages” button to disable the chat feature.
 
-![ Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
+![Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
 
 ## Part 8: How to Retrieve Google Meet Chat History?
 
@@ -330,21 +330,21 @@ While using a laptop or desktop computer, using the chat feature is very easy. A
 
 Once you have joined the session, look towards the bottom right-hand side of your screen. Over there you will see numerous options, but do not get confused. Make your way over to the speech bubble sign, and click on that, as shown in the image below.
 
-![ Google Meet Chat Option  ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
+![Google Meet Chat Option](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
 Upon clicking the speech bubble, a chat window will open on the right-hand side of your screen. On the bottom of the window, there will be a blank text box.
 
-![ Google Meet in-call message  ](https://images.wondershare.com/filmora/article-images/google-meet-in-call-message-window.jpg)
+![Google Meet in-call message](https://images.wondershare.com/filmora/article-images/google-meet-in-call-message-window.jpg)
 
 Click on the blank text box and type the message that you would like to share.
 
-![ Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
+![Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
 
 After typing the message, in order to send it to all the participants in the meeting, click the send button. Another way of sending the message is simply by pressing the “Enter” key on your keyboard.
 
 As soon as you press the arrow, your message will be visible to all the members available in the meeting at that point in time.
 
-![ Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
+![Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
 
 ## Part 2: How to Chat in Google Meet Mobile App?
 
@@ -354,19 +354,19 @@ The first thing is first, join a Google Meet conference on your Google Meet mobi
 
 After you have joined the meeting, tap on the further options button located at the bottom of your screen. This is the button that has three dots on it.
 
-![ Google Meet chat mobile button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-more-options-button.jpg)
+![Google Meet chat mobile button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-more-options-button.jpg)
 
 When you press the further options button on Google Meet, more options will show up regarding subtitles, adding new participants to the meeting, and more. From all of these many options, you must select the “in-call messages” option, to enable private chatting on Google Meet.
 
-![ Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
+![Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
 
 After you click the option, your screen will show a text box pop-up on your entire screen. This is where you will type out a message or paste a link that you would like to share with other members of the Google Meet conference. Once you have typed a write up of the message that you would like to convey in the meeting, simply press send.
 
-![ Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
+![Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
 
 After you click send, the message/messages will be shared with all other participants in the meeting. Keep in mind you cannot delete messages on Google Meet, so send messages wisely. By using the chat feature individuals can get their message across to all the members in the meeting without disrupting the entire meeting itself. There is no need to unmute your microphone to communicate when you have the chat feature available to you as well.
 
-![ Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
+![Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
 
 ## Part 3: How to Create a Group Chat on Google Meet?
 
@@ -376,7 +376,7 @@ For this to work, first, go to Gmail and create a hangout group. To create a han
 
 After doing that, paste the email address of the participant that you would like to invite and add them to the hangout.
 
-![ create group chat on Google Meet  ](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
+![create group chat on Google Meet](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
 
 Following that, send them a hangouts link and enable video.
 
@@ -400,17 +400,17 @@ Simply join the meeting that you would like to become a part of.
 
 Once you have joined the Google Meet session, make your way over to the bottom right side of your screen and locate the speech bubble icon and click that.
 
-![ Google Meet chat option ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
+![Google Meet chat option](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
 After clicking on the speech bubble icon, a messaging window will open on the right side of your screen.
 
 From there go over to the messaging text box and right-click on your computer device for an additional options menu. No matter which device you are using, the first option in the additional menu will be that of emoticons and symbols.
 
-![ Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
+![Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
 
 Click the emoji and symbols option and a popup of all the emojis available on your device will appear on the screen, as shown in the image below.
 
-![ Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
+![Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
 
 ## Part 7: How to Turn off Google Meet Chat?
 
@@ -422,11 +422,11 @@ First, join a Google Meet session that you are hosting. Remember, to make use of
 
 After joining the session, make your way to the host settings of the meeting. To get to the host settings, click the “Meeting safety” button located on the bottom right-hand side of your screen.
 
-![ Google Meet security option](https://images.wondershare.com/filmora/article-images/google-meet-security-setting-option.jpg)
+![Google Meet security option](https://images.wondershare.com/filmora/article-images/google-meet-security-setting-option.jpg)
 
 A popup will appear on the right-hand side of your screen with options and settings. From these settings click on the “send chat messages” button to disable the chat feature.
 
-![ Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
+![Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
 
 ## Part 8: How to Retrieve Google Meet Chat History?
 
@@ -471,21 +471,21 @@ While using a laptop or desktop computer, using the chat feature is very easy. A
 
 Once you have joined the session, look towards the bottom right-hand side of your screen. Over there you will see numerous options, but do not get confused. Make your way over to the speech bubble sign, and click on that, as shown in the image below.
 
-![ Google Meet Chat Option  ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
+![Google Meet Chat Option](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
 Upon clicking the speech bubble, a chat window will open on the right-hand side of your screen. On the bottom of the window, there will be a blank text box.
 
-![ Google Meet in-call message  ](https://images.wondershare.com/filmora/article-images/google-meet-in-call-message-window.jpg)
+![Google Meet in-call message](https://images.wondershare.com/filmora/article-images/google-meet-in-call-message-window.jpg)
 
 Click on the blank text box and type the message that you would like to share.
 
-![ Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
+![Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
 
 After typing the message, in order to send it to all the participants in the meeting, click the send button. Another way of sending the message is simply by pressing the “Enter” key on your keyboard.
 
 As soon as you press the arrow, your message will be visible to all the members available in the meeting at that point in time.
 
-![ Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
+![Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
 
 ## Part 2: How to Chat in Google Meet Mobile App?
 
@@ -495,19 +495,19 @@ The first thing is first, join a Google Meet conference on your Google Meet mobi
 
 After you have joined the meeting, tap on the further options button located at the bottom of your screen. This is the button that has three dots on it.
 
-![ Google Meet chat mobile button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-more-options-button.jpg)
+![Google Meet chat mobile button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-more-options-button.jpg)
 
 When you press the further options button on Google Meet, more options will show up regarding subtitles, adding new participants to the meeting, and more. From all of these many options, you must select the “in-call messages” option, to enable private chatting on Google Meet.
 
-![ Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
+![Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
 
 After you click the option, your screen will show a text box pop-up on your entire screen. This is where you will type out a message or paste a link that you would like to share with other members of the Google Meet conference. Once you have typed a write up of the message that you would like to convey in the meeting, simply press send.
 
-![ Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
+![Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
 
 After you click send, the message/messages will be shared with all other participants in the meeting. Keep in mind you cannot delete messages on Google Meet, so send messages wisely. By using the chat feature individuals can get their message across to all the members in the meeting without disrupting the entire meeting itself. There is no need to unmute your microphone to communicate when you have the chat feature available to you as well.
 
-![ Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
+![Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
 
 ## Part 3: How to Create a Group Chat on Google Meet?
 
@@ -517,7 +517,7 @@ For this to work, first, go to Gmail and create a hangout group. To create a han
 
 After doing that, paste the email address of the participant that you would like to invite and add them to the hangout.
 
-![ create group chat on Google Meet  ](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
+![create group chat on Google Meet](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
 
 Following that, send them a hangouts link and enable video.
 
@@ -541,17 +541,17 @@ Simply join the meeting that you would like to become a part of.
 
 Once you have joined the Google Meet session, make your way over to the bottom right side of your screen and locate the speech bubble icon and click that.
 
-![ Google Meet chat option ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
+![Google Meet chat option](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
 After clicking on the speech bubble icon, a messaging window will open on the right side of your screen.
 
 From there go over to the messaging text box and right-click on your computer device for an additional options menu. No matter which device you are using, the first option in the additional menu will be that of emoticons and symbols.
 
-![ Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
+![Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
 
 Click the emoji and symbols option and a popup of all the emojis available on your device will appear on the screen, as shown in the image below.
 
-![ Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
+![Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
 
 ## Part 7: How to Turn off Google Meet Chat?
 
@@ -563,11 +563,11 @@ First, join a Google Meet session that you are hosting. Remember, to make use of
 
 After joining the session, make your way to the host settings of the meeting. To get to the host settings, click the “Meeting safety” button located on the bottom right-hand side of your screen.
 
-![ Google Meet security option](https://images.wondershare.com/filmora/article-images/google-meet-security-setting-option.jpg)
+![Google Meet security option](https://images.wondershare.com/filmora/article-images/google-meet-security-setting-option.jpg)
 
 A popup will appear on the right-hand side of your screen with options and settings. From these settings click on the “send chat messages” button to disable the chat feature.
 
-![ Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
+![Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
 
 ## Part 8: How to Retrieve Google Meet Chat History?
 

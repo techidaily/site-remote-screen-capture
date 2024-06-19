@@ -1,7 +1,7 @@
 ---
 title: "How to Record TV Shows on Windows PC with Free Video Recording Software?"
-date: 2024-05-19T23:33:36.255Z
-updated: 2024-05-20T23:33:36.255Z
+date: 2024-06-18T13:56:14.304Z
+updated: 2024-06-19T13:56:14.304Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Record TV Shows on Windows PC with Free Video Recording Software?"
 excerpt: "This Article Describes How to Record TV Shows on Windows PC with Free Video Recording Software?"
 keywords: "\"Windows TV Recording,Free TV Software,Windows Free Recorder,No-Cost TV Capture,Windows Video Record,Free TV Show Capture,PC TV Screen Recording\""
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## Get Smart: Capturing Your Screen in Minutes
@@ -90,7 +90,7 @@ Hold the Windows and G keys to launch the game bar, and after you've selected th
 
 Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
 
-#### 1. [MediaPortal](https://www.team-mediaportal.com/)
+#### 1. MediaPortal
 
 **Pros:** Provides fast and simple ways to record live TV.
 
@@ -100,7 +100,7 @@ This open source application ranks highly among the best TV recording software c
 
 In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
 
-#### 2. [NextPVR](http://www.nextpvr.com/)
+#### 2. NextPVR
 
 **Pros:** A wide spectrum of recording options.
 
@@ -187,7 +187,7 @@ Hold the Windows and G keys to launch the game bar, and after you've selected th
 
 Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
 
-#### 1. [MediaPortal](https://www.team-mediaportal.com/)
+#### 1. MediaPortal
 
 **Pros:** Provides fast and simple ways to record live TV.
 
@@ -197,7 +197,7 @@ This open source application ranks highly among the best TV recording software c
 
 In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
 
-#### 2. [NextPVR](http://www.nextpvr.com/)
+#### 2. NextPVR
 
 **Pros:** A wide spectrum of recording options.
 
@@ -284,7 +284,7 @@ Hold the Windows and G keys to launch the game bar, and after you've selected th
 
 Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
 
-#### 1. [MediaPortal](https://www.team-mediaportal.com/)
+#### 1. MediaPortal
 
 **Pros:** Provides fast and simple ways to record live TV.
 
@@ -294,7 +294,7 @@ This open source application ranks highly among the best TV recording software c
 
 In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
 
-#### 2. [NextPVR](http://www.nextpvr.com/)
+#### 2. NextPVR
 
 **Pros:** A wide spectrum of recording options.
 
@@ -381,7 +381,7 @@ Hold the Windows and G keys to launch the game bar, and after you've selected th
 
 Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
 
-#### 1. [MediaPortal](https://www.team-mediaportal.com/)
+#### 1. MediaPortal
 
 **Pros:** Provides fast and simple ways to record live TV.
 
@@ -391,7 +391,7 @@ This open source application ranks highly among the best TV recording software c
 
 In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
 
-#### 2. [NextPVR](http://www.nextpvr.com/)
+#### 2. NextPVR
 
 **Pros:** A wide spectrum of recording options.
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, The Best Open-Source Screen Recorders\""
-date: 2024-05-18T13:31:18.518Z
-updated: 2024-05-19T13:31:18.518Z
+date: 2024-06-18T13:56:13.738Z
+updated: 2024-06-19T13:56:13.738Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, The Best Open-Source Screen Recorders\""
 excerpt: "\"This Article Describes In 2024, The Best Open-Source Screen Recorders\""
 keywords: "Free Recorder Tools,OSS Screen Capture,NoCost Video Tools,Open Source VidRecord,Costless ScreenSave,OpenCapture Software,OpenRec Screencap"
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## The Best Open-Source Screen Recorders

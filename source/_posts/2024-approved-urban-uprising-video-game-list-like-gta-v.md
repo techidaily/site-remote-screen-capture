@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Urban Uprising  Video Game List Like GTA V\""
-date: 2024-05-19T23:33:12.007Z
-updated: 2024-05-20T23:33:12.007Z
+date: 2024-06-18T13:56:15.332Z
+updated: 2024-06-19T13:56:15.332Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Urban Uprising: Video Game List Like GTA V\""
 excerpt: "\"This Article Describes 2024 Approved: Urban Uprising: Video Game List Like GTA V\""
 keywords: "\"GTA Uprising Games,Urban Game Listings,Virtual Rebellions,GTA Series Events,City-Based Video Titles,Games with Urban Themes,Next-Gen GTA List\""
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## Urban Uprising: Video Game List Like GTA V

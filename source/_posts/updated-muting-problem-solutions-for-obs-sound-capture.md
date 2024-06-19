@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Muting Problem Solutions for OBS Sound Capture"
-date: 2024-05-18T13:36:03.622Z
-updated: 2024-05-19T13:36:03.622Z
+date: 2024-06-18T13:56:05.448Z
+updated: 2024-06-19T13:56:05.448Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Muting Problem Solutions for OBS Sound Capture"
 excerpt: "This Article Describes [Updated] Muting Problem Solutions for OBS Sound Capture"
 keywords: "Playthrough Capture Tips,Easy Recording Techniques,Streamplaying Guide,Gameplay Screen Grabs,Simplified Video Recording,Quickplay Save Methods,Smooth Gameplay Saves"
-thumbnail: https://www.lifewire.com/thmb/gzHpHKbSd5o6D_hdSTFod8z3AV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-769729481-5bd367dcc9e77c007c015257.jpg
+thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
 ## Muting Problem Solutions for OBS Sound Capture

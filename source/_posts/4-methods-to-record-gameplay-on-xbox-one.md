@@ -1,7 +1,7 @@
 ---
 title: "4 Methods to Record Gameplay on Xbox One"
-date: 2024-05-19T23:34:06.996Z
-updated: 2024-05-20T23:34:06.996Z
+date: 2024-06-18T13:56:02.966Z
+updated: 2024-06-19T13:56:02.966Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes 4 Methods to Record Gameplay on Xbox One"
 excerpt: "This Article Describes 4 Methods to Record Gameplay on Xbox One"
 keywords: "Xbox Gameplay Recording,Xbox Playback Tactics,Xbox Live Gaming Capture,Xbox Console Screen Recorder,Xbox One Gameplay Logs,Xbox Recordings Techniques,Xbox Screencasting Methods"
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## How to Record Gameplay on Xbox One

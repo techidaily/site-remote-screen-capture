@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Iconic Open World Games to Commit To\""
-date: 2024-05-18T13:15:00.003Z
-updated: 2024-05-19T13:15:00.003Z
+date: 2024-06-18T13:56:00.475Z
+updated: 2024-06-19T13:56:00.475Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Iconic Open World Games to Commit To\""
 excerpt: "\"This Article Describes 2024 Approved: Iconic Open World Games to Commit To\""
 keywords: "\"Iconic OPWGs List,Epic Open World Gaming,Must-Play OPWGs,OPWG Classics,Top OPWGs Guide,Essential OpenWorld Games,Key OPWGs Titles\""
-thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
 ---
 
 ## Iconic Open World Games to Commit To

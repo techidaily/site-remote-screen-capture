@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Mastering the Craft of Digital Cinematography with iPad"
-date: 2024-05-19T23:34:09.987Z
-updated: 2024-05-20T23:34:09.987Z
+date: 2024-06-18T13:56:08.872Z
+updated: 2024-06-19T13:56:08.872Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Mastering the Craft of Digital Cinematography with iPad"
 excerpt: "This Article Describes [Updated] In 2024, Mastering the Craft of Digital Cinematography with iPad"
 keywords: "Minecraft MacRecorder,Mac OS Game Sync,Audio Capture Mojang,MacGaming Recordings,Screencasting Mincraft,Minecraft Creative Mode Recording,IOS vs Mac Gaming Capture"
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## Mastering the Craft of Digital Cinematography with iPad

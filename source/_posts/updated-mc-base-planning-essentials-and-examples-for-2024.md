@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] MC Base Planning  Essentials & Examples for 2024\""
-date: 2024-05-19T23:33:53.369Z
-updated: 2024-05-20T23:33:53.369Z
+date: 2024-06-18T13:56:08.461Z
+updated: 2024-06-19T13:56:08.461Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] MC Base Planning: Essentials & Examples for 2024\""
 excerpt: "\"This Article Describes [Updated] MC Base Planning: Essentials & Examples for 2024\""
 keywords: "MC Base Planning Basics,Essential MC Base Strategies,Planning MC Base Elements,MC Base Fundamentals Guide,Basic MC Base Examples,Core MC Base Techniques,Key Components of MC Base Design"
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## MC Base Planning: Essentials & Examples

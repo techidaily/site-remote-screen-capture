@@ -1,7 +1,7 @@
 ---
 title: "\"A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings for 2024\""
-date: 2024-05-18T13:37:22.835Z
-updated: 2024-05-19T13:37:22.835Z
+date: 2024-06-18T13:56:07.247Z
+updated: 2024-06-19T13:56:07.247Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings for 2024\""
 excerpt: "\"This Article Describes A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings for 2024\""
 keywords: "\"Slack Meeting Planner,Record On-Demand Meetings,Schedule Slack Sessions,Guide to Slack Recording,Demand Meeting Scheduling,On-Demand Slack Guide,Step-by-Step Slack Meeting\""
-thumbnail: https://www.lifewire.com/thmb/VhWXwk4rULRvURLd-ts4rpfPSxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1250476440-2ff779100e984029aa752236f9791b11.jpg
+thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653067a4110ec11928ef11818a.jpg
 ---
 
 ## A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings

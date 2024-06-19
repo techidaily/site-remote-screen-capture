@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Illuminated Insights  Best Practices for Nighttime Portraiture for 2024\""
-date: 2024-05-18T13:30:25.076Z
-updated: 2024-05-19T13:30:25.076Z
+date: 2024-06-18T13:56:15.843Z
+updated: 2024-06-19T13:56:15.843Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Illuminated Insights: Best Practices for Nighttime Portraiture for 2024\""
 excerpt: "\"This Article Describes [New] Illuminated Insights: Best Practices for Nighttime Portraiture for 2024\""
 keywords: "Corporate Screencasts,Screencast Training,Effective Learning Tech,Skill Share Methods,Best Practice Training,Impactful Learner Techniques,Profit Through Education"
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## Illuminated Insights: Best Practices for Nighttime Portraiture

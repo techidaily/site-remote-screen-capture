@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Essential Filmmaker's Toolkit  A Guide to Audio Recording for 2024\""
-date: 2024-05-19T23:33:48.728Z
-updated: 2024-05-20T23:33:48.728Z
+date: 2024-06-18T13:56:09.522Z
+updated: 2024-06-19T13:56:09.522Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] The Essential Filmmaker's Toolkit: A Guide to Audio Recording for 2024\""
 excerpt: "\"This Article Describes [New] The Essential Filmmaker's Toolkit: A Guide to Audio Recording for 2024\""
 keywords: "FilmMakingAudioTool,EssentialFilmRecordingKit,AudioGuideForDirectors,SoundCaptureBasics,DirectorAudioTools,RecordingTechniquesEssay,AudioDevicesFilmmaker"
-thumbnail: https://www.lifewire.com/thmb/eyPEW_zh-5Xw0J7hoJ-kChdCQ1M=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-transfer-data-from-ps4-to-ps5-3392eb400af3482fabad65cabb2a1a91.jpg
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
 ---
 
 ## The Essential Filmmaker's Toolkit: A Guide to Audio Recording
