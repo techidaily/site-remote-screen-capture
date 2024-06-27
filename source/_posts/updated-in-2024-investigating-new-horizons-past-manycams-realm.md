@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Investigating New Horizons Past ManyCam's Realm"
-date: 2024-05-18T13:14:25.730Z
-updated: 2024-05-19T13:14:25.730Z
+date: 2024-06-26T03:39:23.049Z
+updated: 2024-06-27T03:39:23.049Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Investigating New Horizons Past ManyCam's Realm"
 excerpt: "This Article Describes [Updated] In 2024, Investigating New Horizons Past ManyCam's Realm"
 keywords: "Space Exploration Research,ManyCams Universe Study,Future Space Missions,Intergalactic Scope Analysis,New Horizons Impact Review,Astrophysics Investigations,Realm Beyond Earth Reports"
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## Investigating New Horizons Past ManyCam's Realm

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Tips  Solve OBS's Blackout During Live Captures\""
-date: 2024-05-18T13:43:06.441Z
-updated: 2024-05-19T13:43:06.441Z
+date: 2024-06-26T03:39:14.725Z
+updated: 2024-06-27T03:39:14.725Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Quick Tips: Solve OBS's Blackout During Live Captures\""
 excerpt: "\"This Article Describes [Updated] Quick Tips: Solve OBS's Blackout During Live Captures\""
 keywords: "Live OBS Blackouts,Fixing Live Capture Issues,OBS Outage Solutions,Quick Fix OBS Problems,Prevent OBS Blackout,OBS Live Blackout Tips,Troubleshoot OBS During Captures"
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## Quick Tips: Solve OBS's Blackout During Live Captures

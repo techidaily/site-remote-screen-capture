@@ -1,7 +1,7 @@
 ---
 title: "Comprehensible Guide to Documenting Live Sports Events"
-date: 2024-05-18T13:45:28.408Z
-updated: 2024-05-19T13:45:28.408Z
+date: 2024-06-26T03:39:13.046Z
+updated: 2024-06-27T03:39:13.046Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Comprehensible Guide to Documenting Live Sports Events"
 excerpt: "This Article Describes Comprehensible Guide to Documenting Live Sports Events"
 keywords: "\"Sport Event Recording,Live Sports Guidebook,Sports DocuTech,Real-Time Game Script,Streaming Sports Logs,Play-by-Play Documentation,Sports Event Coverage Tips\""
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## Comprehensible Guide to Documenting Live Sports Events

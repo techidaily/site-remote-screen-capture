@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Best OBS Settings for Low-End PCs\""
-date: 2024-05-18T13:29:02.828Z
-updated: 2024-05-19T13:29:02.828Z
+date: 2024-06-26T03:39:22.040Z
+updated: 2024-06-27T03:39:22.040Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Best OBS Settings for Low-End PCs\""
 excerpt: "\"This Article Describes [Updated] In 2024, Best OBS Settings for Low-End PCs\""
 keywords: "\"Low-End PC Optimized OBS,Budget PC Broadcasting Guide,Affordable OBS Configuration,Efficient OBS for Basic PCs,Economical Live Stream Setup,Cost-Effective OBS Settings,Optimal OBS Low-End Systems\""
-thumbnail: https://www.lifewire.com/thmb/bBM9LsJLxfsckFRQQI91FGiTONA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-reddit-apps-arent-working-f4c8fe50a9ff4c90a28e6a056b427208.jpg
+thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45f3ba370acbb24c0cc43ac69.jpg
 ---
 
 ## Best OBS Settings for Low-End PCs
@@ -85,9 +85,7 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
-### Step 2: Audio Tab Settings
-
-![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
+### Step 2: Audio Tab Settings ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 

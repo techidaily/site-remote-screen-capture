@@ -1,7 +1,7 @@
 ---
 title: "Mastering Live Game Capture on Xbox One"
-date: 2024-05-18T13:14:43.542Z
-updated: 2024-05-19T13:14:43.542Z
+date: 2024-06-26T03:39:19.693Z
+updated: 2024-06-27T03:39:19.693Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Mastering Live Game Capture on Xbox One"
 excerpt: "This Article Describes Mastering Live Game Capture on Xbox One"
 keywords: "\"Xbox Live Recording,Gaming Stream Tech,One X Capture Methods,Console Game Recordings,Xbox Save Vids,Playthrough Taping,Real-Time Game Screening\""
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Mastering Live Game Capture on Xbox One

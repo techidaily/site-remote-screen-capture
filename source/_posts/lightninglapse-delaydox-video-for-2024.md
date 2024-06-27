@@ -1,7 +1,7 @@
 ---
 title: "LightningLapse DelayDox Video for 2024"
-date: 2024-05-18T13:45:31.083Z
-updated: 2024-05-19T13:45:31.083Z
+date: 2024-06-26T03:39:13.099Z
+updated: 2024-06-27T03:39:13.099Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes LightningLapse DelayDox Video for 2024"
 excerpt: "This Article Describes LightningLapse DelayDox Video for 2024"
 keywords: "\"Mute Video Guide,Noise-Free Recordings,Silent Capture Tricks,Clear Audio Videos,Muted Video Techniques,Quieting Screen Playback,Soundless Video Tips\""
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## LightningLapse DelayDox Video

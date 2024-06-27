@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Clear Conferencing Backdrops  Blurring for Better Presence for 2024\""
-date: 2024-05-18T13:36:57.101Z
-updated: 2024-05-19T13:36:57.101Z
+date: 2024-06-26T03:39:16.250Z
+updated: 2024-06-27T03:39:16.250Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Clear Conferencing Backdrops: Blurring for Better Presence for 2024\""
 excerpt: "\"This Article Describes [New] Clear Conferencing Backdrops: Blurring for Better Presence for 2024\""
 keywords: "Clear Conference Bg,Blur Backgrounds,Focus Meeting Backdrop,Professional Bgs,Clean Conferencing Scene,Improve Presence Backdrop,Online Meet Backdrop"
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Clear Conferencing Backdrops: Blurring for Better Presence
@@ -59,13 +59,13 @@ Launch Microsoft Teams, and make sure that the **Chat** icon is selected in the 
 
 On the **Meeting with** box, make sure that the **Video** and **Audio** switches present under the preview screen are enabled. Turn them on if they’re disabled. Next, click the **Background effects** (**Person**) icon from under the preview screen.
 
-![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/microsoft-teams-blur-background-option.jpg)
+![Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/microsoft-teams-blur-background-option.jpg)
 
 **Step 3: Blur the Background before video call starts**
 
 From the **Background settings** pane that appears next, and click to select the **Blur** tile. After this, you can safely click the **Join now** button to start a Teams video meeting with the blurred background.
 
-![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/blur-video-background-microsoft-teams.jpg)
+![Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/blur-video-background-microsoft-teams.jpg)
 
 **Note:** While using other operating systems/laptops like Linux, Chromebook, etc., the process of blurring the background before a video call is identical. This means all you need to do is, initiate a new video meeting, click the **Background effects** (**Person**) icon from under the preview screen, and select the **Blur** tile before clicking the **Join now** button.
 
@@ -77,7 +77,7 @@ If you started or joined a Teams meeting without blurring the background, and wa
 
 During an ongoing video call, click **More actions** from the upper-right area of the meeting window, and click **Apply background effects** from the menu that comes down.
 
-![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
+![blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
 
 **Step 2: Blur Background during the video call**
 
@@ -87,7 +87,7 @@ When the **Background settings** pane opens on the right of the window, click to
 
 From the bottom of the **Background settings** pane, click **Apply** to blur the background. Optionally, you can click **Preview** to see how the screen would look upon blurring, and apply the changes only when you are satisfied with the output.
 
-![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/blur-microsoft-teams-video-background-during-meeting.jpg)
+![blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/blur-microsoft-teams-video-background-during-meeting.jpg)
 
 ## Part 2: How to Blur Background on Teams on a MacBook Pro Before or During a Video Call?
 
@@ -101,13 +101,13 @@ The steps that are given below explain **how to blur background on Teams** befor
 
 Launch Microsoft Teams on your Mac computer, make sure that the **Chat** section is selected in the left pane of the main interface, click the **New Meeting** (**Camcorder**) icon from the top-right area of the **Chat** pane, and click **Start meeting** on the **Meeting name** box that opens next.
 
-![ start Microsoft Teams video call on Mac](https://images.wondershare.com/filmora/article-images/start-video-call-teams-mac.jpg)
+![start Microsoft Teams video call on Mac](https://images.wondershare.com/filmora/article-images/start-video-call-teams-mac.jpg)
 
 **Step 2: Blur the Background before the video call starting**
 
 On the **Meeting with** box, from under the preview screen, turn on the **Video** and **Audio** switches if not already enabled. Click the **Background effects** (**Person**) icon present next to the **Video** and **Audio** switches, and click to select the **Blur** tile from the **Background settings** pane that appears on the right.
 
-![ Microsoft Teams Mac blur background](https://images.wondershare.com/filmora/article-images/microsoft-teams-mac-background-effect-blur.jpg)
+![Microsoft Teams Mac blur background](https://images.wondershare.com/filmora/article-images/microsoft-teams-mac-background-effect-blur.jpg)
 
 **Step 3: Start or Join the Meeting**
 
@@ -125,13 +125,13 @@ Use the method explained earlier to get to the **Meeting with** screen, and clic
 
 During a video call, click the **More actions** icon from the top-right area of the screen, and click **Apply background effects** from the menu that comes down next.
 
-![ Microsoft Teams Mac apply  background effect](https://images.wondershare.com/filmora/article-images/apply-background-effect-blur-on-microsoft-teams-mac.jpg)
+![Microsoft Teams Mac apply  background effect](https://images.wondershare.com/filmora/article-images/apply-background-effect-blur-on-microsoft-teams-mac.jpg)
 
 **Step 3: Blur the Background during a video call on Mac**
 
 When the **Background settings** pane appears on the left, click to select the **Blur** tile, and click **Apply** from the bottom of the pane. Optionally, you can also click **Preview** from the bottom to see how would the blurred background look to the attendees before applying the changes.
 
-![ Microsoft Teams Mac blur background during call](https://images.wondershare.com/filmora/article-images/blur-background-during-teams-video-call-mac.jpg)
+![Microsoft Teams Mac blur background during call](https://images.wondershare.com/filmora/article-images/blur-background-during-teams-video-call-mac.jpg)
 
 ## Part 3: How to Blur Background in Teams Mobile App Before or During a Video Call?
 
@@ -147,13 +147,13 @@ Launch Microsoft Teams on your iPhone or iPad, ensure that the **Chat** icon is 
 
 On the next screen, tap to enable both **Video** and **Audio** functions from the bottom, tap the **More actions** icon, and then tap **Background effects** from the box that comes up.
 
-![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
+![blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
 **Step 3: Blur the Background**
 
 On the **Select background** screen, tap **Blur** from the options available in the box at the bottom, and tap **Done** from the top-right corner to apply the changes.
 
-![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/blur-teams-video-call-background-iphone.jpg)
+![blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/blur-teams-video-call-background-iphone.jpg)
 
 ## FAQs about Blur Teams Meeting Background
 
@@ -180,13 +180,13 @@ If you have recorded the Teams video call during the meet and want to blur the b
 
 Import your video to Filmora track, and then go to Effects – Utility, you will find tilt-shift linear and tilt-shift circle. Here I will choose the tilt-shift circle effect to blur the background.
 
-![ blur Microsoft Teams  video background with Filmora ](https://images.wondershare.com/filmora/article-images/tilt-shift-circle-effect-blur-background.jpg)
+![blur Microsoft Teams  video background with Filmora](https://images.wondershare.com/filmora/article-images/tilt-shift-circle-effect-blur-background.jpg)
 
 Double click the video in the timeline, and go to video effect, here you can adjust the intensity, position, and size.
 
 What’s more, if you want to [remove the background and replace it with a new one](https://tools.techidaily.com/wondershare/filmora/download/), you can try the Human Segmentation under AI Portrait. This feature works even the background is not a green screen.
 
-![ remove and change  Microsoft Teams  video background in  Filmora ](https://images.wondershare.com/filmora/article-images/remove-change-teams-video-background.jpg)
+![remove and change  Microsoft Teams  video background in  Filmora](https://images.wondershare.com/filmora/article-images/remove-change-teams-video-background.jpg)
 
 Check the video below to find out more creative usage of the Human Segmentation effect:
 
@@ -238,13 +238,13 @@ Launch Microsoft Teams, and make sure that the **Chat** icon is selected in the 
 
 On the **Meeting with** box, make sure that the **Video** and **Audio** switches present under the preview screen are enabled. Turn them on if they’re disabled. Next, click the **Background effects** (**Person**) icon from under the preview screen.
 
-![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/microsoft-teams-blur-background-option.jpg)
+![Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/microsoft-teams-blur-background-option.jpg)
 
 **Step 3: Blur the Background before video call starts**
 
 From the **Background settings** pane that appears next, and click to select the **Blur** tile. After this, you can safely click the **Join now** button to start a Teams video meeting with the blurred background.
 
-![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/blur-video-background-microsoft-teams.jpg)
+![Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/blur-video-background-microsoft-teams.jpg)
 
 **Note:** While using other operating systems/laptops like Linux, Chromebook, etc., the process of blurring the background before a video call is identical. This means all you need to do is, initiate a new video meeting, click the **Background effects** (**Person**) icon from under the preview screen, and select the **Blur** tile before clicking the **Join now** button.
 
@@ -256,7 +256,7 @@ If you started or joined a Teams meeting without blurring the background, and wa
 
 During an ongoing video call, click **More actions** from the upper-right area of the meeting window, and click **Apply background effects** from the menu that comes down.
 
-![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
+![blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
 
 **Step 2: Blur Background during the video call**
 
@@ -266,7 +266,7 @@ When the **Background settings** pane opens on the right of the window, click to
 
 From the bottom of the **Background settings** pane, click **Apply** to blur the background. Optionally, you can click **Preview** to see how the screen would look upon blurring, and apply the changes only when you are satisfied with the output.
 
-![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/blur-microsoft-teams-video-background-during-meeting.jpg)
+![blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/blur-microsoft-teams-video-background-during-meeting.jpg)
 
 ## Part 2: How to Blur Background on Teams on a MacBook Pro Before or During a Video Call?
 
@@ -280,13 +280,13 @@ The steps that are given below explain **how to blur background on Teams** befor
 
 Launch Microsoft Teams on your Mac computer, make sure that the **Chat** section is selected in the left pane of the main interface, click the **New Meeting** (**Camcorder**) icon from the top-right area of the **Chat** pane, and click **Start meeting** on the **Meeting name** box that opens next.
 
-![ start Microsoft Teams video call on Mac](https://images.wondershare.com/filmora/article-images/start-video-call-teams-mac.jpg)
+![start Microsoft Teams video call on Mac](https://images.wondershare.com/filmora/article-images/start-video-call-teams-mac.jpg)
 
 **Step 2: Blur the Background before the video call starting**
 
 On the **Meeting with** box, from under the preview screen, turn on the **Video** and **Audio** switches if not already enabled. Click the **Background effects** (**Person**) icon present next to the **Video** and **Audio** switches, and click to select the **Blur** tile from the **Background settings** pane that appears on the right.
 
-![ Microsoft Teams Mac blur background](https://images.wondershare.com/filmora/article-images/microsoft-teams-mac-background-effect-blur.jpg)
+![Microsoft Teams Mac blur background](https://images.wondershare.com/filmora/article-images/microsoft-teams-mac-background-effect-blur.jpg)
 
 **Step 3: Start or Join the Meeting**
 
@@ -304,13 +304,13 @@ Use the method explained earlier to get to the **Meeting with** screen, and clic
 
 During a video call, click the **More actions** icon from the top-right area of the screen, and click **Apply background effects** from the menu that comes down next.
 
-![ Microsoft Teams Mac apply  background effect](https://images.wondershare.com/filmora/article-images/apply-background-effect-blur-on-microsoft-teams-mac.jpg)
+![Microsoft Teams Mac apply  background effect](https://images.wondershare.com/filmora/article-images/apply-background-effect-blur-on-microsoft-teams-mac.jpg)
 
 **Step 3: Blur the Background during a video call on Mac**
 
 When the **Background settings** pane appears on the left, click to select the **Blur** tile, and click **Apply** from the bottom of the pane. Optionally, you can also click **Preview** from the bottom to see how would the blurred background look to the attendees before applying the changes.
 
-![ Microsoft Teams Mac blur background during call](https://images.wondershare.com/filmora/article-images/blur-background-during-teams-video-call-mac.jpg)
+![Microsoft Teams Mac blur background during call](https://images.wondershare.com/filmora/article-images/blur-background-during-teams-video-call-mac.jpg)
 
 ## Part 3: How to Blur Background in Teams Mobile App Before or During a Video Call?
 
@@ -326,13 +326,13 @@ Launch Microsoft Teams on your iPhone or iPad, ensure that the **Chat** icon is 
 
 On the next screen, tap to enable both **Video** and **Audio** functions from the bottom, tap the **More actions** icon, and then tap **Background effects** from the box that comes up.
 
-![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
+![blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
 **Step 3: Blur the Background**
 
 On the **Select background** screen, tap **Blur** from the options available in the box at the bottom, and tap **Done** from the top-right corner to apply the changes.
 
-![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/blur-teams-video-call-background-iphone.jpg)
+![blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/blur-teams-video-call-background-iphone.jpg)
 
 ## FAQs about Blur Teams Meeting Background
 
@@ -359,13 +359,13 @@ If you have recorded the Teams video call during the meet and want to blur the b
 
 Import your video to Filmora track, and then go to Effects – Utility, you will find tilt-shift linear and tilt-shift circle. Here I will choose the tilt-shift circle effect to blur the background.
 
-![ blur Microsoft Teams  video background with Filmora ](https://images.wondershare.com/filmora/article-images/tilt-shift-circle-effect-blur-background.jpg)
+![blur Microsoft Teams  video background with Filmora](https://images.wondershare.com/filmora/article-images/tilt-shift-circle-effect-blur-background.jpg)
 
 Double click the video in the timeline, and go to video effect, here you can adjust the intensity, position, and size.
 
 What’s more, if you want to [remove the background and replace it with a new one](https://tools.techidaily.com/wondershare/filmora/download/), you can try the Human Segmentation under AI Portrait. This feature works even the background is not a green screen.
 
-![ remove and change  Microsoft Teams  video background in  Filmora ](https://images.wondershare.com/filmora/article-images/remove-change-teams-video-background.jpg)
+![remove and change  Microsoft Teams  video background in  Filmora](https://images.wondershare.com/filmora/article-images/remove-change-teams-video-background.jpg)
 
 Check the video below to find out more creative usage of the Human Segmentation effect:
 
@@ -417,13 +417,13 @@ Launch Microsoft Teams, and make sure that the **Chat** icon is selected in the 
 
 On the **Meeting with** box, make sure that the **Video** and **Audio** switches present under the preview screen are enabled. Turn them on if they’re disabled. Next, click the **Background effects** (**Person**) icon from under the preview screen.
 
-![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/microsoft-teams-blur-background-option.jpg)
+![Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/microsoft-teams-blur-background-option.jpg)
 
 **Step 3: Blur the Background before video call starts**
 
 From the **Background settings** pane that appears next, and click to select the **Blur** tile. After this, you can safely click the **Join now** button to start a Teams video meeting with the blurred background.
 
-![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/blur-video-background-microsoft-teams.jpg)
+![Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/blur-video-background-microsoft-teams.jpg)
 
 **Note:** While using other operating systems/laptops like Linux, Chromebook, etc., the process of blurring the background before a video call is identical. This means all you need to do is, initiate a new video meeting, click the **Background effects** (**Person**) icon from under the preview screen, and select the **Blur** tile before clicking the **Join now** button.
 
@@ -435,7 +435,7 @@ If you started or joined a Teams meeting without blurring the background, and wa
 
 During an ongoing video call, click **More actions** from the upper-right area of the meeting window, and click **Apply background effects** from the menu that comes down.
 
-![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
+![blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
 
 **Step 2: Blur Background during the video call**
 
@@ -445,7 +445,7 @@ When the **Background settings** pane opens on the right of the window, click to
 
 From the bottom of the **Background settings** pane, click **Apply** to blur the background. Optionally, you can click **Preview** to see how the screen would look upon blurring, and apply the changes only when you are satisfied with the output.
 
-![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/blur-microsoft-teams-video-background-during-meeting.jpg)
+![blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/blur-microsoft-teams-video-background-during-meeting.jpg)
 
 ## Part 2: How to Blur Background on Teams on a MacBook Pro Before or During a Video Call?
 
@@ -459,13 +459,13 @@ The steps that are given below explain **how to blur background on Teams** befor
 
 Launch Microsoft Teams on your Mac computer, make sure that the **Chat** section is selected in the left pane of the main interface, click the **New Meeting** (**Camcorder**) icon from the top-right area of the **Chat** pane, and click **Start meeting** on the **Meeting name** box that opens next.
 
-![ start Microsoft Teams video call on Mac](https://images.wondershare.com/filmora/article-images/start-video-call-teams-mac.jpg)
+![start Microsoft Teams video call on Mac](https://images.wondershare.com/filmora/article-images/start-video-call-teams-mac.jpg)
 
 **Step 2: Blur the Background before the video call starting**
 
 On the **Meeting with** box, from under the preview screen, turn on the **Video** and **Audio** switches if not already enabled. Click the **Background effects** (**Person**) icon present next to the **Video** and **Audio** switches, and click to select the **Blur** tile from the **Background settings** pane that appears on the right.
 
-![ Microsoft Teams Mac blur background](https://images.wondershare.com/filmora/article-images/microsoft-teams-mac-background-effect-blur.jpg)
+![Microsoft Teams Mac blur background](https://images.wondershare.com/filmora/article-images/microsoft-teams-mac-background-effect-blur.jpg)
 
 **Step 3: Start or Join the Meeting**
 
@@ -483,13 +483,13 @@ Use the method explained earlier to get to the **Meeting with** screen, and clic
 
 During a video call, click the **More actions** icon from the top-right area of the screen, and click **Apply background effects** from the menu that comes down next.
 
-![ Microsoft Teams Mac apply  background effect](https://images.wondershare.com/filmora/article-images/apply-background-effect-blur-on-microsoft-teams-mac.jpg)
+![Microsoft Teams Mac apply  background effect](https://images.wondershare.com/filmora/article-images/apply-background-effect-blur-on-microsoft-teams-mac.jpg)
 
 **Step 3: Blur the Background during a video call on Mac**
 
 When the **Background settings** pane appears on the left, click to select the **Blur** tile, and click **Apply** from the bottom of the pane. Optionally, you can also click **Preview** from the bottom to see how would the blurred background look to the attendees before applying the changes.
 
-![ Microsoft Teams Mac blur background during call](https://images.wondershare.com/filmora/article-images/blur-background-during-teams-video-call-mac.jpg)
+![Microsoft Teams Mac blur background during call](https://images.wondershare.com/filmora/article-images/blur-background-during-teams-video-call-mac.jpg)
 
 ## Part 3: How to Blur Background in Teams Mobile App Before or During a Video Call?
 
@@ -505,13 +505,13 @@ Launch Microsoft Teams on your iPhone or iPad, ensure that the **Chat** icon is 
 
 On the next screen, tap to enable both **Video** and **Audio** functions from the bottom, tap the **More actions** icon, and then tap **Background effects** from the box that comes up.
 
-![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
+![blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
 **Step 3: Blur the Background**
 
 On the **Select background** screen, tap **Blur** from the options available in the box at the bottom, and tap **Done** from the top-right corner to apply the changes.
 
-![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/blur-teams-video-call-background-iphone.jpg)
+![blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/blur-teams-video-call-background-iphone.jpg)
 
 ## FAQs about Blur Teams Meeting Background
 
@@ -538,13 +538,13 @@ If you have recorded the Teams video call during the meet and want to blur the b
 
 Import your video to Filmora track, and then go to Effects – Utility, you will find tilt-shift linear and tilt-shift circle. Here I will choose the tilt-shift circle effect to blur the background.
 
-![ blur Microsoft Teams  video background with Filmora ](https://images.wondershare.com/filmora/article-images/tilt-shift-circle-effect-blur-background.jpg)
+![blur Microsoft Teams  video background with Filmora](https://images.wondershare.com/filmora/article-images/tilt-shift-circle-effect-blur-background.jpg)
 
 Double click the video in the timeline, and go to video effect, here you can adjust the intensity, position, and size.
 
 What’s more, if you want to [remove the background and replace it with a new one](https://tools.techidaily.com/wondershare/filmora/download/), you can try the Human Segmentation under AI Portrait. This feature works even the background is not a green screen.
 
-![ remove and change  Microsoft Teams  video background in  Filmora ](https://images.wondershare.com/filmora/article-images/remove-change-teams-video-background.jpg)
+![remove and change  Microsoft Teams  video background in  Filmora](https://images.wondershare.com/filmora/article-images/remove-change-teams-video-background.jpg)
 
 Check the video below to find out more creative usage of the Human Segmentation effect:
 
@@ -596,13 +596,13 @@ Launch Microsoft Teams, and make sure that the **Chat** icon is selected in the 
 
 On the **Meeting with** box, make sure that the **Video** and **Audio** switches present under the preview screen are enabled. Turn them on if they’re disabled. Next, click the **Background effects** (**Person**) icon from under the preview screen.
 
-![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/microsoft-teams-blur-background-option.jpg)
+![Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/microsoft-teams-blur-background-option.jpg)
 
 **Step 3: Blur the Background before video call starts**
 
 From the **Background settings** pane that appears next, and click to select the **Blur** tile. After this, you can safely click the **Join now** button to start a Teams video meeting with the blurred background.
 
-![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/blur-video-background-microsoft-teams.jpg)
+![Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/blur-video-background-microsoft-teams.jpg)
 
 **Note:** While using other operating systems/laptops like Linux, Chromebook, etc., the process of blurring the background before a video call is identical. This means all you need to do is, initiate a new video meeting, click the **Background effects** (**Person**) icon from under the preview screen, and select the **Blur** tile before clicking the **Join now** button.
 
@@ -614,7 +614,7 @@ If you started or joined a Teams meeting without blurring the background, and wa
 
 During an ongoing video call, click **More actions** from the upper-right area of the meeting window, and click **Apply background effects** from the menu that comes down.
 
-![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
+![blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
 
 **Step 2: Blur Background during the video call**
 
@@ -624,7 +624,7 @@ When the **Background settings** pane opens on the right of the window, click to
 
 From the bottom of the **Background settings** pane, click **Apply** to blur the background. Optionally, you can click **Preview** to see how the screen would look upon blurring, and apply the changes only when you are satisfied with the output.
 
-![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/blur-microsoft-teams-video-background-during-meeting.jpg)
+![blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/blur-microsoft-teams-video-background-during-meeting.jpg)
 
 ## Part 2: How to Blur Background on Teams on a MacBook Pro Before or During a Video Call?
 
@@ -638,13 +638,13 @@ The steps that are given below explain **how to blur background on Teams** befor
 
 Launch Microsoft Teams on your Mac computer, make sure that the **Chat** section is selected in the left pane of the main interface, click the **New Meeting** (**Camcorder**) icon from the top-right area of the **Chat** pane, and click **Start meeting** on the **Meeting name** box that opens next.
 
-![ start Microsoft Teams video call on Mac](https://images.wondershare.com/filmora/article-images/start-video-call-teams-mac.jpg)
+![start Microsoft Teams video call on Mac](https://images.wondershare.com/filmora/article-images/start-video-call-teams-mac.jpg)
 
 **Step 2: Blur the Background before the video call starting**
 
 On the **Meeting with** box, from under the preview screen, turn on the **Video** and **Audio** switches if not already enabled. Click the **Background effects** (**Person**) icon present next to the **Video** and **Audio** switches, and click to select the **Blur** tile from the **Background settings** pane that appears on the right.
 
-![ Microsoft Teams Mac blur background](https://images.wondershare.com/filmora/article-images/microsoft-teams-mac-background-effect-blur.jpg)
+![Microsoft Teams Mac blur background](https://images.wondershare.com/filmora/article-images/microsoft-teams-mac-background-effect-blur.jpg)
 
 **Step 3: Start or Join the Meeting**
 
@@ -662,13 +662,13 @@ Use the method explained earlier to get to the **Meeting with** screen, and clic
 
 During a video call, click the **More actions** icon from the top-right area of the screen, and click **Apply background effects** from the menu that comes down next.
 
-![ Microsoft Teams Mac apply  background effect](https://images.wondershare.com/filmora/article-images/apply-background-effect-blur-on-microsoft-teams-mac.jpg)
+![Microsoft Teams Mac apply  background effect](https://images.wondershare.com/filmora/article-images/apply-background-effect-blur-on-microsoft-teams-mac.jpg)
 
 **Step 3: Blur the Background during a video call on Mac**
 
 When the **Background settings** pane appears on the left, click to select the **Blur** tile, and click **Apply** from the bottom of the pane. Optionally, you can also click **Preview** from the bottom to see how would the blurred background look to the attendees before applying the changes.
 
-![ Microsoft Teams Mac blur background during call](https://images.wondershare.com/filmora/article-images/blur-background-during-teams-video-call-mac.jpg)
+![Microsoft Teams Mac blur background during call](https://images.wondershare.com/filmora/article-images/blur-background-during-teams-video-call-mac.jpg)
 
 ## Part 3: How to Blur Background in Teams Mobile App Before or During a Video Call?
 
@@ -684,13 +684,13 @@ Launch Microsoft Teams on your iPhone or iPad, ensure that the **Chat** icon is 
 
 On the next screen, tap to enable both **Video** and **Audio** functions from the bottom, tap the **More actions** icon, and then tap **Background effects** from the box that comes up.
 
-![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
+![blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
 **Step 3: Blur the Background**
 
 On the **Select background** screen, tap **Blur** from the options available in the box at the bottom, and tap **Done** from the top-right corner to apply the changes.
 
-![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/blur-teams-video-call-background-iphone.jpg)
+![blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/blur-teams-video-call-background-iphone.jpg)
 
 ## FAQs about Blur Teams Meeting Background
 
@@ -717,13 +717,13 @@ If you have recorded the Teams video call during the meet and want to blur the b
 
 Import your video to Filmora track, and then go to Effects – Utility, you will find tilt-shift linear and tilt-shift circle. Here I will choose the tilt-shift circle effect to blur the background.
 
-![ blur Microsoft Teams  video background with Filmora ](https://images.wondershare.com/filmora/article-images/tilt-shift-circle-effect-blur-background.jpg)
+![blur Microsoft Teams  video background with Filmora](https://images.wondershare.com/filmora/article-images/tilt-shift-circle-effect-blur-background.jpg)
 
 Double click the video in the timeline, and go to video effect, here you can adjust the intensity, position, and size.
 
 What’s more, if you want to [remove the background and replace it with a new one](https://tools.techidaily.com/wondershare/filmora/download/), you can try the Human Segmentation under AI Portrait. This feature works even the background is not a green screen.
 
-![ remove and change  Microsoft Teams  video background in  Filmora ](https://images.wondershare.com/filmora/article-images/remove-change-teams-video-background.jpg)
+![remove and change  Microsoft Teams  video background in  Filmora](https://images.wondershare.com/filmora/article-images/remove-change-teams-video-background.jpg)
 
 Check the video below to find out more creative usage of the Human Segmentation effect:
 

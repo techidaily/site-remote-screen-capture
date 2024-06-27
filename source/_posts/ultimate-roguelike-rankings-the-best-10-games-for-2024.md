@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Roguelike Rankings  The Best 10 Games for 2024\""
-date: 2024-05-18T13:19:08.970Z
-updated: 2024-05-19T13:19:08.970Z
+date: 2024-06-26T03:39:23.103Z
+updated: 2024-06-27T03:39:23.103Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes Ultimate Roguelike Rankings: The Best 10 Games for 2024\""
 excerpt: "\"This Article Describes Ultimate Roguelike Rankings: The Best 10 Games for 2024\""
 keywords: "Ultimate RL Top 10,Best Roguelikes 10,Top Roguelikes Ranked,Ultimate Roguelike List,Leading Rogue Games 10,TopRoguelikesGame,Roguelike Game Rankings"
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## Ultimate Roguelike Rankings: The Best 10 Games
 
-# Top 10 Roguelike or Roguelite Games
-
-![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+# Top 10 Roguelike or Roguelite Games ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 
@@ -60,7 +58,7 @@ We will discuss every game one by one in detail to give you an idea about their 
 
 ---
 
-## **1.[Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest%5FDungeon/)**
+## **1. Darkest Dungeon
 
 **_Platform:_** _PS4, Xbox One, Switch, PC, iOS_
 
@@ -74,7 +72,7 @@ It's one thing to defeat each dungeon's horrifying inhabitants in turn-based com
 
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
 
-## **2.[Downwell](https://store.steampowered.com/app/360740/Downwell/)**
+## **2. Downwell
 
 **_Platforms:_** _PS4, Switch, PC, iOS, Android_
 
@@ -86,7 +84,7 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
-## **3\. [Dungeon Crawl Stone Soup](https://crawl.develz.org/)**
+## **3\. Dungeon Crawl Stone Soup
 
 **_Platforms:_** _Android, Web browser_
 
@@ -98,7 +96,7 @@ The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone
 
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
 
-## **4\. [Hades](https://store.steampowered.com/app/1145360/Hades/)**
+## **4\. Hades
 
 **_Platforms:_**   _Nintendo Switch, macOS, Microsoft Windows, Macintosh operating systems_
 
@@ -110,7 +108,7 @@ Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Yo
 
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
 
-## **5\. [Into the Breach](https://store.steampowered.com/app/590380/Into%5Fthe%5FBreach/)**
+## **5\. Into the Breach
 
 **_Platforms:_** _Switch, PC_
 
@@ -124,7 +122,7 @@ There's only one way to hold off their attack, and that is to enlist some giant 
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
 
-## **6\. [Slay the Spire](https://store.steampowered.com/app/646570/Slay%5Fthe%5FSpire/)**
+## **6\. Slay the Spire
 
 **_Platforms:_** _PS4, Switch, PC_
 
@@ -136,7 +134,7 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
 
-## **7\. [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt%5Fof%5Fthe%5FNecroDancer/)**
+## **7\. Crypt of the Necrodancer
 
 **_Platforms:_** _PlayStation 4, Nintendo Switch, iOS, Microsoft Windows, Linux, Classic Mac OS, PlayStation Vita, Xbox One_
 
@@ -146,7 +144,7 @@ This rhythm-based roguelike game hits a sweet spot combining two niche genres. T
 
 This game deviates from roguelike conventions, forcing players to arrive at snappy judgments quickly. While quick decision-making and foresight are required in the genre, the escalating rhythm forces players to maintain a higher tempo to maintain a strong combo, and all you know is, you can't lose the combo. If you haven't tried this game yet, then it's worth your time and money.
 
-## **8\. [Dead Cells](https://store.steampowered.com/app/588650/Dead%5FCells/)**
+## **8\. Dead Cells
 
 **_Platforms:_** _Platforms: PS4, Xbox One, Switch, PC, iOS, Android_
 
@@ -158,7 +156,7 @@ Dead Cells is a 2D and Souls-inspired roguelike game. You revolve around procedu
 
 Various upgrades can be carried over between runs, generating a constant sense of progression. Because of this, starting a new run after a particularly messy boss fight doesn't sting quite as much as many other roguelike games might be. There are many different weapon types and perks to unlock in Dead Cells, making it more replayable and keeps it from being monotonous.
 
-## **9\. [The Binding of Isaac](https://store.steampowered.com/app/113200/The%5FBinding%5Fof%5FIsaac/)**
+## **9\. The Binding of Isaac
 
 **_Platforms:_** _PS4, Xbox One, Switch, PC, 3DS, iOS_
 
@@ -170,7 +168,7 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
 
-## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
+## **10\. Otherworld Legends
 
 **_Platforms:_** _Android, iOS_
 
@@ -237,7 +235,7 @@ We will discuss every game one by one in detail to give you an idea about their 
 
 ---
 
-## **1.[Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest%5FDungeon/)**
+## **1. Darkest Dungeon
 
 **_Platform:_** _PS4, Xbox One, Switch, PC, iOS_
 
@@ -251,7 +249,7 @@ It's one thing to defeat each dungeon's horrifying inhabitants in turn-based com
 
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
 
-## **2.[Downwell](https://store.steampowered.com/app/360740/Downwell/)**
+## **2. Downwell
 
 **_Platforms:_** _PS4, Switch, PC, iOS, Android_
 
@@ -263,7 +261,7 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
-## **3\. [Dungeon Crawl Stone Soup](https://crawl.develz.org/)**
+## **3\. Dungeon Crawl Stone Soup
 
 **_Platforms:_** _Android, Web browser_
 
@@ -275,7 +273,7 @@ The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone
 
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
 
-## **4\. [Hades](https://store.steampowered.com/app/1145360/Hades/)**
+## **4\. Hades
 
 **_Platforms:_**   _Nintendo Switch, macOS, Microsoft Windows, Macintosh operating systems_
 
@@ -287,7 +285,7 @@ Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Yo
 
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
 
-## **5\. [Into the Breach](https://store.steampowered.com/app/590380/Into%5Fthe%5FBreach/)**
+## **5\. Into the Breach
 
 **_Platforms:_** _Switch, PC_
 
@@ -301,7 +299,7 @@ There's only one way to hold off their attack, and that is to enlist some giant 
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
 
-## **6\. [Slay the Spire](https://store.steampowered.com/app/646570/Slay%5Fthe%5FSpire/)**
+## **6\. Slay the Spire
 
 **_Platforms:_** _PS4, Switch, PC_
 
@@ -313,7 +311,7 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
 
-## **7\. [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt%5Fof%5Fthe%5FNecroDancer/)**
+## **7\. Crypt of the Necrodancer
 
 **_Platforms:_** _PlayStation 4, Nintendo Switch, iOS, Microsoft Windows, Linux, Classic Mac OS, PlayStation Vita, Xbox One_
 
@@ -323,7 +321,7 @@ This rhythm-based roguelike game hits a sweet spot combining two niche genres. T
 
 This game deviates from roguelike conventions, forcing players to arrive at snappy judgments quickly. While quick decision-making and foresight are required in the genre, the escalating rhythm forces players to maintain a higher tempo to maintain a strong combo, and all you know is, you can't lose the combo. If you haven't tried this game yet, then it's worth your time and money.
 
-## **8\. [Dead Cells](https://store.steampowered.com/app/588650/Dead%5FCells/)**
+## **8\. Dead Cells
 
 **_Platforms:_** _Platforms: PS4, Xbox One, Switch, PC, iOS, Android_
 
@@ -335,7 +333,7 @@ Dead Cells is a 2D and Souls-inspired roguelike game. You revolve around procedu
 
 Various upgrades can be carried over between runs, generating a constant sense of progression. Because of this, starting a new run after a particularly messy boss fight doesn't sting quite as much as many other roguelike games might be. There are many different weapon types and perks to unlock in Dead Cells, making it more replayable and keeps it from being monotonous.
 
-## **9\. [The Binding of Isaac](https://store.steampowered.com/app/113200/The%5FBinding%5Fof%5FIsaac/)**
+## **9\. The Binding of Isaac
 
 **_Platforms:_** _PS4, Xbox One, Switch, PC, 3DS, iOS_
 
@@ -347,7 +345,7 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
 
-## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
+## **10\. Otherworld Legends
 
 **_Platforms:_** _Android, iOS_
 
@@ -414,7 +412,7 @@ We will discuss every game one by one in detail to give you an idea about their 
 
 ---
 
-## **1.[Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest%5FDungeon/)**
+## **1. Darkest Dungeon
 
 **_Platform:_** _PS4, Xbox One, Switch, PC, iOS_
 
@@ -428,7 +426,7 @@ It's one thing to defeat each dungeon's horrifying inhabitants in turn-based com
 
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
 
-## **2.[Downwell](https://store.steampowered.com/app/360740/Downwell/)**
+## **2. Downwell
 
 **_Platforms:_** _PS4, Switch, PC, iOS, Android_
 
@@ -440,7 +438,7 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
-## **3\. [Dungeon Crawl Stone Soup](https://crawl.develz.org/)**
+## **3\. Dungeon Crawl Stone Soup
 
 **_Platforms:_** _Android, Web browser_
 
@@ -452,7 +450,7 @@ The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone
 
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
 
-## **4\. [Hades](https://store.steampowered.com/app/1145360/Hades/)**
+## **4\. Hades
 
 **_Platforms:_**   _Nintendo Switch, macOS, Microsoft Windows, Macintosh operating systems_
 
@@ -464,7 +462,7 @@ Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Yo
 
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
 
-## **5\. [Into the Breach](https://store.steampowered.com/app/590380/Into%5Fthe%5FBreach/)**
+## **5\. Into the Breach
 
 **_Platforms:_** _Switch, PC_
 
@@ -478,7 +476,7 @@ There's only one way to hold off their attack, and that is to enlist some giant 
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
 
-## **6\. [Slay the Spire](https://store.steampowered.com/app/646570/Slay%5Fthe%5FSpire/)**
+## **6\. Slay the Spire
 
 **_Platforms:_** _PS4, Switch, PC_
 
@@ -490,7 +488,7 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
 
-## **7\. [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt%5Fof%5Fthe%5FNecroDancer/)**
+## **7\. Crypt of the Necrodancer
 
 **_Platforms:_** _PlayStation 4, Nintendo Switch, iOS, Microsoft Windows, Linux, Classic Mac OS, PlayStation Vita, Xbox One_
 
@@ -500,7 +498,7 @@ This rhythm-based roguelike game hits a sweet spot combining two niche genres. T
 
 This game deviates from roguelike conventions, forcing players to arrive at snappy judgments quickly. While quick decision-making and foresight are required in the genre, the escalating rhythm forces players to maintain a higher tempo to maintain a strong combo, and all you know is, you can't lose the combo. If you haven't tried this game yet, then it's worth your time and money.
 
-## **8\. [Dead Cells](https://store.steampowered.com/app/588650/Dead%5FCells/)**
+## **8\. Dead Cells
 
 **_Platforms:_** _Platforms: PS4, Xbox One, Switch, PC, iOS, Android_
 
@@ -512,7 +510,7 @@ Dead Cells is a 2D and Souls-inspired roguelike game. You revolve around procedu
 
 Various upgrades can be carried over between runs, generating a constant sense of progression. Because of this, starting a new run after a particularly messy boss fight doesn't sting quite as much as many other roguelike games might be. There are many different weapon types and perks to unlock in Dead Cells, making it more replayable and keeps it from being monotonous.
 
-## **9\. [The Binding of Isaac](https://store.steampowered.com/app/113200/The%5FBinding%5Fof%5FIsaac/)**
+## **9\. The Binding of Isaac
 
 **_Platforms:_** _PS4, Xbox One, Switch, PC, 3DS, iOS_
 
@@ -524,7 +522,7 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
 
-## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
+## **10\. Otherworld Legends
 
 **_Platforms:_** _Android, iOS_
 
@@ -591,7 +589,7 @@ We will discuss every game one by one in detail to give you an idea about their 
 
 ---
 
-## **1.[Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest%5FDungeon/)**
+## **1. Darkest Dungeon
 
 **_Platform:_** _PS4, Xbox One, Switch, PC, iOS_
 
@@ -605,7 +603,7 @@ It's one thing to defeat each dungeon's horrifying inhabitants in turn-based com
 
 Your tactical instincts will be put to the test when it comes to teamwork and resource allocation. This is undoubtedly one of the best roguelikes to be found.
 
-## **2.[Downwell](https://store.steampowered.com/app/360740/Downwell/)**
+## **2. Downwell
 
 **_Platforms:_** _PS4, Switch, PC, iOS, Android_
 
@@ -617,7 +615,7 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
-## **3\. [Dungeon Crawl Stone Soup](https://crawl.develz.org/)**
+## **3\. Dungeon Crawl Stone Soup
 
 **_Platforms:_** _Android, Web browser_
 
@@ -629,7 +627,7 @@ The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone
 
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
 
-## **4\. [Hades](https://store.steampowered.com/app/1145360/Hades/)**
+## **4\. Hades
 
 **_Platforms:_**   _Nintendo Switch, macOS, Microsoft Windows, Macintosh operating systems_
 
@@ -641,7 +639,7 @@ Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Yo
 
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
 
-## **5\. [Into the Breach](https://store.steampowered.com/app/590380/Into%5Fthe%5FBreach/)**
+## **5\. Into the Breach
 
 **_Platforms:_** _Switch, PC_
 
@@ -655,7 +653,7 @@ There's only one way to hold off their attack, and that is to enlist some giant 
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
 
-## **6\. [Slay the Spire](https://store.steampowered.com/app/646570/Slay%5Fthe%5FSpire/)**
+## **6\. Slay the Spire
 
 **_Platforms:_** _PS4, Switch, PC_
 
@@ -667,7 +665,7 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
 
-## **7\. [Crypt of the Necrodancer](https://store.steampowered.com/app/247080/Crypt%5Fof%5Fthe%5FNecroDancer/)**
+## **7\. Crypt of the Necrodancer
 
 **_Platforms:_** _PlayStation 4, Nintendo Switch, iOS, Microsoft Windows, Linux, Classic Mac OS, PlayStation Vita, Xbox One_
 
@@ -677,7 +675,7 @@ This rhythm-based roguelike game hits a sweet spot combining two niche genres. T
 
 This game deviates from roguelike conventions, forcing players to arrive at snappy judgments quickly. While quick decision-making and foresight are required in the genre, the escalating rhythm forces players to maintain a higher tempo to maintain a strong combo, and all you know is, you can't lose the combo. If you haven't tried this game yet, then it's worth your time and money.
 
-## **8\. [Dead Cells](https://store.steampowered.com/app/588650/Dead%5FCells/)**
+## **8\. Dead Cells
 
 **_Platforms:_** _Platforms: PS4, Xbox One, Switch, PC, iOS, Android_
 
@@ -689,7 +687,7 @@ Dead Cells is a 2D and Souls-inspired roguelike game. You revolve around procedu
 
 Various upgrades can be carried over between runs, generating a constant sense of progression. Because of this, starting a new run after a particularly messy boss fight doesn't sting quite as much as many other roguelike games might be. There are many different weapon types and perks to unlock in Dead Cells, making it more replayable and keeps it from being monotonous.
 
-## **9\. [The Binding of Isaac](https://store.steampowered.com/app/113200/The%5FBinding%5Fof%5FIsaac/)**
+## **9\. The Binding of Isaac
 
 **_Platforms:_** _PS4, Xbox One, Switch, PC, 3DS, iOS_
 
@@ -701,7 +699,7 @@ An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Bind
 
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
 
-## **10\. [Otherworld Legends](https://play.google.com/store/apps/details?id=com.chillyroom.zhmr.gp&hl=en&gl=US)**
+## **10\. Otherworld Legends
 
 **_Platforms:_** _Android, iOS_
 

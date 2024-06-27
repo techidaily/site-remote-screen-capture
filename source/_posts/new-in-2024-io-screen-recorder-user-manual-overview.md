@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, IO Screen Recorder User Manual Overview"
-date: 2024-05-18T13:48:53.725Z
-updated: 2024-05-19T13:48:53.725Z
+date: 2024-06-26T03:39:18.005Z
+updated: 2024-06-27T03:39:18.005Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, IO Screen Recorder User Manual Overview"
 excerpt: "This Article Describes [New] In 2024, IO Screen Recorder User Manual Overview"
 keywords: "Screen Recorder Guide,IO Device Recording Tips,Overview of Screen Capture,Quick Screen Record Manual,Mastering IO Screen Recording,User Manual for Screen Recording,Basics of Screen Capturing"
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## IO Screen Recorder User Manual Overview

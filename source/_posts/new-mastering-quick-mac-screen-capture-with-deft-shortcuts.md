@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Quick Mac Screen Capture with Deft Shortcuts"
-date: 2024-05-19T23:33:11.156Z
-updated: 2024-05-20T23:33:11.156Z
+date: 2024-06-26T03:39:15.119Z
+updated: 2024-06-27T03:39:15.119Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Mastering Quick Mac Screen Capture with Deft Shortcuts"
 excerpt: "This Article Describes [New] Mastering Quick Mac Screen Capture with Deft Shortcuts"
 keywords: "Mac Screen Capture Mastery,Quick Mac Screenshot Tricks,Deft Shortcut Mac Tools,Screen Grab Efficiency Tips,Mac Shot With Speed Methods,Fast Mac Screen Recording,Skillful Mac Capture Techniques"
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Mastering Quick Mac Screen Capture with Deft Shortcuts

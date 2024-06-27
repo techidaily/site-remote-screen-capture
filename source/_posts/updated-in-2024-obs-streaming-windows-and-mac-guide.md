@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, OBS Streaming [Windows and Mac Guide]"
-date: 2024-05-18T13:44:32.496Z
-updated: 2024-05-19T13:44:32.496Z
+date: 2024-06-26T03:39:15.475Z
+updated: 2024-06-27T03:39:15.475Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, OBS Streaming [Windows and Mac Guide]"
 excerpt: "This Article Describes [Updated] In 2024, OBS Streaming [Windows and Mac Guide]"
 keywords: "Windows OBS Guide,Mac OBS Streaming,OBS for Windows,OBS on Mac,Streaming with OBS,Windows OBS Tutorial,Mac OBS Settings"
-thumbnail: https://www.lifewire.com/thmb/orCGFYNFlEan1uKR5h12Vm8mASA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kids-ipad-580f65635f9b58564cc0fc91-5c5cbb6ac9e77c0001d92aa4.jpg
+thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b33fad191c1a3f8c1897f172.jpg
 ---
 
 ## OBS Streaming [Windows and Mac Guide]
