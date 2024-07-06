@@ -1,7 +1,7 @@
 ---
 title: "\"ChorusCheck  Live Audio Critique\""
-date: 2024-05-19T23:34:47.504Z
-updated: 2024-05-20T23:34:47.504Z
+date: 2024-07-05T13:46:23.955Z
+updated: 2024-07-06T13:46:23.955Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes ChorusCheck: Live Audio Critique\""
 excerpt: "\"This Article Describes ChorusCheck: Live Audio Critique\""
 keywords: "ChorusReviewLive,AudioCriticLive,SoundEvaluationAudio,RealTimeMusicFeedback,AudiophileAssessment,LiveSoundAnalysis,PerformanceAudioReview"
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## ChorusCheck: Live Audio Critique

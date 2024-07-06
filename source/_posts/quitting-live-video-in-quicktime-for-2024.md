@@ -1,7 +1,7 @@
 ---
 title: "Quitting Live Video in QuickTime for 2024"
-date: 2024-05-18T13:28:57.461Z
-updated: 2024-05-19T13:28:57.461Z
+date: 2024-07-05T13:46:19.795Z
+updated: 2024-07-06T13:46:19.795Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Quitting Live Video in QuickTime for 2024"
 excerpt: "This Article Describes Quitting Live Video in QuickTime for 2024"
 keywords: "Quit QuickTime Videostreaming,Fast Stop Live Video App,End Streaming on QuickTime,Disconnect QuickTime Stream,Halt QuickTime Video Playback,Terminate QuickTime Broadcast,Unsubscribe From QuickTime Video"
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## Quitting Live Video in QuickTime
@@ -21,7 +21,7 @@ QuickTime Player by Apple is the default media player on Mac, and the applicatio
 
 When the application fails to stop recording, it fails to save the recording as well. Therefore, QuickTime Player keeps recording the screen, and this slows down the Mac as it keeps occupying the system resources. In this article, we will illustrate all the possible ways to QuickTime Player stop screen recording. We will also recommend a better alternative to QuickTime for professional-quality screen recording.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

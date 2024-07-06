@@ -1,7 +1,7 @@
 ---
 title: "\"Efficient OBS Usage  Live Skype Capture Tips\""
-date: 2024-05-19T23:32:53.716Z
-updated: 2024-05-20T23:32:53.716Z
+date: 2024-07-05T13:46:12.503Z
+updated: 2024-07-06T13:46:12.503Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Efficient OBS Usage: Live Skype Capture Tips\""
 excerpt: "\"This Article Describes Efficient OBS Usage: Live Skype Capture Tips\""
 keywords: "Skype Capture Techniques,Streaming Optimization,Efficient Live Recording,Video Conferencing Guide,OBS Performance Hacks,Online Meeting Capture Tips,Enhance Live Broadcasts"
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## Efficient OBS Usage: Live Skype Capture Tips

@@ -1,7 +1,7 @@
 ---
 title: "\"Free, Open-Source Cameras Decoded\""
-date: 2024-05-18T13:17:41.276Z
-updated: 2024-05-19T13:17:41.276Z
+date: 2024-07-05T13:46:14.803Z
+updated: 2024-07-06T13:46:14.803Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Free, Open-Source Cameras Decoded\""
 excerpt: "\"This Article Describes Free, Open-Source Cameras Decoded\""
 keywords: "Free OSS Cameras Guide,Open Source Camera Basics,DIY OSS Camera Projects,OSS Cameras for Beginners,Accessible OSS Camera Tech,Understanding OSS Cameras,Learn OSS Cameras Easy Way"
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## Free, Open-Source Cameras Decoded
@@ -106,7 +106,7 @@ Easily record webcam, computer screen and audio at the same time. You can also u
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ## 6\. SplitCam
 
@@ -265,7 +265,7 @@ Easily record webcam, computer screen and audio at the same time. You can also u
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ## 6\. SplitCam
 
@@ -424,7 +424,7 @@ Easily record webcam, computer screen and audio at the same time. You can also u
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ## 6\. SplitCam
 
@@ -583,7 +583,7 @@ Easily record webcam, computer screen and audio at the same time. You can also u
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![filmorax boxpng ](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
+![filmorax boxpng](https://images.wondershare.com/filmora/banner/filmora-latest-product-box-right-side.png)
 
 ## 6\. SplitCam
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Learn Screen Casting on Macbook Air, Step by Step"
-date: 2024-05-18T13:27:42.268Z
-updated: 2024-05-19T13:27:42.268Z
+date: 2024-07-05T13:46:20.970Z
+updated: 2024-07-06T13:46:20.970Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Learn Screen Casting on Macbook Air, Step by Step"
 excerpt: "This Article Describes [New] Learn Screen Casting on Macbook Air, Step by Step"
 keywords: "\"MacBook Air Screencasting,Screencast Guide macOS,Mac Air Video Tutorial,Screen Recording MacBookAir,Cmd+Shift+6macbook,AirCastMac Step-by-Step,QuickScreenMac Guide\""
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## Learn Screen Casting on Macbook Air, Step by Step

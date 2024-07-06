@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Kung Fu Games Just Like Sifu for 2024"
-date: 2024-05-18T13:23:22.694Z
-updated: 2024-05-19T13:23:22.694Z
+date: 2024-07-05T13:46:22.701Z
+updated: 2024-07-06T13:46:22.701Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Top 5 Kung Fu Games Just Like Sifu for 2024"
 excerpt: "This Article Describes Top 5 Kung Fu Games Just Like Sifu for 2024"
 keywords: "\"Kung Fu Gaming,Fitness Martial Arts Games,Mastery Fighting Games,Authentic Kung-Fu Titles,Sifu Inspired Gameplay,Traditional Martial Arts Videogames,Realistic Kung Fu Arcade,Kung Fu Videogames,Martial Arts Gaming,Fighting Game Mastery,Authentic Martial Arcade,Sifu-Inspired Titles,Fitness Fighter Games,Traditional Martial Games\""
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## Top 5 MMA Games for Virtual Fight Enthusiasts
@@ -36,7 +36,7 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 #### **This article contains:**
 
 _Platform: Playstation4, Playstation5_  
-_Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
+_Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu) _
 
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
@@ -48,7 +48,7 @@ Can't wait to play sifu? I totally understand that feeling. Here are some of the
 
 #### **1\. Sleeping Dogs**
 
-_Platform:[PlayStation4](https://store.playstation.com/en-us/product/UP0082-CUSA01111%5F00-0000SLEEPINGDOGS), [PC](https://www.microsoft.com/en-us/p/sleeping-dogs-definitive-edition/bs2s6b326wjd#activetab=pivot:overviewtab)_  
+_Platform:[PlayStation4](https://store.playstation.com/en-us/product/UP0082-CUSA01111%5F00-0000SLEEPINGDOGS), [PC](https://www.microsoft.com/en-us/p/sleeping-dogs-definitive-edition/bs2s6b326wjd#activetab=pivot:overviewtab) _  
 _Price: $29.99_
 
 Being an Undercover cop and living with criminals is not an easy job. Meet Wei Shen, an undercover cop penetrating the world of criminals in Hong Kong. It is not a simple task to live a life circled by people who can shed your blood for a slight mistake.
@@ -57,7 +57,7 @@ Sleeping Dogs is an open-world single-player action and adventure game. Wei Shen
 
 #### **2\. Absolver**
 
-_Platform: [Playstation4](https://store.playstation.com/en-us/product/UP3643-CUSA06282%5F00-ABSOLVER00000001), [PC](https://www.microsoft.com/en-us/p/absolver/c3xcxtfs6ffq?activetab=pivot:overviewtab)_  
+_Platform: [Playstation4](https://store.playstation.com/en-us/product/UP3643-CUSA06282%5F00-ABSOLVER00000001), [PC](https://www.microsoft.com/en-us/p/absolver/c3xcxtfs6ffq?activetab=pivot:overviewtab) _  
 _Price: $10.49 - $29.99_
 
 Are you ready to prove your worthiness for becoming Absolver Peacekeeper? Join the journey of becoming Absolver Peacekeepers in the lands of Adal by competing with your rivals.
@@ -66,14 +66,14 @@ Absolver is a single and Multiplayer action game based on the Martial-arts, deve
 
 #### **3\. 9 Monkeys of Shaolin**
 
-_Platform: [Xbox](https://store.steampowered.com/app/739080/9%5FMonkeys%5Fof%5FShaolin/), [PC](https://store.steampowered.com/app/739080/9%5FMonkeys%5Fof%5FShaolin/), [Playstation4](https://store.playstation.com/en-us/product/UP2047-CUSA24467%5F00-9MONKEYSDEMO00US)_  
+_Platform: [Xbox](https://store.steampowered.com/app/739080/9%5FMonkeys%5Fof%5FShaolin/), [PC](https://store.steampowered.com/app/739080/9%5FMonkeys%5Fof%5FShaolin/), [Playstation4](https://store.playstation.com/en-us/product/UP2047-CUSA24467%5F00-9MONKEYSDEMO00US) _  
 _Price: $19.99 – $29.99_
 
 If you like Hardcore Brawlers like me, give 9 Monkeys of Shaolin a try. It will not disappoint you. Discover the story of Wei Cheng, a simple fisher, becoming the Master of Shaolin Martial Arts for the vengeance of the death of his friends and family. Throughout his vengeance journey, Wei discovers new perks and combat styles that help him become the Kungfu Master. There are more than 25 levels to be completed by competing and defending yourself through Chinese village fights, ancient ruins fights, street fights, and more. This game has three main fighting styles, fighting on earth, fighting with mysterious magic, and fighting in the air. Use all these three styles to give a tough time to the enemies. Several pole weapons can be used for fighting. Discover all the unique and powerful traits of 10 Chinese and Japanese polearms to defeat all enemies. There are five clans of enemies including The Green, Red, White, Yellow, and Black Clan. All these clans contain different enemies with different abilities and skills like Barefoot pirates, Professional Barefoot Pirates, Shimazu Samurai, Mystical Ninjas, and Monks of Enryaku-ji respectively.This variation of enemies makes this game an unpredictable and obstinate game to be played. So, collect all your powers and combat styles to have an Astonishing fight with your enemies.
 
 #### **4\. Ghost of Tsushima**
 
-_Platform: [Playstation4, Playstation5](https://store.playstation.com/en-us/product/UP9000-CUSA11456%5F00-GHOSTSHIP0000001)_  
+_Platform: [Playstation4, Playstation5](https://store.playstation.com/en-us/product/UP9000-CUSA11456%5F00-GHOSTSHIP0000001) _  
 _Price: $59.99 – $69.99_
 
 This game was nominated for several awards by the time of its release. It won many awards like The Game Critics Award in 2018 for Special Commendation for Graphics and Special Commendation for Sound, The Game Awards in 2020 for Best Art Direction and Player's Voice, and last but not least Famitsu Awards in 2020 for Game of the Year.
@@ -86,7 +86,7 @@ Ghost of Tsushima is an action-adventure game with an open world to explore on t
 
 #### **5\. Sekiro: Shadows Die Twice**
 
-_Platform:[Playstation4, Playstation5,](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001)[PC](https://store.steampowered.com/app/814380/Sekiro%5FShadows%5FDie%5FTwice%5F%5FGOTY%5FEdition/)_  
+_Platform:[Playstation4, Playstation5,](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001)[PC](https://store.steampowered.com/app/814380/Sekiro%5FShadows%5FDie%5FTwice%5F%5FGOTY%5FEdition/) _  
 _Price: $31.99 – $59.99_
 
 This game was also nominated for several awards and won many of them including The Japan Games Award for Excellence in 2019, The Game Awards in2019 for Game of the Year, and Best Action/Adventure Game, and SXSW Gaming Awards in 2020 for Video Game of the Year and Excellence in Visual Achievement.
@@ -126,7 +126,7 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 #### **This article contains:**
 
 _Platform: Playstation4, Playstation5_  
-_Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
+_Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu) _
 
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
@@ -138,7 +138,7 @@ Can't wait to play sifu? I totally understand that feeling. Here are some of the
 
 #### **1\. Sleeping Dogs**
 
-_Platform:[PlayStation4](https://store.playstation.com/en-us/product/UP0082-CUSA01111%5F00-0000SLEEPINGDOGS), [PC](https://www.microsoft.com/en-us/p/sleeping-dogs-definitive-edition/bs2s6b326wjd#activetab=pivot:overviewtab)_  
+_Platform:[PlayStation4](https://store.playstation.com/en-us/product/UP0082-CUSA01111%5F00-0000SLEEPINGDOGS), [PC](https://www.microsoft.com/en-us/p/sleeping-dogs-definitive-edition/bs2s6b326wjd#activetab=pivot:overviewtab) _  
 _Price: $29.99_
 
 Being an Undercover cop and living with criminals is not an easy job. Meet Wei Shen, an undercover cop penetrating the world of criminals in Hong Kong. It is not a simple task to live a life circled by people who can shed your blood for a slight mistake.
@@ -147,7 +147,7 @@ Sleeping Dogs is an open-world single-player action and adventure game. Wei Shen
 
 #### **2\. Absolver**
 
-_Platform: [Playstation4](https://store.playstation.com/en-us/product/UP3643-CUSA06282%5F00-ABSOLVER00000001), [PC](https://www.microsoft.com/en-us/p/absolver/c3xcxtfs6ffq?activetab=pivot:overviewtab)_  
+_Platform: [Playstation4](https://store.playstation.com/en-us/product/UP3643-CUSA06282%5F00-ABSOLVER00000001), [PC](https://www.microsoft.com/en-us/p/absolver/c3xcxtfs6ffq?activetab=pivot:overviewtab) _  
 _Price: $10.49 - $29.99_
 
 Are you ready to prove your worthiness for becoming Absolver Peacekeeper? Join the journey of becoming Absolver Peacekeepers in the lands of Adal by competing with your rivals.
@@ -156,14 +156,14 @@ Absolver is a single and Multiplayer action game based on the Martial-arts, deve
 
 #### **3\. 9 Monkeys of Shaolin**
 
-_Platform: [Xbox](https://store.steampowered.com/app/739080/9%5FMonkeys%5Fof%5FShaolin/), [PC](https://store.steampowered.com/app/739080/9%5FMonkeys%5Fof%5FShaolin/), [Playstation4](https://store.playstation.com/en-us/product/UP2047-CUSA24467%5F00-9MONKEYSDEMO00US)_  
+_Platform: [Xbox](https://store.steampowered.com/app/739080/9%5FMonkeys%5Fof%5FShaolin/), [PC](https://store.steampowered.com/app/739080/9%5FMonkeys%5Fof%5FShaolin/), [Playstation4](https://store.playstation.com/en-us/product/UP2047-CUSA24467%5F00-9MONKEYSDEMO00US) _  
 _Price: $19.99 – $29.99_
 
 If you like Hardcore Brawlers like me, give 9 Monkeys of Shaolin a try. It will not disappoint you. Discover the story of Wei Cheng, a simple fisher, becoming the Master of Shaolin Martial Arts for the vengeance of the death of his friends and family. Throughout his vengeance journey, Wei discovers new perks and combat styles that help him become the Kungfu Master. There are more than 25 levels to be completed by competing and defending yourself through Chinese village fights, ancient ruins fights, street fights, and more. This game has three main fighting styles, fighting on earth, fighting with mysterious magic, and fighting in the air. Use all these three styles to give a tough time to the enemies. Several pole weapons can be used for fighting. Discover all the unique and powerful traits of 10 Chinese and Japanese polearms to defeat all enemies. There are five clans of enemies including The Green, Red, White, Yellow, and Black Clan. All these clans contain different enemies with different abilities and skills like Barefoot pirates, Professional Barefoot Pirates, Shimazu Samurai, Mystical Ninjas, and Monks of Enryaku-ji respectively.This variation of enemies makes this game an unpredictable and obstinate game to be played. So, collect all your powers and combat styles to have an Astonishing fight with your enemies.
 
 #### **4\. Ghost of Tsushima**
 
-_Platform: [Playstation4, Playstation5](https://store.playstation.com/en-us/product/UP9000-CUSA11456%5F00-GHOSTSHIP0000001)_  
+_Platform: [Playstation4, Playstation5](https://store.playstation.com/en-us/product/UP9000-CUSA11456%5F00-GHOSTSHIP0000001) _  
 _Price: $59.99 – $69.99_
 
 This game was nominated for several awards by the time of its release. It won many awards like The Game Critics Award in 2018 for Special Commendation for Graphics and Special Commendation for Sound, The Game Awards in 2020 for Best Art Direction and Player's Voice, and last but not least Famitsu Awards in 2020 for Game of the Year.
@@ -176,7 +176,7 @@ Ghost of Tsushima is an action-adventure game with an open world to explore on t
 
 #### **5\. Sekiro: Shadows Die Twice**
 
-_Platform:[Playstation4, Playstation5,](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001)[PC](https://store.steampowered.com/app/814380/Sekiro%5FShadows%5FDie%5FTwice%5F%5FGOTY%5FEdition/)_  
+_Platform:[Playstation4, Playstation5,](https://store.playstation.com/en-us/product/UP0002-CUSA12047%5F00-SEKIROGAME000001)[PC](https://store.steampowered.com/app/814380/Sekiro%5FShadows%5FDie%5FTwice%5F%5FGOTY%5FEdition/) _  
 _Price: $31.99 – $59.99_
 
 This game was also nominated for several awards and won many of them including The Japan Games Award for Excellence in 2019, The Game Awards in2019 for Game of the Year, and Best Action/Adventure Game, and SXSW Gaming Awards in 2020 for Video Game of the Year and Excellence in Visual Achievement.

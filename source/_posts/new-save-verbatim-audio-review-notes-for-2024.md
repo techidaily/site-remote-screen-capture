@@ -1,7 +1,7 @@
 ---
 title: "[New] Save Verbatim Audio, Review Notes for 2024"
-date: 2024-05-19T23:33:40.615Z
-updated: 2024-05-20T23:33:40.615Z
+date: 2024-07-05T13:46:14.731Z
+updated: 2024-07-06T13:46:14.731Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Save Verbatim Audio, Review Notes for 2024"
 excerpt: "This Article Describes [New] Save Verbatim Audio, Review Notes for 2024"
 keywords: "\"Save Recordings,Note Reviews,Audio Saving Tips,Preserve Transcripts,Quick Audio Copy,Efficient Note-Taking,Verbatim Archiving\""
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Save Verbatim Audio, Review Notes

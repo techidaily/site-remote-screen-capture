@@ -1,7 +1,7 @@
 ---
 title: "OBS Live Broadcasting on Instagram for 2024"
-date: 2024-05-18T13:18:34.389Z
-updated: 2024-05-19T13:18:34.389Z
+date: 2024-07-05T13:46:16.769Z
+updated: 2024-07-06T13:46:16.769Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes OBS Live Broadcasting on Instagram for 2024"
 excerpt: "This Article Describes OBS Live Broadcasting on Instagram for 2024"
 keywords: "OBS Live Streaming Insta,Insta Live OBS Broadcast,Instagram OBS Broadcast,OBS Instagram Livecast,Live Instagram with OBS,OBS Direct Stream to IG,Instagram Broadcast via OBS"
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## OBS Live Broadcasting on Instagram

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Mac Users' Path to Professional Audio with Audacity\""
-date: 2024-05-19T23:33:08.663Z
-updated: 2024-05-20T23:33:08.663Z
+date: 2024-07-05T13:46:16.969Z
+updated: 2024-07-06T13:46:16.969Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Mac Users' Path to Professional Audio with Audacity\""
 excerpt: "\"This Article Describes 2024 Approved: Mac Users' Path to Professional Audio with Audacity\""
 keywords: "MacAudioProAudacity,AudacityMacUser,ProfiAudioAudacity,MacAudienceEditing,ProfessionalAudacityMac,AudioSetupMacAud,MacAudInterfaceProf"
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## Mac Users' Path to Professional Audio with Audacity

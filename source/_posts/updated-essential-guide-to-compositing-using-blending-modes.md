@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential Guide to Compositing Using Blending Modes"
-date: 2024-05-19T23:32:55.202Z
-updated: 2024-05-20T23:32:55.202Z
+date: 2024-07-05T13:46:23.982Z
+updated: 2024-07-06T13:46:23.982Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Essential Guide to Compositing Using Blending Modes"
 excerpt: "This Article Describes [Updated] Essential Guide to Compositing Using Blending Modes"
 keywords: "Blend Mode Basics,Composition Techniques,Blending Artistry,Mix Media Essentials,Visual Effect Tips,Layering Skills,Compositing Fundamentals"
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## Essential Guide to Compositing Using Blending Modes
@@ -46,7 +46,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## What are Blending Modes in Filmora?
 
@@ -56,17 +56,17 @@ Different ways of combining pixels are called modes, and for that reason, the pr
 
 The **Normal mode** is a part of the standard set of blending modes in almost all photo and video editing programs. It enables you to keep the top layer intact, by preventing the pixels from two images to merge. It is a perfect PIP blending mode since it allows you to keep two overlaying images separate and have two different narratives within the same shot. Producers of YouTube videos and tutorials of any kind or gamers who want to entertain their audiences should use the Normal mode when editing their footage captured with Filmora Scrn.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
 
 The **Screen Mode** is best used when you are working with dark monochrome backgrounds because it reduces the dark areas in the video thus enabling you to blend the top layer into the background seamlessly.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
 
 Utilizing this mode successfully requires previous preparation because the effects you'll get if you use the Screen mode with a footage that is not best suited for this mode are far from impressive. Therefore, the video clips you want to overlay and blend with each other must be recorded perfectly in order to get the best results.
 
 The **Multiply Mode** is also one of the frequently used blending modes that **multiplies the numbers for each pixel of the overlaying video clip** with a matching pixel from the background video.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
@@ -78,13 +78,13 @@ Applying different blending modes and switching between them is easy, and it won
 
 In case you've used Filmora Scrn's screen recorder to capture your video, the video clip will be opened in the software's video editor and placed in the media bin, immediately after the recording session is over. However, the Wondershare's software also allows you to import the footage you've captured with a video camera or any other video recording software or device.
 
-![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
+![Filmora Scrn Import Media](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
 
 #### Step 2 - Select the Blending mode
 
@@ -92,7 +92,7 @@ On the right side of the screen you'll be able to see several options such as Tr
 
 In the Compositing menu, you will be able to see the Blending Mode feature. Click on the drop-down menu and select one of the modes.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
@@ -100,7 +100,7 @@ Changing the Opacity value will enable you to reduce the transparency level of a
 
 Click on the Export button if you like the results and choose whether you want to save the file on your hard-disc or upload it to YouTube, Facebook or Vimeo directly from Filmora Scrn.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
 
 ## Conclusion
 
@@ -139,7 +139,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## What are Blending Modes in Filmora?
 
@@ -149,17 +149,17 @@ Different ways of combining pixels are called modes, and for that reason, the pr
 
 The **Normal mode** is a part of the standard set of blending modes in almost all photo and video editing programs. It enables you to keep the top layer intact, by preventing the pixels from two images to merge. It is a perfect PIP blending mode since it allows you to keep two overlaying images separate and have two different narratives within the same shot. Producers of YouTube videos and tutorials of any kind or gamers who want to entertain their audiences should use the Normal mode when editing their footage captured with Filmora Scrn.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
 
 The **Screen Mode** is best used when you are working with dark monochrome backgrounds because it reduces the dark areas in the video thus enabling you to blend the top layer into the background seamlessly.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
 
 Utilizing this mode successfully requires previous preparation because the effects you'll get if you use the Screen mode with a footage that is not best suited for this mode are far from impressive. Therefore, the video clips you want to overlay and blend with each other must be recorded perfectly in order to get the best results.
 
 The **Multiply Mode** is also one of the frequently used blending modes that **multiplies the numbers for each pixel of the overlaying video clip** with a matching pixel from the background video.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
@@ -171,13 +171,13 @@ Applying different blending modes and switching between them is easy, and it won
 
 In case you've used Filmora Scrn's screen recorder to capture your video, the video clip will be opened in the software's video editor and placed in the media bin, immediately after the recording session is over. However, the Wondershare's software also allows you to import the footage you've captured with a video camera or any other video recording software or device.
 
-![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
+![Filmora Scrn Import Media](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
 
 #### Step 2 - Select the Blending mode
 
@@ -185,7 +185,7 @@ On the right side of the screen you'll be able to see several options such as Tr
 
 In the Compositing menu, you will be able to see the Blending Mode feature. Click on the drop-down menu and select one of the modes.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
@@ -193,7 +193,7 @@ Changing the Opacity value will enable you to reduce the transparency level of a
 
 Click on the Export button if you like the results and choose whether you want to save the file on your hard-disc or upload it to YouTube, Facebook or Vimeo directly from Filmora Scrn.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
 
 ## Conclusion
 
@@ -232,7 +232,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## What are Blending Modes in Filmora?
 
@@ -242,17 +242,17 @@ Different ways of combining pixels are called modes, and for that reason, the pr
 
 The **Normal mode** is a part of the standard set of blending modes in almost all photo and video editing programs. It enables you to keep the top layer intact, by preventing the pixels from two images to merge. It is a perfect PIP blending mode since it allows you to keep two overlaying images separate and have two different narratives within the same shot. Producers of YouTube videos and tutorials of any kind or gamers who want to entertain their audiences should use the Normal mode when editing their footage captured with Filmora Scrn.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
 
 The **Screen Mode** is best used when you are working with dark monochrome backgrounds because it reduces the dark areas in the video thus enabling you to blend the top layer into the background seamlessly.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
 
 Utilizing this mode successfully requires previous preparation because the effects you'll get if you use the Screen mode with a footage that is not best suited for this mode are far from impressive. Therefore, the video clips you want to overlay and blend with each other must be recorded perfectly in order to get the best results.
 
 The **Multiply Mode** is also one of the frequently used blending modes that **multiplies the numbers for each pixel of the overlaying video clip** with a matching pixel from the background video.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
@@ -264,13 +264,13 @@ Applying different blending modes and switching between them is easy, and it won
 
 In case you've used Filmora Scrn's screen recorder to capture your video, the video clip will be opened in the software's video editor and placed in the media bin, immediately after the recording session is over. However, the Wondershare's software also allows you to import the footage you've captured with a video camera or any other video recording software or device.
 
-![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
+![Filmora Scrn Import Media](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
 
 #### Step 2 - Select the Blending mode
 
@@ -278,7 +278,7 @@ On the right side of the screen you'll be able to see several options such as Tr
 
 In the Compositing menu, you will be able to see the Blending Mode feature. Click on the drop-down menu and select one of the modes.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
@@ -286,7 +286,7 @@ Changing the Opacity value will enable you to reduce the transparency level of a
 
 Click on the Export button if you like the results and choose whether you want to save the file on your hard-disc or upload it to YouTube, Facebook or Vimeo directly from Filmora Scrn.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
 
 ## Conclusion
 
@@ -325,7 +325,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## What are Blending Modes in Filmora?
 
@@ -335,17 +335,17 @@ Different ways of combining pixels are called modes, and for that reason, the pr
 
 The **Normal mode** is a part of the standard set of blending modes in almost all photo and video editing programs. It enables you to keep the top layer intact, by preventing the pixels from two images to merge. It is a perfect PIP blending mode since it allows you to keep two overlaying images separate and have two different narratives within the same shot. Producers of YouTube videos and tutorials of any kind or gamers who want to entertain their audiences should use the Normal mode when editing their footage captured with Filmora Scrn.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-normal-mode.jpg)
 
 The **Screen Mode** is best used when you are working with dark monochrome backgrounds because it reduces the dark areas in the video thus enabling you to blend the top layer into the background seamlessly.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-screen-mode.jpg)
 
 Utilizing this mode successfully requires previous preparation because the effects you'll get if you use the Screen mode with a footage that is not best suited for this mode are far from impressive. Therefore, the video clips you want to overlay and blend with each other must be recorded perfectly in order to get the best results.
 
 The **Multiply Mode** is also one of the frequently used blending modes that **multiplies the numbers for each pixel of the overlaying video clip** with a matching pixel from the background video.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-multiply-mode.jpg)
 
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
@@ -357,13 +357,13 @@ Applying different blending modes and switching between them is easy, and it won
 
 In case you've used Filmora Scrn's screen recorder to capture your video, the video clip will be opened in the software's video editor and placed in the media bin, immediately after the recording session is over. However, the Wondershare's software also allows you to import the footage you've captured with a video camera or any other video recording software or device.
 
-![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
+![Filmora Scrn Import Media](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
 
 #### Step 2 - Select the Blending mode
 
@@ -371,7 +371,7 @@ On the right side of the screen you'll be able to see several options such as Tr
 
 In the Compositing menu, you will be able to see the Blending Mode feature. Click on the drop-down menu and select one of the modes.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
@@ -379,7 +379,7 @@ Changing the Opacity value will enable you to reduce the transparency level of a
 
 Click on the Export button if you like the results and choose whether you want to save the file on your hard-disc or upload it to YouTube, Facebook or Vimeo directly from Filmora Scrn.
 
-![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
+![Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
 
 ## Conclusion
 

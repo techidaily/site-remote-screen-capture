@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Step-by-Step  Nine Methods for Logging PC Acoustics\""
-date: 2024-05-18T13:49:20.427Z
-updated: 2024-05-19T13:49:20.427Z
+date: 2024-07-05T13:46:15.018Z
+updated: 2024-07-06T13:46:15.018Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Step-by-Step: Nine Methods for Logging PC Acoustics\""
 excerpt: "\"This Article Describes 2024 Approved: Step-by-Step: Nine Methods for Logging PC Acoustics\""
 keywords: "Mac Snapshot File Conversion,Change Snapshot Type Mac,Mac Image Format Change,Adjusting Photo Types Mac,Mac Snapshots Editing Steps,File Type Alteration in Macs,Mac Screenshot Format Adjustment"
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## Step-by-Step: Nine Methods for Logging PC Acoustics
@@ -47,7 +47,7 @@ To this far you are almost there! You can now use a microphone to feed into the 
 
 This being the final step, you will have to launch the recorder you are using to start the recording, and then select the Stereo Mix Device from the microphone icon. This will allow your recorder to record PC sound and microphone at the same time.
 
-## 2\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## 2\. Filmora
 
 You may be interested in adding your voice to a video, making a voice-over demo for your social media networks, or even when preparing an important staff that requires your demonstration. Using Wondershare Filmora Editor, you can successfully combine your microphone voice with other computer sounds. This is because Filmora software has a voiceover function that allows you to record your voice or add voice-over files to a video. You can also use this function to customize the pitch, speech, and volume of the recorded voiceover. There are two options for incorporating sound in the other recordings using Filmora; you can edit your video first and then record the voiceover after. Or, start with recording the voiceover and then edit the video. in any of these ways, you need to prepare the script for smooth recording.
 

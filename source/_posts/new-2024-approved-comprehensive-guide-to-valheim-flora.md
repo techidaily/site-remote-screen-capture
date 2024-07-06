@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Comprehensive Guide to Valheim Flora\""
-date: 2024-05-18T13:36:38.319Z
-updated: 2024-05-19T13:36:38.319Z
+date: 2024-07-05T13:46:12.575Z
+updated: 2024-07-06T13:46:12.575Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Comprehensive Guide to Valheim Flora\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Comprehensive Guide to Valheim Flora\""
 keywords: "Valheim Plant Life,Valheim Nature Tips,Flora in Valheim Guide,Comprehensive Valheim Plants,Exploring Flora in Valheim,Valheim Herbal Encyclopedia,Mastering Valheim Botany"
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## Comprehensive Guide to Valheim Flora

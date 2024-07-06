@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Skywalkers Unite! New War Epoch"
-date: 2024-05-18T13:20:05.379Z
-updated: 2024-05-19T13:20:05.379Z
+date: 2024-07-05T13:46:11.950Z
+updated: 2024-07-06T13:46:11.950Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] The Skywalkers Unite! New War Epoch"
 excerpt: "This Article Describes [Updated] The Skywalkers Unite! New War Epoch"
 keywords: "Skywalker Alliance,War Epoch Begins,Galactic Warfare,Skywalker Rebellion,Star Wars Uprising,New Battlefronts,Uniting Force Against Darkness"
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## The Skywalkers Unite! New War Epoch

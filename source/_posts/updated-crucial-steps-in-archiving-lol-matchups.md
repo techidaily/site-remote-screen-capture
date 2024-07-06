@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Crucial Steps in Archiving LOL Matchups"
-date: 2024-05-18T13:43:49.595Z
-updated: 2024-05-19T13:43:49.595Z
+date: 2024-07-05T13:46:24.057Z
+updated: 2024-07-06T13:46:24.057Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Crucial Steps in Archiving LOL Matchups"
 excerpt: "This Article Describes [Updated] Crucial Steps in Archiving LOL Matchups"
 keywords: "LOL Archive Basics,Matchup Preservation,LOL Historical Keeping,Digital Game Records,Save LOL Gaming,Key Archiving Steps,Essential Gaming Archive"
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## Crucial Steps in Archiving LOL Matchups

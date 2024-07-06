@@ -1,7 +1,7 @@
 ---
 title: "\"Secret Sound Scribes  Hidden Audio Logging for Mobile Devices for 2024\""
-date: 2024-05-18T13:38:52.293Z
-updated: 2024-05-19T13:38:52.293Z
+date: 2024-07-05T13:46:24.173Z
+updated: 2024-07-06T13:46:24.173Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Secret Sound Scribes: Hidden Audio Logging for Mobile Devices for 2024\""
 excerpt: "\"This Article Describes Secret Sound Scribes: Hidden Audio Logging for Mobile Devices for 2024\""
 keywords: "Secret Audio Recording,Mobile Device Voice Logging,Stealthy Mobile Sounds,Hidden Audio Capture,Mobile Silent Recordings,Secure Phone Sound Recording,Clandestine Device Voice Logging"
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Secret Sound Scribes: Hidden Audio Logging for Mobile Devices

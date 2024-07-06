@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] PS4 to Video  Complete OBS Broadcasting Guide\""
-date: 2024-05-19T23:33:53.756Z
-updated: 2024-05-20T23:33:53.756Z
+date: 2024-07-05T13:46:13.785Z
+updated: 2024-07-06T13:46:13.785Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] PS4 to Video: Complete OBS Broadcasting Guide\""
 excerpt: "\"This Article Describes [Updated] PS4 to Video: Complete OBS Broadcasting Guide\""
 keywords: "PS4 Broadcasting Tips,OBS PS4 Guide,Stream PS4 Easy,Ultimate OBS for PS4,PS4 Video Production,PS4 Broadcast Basics,OBS Studio PS4 Settings"
-thumbnail: https://www.lifewire.com/thmb/GmtX4Dz-IqWNOXpwPIQPNtbYXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
 ## PS4 to Video: Complete OBS Broadcasting Guide

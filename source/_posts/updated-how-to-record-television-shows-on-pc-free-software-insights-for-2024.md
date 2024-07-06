@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] How to Record Television Shows on PC  Free Software Insights for 2024\""
-date: 2024-05-18T13:20:40.333Z
-updated: 2024-05-19T13:20:40.333Z
+date: 2024-07-05T13:46:13.581Z
+updated: 2024-07-06T13:46:13.581Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] How to Record Television Shows on PC: Free Software Insights for 2024\""
 excerpt: "\"This Article Describes [Updated] How to Record Television Shows on PC: Free Software Insights for 2024\""
 keywords: "TV Show Recording PC,Free TV Record Software,PC TV Show Capture,Free PC Media Recorder,Streaming TV on PC,Free TV Recording PC,Media Capturing PC Guide"
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## How to Record Television Shows on PC: Free Software Insights
@@ -46,7 +46,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to record TV shows on Windows 7/8 for Free
 
@@ -90,7 +90,7 @@ Hold the Windows and G keys to launch the game bar, and after you've selected th
 
 Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
 
-#### 1. [MediaPortal](https://www.team-mediaportal.com/)
+#### 1. MediaPortal
 
 **Pros:** Provides fast and simple ways to record live TV.
 
@@ -100,7 +100,7 @@ This open source application ranks highly among the best TV recording software c
 
 In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
 
-#### 2. [NextPVR](http://www.nextpvr.com/)
+#### 2. NextPVR
 
 **Pros:** A wide spectrum of recording options.
 
@@ -143,7 +143,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to record TV shows on Windows 7/8 for Free
 
@@ -187,7 +187,7 @@ Hold the Windows and G keys to launch the game bar, and after you've selected th
 
 Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
 
-#### 1. [MediaPortal](https://www.team-mediaportal.com/)
+#### 1. MediaPortal
 
 **Pros:** Provides fast and simple ways to record live TV.
 
@@ -197,7 +197,7 @@ This open source application ranks highly among the best TV recording software c
 
 In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
 
-#### 2. [NextPVR](http://www.nextpvr.com/)
+#### 2. NextPVR
 
 **Pros:** A wide spectrum of recording options.
 
@@ -240,7 +240,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to record TV shows on Windows 7/8 for Free
 
@@ -284,7 +284,7 @@ Hold the Windows and G keys to launch the game bar, and after you've selected th
 
 Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
 
-#### 1. [MediaPortal](https://www.team-mediaportal.com/)
+#### 1. MediaPortal
 
 **Pros:** Provides fast and simple ways to record live TV.
 
@@ -294,7 +294,7 @@ This open source application ranks highly among the best TV recording software c
 
 In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
 
-#### 2. [NextPVR](http://www.nextpvr.com/)
+#### 2. NextPVR
 
 **Pros:** A wide spectrum of recording options.
 
@@ -337,7 +337,7 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 ## How to record TV shows on Windows 7/8 for Free
 
@@ -381,7 +381,7 @@ Hold the Windows and G keys to launch the game bar, and after you've selected th
 
 Trying to record live TV with built-in software on Windows can limit your options, which is why using free TV recording software is a much better idea if you'd like to have complete control over the live TV recording process.
 
-#### 1. [MediaPortal](https://www.team-mediaportal.com/)
+#### 1. MediaPortal
 
 **Pros:** Provides fast and simple ways to record live TV.
 
@@ -391,7 +391,7 @@ This open source application ranks highly among the best TV recording software c
 
 In order to start recording you just have to press the R key, while watching TV on your computer, or alternatively, you can hold the F9 key to access the info menu that also features a Record button.
 
-#### 2. [NextPVR](http://www.nextpvr.com/)
+#### 2. NextPVR
 
 **Pros:** A wide spectrum of recording options.
 

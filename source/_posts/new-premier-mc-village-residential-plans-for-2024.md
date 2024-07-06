@@ -1,7 +1,7 @@
 ---
 title: "[New] Premier MC Village Residential Plans for 2024"
-date: 2024-05-18T13:33:14.935Z
-updated: 2024-05-19T13:33:14.935Z
+date: 2024-07-05T13:46:14.168Z
+updated: 2024-07-06T13:46:14.168Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Premier MC Village Residential Plans for 2024"
 excerpt: "This Article Describes [New] Premier MC Village Residential Plans for 2024"
 keywords: "\"MC Village Living,Residential MC Design,Premium MC Homeplan,MC Urban Residences,High-End MC Development,Luxury MC Estate Plan,Elite MC Housing Blueprint\""
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## Premier MC Village Residential Plans

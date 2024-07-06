@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Commanders' Crown  The Ultimate Ranking of 7 Total War Classics\""
-date: 2024-05-19T23:33:04.641Z
-updated: 2024-05-20T23:33:04.641Z
+date: 2024-07-05T13:46:16.996Z
+updated: 2024-07-06T13:46:16.996Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Commanders' Crown: The Ultimate Ranking of 7 Total War Classics\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Commanders' Crown: The Ultimate Ranking of 7 Total War Classics\""
 keywords: "TotalWarClassicsRankings,CommandersCrownGames,WargameHistoricTop7,RankingTotalWars,ClassicStrategyTitles,UltimateWargameList,Top7TotalWarSeries"
-thumbnail: https://www.lifewire.com/thmb/GmtX4Dz-IqWNOXpwPIQPNtbYXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
 ## Commanders' Crown: The Ultimate Ranking of 7 Total War Classics

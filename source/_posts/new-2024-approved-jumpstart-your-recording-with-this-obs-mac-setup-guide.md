@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Jumpstart Your Recording with This OBS Mac Setup Guide\""
-date: 2024-05-19T23:33:57.456Z
-updated: 2024-05-20T23:33:57.456Z
+date: 2024-07-05T13:46:25.601Z
+updated: 2024-07-06T13:46:25.601Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Jumpstart Your Recording with This OBS Mac Setup Guide\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Jumpstart Your Recording with This OBS Mac Setup Guide\""
 keywords: "OBS Mac Quick Start,Mac OBS Tutorial,OBS on Mac Basics,Begin OBS Mac,Mac Recording OBS,Setup OBS Mac Guide,Launch OBS on Mac"
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## Jumpstart Your Recording with This OBS Mac Setup Guide

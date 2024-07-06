@@ -1,7 +1,7 @@
 ---
 title: "\"Chorus Collective  Recordings, Downloads & Evaluation\""
-date: 2024-05-18T13:35:41.990Z
-updated: 2024-05-19T13:35:41.990Z
+date: 2024-07-05T13:46:20.146Z
+updated: 2024-07-06T13:46:20.146Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Chorus Collective: Recordings, Downloads & Evaluation\""
 excerpt: "\"This Article Describes Chorus Collective: Recordings, Downloads & Evaluation\""
 keywords: "Chorus Music Recs,Downloadable Choruses,Chorale Analysis Guide,Audio Choir Records,Choral Performance Review,Evaluate Collective Singing,Chorus Downloads Study"
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Chorus Collective: Recordings, Downloads & Evaluation

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Hurry-Up Screen Record, With Audio\""
-date: 2024-05-19T23:33:18.621Z
-updated: 2024-05-20T23:33:18.621Z
+date: 2024-07-05T13:46:23.855Z
+updated: 2024-07-06T13:46:23.855Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Hurry-Up Screen Record, With Audio\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Hurry-Up Screen Record, With Audio\""
 keywords: "Quick Recorder Screen Capture,Fast Screen Audio Record,Speedy Screen Audio Save,Rapid Screen Capture App,Swift Screen Recording Tool,Hasty Video Capture Device,Accelerated Screen Audio File"
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Hurry-Up Screen Record, With Audio
