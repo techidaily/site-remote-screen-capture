@@ -1,7 +1,7 @@
 ---
 title: "\"Apex Legends Solo Strategies  Mastering One Platform at a Time for 2024\""
-date: 2024-05-18T13:14:29.710Z
-updated: 2024-05-19T13:14:29.710Z
+date: 2024-07-21T08:09:38.188Z
+updated: 2024-07-22T08:09:38.188Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes Apex Legends Solo Strategies: Mastering One Platform at a Time for 2024\""
 excerpt: "\"This Article Describes Apex Legends Solo Strategies: Mastering One Platform at a Time for 2024\""
 keywords: "Apex Lone Play,Solo Apex Game,Singular Legend,Solo Apex Tactics,Single Legion Mastery,Solo Legends Skills,One Platform Apex Strat"
-thumbnail: https://www.lifewire.com/thmb/tP3PGqv5XalObxjPn5UrSpbUwa0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/preaknessstakes-5c804f1b46e0fb00019b8ee0.jpg
+thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
 ---
 
 ## Apex Legends Solo Strategies: Mastering One Platform at a Time
 
 # Apex Legends Crossplay: How to Turn it Off & Platform Choosing Guide
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -39,6 +42,9 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -65,8 +71,14 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -91,6 +103,9 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 4**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
@@ -134,6 +149,9 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -172,6 +190,9 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -210,6 +231,9 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Xbox Series X and S**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
@@ -239,6 +263,9 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -257,8 +284,27 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -292,3 +338,58 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-determining-top-screen-recorder-obs-studio-vs-bandicam-for-2024/"><u>[New] Determining Top Screen Recorder  OBS Studio Vs. Bandicam for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-innovations-in-portraying-chrono-displacement-on-screen/"><u>[New] Innovations in Portraying Chrono-Displacement on Screen</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-leading-ways-to-preserve-live-streamed-sports-events-flawlessly-for-2024/"><u>[New] Leading Ways to Preserve Live-Streamed Sports Events Flawlessly for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-transform-your-content-instagram-ready-videos-in-final-cut-pro-x/"><u>[Updated] Transform Your Content  Instagram-Ready Videos in Final Cut Pro X</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-enhance-your-windows-photos-with-personalized-soundtracks-and-filter-choices/"><u>2024 Approved  Enhance Your Windows Photos with Personalized Soundtracks and Filter Choices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-windows-1110-screenshot-and-recorders-ranked/"><u>2024 Approved  Essential Windows 11/10 Screenshot & Recorders Ranked</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pathways-to-discovering-elite-filmmakers/"><u>2024 Approved  Pathways to Discovering Elite Filmmakers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/adjusting-settings-for-audible-obs-broadcasts-for-2024/"><u>Adjusting Settings for Audible OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/effortless-screen-capture-on-chrome-os-devices/"><u>Effortless Screen Capture on Chrome OS Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-subtitle-tutorial-how-to-add-captions-like-a-pro/"><u>FCPX Subtitle Tutorial How to Add Captions Like a Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-xr21-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia XR21 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-curated-igtv-channels-that-matter-today/"><u>In 2024, Curated IGTV Channels That Matter Today</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-decibel-documentation-system-and-speech/"><u>In 2024, Decibel Documentation  System and Speech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-obs-adjustments-for-inexpensive-machines/"><u>In 2024, Essential OBS Adjustments for Inexpensive Machines</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-time-lapse-101-minimizing-wait-times/"><u>In 2024, IPhone Time Lapse 101  Minimizing Wait Times</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-securing-your-online-discussions/"><u>In 2024, Securing Your Online Discussions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-serene-gaming-selection-quietest-phone-apps/"><u>In 2024, Serene Gaming Selection  Quietest Phone Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-snapping-success-the-best-4-methods-for-chrome-os-screenshots/"><u>In 2024, Snapping Success  The Best 4 Methods for Chrome OS Screenshots</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-snaprecorder-expert-breakdowns/"><u>In 2024, SnapRecorder Expert Breakdowns</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-spectrasafe-uv-censor-webcam-shield/"><u>In 2024, SpectraSafe UV-Censor Webcam Shield</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-speech-to-text-device-review/"><u>In 2024, Speech-to-Text Device Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-speedy-cam-and-commentary-recorder-software/"><u>In 2024, Speedy Cam & Commentary Recorder Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-stardew-essentials-unveiling-ginger-islands-secrets/"><u>In 2024, Stardew Essentials  Unveiling Ginger Island's Secrets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-setting-up-your-smartphone-as-a-webcam-device/"><u>In 2024, Step-by-Step  Setting Up Your Smartphone as a Webcam Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-guide-to-instagram-livestreaming-using-obs/"><u>In 2024, Step-by-Step Guide to Instagram Livestreaming Using OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-instruction-on-downloading-installing-and-using-ez-grabber/"><u>In 2024, Step-by-Step Instruction on Downloading, Installing & Using EZ Grabber</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-techniques-for-clear-screen-captures-on-imac/"><u>In 2024, Step-by-Step Techniques for Clear Screen Captures on iMac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-stopping-auto-capture-in-apples-recorder/"><u>In 2024, Stopping Auto-Capture in Apple's Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-stream-it-record-it-facebook-live-tips-and-tricks/"><u>In 2024, Stream It, Record It  Facebook Live Tips & Tricks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-streamlined-approach-to-iphone-screen-recording/"><u>In 2024, Streamlined Approach to iPhone Screen Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-streamlined-recording-of-powerpoint-slides-via-webcam/"><u>In 2024, Streamlined Recording of PowerPoint Slides via Webcam</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-streamlining-sound-recording-a-filmmakers-handbook-on-voice-overs/"><u>In 2024, Streamlining Sound Recording  A Filmmaker's Handbook on Voice-Overs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-surviving-the-block-top-houses/"><u>In 2024, Surviving the Block  Top Houses</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-swiftly-rotate-videos-in-vlc-for-smooth-viewing/"><u>In 2024, Swiftly Rotate Videos in VLC for Smooth Viewing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-switchs-prime-capture-technology-picks/"><u>In 2024, Switch's Prime Capture Technology Picks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>In 2024, Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-sync-zoom-meetings-with-ios-and-android-calendars/"><u>In 2024, Sync Zoom Meetings with iOS and Android Calendars</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-tech-unity-expert-easeus-reviews/"><u>In 2024, Tech Unity  Expert EaseUS Reviews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-techniques-to-ensure-uninterrupted-video-capturing/"><u>In 2024, Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-art-of-instagram-live-broadcasting-made-simple-via-obs/"><u>In 2024, The Art of Instagram Live Broadcasting Made Simple via OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-complete-guide-to-professional-fbx-game-capture/"><u>In 2024, The Complete Guide to Professional FBX Game Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-complete-process-of-video-recording-and-editing-on-adobe-connect/"><u>In 2024, The Complete Process of Video Recording & Editing on Adobe Connect</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-comprehensible-guide-to-enhancing-your-facebook-live-experience/"><u>In 2024, The Comprehensible Guide to Enhancing Your Facebook Live Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-essential-guide-to-4-premium-fullscreen-software/"><u>In 2024, The Essential Guide to 4 Premium Fullscreen Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-x-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone X on MetroPCS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/income-from-video-how-to-profit-on-vimeo-platform/"><u>Income From Video  How to Profit on Vimeo Platform</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleashing-auditory-brilliance-without-a-mic-in-sight-for-2024/"><u>Unleashing Auditory Brilliance without a Mic in Sight for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-film-trailer-editing-tools-for-mac-and-windows-users/"><u>Updated In 2024, Best Film Trailer Editing Tools for Mac and Windows Users</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-video-looping-software-for-windows-and-mac/"><u>Updated In 2024, Free Video Looping Software for Windows and Mac</u></a></li>
+</ul></div>

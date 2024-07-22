@@ -1,7 +1,7 @@
 ---
 title: "Secrets to Perfectly Lit Evening Portraits for 2024"
-date: 2024-05-18T13:20:34.940Z
-updated: 2024-05-19T13:20:34.940Z
+date: 2024-07-21T08:37:02.727Z
+updated: 2024-07-22T08:37:02.727Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Secrets to Perfectly Lit Evening Portraits for 2024"
 excerpt: "This Article Describes Secrets to Perfectly Lit Evening Portraits for 2024"
 keywords: "Live Sports Streaming Tips,Sports Event Online Recording,Top Sports Live Recordings,Secret Sports Online Streaming,Best Live Sports Capture,Sports Events Livestream Guide,Recording Sports Online Tips"
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Secrets to Perfectly Lit Evening Portraits
@@ -23,6 +23,9 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
@@ -37,16 +40,25 @@ This will also allow you to take advantage of clicking pictures during special h
 
 While shooting **night portraits,** based on the location, you may not get sufficient natural light to light up the subject. This is where you need to use some types of artificial lighting. Without this, you may not be able to capture the details of your subject. Your shots will look very blurry and underexposed. Well, artificial lighting need not be a flash. The source of artificial lighting can be anything.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![pexels matheus bertelli 573298](https://images.wondershare.com/filmora/article-images/2022/11/pexels-matheus-bertelli-573298.jpg)
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### 3\. Make Good Use of Night Mode Portrait
 
 Don't forget to take advantage of your camera's night mode portrait option to get stunning results. Sometimes, you need to depend on software instead of your camera's hardware for better results. Post-processing can enhance the exposure, level colors, effectively tune white balance, etc., and night mode can help you with that. When you choose this option, the camera will consider different factors, like the movement of the subjects, camera, light settings and more.
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Shooting with a Stabilizer
 
 For better results, you can use a camera stabilizer. A camera stabilizer will offer you the ability to take beautiful and smooth shots while moving. Stabilizers come in different configurations and sizes. They can effectively lower the vibration of the camera while moving. But shooting with a monopod, gimbal, or other rigs can be a little challenging for you. However, there are some tips that you can keep in your mind for better results, for example:
@@ -58,12 +70,18 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 * Close down the aperture.
 * Allow your subject to move into the focus distance.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pexels marcelo dias 1970482](https://images.wondershare.com/filmora/article-images/2022/11/pexels-marcelo-dias-1970482.jpg)
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
 ## Part 2: Don't-Dos in Night Portraits
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
@@ -86,12 +104,18 @@ Talking about the shutter speed, for stationary subjects, you can go for 1/160s.
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## FAQs
 
 ### How To Capture Good Portraits at Night?
@@ -137,3 +161,67 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-10-leading-non-gamer-screen-recording-alternatives-for-2024/"><u>[New] 10 Leading Non-Gamer Screen Recording Alternatives for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-captureeverything-a-deep-dive-into-laptop-recording/"><u>[New] CaptureEverything  A Deep Dive Into Laptop Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-the-heart-of-sims-innovative-techniques-for-recording-realistic-gameplay-for-2024/"><u>[New] Capturing the Heart of Sims  Innovative Techniques for Recording Realistic Gameplay for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-digital-vault-for-internet-streams-a-recording-blueprint-for-2024/"><u>[New] Digital Vault for Internet Streams  A Recording Blueprint for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-effortless-installation-and-fun-with-ifunnys-memes/"><u>[New] Effortless Installation & Fun with iFunny's Memes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-recommendations-free-chat-apps-with-screen-viewing/"><u>[New] Expert Recommendations  Free Chat Apps with Screen Viewing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>[New] In 2024, Cutting-Edge Method  Quick Erasure of Youtube Comments</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-effective-strategies-for-mov-video-recording-in-windows-11/"><u>[New] In 2024, Effective Strategies for MOV Video Recording in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-insightful-steps-to-identify-your-viewers/"><u>[New] Insightful Steps to Identify Your Viewers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-obs-versus-shadowplay-streaming-software-showdown/"><u>[New] OBS versus ShadowPlay - Streaming Software Showdown</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-prime-voice-recorders-for-online-use/"><u>[New] Prime Voice Recorders for Online Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-ios-gaming-experience-top-emulators-for-your-favorite-psp-titles/"><u>[Updated] Best iOS Gaming Experience  Top Emulators for Your Favorite PSP Titles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-digital-game-chronicles-for-2024/"><u>[Updated] Digital Game Chronicles for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-excavating-the-essence-of-tiktoks-anime-world-the-dance-music-symphony-and-visual-flair-for-2024/"><u>[Updated] Excavating the Essence of TikTok's Anime World  The Dance-Music Symphony & Visual Flair for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-lenovo-quick-guide-effortless-screenshots/"><u>[Updated] Lenovo Quick Guide  Effortless Screenshots</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-leveraging-insta-archive-features-a-step-by-step-approach/"><u>[Updated] Leveraging Insta Archive Features  A Step-by-Step Approach</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>[Updated] Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-tech-savvy-guide-to-excellent-recording-apps/"><u>[Updated] Tech-Savvy Guide to Excellent Recording Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-virtual-playstation-experience-at-your-fingertips-top-5/"><u>[Updated] Virtual PlayStation Experience at Your Fingertips (Top 5)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-which-angle-works-better-for-social-sharing-vertical-or-horizontal-in-2024/"><u>[Updated] Which Angle Works Better for Social Sharing  Vertical or Horizontal, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-critical-approaches-to-documenting-youtube-live-video/"><u>2024 Approved  Critical Approaches to Documenting Youtube LIVE Video</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ensuring-privacy-in-zoom-meetings-by-recording/"><u>2024 Approved  Ensuring Privacy in Zoom Meetings by Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-racing-revelry-junior-edition/"><u>2024 Approved  Racing Revelry  Junior Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-4-pcmac-full-screen-recorders-ultimate-guide/"><u>2024 Approved  Top 4 PC/Mac Full-Screen Recorders  Ultimate Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-turning-tides-in-the-social-stream-boosting-post-performance/"><u>2024 Approved  Turning Tides in the Social Stream  Boosting Post Performance</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-premier-digital-audio-editor/"><u>2024 Approved Premier Digital Audio Editor</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-by-step-approach-to-choosing-superior-fpv-drone-propellers-for-2024/"><u>A Step-by-Step Approach to Choosing Superior FPV Drone Propellers for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/achieving-professional-quality-with-instagrams-virtual-screens-for-2024/"><u>Achieving Professional Quality with Instagram's Virtual Screens for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/adjusting-visuals-in-teams-conversations-at-any-time-for-2024/"><u>Adjusting Visuals in Teams Conversations at Any Time for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-tips-for-adding-visual-impact-in-google-meet-for-2024/"><u>Essential Tips for Adding Visual Impact in Google Meet for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/examining-splitcams-video-quality-against-competitors-for-2024/"><u>Examining SplitCam's Video Quality Against Competitors for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-narzo-n53-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Realme Narzo N53 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-record-gameplay-with-fbx-game-recorder-for-2024/"><u>How To Record Gameplay With FBX Game Recorder for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-guidelines-for-successful-twilight-photo-shoots/"><u>In 2024, Guidelines for Successful Twilight Photo Shoots</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-approaches-to-record-and-archive-roblox-gameplay-on-apple-systems/"><u>In 2024, Innovative Approaches to Record & Archive Roblox Gameplay on Apple Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-leveraging-google-for-precise-speech-to-text-conversion/"><u>In 2024, Leveraging Google for Precise Speech-to-Text Conversion</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-mastering-video-capture-4-best-pc-and-mac-tools/"><u>In 2024, Mastering Video Capture  4 Best PC & Mac Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-postmycam-seeking-top-notch-alternatives/"><u>In 2024, PostMyCam  Seeking Top-Notch Alternatives</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-prime-techniques-for-silent-videography/"><u>In 2024, Prime Techniques for Silent Videography</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlock-the-power-of-fb-conversation-capture-tools/"><u>In 2024, Unlock the Power of FB Conversation Capture Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-video-pace-control-a-beginners-guide-to-camtasia-speed-adjustment/"><u>In 2024, Video Pace Control A Beginners Guide to Camtasia Speed Adjustment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-apps-for-refined-dji-aerial-filmmaking/"><u>Leading Apps for Refined DJi Aerial Filmmaking</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mac-screenshots-transforming-extensions/"><u>Mac Screenshots  Transforming Extensions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video-for-2024/"><u>Nailing the Perfect Capture  Mac Tips for Screencasting Streamed Video for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-wonders-of-obs-on-android-devices/"><u>Navigating the Wonders of OBS on Android Devices</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-grab-filmora-13-editor-for-free-no-watermark-no-cost/"><u>New 2024 Approved Grab Filmora 13 Editor for Free No Watermark, No Cost</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-eliminating-lyrics-and-choirs-with-precision-a-complete-guide-to-using-adobe-auditions-voice-reduction-capabilities/"><u>New Eliminating Lyrics and Choirs with Precision A Complete Guide to Using Adobe Auditions Voice Reduction Capabilities</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-how-to-use-voice-recorder-on-samsung-s10s9-in-2024/"><u>New How to Use Voice Recorder on Samsung S10/S9, In 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-isolate-handclapping-vibration-symphony/"><u>New In 2024, Isolate Handclapping Vibration Symphony</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/photoshop-color-adjustments-for-beginners/"><u>Photoshop Color Adjustments for Beginners</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/real-time-skype-monitoring-with-live-obs-integration/"><u>Real-Time Skype Monitoring with Live OBS Integration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-key-to-flawless-tiktok-profile-hyperlinking-for-2024/"><u>The Ultimate Key to Flawless TikTok Profile Hyperlinking for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-song-guide-for-newbies/"><u>The Ultimate Song Guide for Newbies</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-meizu-21-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Meizu 21 without backup.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tips-and-tricks-to-streamline-your-zoom-meetings-for-2024/"><u>Tips & Tricks to Streamline Your Zoom Meetings for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-3-tactics-transforming-pin-videos-into-mp3-sounds/"><u>Top 3 Tactics  Transforming Pin Videos Into MP3 Sounds</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-learn-cartoon-characters-sketch-quickly/"><u>Updated 2024 Approved How to Learn Cartoon Characters Sketch Quickly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-portrait-perfection-crafting-engaging-vertical-experiences/"><u>Updated 2024 Approved Portrait Perfection Crafting Engaging Vertical Experiences</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-4k-video-editing-software-for-2024/"><u>Updated The Ultimate Guide to 4K Video Editing Software for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-se-2022-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone SE (2022)?</u></a></li>
+</ul></div>

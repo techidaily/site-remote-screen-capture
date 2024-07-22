@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capture and Share  The Essential Guide to Maccasting\""
-date: 2024-05-18T13:16:20.819Z
-updated: 2024-05-19T13:16:20.819Z
+date: 2024-07-21T08:18:05.454Z
+updated: 2024-07-22T08:18:05.454Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Capture and Share: The Essential Guide to Maccasting\""
 excerpt: "\"This Article Describes [New] Capture and Share: The Essential Guide to Maccasting\""
 keywords: "Maccast Guide Essence,Capture Sharing Tips,Maccasting Basics,Essential Maccast,Share via Maccast,Maccast Recording Tips,Maccast Best Practices"
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Capture and Share: The Essential Guide to Maccasting
@@ -21,6 +21,9 @@ Since the invention of Linux-based systems, its popularity is growing in substan
 
 Well, in this scenario using the graphical GUI might seem easy but it's not pretty basic to that of windows. Many of us want to capture our screen either for educational purposes or entertainment but doing that on Macbook might not be so simple. However, you don’t need to panic because we have got you all covered in this article. We will see how to screen record on MacBook Air using different techniques. So let's begin one by one in the coming sections.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Part 1: Use Keyboard Shortcuts
 
 MacBook Air OS supports certain keyboard shortcuts to start screen recording and taking screenshots. You can either take a screenshot using the shortcut keys or record your screen by bringing in the tools on the screen To bring the screen recording tools menu on Mac, all you need is to press “Command + Shift + 4”.
@@ -29,6 +32,9 @@ MacBook Air OS supports certain keyboard shortcuts to start screen recording and
 
 After pressing you will be prompted to application windows as shown in the figure.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![macbook recorder settings](https://images.wondershare.com/filmora/article-images/macbook-recorder-settings.jpg)
 
 Once the application window appears, you must know what each icon on the window means. On the left side of the window, as you can see, you can manage the screenshot of your screen either in full or of some windows or areas. Next is the middle area, which gives you two modes for screen recording, fullscreen mode to record your screen or choose a certain area to record from the screen as shown above in the figure. You can access all the recording settings before pressing to record your screen.
@@ -37,12 +43,18 @@ Once the application window appears, you must know what each icon on the window 
 
 Before starting your screen recording it's important to adjust for different recording settings as shown in the figure below. Just click the “options” in the main GUI of the recorder to show it up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![macbook click the options](https://images.wondershare.com/filmora/article-images/macbook-click-the-options.jpg)
 
 You can select your destination folder for saving your records using the “save to” bar in the settings. Set the timer up to 5 and 10 seconds if you short version video. You can also set to record both visual and audio from the screen using the microphone settings. In the end, you are left with other options of showing a floating thumbnail on your recording or keeping the last settings you have done here with the “Remember last selection option”. These are the options you can adjust before starting your screen record.
 
 To stop recording all you have to do is press the small icon that appears in the top-right corner of your desktop screen. Visit your selected destination folder of the recording and bingo you can enjoy your screen recording.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![macbook stop recording](https://images.wondershare.com/filmora/article-images/macbook-stop-recording.jpg)
 
 ****Other Shortcut Keys:**
@@ -62,6 +74,85 @@ Another hidden application in your MacBook Air utility program that already come
 
 First, you will need to look into your applications row on your desktop screen. You will probably see the QuickTime player icon there. Right-click on the icon and start the new screen recorder to access the application. Or you can use the other method to access it with QuickTime open from the upper bar as shown in the figure below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+![quicktime player row on desktop screen](https://images.wondershare.com/filmora/article-images/quicktime-player-row-on-desktop-screen.jpg)
+
+Once you are done with launching the GUI of the application, it's time to learn how can you start recording now. Before starting your recording with the red icon of the start button as shown it is important to choose whether you want microphone input to be recorded or not. You can easily do it by enabling the internal microphone in the settings as shown in the figure. Once you are done with the settings it's time to start your recording.
+
+![quciktime internal microphone](https://images.wondershare.com/filmora/article-images/quciktime-internal-microphone.jpg)
+
+Click on the start recording button and you will see a new window will pop up to choose the screen recording mode from it as shown in the figure below. To record in the full-screen recording mode you just need to click randomly on the screen once and it will start recording the whole screen. Otherwise, drag and select a particular area on the screen and click start recording once shown and you will have the recording of the particular screen area.
+
+![quicktime drag and drop on screen](https://images.wondershare.com/filmora/article-images/quicktime-drag-and-drop-on-screen.jpg)
+
+Finally, if you are needed to stop recording, all you have to do is click on the QuickTime player icon in the application bar and select stop recording as shown. After doing so, you will be left with the untitled video of your recording that you can play through the player.
+
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![quicktime stop screen recording option](https://images.wondershare.com/filmora/article-images/quicktime-stop-screen-recording-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+## Part 3: Use Filmora
+
+Another cool way to [record your screen](https://tools.techidaily.com/wondershare/filmora/download/) on Macbook Air is using Filmora. Filmora comes with many updated versions, the latest one is Filmora 11\. The good thing is, that this method is similar to all of its versions. We will be using Filmora 9 to show how you can use its screen recorder on your MacBook Air to screen record like a pro.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+First of all, you will need to have Filmora 9 on your Macbook Air. Assuming that you already got the Filmora on your MacBook, let's move toward how can you launch it. Go to the main application bar on your Mac desktop and launch Filmora. You will see a window pop up asking you to create a new project. Just create a new project and bingo, its open.
+
+![filmora record screen](https://images.wondershare.com/filmora/guide/create-a-project-mac.png)
+
+Inside the Filmora application, go to the file in the menu, then hover on the “record media” and then click on the “Record PC Screen”.
+
+![filmora record media pc screen](https://images.wondershare.com/filmora/guide/recording-for-mac-1.png)
+
+After following the above steps, you will see the Filmora recorder has been launched as shown. You can select different capturing modes for your screen recording using the “Full Screen” options. Moreover, the frame size of your capturing can also be adjusted using custom values for size. Choose microphone input for your video through mic settings and enable/disable system audio anytime in this window. The recording can be started with the circular icon on this window as shown in the figure.
+
+Before starting your recording it's important to have a look at the detailed recording settings. To access those settings just click on the settings icon on the GUI of the recorder as can be seen in the above picture. Once you have clicked on it, you will see a new window of settings as shown.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![set audio](https://images.wondershare.com/filmora/guide/recording-for-mac-2.png)
+
+You can choose the destination folder for your recording from the “Save To” filed in the newly launched window. You can also set frame rates, and the quality of your video and start the recorder timer before starting recording. If you want to record the webcam footage or some other camera module attached to your PC too. All you need to check the Camera field and it will simultaneously record your camera feed too.
+
+Soon as you start capturing your screen recording, you will a timer will start the countdown. Once it's finished, your recording will be started. After some time you think, it's time to finish recording then you don’t have to worry about that too. All you have to do is by clicking the small icon in the top-right icon bar of the desktop screen of your MacBook Air as shown in the picture below attached.
+
+This is how you can record your screen with an amazing recorder that comes with the WonderShare Filmora application on your MacBook Air.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+There may be other tools and screen recorders in the market available for your MacBook Air. But for the sake of carrying important information to all the users out there looking for information regarding screen recorders then we serve our purpose for them. Here in this article, the aim was to provide the simplest application and ways to record your screen with great ease. We started with pretty much basic screen recording shortcuts and basic applications to screen record your Mac. We greatly hope after reading this article it will be never a problem for you to screen record anytime using your MacBook Air.
+
+Part 2: Use QuickTime Player
+
+Another hidden application in your MacBook Air utility program that already comes built-in with Mac OS is QuickTime Player. With this player, you can easily record your screen and take screenshots along the system audio as well as microphone input. To access this application and utilize it for your purpose all you need is to follow the steps given in the coming section.
+
+First, you will need to look into your applications row on your desktop screen. You will probably see the QuickTime player icon there. Right-click on the icon and start the new screen recorder to access the application. Or you can use the other method to access it with QuickTime open from the upper bar as shown in the figure below.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![quicktime player row on desktop screen](https://images.wondershare.com/filmora/article-images/quicktime-player-row-on-desktop-screen.jpg)
 
 Once you are done with launching the GUI of the application, it's time to learn how can you start recording now. Before starting your recording with the red icon of the start button as shown it is important to choose whether you want microphone input to be recorded or not. You can easily do it by enabling the internal microphone in the settings as shown in the figure. Once you are done with the settings it's time to start your recording.
@@ -126,12 +217,18 @@ Once you are done with launching the GUI of the application, it's time to learn 
 
 Click on the start recording button and you will see a new window will pop up to choose the screen recording mode from it as shown in the figure below. To record in the full-screen recording mode you just need to click randomly on the screen once and it will start recording the whole screen. Otherwise, drag and select a particular area on the screen and click start recording once shown and you will have the recording of the particular screen area.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![quicktime drag and drop on screen](https://images.wondershare.com/filmora/article-images/quicktime-drag-and-drop-on-screen.jpg)
 
 Finally, if you are needed to stop recording, all you have to do is click on the QuickTime player icon in the application bar and select stop recording as shown. After doing so, you will be left with the untitled video of your recording that you can play through the player.
 
 ![quicktime stop screen recording option](https://images.wondershare.com/filmora/article-images/quicktime-stop-screen-recording-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Use Filmora
 
 Another cool way to [record your screen](https://tools.techidaily.com/wondershare/filmora/download/) on Macbook Air is using Filmora. Filmora comes with many updated versions, the latest one is Filmora 11\. The good thing is, that this method is similar to all of its versions. We will be using Filmora 9 to show how you can use its screen recorder on your MacBook Air to screen record like a pro.
@@ -174,20 +271,32 @@ Another hidden application in your MacBook Air utility program that already come
 
 First, you will need to look into your applications row on your desktop screen. You will probably see the QuickTime player icon there. Right-click on the icon and start the new screen recorder to access the application. Or you can use the other method to access it with QuickTime open from the upper bar as shown in the figure below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![quicktime player row on desktop screen](https://images.wondershare.com/filmora/article-images/quicktime-player-row-on-desktop-screen.jpg)
 
 Once you are done with launching the GUI of the application, it's time to learn how can you start recording now. Before starting your recording with the red icon of the start button as shown it is important to choose whether you want microphone input to be recorded or not. You can easily do it by enabling the internal microphone in the settings as shown in the figure. Once you are done with the settings it's time to start your recording.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![quciktime internal microphone](https://images.wondershare.com/filmora/article-images/quciktime-internal-microphone.jpg)
 
 Click on the start recording button and you will see a new window will pop up to choose the screen recording mode from it as shown in the figure below. To record in the full-screen recording mode you just need to click randomly on the screen once and it will start recording the whole screen. Otherwise, drag and select a particular area on the screen and click start recording once shown and you will have the recording of the particular screen area.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![quicktime drag and drop on screen](https://images.wondershare.com/filmora/article-images/quicktime-drag-and-drop-on-screen.jpg)
 
 Finally, if you are needed to stop recording, all you have to do is click on the QuickTime player icon in the application bar and select stop recording as shown. After doing so, you will be left with the untitled video of your recording that you can play through the player.
 
 ![quicktime stop screen recording option](https://images.wondershare.com/filmora/article-images/quicktime-stop-screen-recording-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Use Filmora
 
 Another cool way to [record your screen](https://tools.techidaily.com/wondershare/filmora/download/) on Macbook Air is using Filmora. Filmora comes with many updated versions, the latest one is Filmora 11\. The good thing is, that this method is similar to all of its versions. We will be using Filmora 9 to show how you can use its screen recorder on your MacBook Air to screen record like a pro.
@@ -212,62 +321,14 @@ After following the above steps, you will see the Filmora recorder has been laun
 
 Before starting your recording it's important to have a look at the detailed recording settings. To access those settings just click on the settings icon on the GUI of the recorder as can be seen in the above picture. Once you have clicked on it, you will see a new window of settings as shown.
 
-![set audio](https://images.wondershare.com/filmora/guide/recording-for-mac-2.png)
-
-You can choose the destination folder for your recording from the “Save To” filed in the newly launched window. You can also set frame rates, and the quality of your video and start the recorder timer before starting recording. If you want to record the webcam footage or some other camera module attached to your PC too. All you need to check the Camera field and it will simultaneously record your camera feed too.
-
-Soon as you start capturing your screen recording, you will a timer will start the countdown. Once it's finished, your recording will be started. After some time you think, it's time to finish recording then you don’t have to worry about that too. All you have to do is by clicking the small icon in the top-right icon bar of the desktop screen of your MacBook Air as shown in the picture below attached.
-
-This is how you can record your screen with an amazing recorder that comes with the WonderShare Filmora application on your MacBook Air.
-
-## Conclusion
-
-There may be other tools and screen recorders in the market available for your MacBook Air. But for the sake of carrying important information to all the users out there looking for information regarding screen recorders then we serve our purpose for them. Here in this article, the aim was to provide the simplest application and ways to record your screen with great ease. We started with pretty much basic screen recording shortcuts and basic applications to screen record your Mac. We greatly hope after reading this article it will be never a problem for you to screen record anytime using your MacBook Air.
-
-Part 2: Use QuickTime Player
-
-Another hidden application in your MacBook Air utility program that already comes built-in with Mac OS is QuickTime Player. With this player, you can easily record your screen and take screenshots along the system audio as well as microphone input. To access this application and utilize it for your purpose all you need is to follow the steps given in the coming section.
-
-First, you will need to look into your applications row on your desktop screen. You will probably see the QuickTime player icon there. Right-click on the icon and start the new screen recorder to access the application. Or you can use the other method to access it with QuickTime open from the upper bar as shown in the figure below.
-
-![quicktime player row on desktop screen](https://images.wondershare.com/filmora/article-images/quicktime-player-row-on-desktop-screen.jpg)
-
-Once you are done with launching the GUI of the application, it's time to learn how can you start recording now. Before starting your recording with the red icon of the start button as shown it is important to choose whether you want microphone input to be recorded or not. You can easily do it by enabling the internal microphone in the settings as shown in the figure. Once you are done with the settings it's time to start your recording.
-
-![quciktime internal microphone](https://images.wondershare.com/filmora/article-images/quciktime-internal-microphone.jpg)
-
-Click on the start recording button and you will see a new window will pop up to choose the screen recording mode from it as shown in the figure below. To record in the full-screen recording mode you just need to click randomly on the screen once and it will start recording the whole screen. Otherwise, drag and select a particular area on the screen and click start recording once shown and you will have the recording of the particular screen area.
-
-![quicktime drag and drop on screen](https://images.wondershare.com/filmora/article-images/quicktime-drag-and-drop-on-screen.jpg)
-
-Finally, if you are needed to stop recording, all you have to do is click on the QuickTime player icon in the application bar and select stop recording as shown. After doing so, you will be left with the untitled video of your recording that you can play through the player.
-
-![quicktime stop screen recording option](https://images.wondershare.com/filmora/article-images/quicktime-stop-screen-recording-option.jpg)
-
-## Part 3: Use Filmora
-
-Another cool way to [record your screen](https://tools.techidaily.com/wondershare/filmora/download/) on Macbook Air is using Filmora. Filmora comes with many updated versions, the latest one is Filmora 11\. The good thing is, that this method is similar to all of its versions. We will be using Filmora 9 to show how you can use its screen recorder on your MacBook Air to screen record like a pro.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-First of all, you will need to have Filmora 9 on your Macbook Air. Assuming that you already got the Filmora on your MacBook, let's move toward how can you launch it. Go to the main application bar on your Mac desktop and launch Filmora. You will see a window pop up asking you to create a new project. Just create a new project and bingo, its open.
-
-![filmora record screen](https://images.wondershare.com/filmora/guide/create-a-project-mac.png)
-
-Inside the Filmora application, go to the file in the menu, then hover on the “record media” and then click on the “Record PC Screen”.
-
-![filmora record media pc screen](https://images.wondershare.com/filmora/guide/recording-for-mac-1.png)
-
-After following the above steps, you will see the Filmora recorder has been launched as shown. You can select different capturing modes for your screen recording using the “Full Screen” options. Moreover, the frame size of your capturing can also be adjusted using custom values for size. Choose microphone input for your video through mic settings and enable/disable system audio anytime in this window. The recording can be started with the circular icon on this window as shown in the figure.
-
-Before starting your recording it's important to have a look at the detailed recording settings. To access those settings just click on the settings icon on the GUI of the recorder as can be seen in the above picture. Once you have clicked on it, you will see a new window of settings as shown.
-
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![set audio](https://images.wondershare.com/filmora/guide/recording-for-mac-2.png)
 
 You can choose the destination folder for your recording from the “Save To” filed in the newly launched window. You can also set frame rates, and the quality of your video and start the recorder timer before starting recording. If you want to record the webcam footage or some other camera module attached to your PC too. All you need to check the Camera field and it will simultaneously record your camera feed too.
@@ -305,3 +366,70 @@ There may be other tools and screen recorders in the market available for your M
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-10-excellent-web-based-screen-capture-solutions/"><u>[New] 10 Excellent Web-Based Screen Capture Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-guide-to-valheim-flora/"><u>[New] 2024 Approved  Comprehensive Guide to Valheim Flora</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-precise-methods-for-recording-your-facetime-communication/"><u>[New] 2024 Approved  Precise Methods for Recording Your FaceTime Communication</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-tips-for-accurate-and-smooth-hp-laptop-screen-capture-for-2024/"><u>[New] Advanced Tips for Accurate and Smooth HP Laptop Screen Capture for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-connecting-to-google-meet-laptop-plus-mobile-for-2024/"><u>[New] Connecting to Google Meet  Laptop + Mobile for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elevate-meeting-experience-with-zooms-camera-snaps-for-2024/"><u>[New] Elevate Meeting Experience with Zoom's Camera Snaps for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-consolechronicle-critique/"><u>[New] In 2024, ConsoleChronicle Critique</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-optimal-ppt-transformers-for-videos/"><u>[New] In 2024, Optimal PPT Transformers for Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-invest-in-quality-screen-capture-bandicam-or-camtasia-in-2024/"><u>[New] Invest in Quality Screen Capture  Bandicam or Camtasia, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-playlist-perfection-updated-devices-for-2024/"><u>[New] Playlist Perfection  Updated Devices for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-preserve-your-memories-android-and-mac-snap-extraction-tips/"><u>[New] Preserve Your Memories  Android & Mac Snap Extraction Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ps1-gaming-delighted-top-5-emulators/"><u>[New] PS1 Gaming Delighted? Top 5 Emulators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screencast-excellence-the-ultimate-guide-to-best-obs-tools/"><u>[New] Screencast Excellence  The Ultimate Guide to Best OBS Tools</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-tips-and-tricks-for-joining-friends-live-on-tiktok-for-2024/"><u>[New] Tips & Tricks for Joining Friends' LIVE on TikTok for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-video-editing-101-preparing-for-instagram-excellence/"><u>[New] Video Editing 101  Preparing for Instagram Excellence</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-20-gratuitous-fb-video-makers-for-professional-ad-content/"><u>[Updated] 2024 Approved  20 Gratuitous FB Video Makers for Professional Ad Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-cutting-edge-screen-recording-free-from-lag-frames/"><u>[Updated] 2024 Approved  Cutting-Edge Screen Recording  Free From Lag Frames</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expert-tips-on-documenting-lol-tournaments/"><u>[Updated] 2024 Approved  Expert Tips on Documenting LOL Tournaments</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-innovative-approaches-to-iptv-video-logging/"><u>[Updated] 2024 Approved  Innovative Approaches to IPTV Video Logging</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-mastering-ps4-the-ultimate-guide-to-capturing-your-games/"><u>[Updated] 2024 Approved  Mastering PS4  The Ultimate Guide to Capturing Your Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-your-live-recordings-on-facebook-with-4-methods-for-2024/"><u>[Updated] Elevate Your Live Recordings on Facebook with 4 Methods for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-eyeview-scrutiny-exploration/"><u>[Updated] Eyeview Scrutiny Exploration</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-photography-tools-that-will-dazzle-you/"><u>[Updated] Free Photography Tools That Will Dazzle You</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-a-beginners-guide-to-ios-screen-recording/"><u>[Updated] In 2024, A Beginner's Guide to iOS Screen Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-a-concise-guide-to-starting-an-inclusive-chat-room-in-skype-accessible-on-different-operating-systems/"><u>[Updated] In 2024, A Concise Guide to Starting an Inclusive Chat Room in Skype, Accessible on Different Operating Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-epic-playground-the-top-10-alternatives-to-grand-theft-auto-v/"><u>[Updated] In 2024, Epic Playground  The Top 10 Alternatives to Grand Theft Auto V</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-lenovo-screenshots-made-quickly-and-easy/"><u>[Updated] In 2024, Lenovo Screenshots Made Quickly and Easy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-obs-for-android-streaming/"><u>[Updated] In 2024, Mastering OBS for Android Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-navigating-google-meet-profile-edit-laptopmobile/"><u>[Updated] In 2024, Navigating Google Meet Profile Edit (Laptop/Mobile)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-swift-techniques-mastering-effective-double-exposure/"><u>[Updated] In 2024, Swift Techniques  Mastering Effective Double Exposure</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-listenguide-examination/"><u>[Updated] ListenGuide Examination</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-silent-scribes-unveiling-the-best-speech-to-text-tools/"><u>[Updated] Silent Scribes  Unveiling the Best Speech-to-Text Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-7-tips-for-capturing-live-online-classes-gratis/"><u>2024 Approved  7 Tips for Capturing Live Online Classes Gratis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-amplify-and-transform-changing-your-audible-image-on-ig/"><u>2024 Approved  Amplify and Transform  Changing Your Audible Image on IG</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-detailed-analysis-vlc-for-video-capture/"><u>2024 Approved  Detailed Analysis  VLC for Video Capture</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-panoramic-versus-full-immersion-visual-media-tech/"><u>2024 Approved  Exploring Panoramic Versus Full-Immersion Visual Media Tech</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lightrooms-top-grading-tools-a-curated-list-of-best-rated-luts/"><u>2024 Approved  Lightroom's Top Grading Tools – A Curated List of Best-Rated LUTs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-preparing-to-engage-in-googles-video-meetings/"><u>2024 Approved  Preparing to Engage in Google's Video Meetings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-secrets-to-flawless-remote-audio-production/"><u>2024 Approved  Secrets to Flawless Remote Audio Production</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-solving-sound-disconnection-on-live-feeds/"><u>2024 Approved  Solving Sound Disconnection on Live Feeds</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tactics-for-transforming-youtube-list-layouts/"><u>2024 Approved  Tactics for Transforming YouTube List Layouts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-guide-to-validating-your-yt-channels-earnings/"><u>2024 Approved  The Ultimate Guide to Validating Your YT Channel's Earnings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-pick-for-mp4-recorders-on-market/"><u>2024 Approved  Top Pick for MP4 Recorders on Market</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-resize-with-ease-a-detailed-guide-to-image-ratio-adjustment/"><u>2024 Approved Resize with Ease A Detailed Guide to Image Ratio Adjustment</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-use-path-blur-in-photoshop-to-create-motion-effect/"><u>2024 Approved Use Path Blur In Photoshop To Create Motion Effect</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/basic-voice-changing-utilities-outline-of-capabilities-and-substitutes-for-2024/"><u>Basic Voice Changing Utilities Outline of Capabilities and Substitutes for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y100t-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y100t FRP Bypass</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-cutthroat-countdown-best-zombies-in-gaming-unveiled/"><u>In 2024, Cutthroat Countdown  Best Zombies In Gaming Unveiled</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-how-to-select-the-best-voice-changer-for-gaming/"><u>In 2024, How to Select the Best Voice Changer for Gaming?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-guide-for-ppt-screen-capture-2023-style/"><u>In 2024, The Ultimate Guide for PPT Screen Capture, 2023 Style</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-8-best-screen-recorders-with-no-lag/"><u>In 2024, Top 8 Best Screen Recorders with No Lag</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-nvidias-screen-recorder-potential/"><u>In 2024, Unlocking NVIDIA's Screen Recorder Potential</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-virtual-video-talks-via-whatsapp-browser-on-your-pc/"><u>In 2024, Unlocking Virtual Video Talks via WhatsApp Browser on Your PC</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-3-ways-to-make-time-lapse-video-on-macbook/"><u>New 2024 Approved 3 Ways to Make Time-Lapse Video on MacBook</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-exploring-cricket-auditory-signatures-for-2024/"><u>New Exploring Cricket Auditory Signatures for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-kids-film-studio-a-guide-to-creating-movies-for-2024/"><u>New Kids Film Studio A Guide to Creating Movies for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-say-goodbye-to-cracks-free-and-legal-filmora-options/"><u>New Say Goodbye to Cracks Free and Legal Filmora Options</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/premier-robot-interactions-in-discord/"><u>Premier Robot Interactions in Discord</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/reviving-the-past-top-5-desktop-friendly-gb-emulation-software-for-2024/"><u>Reviving the Past  Top 5 Desktop-Friendly GB Emulation Software for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-workflows-get-canon-windows-10-drivers/"><u>Streamline Workflows: Get Canon Windows 10 Drivers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamlining-mov-recordings-in-windows-for-2024/"><u>Streamlining MOV Recordings in Windows for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-se-2020-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone SE (2020)</u></a></li>
+</ul></div>

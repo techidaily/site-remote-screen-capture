@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Decreasing Bitrate in High-Quality OBS\""
-date: 2024-05-18T13:45:45.884Z
-updated: 2024-05-19T13:45:45.884Z
+date: 2024-07-21T10:29:03.966Z
+updated: 2024-07-22T10:29:03.966Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Decreasing Bitrate in High-Quality OBS\""
 excerpt: "\"This Article Describes 2024 Approved: Decreasing Bitrate in High-Quality OBS\""
 keywords: "LowBitRateOBS,HQObsBitReduction,EnhancedObsSmoothness,QualityObsOptimization,BitrateLoweringTechnology,OBSQualityEnhancement,HighResOBSDecrease"
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## Decreasing Bitrate in High-Quality OBS
@@ -35,6 +35,10 @@ Step 4: Click on Apply and Ok buttons. Restart your computer and start streaming
 
 ![obs reduce the output resolution](https://images.wondershare.com/filmora/article-images/obs-reduce-the-output-resolution.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Way 2\. Lower Your Frame Rate
 
 The frame rate of a video determines the number of frames captured per second. The higher the frame rate, the greater will be the pressure on GPU to render more number of frames per second. Unless you have a powerful configuration, you will come across OBS high encoding when streaming if the frame rate is high such as 60FPS. Here are the steps to lower the frame rate of your video on OBS.
@@ -47,6 +51,15 @@ Step 3: If it is set to 60, you have to bring it down to 30\. Basically, you hav
 
 Step 4: Click on Apply and Ok button to save the new setting. Restart your computer and resume your OBS operation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![obs click on apply and ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-apply-and-ok-button.jpg)
 
 ## Way 3\. Change Encoder Preset
@@ -65,6 +78,9 @@ Step 5: Click on Apply and Ok button. Restart your computer and perform your act
 
 ![obs change encoder preset](https://images.wondershare.com/filmora/article-images/obs-change-encoder-preset.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 4\. Try Hardware Encoding
 
 You can try out different hardware encoders available such as Quicksync, AMF, or NVENC. The availability of different hardware encoders depends on your computer hardware configuration. These hardware encoders are better than the default x264 encoder as they use less CPU resources. Since the issue is primarily with encoder, you should try changing the encoder and see if the problem is fixed.
@@ -81,6 +97,9 @@ Step 5: Click on Apply and Ok to save the settings. Restart your computer and pe
 
 ![obs restart your computer and perform your operation](https://images.wondershare.com/filmora/article-images/obs-restart-your-computer-and-perform-your-operation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Way 5\. Change Some Advanced Settings
 
 If you are still facing OBS high encoding problem, you need to change some advanced settings in order to fix this encoder overloaded issue. You can change the keyframe interval so that your processor gets enough time for rendering. Similarly, you can change Rate Control from Constant to Variable so that the video does not demand high bandwidth.
@@ -97,6 +116,9 @@ Step 5: Change Profile from None to Main.
 
 Step 6: Click on Apply and Ok button to save the changes. Restart your computer and check if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs open and go to settings](https://images.wondershare.com/filmora/article-images/obs-open-and-go-to-settings.jpg)
 
 ## Way 6\. Use OBS Alternative
@@ -125,6 +147,9 @@ Step 3: Click on Record button to start recording. Press F9 to stop recording wh
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
@@ -149,6 +174,9 @@ Step 4: You can edit the recorded video. Thereafter, click on Export button to s
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
@@ -159,6 +187,9 @@ For macOS 10.12 or later
 
 Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
@@ -169,8 +200,14 @@ Step 3: Click on Record button to start recording. Press F9 to stop recording wh
 
 Step 4: You can edit the recorded video. Thereafter, click on Export button to save it on your hard drive in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 OBS high encoding warning or encoding overloaded warning is not uncommon. In fact, you are likely to come across this problem if you do not have a high-end computer. In that case, you have to lower resolution, lower frame rate, change encoder preset, try different encoders as well as tweak advanced settings to fix the problem. If the problem is not solved after trying out all the means available, you can switch to Wondershare Filmora as a better alternative for recording and video editing.
@@ -181,6 +218,9 @@ For macOS 10.12 or later
 
 Step 1: Install Wondershare Filmora on your computer based on your OS. Launch Filmora and click on PC Screen to record your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![pc-screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size and the audio sources. If you want to capture webcam as well, turn on Record The Camera Stream option.
@@ -222,3 +262,41 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-battlefield-legends-the-ultimate-list-of-top-7-total-war-victories/"><u>[New] Battlefield Legends  The Ultimate List of Top 7 Total War Victories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-list-best-10-terraria-mods/"><u>[New] Comprehensive List  Best 10 Terraria Mods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streaming-perfection-best-practices-in-vr-gameplay-recording-for-2024/"><u>[New] Streaming Perfection  Best Practices in VR Gameplay Recording for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-craft-your-online-identity-with-customized-youtube-urls/"><u>[Updated] 2024 Approved  Craft Your Online Identity with Customized YouTube URLs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-simplify-zoom-a-comprehensive-guide-to-blurry-borders/"><u>[Updated] 2024 Approved  Simplify Zoom  A Comprehensive Guide to Blurry Borders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-techniques-for-recording-team-conversations/"><u>[Updated] 2024 Approved  Step-by-Step Techniques for Recording Team Conversations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fixed-youtube-shorts-just-watch-and-enjoy-for-2024/"><u>[Updated] Fixed YouTube Shorts - Just Watch and Enjoy for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-highly-effective-ways-to-stream-and-record-sports-games/"><u>[Updated] Highly Effective Ways to Stream and Record Sports Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-from-amateur-to-professional-transform-your-minecraft-recordings-with-mac/"><u>[Updated] In 2024, From Amateur to Professional  Transform Your Minecraft Recordings with Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-through-the-maze-creating-seamless-video-experienences-in-pixiz/"><u>[Updated] Navigating Through the Maze  Creating Seamless Video Experienences in Pixiz</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-side-by-side-display-logging-for-2024/"><u>[Updated] Side-by-Side Display Logging for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-ranked-mac-pro-video-maker-plus-audio-for-2024/"><u>[Updated] Top-Ranked Mac Pro Video Maker Plus Audio for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-ultimate-action-hunting-cameras-ranked/"><u>10 Ultimate Action Hunting Cameras Ranked</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capture-and-share-saving-your-ppt-sessions/"><u>2024 Approved  Capture and Share  Saving Your PPT Sessions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-echoes-from-the-web-tips-on-tracking-live-sounds/"><u>2024 Approved  Echoes From the Web  Tips on Tracking Live Sounds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-how-to-record-minecraft-on-mac/"><u>2024 Approved  How to Record Minecraft on Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/a-deeper-dive-into-vsdc-plus-its-top-alternatives-for-2024/"><u>A Deeper Dive Into VSDC, Plus Its Top Alternatives for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/a-gamers-guide-to-high-quality-gameplay-recordings-on-ps4-for-2024/"><u>A Gamer's Guide to High-Quality Gameplay Recordings on PS4 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/convenient-video-sharing-on-microsoft-hub/"><u>Convenient Video Sharing on Microsoft Hub</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/discover-and-set-up-vrecorder-in-minutes-148-characters/"><u>Discover & Set Up VRecorder in Minutes (148 Characters)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-new-release-for-c6515/"><u>Driver New Release for C6515</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/engage-with-googles-online-gatherings-for-2024/"><u>Engage with Google's Online Gatherings for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/experts-picks-top-5-webcams-revolutionizing-game-streaming-for-2024/"><u>Expert's Picks  Top 5 Webcams Revolutionizing Game Streaming for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/first-time-user-steps-for-effortless-vrecorder-setup-for-2024/"><u>First-Time User Steps for Effortless VRecorder Setup for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-comprehensive-guide-to-free-xbox-screen-recorder-use/"><u>In 2024, Comprehensive Guide to Free Xbox Screen Recorder Use</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-perfectly-stream-your-ps4-gaming-session/"><u>In 2024, How to Perfectly Stream Your PS4 Gaming Session</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-redmi-note-12r-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi Redmi Note 12R Location | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/instagram-engagement-obs-streamed-content/"><u>Instagram Engagement  OBS Streamed Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-your-channel-revenue-with-youtubes-new-policies-for-2024/"><u>Maximize Your Channel Revenue with YouTube's New Policies for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-go-beyond-gopro-studio-best-video-editing-software-for-action-cams/"><u>New 2024 Approved Go Beyond GoPro Studio Best Video Editing Software for Action Cams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/prime-motorsport-experiences-quintessential-list/"><u>Prime Motorsport Experiences  Quintessential List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/professional-filming-made-simple-the-essentials-of-logitech-webcam-setup/"><u>Professional Filming Made Simple  The Essentials of Logitech Webcam Setup</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/speak-from-the-heart-how-to-make-a-sincere-and-emotional-valentines-day-video/"><u>Speak From the Heart How to Make a Sincere and Emotional Valentines Day Video</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Efficient OBS Usage  Live Skype Capture Tips\""
-date: 2024-07-05T13:46:12.503Z
-updated: 2024-07-06T13:46:12.503Z
+date: 2024-07-21T06:05:05.007Z
+updated: 2024-07-22T06:05:05.007Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,9 @@ Video interviews for remote jobs are quite common these days because of this qui
 
 So in this article I will discuss that how can you record your skype videos using OBS. Skype has been extensively used for quite a long time now and it hasn’t lost its edge over the years but has actually upgraded and improved its services with time. Coming to OBS which is an open-source software used widely for streaming purposes. It provides an incredible experience courtesy of its variety of editing and recording options. The audio can be recorded from the system and the microphone. And video can be fetched from the webcam. Along with the recording of specific section of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Part 1: Recording Skype Calls with OBS
 
 To begin with shedding some light on the OBS program:
@@ -53,6 +56,9 @@ And clicking on it will open a new window where you have to select the guest fee
 
 As you receive the call from the reciever you will see the incoming feed of him as shown in the figure.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs receive the call](https://images.wondershare.com/filmora/article-images/obs-receive-the-call.jpg)
 
 So you can just resize it similarly as you did yours earlier and pressing the lock icon will stop you from mistakenly modify or change the video screen settings. Now to record the video you have to click on record button and your desktop starts recording.
@@ -82,6 +88,9 @@ For macOS 10.12 or later
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -90,6 +99,9 @@ For macOS 10.12 or later
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -137,10 +149,17 @@ For macOS 10.12 or later
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -180,10 +199,21 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
@@ -231,14 +261,25 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![filmora regard screen size](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
@@ -299,3 +340,40 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unpacking-obss-full-spectrum-of-video-capturing-tools/"><u>[New] 2024 Approved  Unpacking OBS's Full Spectrum of Video Capturing Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-breaking-barriers-a-comprehensive-guide-to-dispute-reporting-without-confrontation-on-discord/"><u>[New] Breaking Barriers  A Comprehensive Guide to Dispute Reporting Without Confrontation on Discord</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-crafting-immersive-video-experiences-using-captivate/"><u>[New] Crafting Immersive Video Experiences Using Captivate</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-exploring-the-top-rated-ios-video-capture-apps/"><u>[New] Exploring the Top-Rated iOS Video Capture Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-video-calls-discover-the-top-10-apps-for-your-phone/"><u>[New] In 2024, Mastering Video Calls  Discover the Top 10 Apps for Your Phone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-optimize-your-videos-for-instagram-mac-resizing-guide/"><u>[New] In 2024, Optimize Your Videos for Instagram  Mac Resizing Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-walk-of-shadows-a-comprehensive-list-of-intense-zombie-games/"><u>[New] In 2024, Walk of Shadows  A Comprehensive List of Intense Zombie Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-reviewing-multiple-cameras-are-there-upgrades-for-2024/"><u>[New] Reviewing Multiple Cameras  Are There Upgrades for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-to-stardom-on-social-boost-your-instagram-fame-at-warp-speed-with-our-15-must-knows/"><u>[New] Step-by-Step to Stardom on Social  Boost Your Instagram Fame at Warp Speed with Our 15 Must-Knows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-10-ultimate-live-capture-tools-for-2024/"><u>[New] Top 10 Ultimate Live Capture Tools for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-10-free-video-capture-tools-for-windowsmac/"><u>[Updated] 2024 Approved  Top 10 Free Video Capture Tools for Windows/Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-commanders-canvas-painting-victory-in-the-top-7-total-wars/"><u>[Updated] Commanders' Canvas  Painting Victory in the Top 7 Total Wars</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-a-step-by-step-approach-for-adding-soundtracks-to-youtube-clips/"><u>[Updated] In 2024, A Step-by-Step Approach for Adding Soundtracks to YouTube Clips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-superior-procedures-for-documenting-computer-display-live-tv-sessions/"><u>[Updated] In 2024, Superior Procedures for Documenting Computer Display Live TV Sessions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-maximizing-gameplay-preservation-on-the-newest-windows-11-for-2024/"><u>[Updated] Maximizing Gameplay Preservation on the Newest Windows 11 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-webcam-recording-guide-for-hp-and-chromebook-users-for-2024/"><u>[Updated] Webcam Recording Guide for HP & Chromebook Users for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/10-best-listed-playlists-on-spotify/"><u>10 Best-Listed Playlists on Spotify</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-streamlined-techniques-for-rapid-mac-screen-recording/"><u>2024 Approved  Streamlined Techniques for Rapid Mac Screen Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/diy-lol-gameplay-tapes-mastering-three-methods-for-2024/"><u>DIY LOL Gameplay Tapes  Mastering Three Methods for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-6s-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6s Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-beginners-tutorial-how-to-insert-on-screen-dialogue-in-video-formats/"><u>In 2024, A Beginner's Tutorial  How to Insert On-Screen Dialogue in Video Formats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-androids-screen-capture-4-easy-techniques/"><u>In 2024, Android's Screen Capture  4 Easy Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-expert-setup-guide-to-capture-high-quality-video-using-logitech-camera/"><u>In 2024, Expert Setup Guide to Capture High-Quality Video Using Logitech Camera</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-xs-max-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone XS Max with iTunes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-high-quality-win-capturing-tools/"><u>In 2024, High-Quality Win Capturing Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-how-to-record-console-gameplay-on-computer/"><u>In 2024, How to Record Console Gameplay on Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lenovo-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lenovo Without PUK Codes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/mycam-review-is-there-a-better-alternative-available/"><u>MyCam Review  Is There A Better Alternative Available?</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-translate-any-hindi-video-into-english-with-ai/"><u>new 2024 Approved Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcp-aspect-ratio-adjustment-a-beginners-guide-updated/"><u>New FCP Aspect Ratio Adjustment A Beginners Guide (Updated )</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/nightscape-notables-tips-for-capturing-starlit-portraits/"><u>Nightscape Notables  Tips for Capturing Starlit Portraits</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimizing-win11-monitor-size/"><u>Optimizing Win11 Monitor Size</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visual-virtuosity-leading-photo-frames-websites-and-tools/"><u>Visual Virtuosity  Leading Photo Frames Websites and Tools</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] Exceptional Quality HD Video Documenters"
-date: 2024-05-18T13:42:02.369Z
-updated: 2024-05-19T13:42:02.369Z
+date: 2024-07-21T10:12:25.987Z
+updated: 2024-07-22T10:12:25.987Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Exceptional Quality HD Video Documenters"
 excerpt: "This Article Describes [New] Exceptional Quality HD Video Documenters"
 keywords: "\"High-Quality HD Videos,Exceptional Video Quality,Premium HD Documentation,Top-Notch Video Clarity,Ultimate HD Video Content,Superior HD Video Clips,Elite HD Video Production\""
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## Exceptional Quality HD Video Documenters
@@ -57,12 +57,257 @@ Step 4: Finish Editing and Save Your Video
 
 You may now edit the recorded video to delete any superfluous elements. To do so, move the mouse to the undesirable segment's edge and click Cut. As required, repeat the process. Then choose the portion you wish to get rid of and press the Delete fragment button.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export](https://images.wondershare.com/filmora/article-images/export.jpg)
 
 Step 5: Save the HD Recording to Your Computer
 
 After that, choose Export. You may modify the output format, file name, and export folder in the dialog box that appears. After you've completed all of the required adjustments, click Save.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+![export to device](https://images.wondershare.com/filmora/article-images/export-to-device.jpg)
+
+## 2\. LiteCam - HD Webcam Recorder
+
+LiteCam screen recorder is a Windows application that allows users to capture screencast films in high definition. As a result, it's one of the greatest options for capturing streaming movies, webcasts, podcasts, and even webcam video. This article offers a thorough examination of the program. LiteCam is designed with a basic user interface to make the recording procedure as easy as possible, and then utilize the in-built editor to perfect the video. It's very handy for folks who want to make video lessons and upload them on YouTube. It's a full solution that lets users record everything that happens on the screen, including sound, using the built-in microphone.
+
+Step 1: Download LiteCam and Install It on Your Computer
+
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![download litecam](https://images.wondershare.com/filmora/article-images/download-litecam.jpg)
+
+The first step is to download and install the application on your computer. While you may download a free trial version of the application, it should be noted that its usefulness will be restricted.
+
+Step 2: Customize the Settings
+
+If this is your first time using LiteCam, you may need to adjust the settings to your liking or depending on the sort of video you wish to shoot. If you wish to record the sound, you need also to switch on the microphone. To begin altering the recording settings, choose the "Video Recorder" option in the main window. You may choose to record the whole screen or a specific area of the screen here.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![litecam customize the settings](https://images.wondershare.com/filmora/article-images/litecam-customize-the-settings.jpg)
+
+Step 3: Start Recording
+
+Once you've got everything set up the way you want it, click Record to start recording the screen. Keep in mind that throughout the recording, you may utilize the cursor effects to emphasize the video. To conclude the recording, press the record button again. After that, you may watch the recording and make adjustments to it using the editing option. Remember to save the video when you're finished.
+
+## 3\. XRecorder - HD Recorder for Android
+
+When it comes to video tools, XRecorder is a well-known developer on Google Play. Its screen recorder app is one of the most popular on the market. It may be used for a variety of tasks, including filming instructional videos and video games. There's also internal audio recording and a light video editor to tidy things up, and there's no watermark. It performs well for the task at hand. Some of the features need a membership, but it's generally excellent. Many streaming providers now offer smartphone compatibility. Two of the most popular are Twitch and YouTube Gaming. You just broadcast your games as usual. After you've finished using both services, you may download your video. It's an excellent option for gamers in particular.
+
+Step 1\. Launch the Settings app on your iOS device.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+![xrecorder launch](https://images.wondershare.com/filmora/article-images/xrecorder-launch.jpg)
+
+Step 2\. In the next step, you need to scroll down and tap on the Camera button.
+
+![xrecorder camera button](https://images.wondershare.com/filmora/article-images/xrecorder-camera-button.jpg)
+
+Step 3\. Tap Record Video and then Select a resolution and frame rate to record video at. Note that shooting the 4K options take the most space.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![xrecorder tap record video](https://images.wondershare.com/filmora/article-images/xrecorder-tap-record-video.jpg)
+
+## 4\. MoviePro - Best HD Video Recorder for iOS
+
+The MoviePro app is the greatest among the top video recording apps since it allows you to customize every part of the settings when shooting films on your iPhone. MoviePro is a free video capture program that allows you to record screen items and save them in AVI format. With on-screen audio meters and Bluetooth microphone input choices, audio recording and monitoring possibilities are just as varied. This program has several useful features that will make your life easier. It comes with several useful capabilities, including high-definition screen recording, video compression, and more. The software comes with a plethora of functionality, including manual controls for practically all of the program's functionalities and a variety of video recording possibilities.
+
+Step 1\. On your iOS device, go to the App Store and download the app.
+
+![moviepro video recorder](https://images.wondershare.com/filmora/article-images/moviepro-video-recorder.jpg)
+
+Step 2\. Scroll down to Camera and tap it. Tap the Record Video button.
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![moviepro tap the record video](https://images.wondershare.com/filmora/article-images/moviepro-tap-the-record-video.jpg)
+
+Step 3\. To record video, choose a resolution and frame rate. It's worth noting that filming in 4K takes up the most space.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Conclusion
+
+It's critical to understand a few things about these programs before choosing the one that's right for you. You can choose which one is ideal for you by carefully considering their attributes. In addition to pictures, you may need to collect videos, particularly for how-to instructions and tutorials for a variety of presentations. Video might also be recorded for personal or entertainment purposes. Regardless of your objectives, the good news is that there are several HD video recorder software solutions available on the Internet.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Steps to Record HD Videos with Filmora:**
+
+Step 1: Get Filmora Screen Recorder and install it.
+
+The website has the software available for download. To install the video capture program, run the downloaded file and follow the on-screen instructions. Double-click the application icon to start the recorder after that.
+
+![record pc screen filmora](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+Step 2: Make Adjustments to The Parameters
+
+Click Preferences in the sidebar to adjust the capture settings before you start recording.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+Step 3: Make a Video on Your Computer
+
+To begin the recording process, click the record button. Before the screen capture starts, there will be a 3-second countdown. If necessary, you may pause the recording at any time. Click the Stop button to end the recording.
+
+![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
+
+Step 4: Finish Editing and Save Your Video
+
+You may now edit the recorded video to delete any superfluous elements. To do so, move the mouse to the undesirable segment's edge and click Cut. As required, repeat the process. Then choose the portion you wish to get rid of and press the Delete fragment button.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![export](https://images.wondershare.com/filmora/article-images/export.jpg)
+
+Step 5: Save the HD Recording to Your Computer
+
+After that, choose Export. You may modify the output format, file name, and export folder in the dialog box that appears. After you've completed all of the required adjustments, click Save.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![export to device](https://images.wondershare.com/filmora/article-images/export-to-device.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. LiteCam - HD Webcam Recorder
+
+LiteCam screen recorder is a Windows application that allows users to capture screencast films in high definition. As a result, it's one of the greatest options for capturing streaming movies, webcasts, podcasts, and even webcam video. This article offers a thorough examination of the program. LiteCam is designed with a basic user interface to make the recording procedure as easy as possible, and then utilize the in-built editor to perfect the video. It's very handy for folks who want to make video lessons and upload them on YouTube. It's a full solution that lets users record everything that happens on the screen, including sound, using the built-in microphone.
+
+Step 1: Download LiteCam and Install It on Your Computer
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+![download litecam](https://images.wondershare.com/filmora/article-images/download-litecam.jpg)
+
+The first step is to download and install the application on your computer. While you may download a free trial version of the application, it should be noted that its usefulness will be restricted.
+
+Step 2: Customize the Settings
+
+If this is your first time using LiteCam, you may need to adjust the settings to your liking or depending on the sort of video you wish to shoot. If you wish to record the sound, you need also to switch on the microphone. To begin altering the recording settings, choose the "Video Recorder" option in the main window. You may choose to record the whole screen or a specific area of the screen here.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+![litecam customize the settings](https://images.wondershare.com/filmora/article-images/litecam-customize-the-settings.jpg)
+
+Step 3: Start Recording
+
+Once you've got everything set up the way you want it, click Record to start recording the screen. Keep in mind that throughout the recording, you may utilize the cursor effects to emphasize the video. To conclude the recording, press the record button again. After that, you may watch the recording and make adjustments to it using the editing option. Remember to save the video when you're finished.
+
+## 3\. XRecorder - HD Recorder for Android
+
+When it comes to video tools, XRecorder is a well-known developer on Google Play. Its screen recorder app is one of the most popular on the market. It may be used for a variety of tasks, including filming instructional videos and video games. There's also internal audio recording and a light video editor to tidy things up, and there's no watermark. It performs well for the task at hand. Some of the features need a membership, but it's generally excellent. Many streaming providers now offer smartphone compatibility. Two of the most popular are Twitch and YouTube Gaming. You just broadcast your games as usual. After you've finished using both services, you may download your video. It's an excellent option for gamers in particular.
+
+Step 1\. Launch the Settings app on your iOS device.
+
+![xrecorder launch](https://images.wondershare.com/filmora/article-images/xrecorder-launch.jpg)
+
+Step 2\. In the next step, you need to scroll down and tap on the Camera button.
+
+![xrecorder camera button](https://images.wondershare.com/filmora/article-images/xrecorder-camera-button.jpg)
+
+Step 3\. Tap Record Video and then Select a resolution and frame rate to record video at. Note that shooting the 4K options take the most space.
+
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![xrecorder tap record video](https://images.wondershare.com/filmora/article-images/xrecorder-tap-record-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+## 4\. MoviePro - Best HD Video Recorder for iOS
+
+The MoviePro app is the greatest among the top video recording apps since it allows you to customize every part of the settings when shooting films on your iPhone. MoviePro is a free video capture program that allows you to record screen items and save them in AVI format. With on-screen audio meters and Bluetooth microphone input choices, audio recording and monitoring possibilities are just as varied. This program has several useful features that will make your life easier. It comes with several useful capabilities, including high-definition screen recording, video compression, and more. The software comes with a plethora of functionality, including manual controls for practically all of the program's functionalities and a variety of video recording possibilities.
+
+Step 1\. On your iOS device, go to the App Store and download the app.
+
+![moviepro video recorder](https://images.wondershare.com/filmora/article-images/moviepro-video-recorder.jpg)
+
+Step 2\. Scroll down to Camera and tap it. Tap the Record Video button.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
+![moviepro tap the record video](https://images.wondershare.com/filmora/article-images/moviepro-tap-the-record-video.jpg)
+
+Step 3\. To record video, choose a resolution and frame rate. It's worth noting that filming in 4K takes up the most space.
+
+## Conclusion
+
+It's critical to understand a few things about these programs before choosing the one that's right for you. You can choose which one is ideal for you by carefully considering their attributes. In addition to pictures, you may need to collect videos, particularly for how-to instructions and tutorials for a variety of presentations. Video might also be recorded for personal or entertainment purposes. Regardless of your objectives, the good news is that there are several HD video recorder software solutions available on the Internet.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Steps to Record HD Videos with Filmora:**
+
+Step 1: Get Filmora Screen Recorder and install it.
+
+The website has the software available for download. To install the video capture program, run the downloaded file and follow the on-screen instructions. Double-click the application icon to start the recorder after that.
+
+![record pc screen filmora](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+Step 2: Make Adjustments to The Parameters
+
+Click Preferences in the sidebar to adjust the capture settings before you start recording.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+Step 3: Make a Video on Your Computer
+
+To begin the recording process, click the record button. Before the screen capture starts, there will be a 3-second countdown. If necessary, you may pause the recording at any time. Click the Stop button to end the recording.
+
+![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
+
+Step 4: Finish Editing and Save Your Video
+
+You may now edit the recorded video to delete any superfluous elements. To do so, move the mouse to the undesirable segment's edge and click Cut. As required, repeat the process. Then choose the portion you wish to get rid of and press the Delete fragment button.
+
+![export](https://images.wondershare.com/filmora/article-images/export.jpg)
+
+Step 5: Save the HD Recording to Your Computer
+
+After that, choose Export. You may modify the output format, file name, and export folder in the dialog box that appears. After you've completed all of the required adjustments, click Save.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![export to device](https://images.wondershare.com/filmora/article-images/export-to-device.jpg)
 
 ## 2\. LiteCam - HD Webcam Recorder
@@ -85,12 +330,18 @@ Step 3: Start Recording
 
 Once you've got everything set up the way you want it, click Record to start recording the screen. Keep in mind that throughout the recording, you may utilize the cursor effects to emphasize the video. To conclude the recording, press the record button again. After that, you may watch the recording and make adjustments to it using the editing option. Remember to save the video when you're finished.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. XRecorder - HD Recorder for Android
 
 When it comes to video tools, XRecorder is a well-known developer on Google Play. Its screen recorder app is one of the most popular on the market. It may be used for a variety of tasks, including filming instructional videos and video games. There's also internal audio recording and a light video editor to tidy things up, and there's no watermark. It performs well for the task at hand. Some of the features need a membership, but it's generally excellent. Many streaming providers now offer smartphone compatibility. Two of the most popular are Twitch and YouTube Gaming. You just broadcast your games as usual. After you've finished using both services, you may download your video. It's an excellent option for gamers in particular.
 
 Step 1\. Launch the Settings app on your iOS device.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![xrecorder launch](https://images.wondershare.com/filmora/article-images/xrecorder-launch.jpg)
 
 Step 2\. In the next step, you need to scroll down and tap on the Camera button.
@@ -99,6 +350,9 @@ Step 2\. In the next step, you need to scroll down and tap on the Camera button.
 
 Step 3\. Tap Record Video and then Select a resolution and frame rate to record video at. Note that shooting the 4K options take the most space.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![xrecorder tap record video](https://images.wondershare.com/filmora/article-images/xrecorder-tap-record-video.jpg)
 
 ## 4\. MoviePro - Best HD Video Recorder for iOS
@@ -111,10 +365,16 @@ Step 1\. On your iOS device, go to the App Store and download the app.
 
 Step 2\. Scroll down to Camera and tap it. Tap the Record Video button.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![moviepro tap the record video](https://images.wondershare.com/filmora/article-images/moviepro-tap-the-record-video.jpg)
 
 Step 3\. To record video, choose a resolution and frame rate. It's worth noting that filming in 4K takes up the most space.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 It's critical to understand a few things about these programs before choosing the one that's right for you. You can choose which one is ideal for you by carefully considering their attributes. In addition to pictures, you may need to collect videos, particularly for how-to instructions and tutorials for a variety of presentations. Video might also be recorded for personal or entertainment purposes. Regardless of your objectives, the good news is that there are several HD video recorder software solutions available on the Internet.
@@ -153,6 +413,9 @@ Step 5: Save the HD Recording to Your Computer
 
 After that, choose Export. You may modify the output format, file name, and export folder in the dialog box that appears. After you've completed all of the required adjustments, click Save.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![export to device](https://images.wondershare.com/filmora/article-images/export-to-device.jpg)
 
 ## 2\. LiteCam - HD Webcam Recorder
@@ -185,190 +448,16 @@ Step 1\. Launch the Settings app on your iOS device.
 
 Step 2\. In the next step, you need to scroll down and tap on the Camera button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![xrecorder camera button](https://images.wondershare.com/filmora/article-images/xrecorder-camera-button.jpg)
 
 Step 3\. Tap Record Video and then Select a resolution and frame rate to record video at. Note that shooting the 4K options take the most space.
 
-![xrecorder tap record video](https://images.wondershare.com/filmora/article-images/xrecorder-tap-record-video.jpg)
-
-## 4\. MoviePro - Best HD Video Recorder for iOS
-
-The MoviePro app is the greatest among the top video recording apps since it allows you to customize every part of the settings when shooting films on your iPhone. MoviePro is a free video capture program that allows you to record screen items and save them in AVI format. With on-screen audio meters and Bluetooth microphone input choices, audio recording and monitoring possibilities are just as varied. This program has several useful features that will make your life easier. It comes with several useful capabilities, including high-definition screen recording, video compression, and more. The software comes with a plethora of functionality, including manual controls for practically all of the program's functionalities and a variety of video recording possibilities.
-
-Step 1\. On your iOS device, go to the App Store and download the app.
-
-![moviepro video recorder](https://images.wondershare.com/filmora/article-images/moviepro-video-recorder.jpg)
-
-Step 2\. Scroll down to Camera and tap it. Tap the Record Video button.
-
-![moviepro tap the record video](https://images.wondershare.com/filmora/article-images/moviepro-tap-the-record-video.jpg)
-
-Step 3\. To record video, choose a resolution and frame rate. It's worth noting that filming in 4K takes up the most space.
-
-## Conclusion
-
-It's critical to understand a few things about these programs before choosing the one that's right for you. You can choose which one is ideal for you by carefully considering their attributes. In addition to pictures, you may need to collect videos, particularly for how-to instructions and tutorials for a variety of presentations. Video might also be recorded for personal or entertainment purposes. Regardless of your objectives, the good news is that there are several HD video recorder software solutions available on the Internet.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Steps to Record HD Videos with Filmora:**
-
-Step 1: Get Filmora Screen Recorder and install it.
-
-The website has the software available for download. To install the video capture program, run the downloaded file and follow the on-screen instructions. Double-click the application icon to start the recorder after that.
-
-![record pc screen filmora](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: Make Adjustments to The Parameters
-
-Click Preferences in the sidebar to adjust the capture settings before you start recording.
-
-![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-Step 3: Make a Video on Your Computer
-
-To begin the recording process, click the record button. Before the screen capture starts, there will be a 3-second countdown. If necessary, you may pause the recording at any time. Click the Stop button to end the recording.
-
-![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
-
-Step 4: Finish Editing and Save Your Video
-
-You may now edit the recorded video to delete any superfluous elements. To do so, move the mouse to the undesirable segment's edge and click Cut. As required, repeat the process. Then choose the portion you wish to get rid of and press the Delete fragment button.
-
-![export](https://images.wondershare.com/filmora/article-images/export.jpg)
-
-Step 5: Save the HD Recording to Your Computer
-
-After that, choose Export. You may modify the output format, file name, and export folder in the dialog box that appears. After you've completed all of the required adjustments, click Save.
-
-![export to device](https://images.wondershare.com/filmora/article-images/export-to-device.jpg)
-
-## 2\. LiteCam - HD Webcam Recorder
-
-LiteCam screen recorder is a Windows application that allows users to capture screencast films in high definition. As a result, it's one of the greatest options for capturing streaming movies, webcasts, podcasts, and even webcam video. This article offers a thorough examination of the program. LiteCam is designed with a basic user interface to make the recording procedure as easy as possible, and then utilize the in-built editor to perfect the video. It's very handy for folks who want to make video lessons and upload them on YouTube. It's a full solution that lets users record everything that happens on the screen, including sound, using the built-in microphone.
-
-Step 1: Download LiteCam and Install It on Your Computer
-
-![download litecam](https://images.wondershare.com/filmora/article-images/download-litecam.jpg)
-
-The first step is to download and install the application on your computer. While you may download a free trial version of the application, it should be noted that its usefulness will be restricted.
-
-Step 2: Customize the Settings
-
-If this is your first time using LiteCam, you may need to adjust the settings to your liking or depending on the sort of video you wish to shoot. If you wish to record the sound, you need also to switch on the microphone. To begin altering the recording settings, choose the "Video Recorder" option in the main window. You may choose to record the whole screen or a specific area of the screen here.
-
-![litecam customize the settings](https://images.wondershare.com/filmora/article-images/litecam-customize-the-settings.jpg)
-
-Step 3: Start Recording
-
-Once you've got everything set up the way you want it, click Record to start recording the screen. Keep in mind that throughout the recording, you may utilize the cursor effects to emphasize the video. To conclude the recording, press the record button again. After that, you may watch the recording and make adjustments to it using the editing option. Remember to save the video when you're finished.
-
-## 3\. XRecorder - HD Recorder for Android
-
-When it comes to video tools, XRecorder is a well-known developer on Google Play. Its screen recorder app is one of the most popular on the market. It may be used for a variety of tasks, including filming instructional videos and video games. There's also internal audio recording and a light video editor to tidy things up, and there's no watermark. It performs well for the task at hand. Some of the features need a membership, but it's generally excellent. Many streaming providers now offer smartphone compatibility. Two of the most popular are Twitch and YouTube Gaming. You just broadcast your games as usual. After you've finished using both services, you may download your video. It's an excellent option for gamers in particular.
-
-Step 1\. Launch the Settings app on your iOS device.
-
-![xrecorder launch](https://images.wondershare.com/filmora/article-images/xrecorder-launch.jpg)
-
-Step 2\. In the next step, you need to scroll down and tap on the Camera button.
-
-![xrecorder camera button](https://images.wondershare.com/filmora/article-images/xrecorder-camera-button.jpg)
-
-Step 3\. Tap Record Video and then Select a resolution and frame rate to record video at. Note that shooting the 4K options take the most space.
-
-![xrecorder tap record video](https://images.wondershare.com/filmora/article-images/xrecorder-tap-record-video.jpg)
-
-## 4\. MoviePro - Best HD Video Recorder for iOS
-
-The MoviePro app is the greatest among the top video recording apps since it allows you to customize every part of the settings when shooting films on your iPhone. MoviePro is a free video capture program that allows you to record screen items and save them in AVI format. With on-screen audio meters and Bluetooth microphone input choices, audio recording and monitoring possibilities are just as varied. This program has several useful features that will make your life easier. It comes with several useful capabilities, including high-definition screen recording, video compression, and more. The software comes with a plethora of functionality, including manual controls for practically all of the program's functionalities and a variety of video recording possibilities.
-
-Step 1\. On your iOS device, go to the App Store and download the app.
-
-![moviepro video recorder](https://images.wondershare.com/filmora/article-images/moviepro-video-recorder.jpg)
-
-Step 2\. Scroll down to Camera and tap it. Tap the Record Video button.
-
-![moviepro tap the record video](https://images.wondershare.com/filmora/article-images/moviepro-tap-the-record-video.jpg)
-
-Step 3\. To record video, choose a resolution and frame rate. It's worth noting that filming in 4K takes up the most space.
-
-## Conclusion
-
-It's critical to understand a few things about these programs before choosing the one that's right for you. You can choose which one is ideal for you by carefully considering their attributes. In addition to pictures, you may need to collect videos, particularly for how-to instructions and tutorials for a variety of presentations. Video might also be recorded for personal or entertainment purposes. Regardless of your objectives, the good news is that there are several HD video recorder software solutions available on the Internet.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Steps to Record HD Videos with Filmora:**
-
-Step 1: Get Filmora Screen Recorder and install it.
-
-The website has the software available for download. To install the video capture program, run the downloaded file and follow the on-screen instructions. Double-click the application icon to start the recorder after that.
-
-![record pc screen filmora](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: Make Adjustments to The Parameters
-
-Click Preferences in the sidebar to adjust the capture settings before you start recording.
-
-![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-Step 3: Make a Video on Your Computer
-
-To begin the recording process, click the record button. Before the screen capture starts, there will be a 3-second countdown. If necessary, you may pause the recording at any time. Click the Stop button to end the recording.
-
-![recording start](https://images.wondershare.com/filmora/article-images/recording-start.jpg)
-
-Step 4: Finish Editing and Save Your Video
-
-You may now edit the recorded video to delete any superfluous elements. To do so, move the mouse to the undesirable segment's edge and click Cut. As required, repeat the process. Then choose the portion you wish to get rid of and press the Delete fragment button.
-
-![export](https://images.wondershare.com/filmora/article-images/export.jpg)
-
-Step 5: Save the HD Recording to Your Computer
-
-After that, choose Export. You may modify the output format, file name, and export folder in the dialog box that appears. After you've completed all of the required adjustments, click Save.
-
-![export to device](https://images.wondershare.com/filmora/article-images/export-to-device.jpg)
-
-## 2\. LiteCam - HD Webcam Recorder
-
-LiteCam screen recorder is a Windows application that allows users to capture screencast films in high definition. As a result, it's one of the greatest options for capturing streaming movies, webcasts, podcasts, and even webcam video. This article offers a thorough examination of the program. LiteCam is designed with a basic user interface to make the recording procedure as easy as possible, and then utilize the in-built editor to perfect the video. It's very handy for folks who want to make video lessons and upload them on YouTube. It's a full solution that lets users record everything that happens on the screen, including sound, using the built-in microphone.
-
-Step 1: Download LiteCam and Install It on Your Computer
-
-![download litecam](https://images.wondershare.com/filmora/article-images/download-litecam.jpg)
-
-The first step is to download and install the application on your computer. While you may download a free trial version of the application, it should be noted that its usefulness will be restricted.
-
-Step 2: Customize the Settings
-
-If this is your first time using LiteCam, you may need to adjust the settings to your liking or depending on the sort of video you wish to shoot. If you wish to record the sound, you need also to switch on the microphone. To begin altering the recording settings, choose the "Video Recorder" option in the main window. You may choose to record the whole screen or a specific area of the screen here.
-
-![litecam customize the settings](https://images.wondershare.com/filmora/article-images/litecam-customize-the-settings.jpg)
-
-Step 3: Start Recording
-
-Once you've got everything set up the way you want it, click Record to start recording the screen. Keep in mind that throughout the recording, you may utilize the cursor effects to emphasize the video. To conclude the recording, press the record button again. After that, you may watch the recording and make adjustments to it using the editing option. Remember to save the video when you're finished.
-
-## 3\. XRecorder - HD Recorder for Android
-
-When it comes to video tools, XRecorder is a well-known developer on Google Play. Its screen recorder app is one of the most popular on the market. It may be used for a variety of tasks, including filming instructional videos and video games. There's also internal audio recording and a light video editor to tidy things up, and there's no watermark. It performs well for the task at hand. Some of the features need a membership, but it's generally excellent. Many streaming providers now offer smartphone compatibility. Two of the most popular are Twitch and YouTube Gaming. You just broadcast your games as usual. After you've finished using both services, you may download your video. It's an excellent option for gamers in particular.
-
-Step 1\. Launch the Settings app on your iOS device.
-
-![xrecorder launch](https://images.wondershare.com/filmora/article-images/xrecorder-launch.jpg)
-
-Step 2\. In the next step, you need to scroll down and tap on the Camera button.
-
-![xrecorder camera button](https://images.wondershare.com/filmora/article-images/xrecorder-camera-button.jpg)
-
-Step 3\. Tap Record Video and then Select a resolution and frame rate to record video at. Note that shooting the 4K options take the most space.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![xrecorder tap record video](https://images.wondershare.com/filmora/article-images/xrecorder-tap-record-video.jpg)
 
 ## 4\. MoviePro - Best HD Video Recorder for iOS
@@ -414,3 +503,41 @@ It's critical to understand a few things about these programs before choosing th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-az-screenshot-mastery-full-app-review/"><u>[New] AZ Screenshot Mastery - Full App Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-battle-tested-selecting-the-supreme-7-fps/"><u>[New] Battle Tested  Selecting the Supreme 7 FPS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-digital-content-excellence-through-effective-screencasts/"><u>[New] Digital Content Excellence Through Effective Screencasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leveraging-facetimes-features-for-exceptional-audio-capturing/"><u>[New] Leveraging FaceTime's Features for Exceptional Audio Capturing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-fullscreen-footage-screen-recording-made-simple-for-mac-users/"><u>[New] Unlocking Fullscreen Footage  Screen Recording Made Simple for Mac Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-a-deeper-dive-understanding-ez-grabbers-capabilities/"><u>[Updated] In 2024, A Deeper Dive  Understanding EZ Grabber's Capabilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-the-world-of-facecam-recording-a-complete-guide/"><u>[Updated] Navigating the World of Facecam Recording  A Complete Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pixelated-palace-beginner-friendly-home-design-guide/"><u>[Updated] Pixelated Palace  Beginner-Friendly Home Design Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-handbook-for-capturing-and-organizing-skype-call-data/"><u>[Updated] The Complete Handbook for Capturing and Organizing Skype Call Data</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlock-seamless-mac-screen-captures-with-efficient-shortcuts-guide/"><u>[Updated] Unlock Seamless Mac Screen Captures with Efficient Shortcuts Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-advanced-steps-in-monitoring-and-archiving-system-sounds/"><u>2024 Approved  Advanced Steps in Monitoring & Archiving System Sounds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-directscreen-w11-instant-recording-on-windows-11/"><u>2024 Approved  DirectScreen W11  Instant Recording on Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhance-video-storytelling-with-smart-chapter-insertion-techniques-on-youtube/"><u>2024 Approved  Enhance Video Storytelling with Smart Chapter Insertion Techniques on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-exploring-echoes-in-social-space-an-old-fb-content-pathway/"><u>2024 Approved  Exploring Echoes in Social Space  An Old FB Content Pathway</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-optimizing-color-depth-and-gradients-for-obs/"><u>2024 Approved  Optimizing Color Depth and Gradients for OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-saving-mov-videos-on-windows-11-a-guide-with-six-steps/"><u>2024 Approved  Saving .MOV Videos on Windows 11 - A Guide with Six Steps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-essential-lenovo-display-recording-hacks/"><u>2024 Approved  The Essential Lenovo Display Recording Hacks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-freedom-of-filmmaking-top-android-video-editing-apps/"><u>2024 Approved  The Freedom of Filmmaking  Top Android Video Editing Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-list-of-mac-screen-capture-tools/"><u>2024 Approved  The Ultimate List of Mac Screen Capture Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-top-linux-audio-editor-free-and-paid/"><u>2024 Approved Top Linux Audio Editor Free & Paid</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/honorable-warriors-reimagined-best-matching-gaming-titles/"><u>Honorable Warriors, Reimagined  Best Matching Gaming Titles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-cost-effective-tools-to-record-pc-screens/"><u>In 2024, Cost-Effective Tools to Record PC Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-the-future-workplace-with-vr-technology/"><u>In 2024, Crafting the Future Workplace with VR Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-initiating-meetings-on-the-move-tech-advice/"><u>In 2024, Initiating Meetings on the Move  Tech Advice</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-integration-into-google-meet-participants/"><u>In 2024, Integration Into Google Meet Participants</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optimal-tools-for-educators-lesson-archiving/"><u>In 2024, Optimal Tools for Educator's Lesson Archiving</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-professional-capture-tools-for-pcmac-devices/"><u>In 2024, Professional Capture Tools for PC/Mac Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-virtualdub-review-pros-cons-and-the-best-alternatives-for-you/"><u>New In 2024, Virtualdub Review Pros, Cons, and the Best Alternatives for You</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/prime-cloud-call-recorder-pros-for-2024/"><u>Prime Cloud Call Recorder Pros for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/revolutionize-your-console-proven-strategies-for-clear-gaming-recordings/"><u>Revolutionize Your Console  Proven Strategies for Clear Gaming Recordings</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-apple-iphone-13-mini-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass Apple iPhone 13 mini Activation Lock</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-configuration-ticking-clocks-setup-guide-for-broadcasting-platforms-for-2024/"><u>Ultimate Configuration  Ticking Clocks Setup Guide for Broadcasting Platforms for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Poco F5 Pro 5G | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Enhancing Your Listening Experience  The Essentials of Recording with Audacity on Mac\""
-date: 2024-05-18T13:23:57.283Z
-updated: 2024-05-19T13:23:57.283Z
+date: 2024-07-21T08:51:56.535Z
+updated: 2024-07-22T08:51:56.535Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Enhancing Your Listening Experience: The Essentials of Recording with Audacity on Mac\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Enhancing Your Listening Experience: The Essentials of Recording with Audacity on Mac\""
 keywords: "\"Audacity Mac Recording,Listen Better Audacity,Mac Audio Enhancement,High-Quality Sound Rec,Improve Listening with Audacy,Recording Essentials Audacy,Mac Studio Setup\""
-thumbnail: https://www.lifewire.com/thmb/gzHpHKbSd5o6D_hdSTFod8z3AV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-769729481-5bd367dcc9e77c007c015257.jpg
+thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
 ## Enhancing Your Listening Experience: The Essentials of Recording with Audacity on Mac
@@ -23,6 +23,9 @@ Are you looking for a free application for your Mac where you can record your au
 
 Audacity is a free and open-source application. It is quite advanced in its features even though it is completely free to download and use. That is why not just beginners but professionals prefer it over other premium audio recorders and editors. However, Audacity is slightly complicated to operate. In this article, we will illustrate how to use Audacity on Mac and recommend a better alternative.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## 1\. How to download and install Audacity on Mac?
 
 Downloading and installing Audacity macOS is not as simple as any other application. You can blame Audacity Developers for making it complicated for Mac users. You can either download the application from the official website or from their download partner – FossHub. Here are the steps to download and install Audacity Macbook and iMac.
@@ -31,6 +34,18 @@ Step 1: Visit [Audacity Download](https://www.audacityteam.org/download/mac/) pa
 
  Step 2: It should download Audacity DMG file automatically. However, if it does not, click on “Audacity (version) dmg file” on the Download website.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![step2 dmg file](https://images.wondershare.com/filmora/article-images/step2-dmg-file.jpg)
 
 Alternatively, you can go to FossHub and search for Audacity and download the latest Audacity macOS DMG file.
@@ -55,6 +70,9 @@ Step 2: Click on the second option and you will see all the recording devices co
 
 Step 3: Go to Tracks menu option and go to Add New. Here, you have to select either Stereo Track or Mono Track as per your requirement.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![go to tracks menu](https://images.wondershare.com/filmora/article-images/go-to-tracks-menu.jpg)
 
 Step 4: Now, you are ready to start recording your audio through microphone using Audacity. Click on Record button at the top bar. The recording will start immediately and you will see audiograph of your audio which shows that your voice is getting recorded.
@@ -63,6 +81,9 @@ Step 4: Now, you are ready to start recording your audio through microphone usin
 
 Step 5: When you are done, click on Stop button at the top bar.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Alternative way to record sound on Mac
 
 There are several issues with Audacity Mac version. Audacity record computer audio Mac without microphone is quite complicated. Besides, Audacity Mac Catalina is not supported. The user interface is overwhelming for beginners which is why many users look for a better alternative. We recommend Wondershare Filmora to record sound on Mac.
@@ -99,6 +120,9 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
@@ -129,6 +153,9 @@ Step 2: From Recording window, set the video recording screen size as per your r
 
 Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
@@ -137,6 +164,9 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
@@ -157,12 +187,19 @@ Here are the steps on how to record any audio with video using Filmora.
 
 Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
 
 Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
@@ -191,6 +228,9 @@ Here are the steps on how to record any audio with video using Filmora.
 
 Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
@@ -234,3 +274,44 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-free-webcam-video-capture-software/"><u>[New] Best Free Webcam Video Capture Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-clean-cut-windows-10-screen-logger/"><u>[New] Clean-Cut Windows 10 Screen Logger</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-crop-circles-the-essential-list-of-farming-games/"><u>[New] Crop Circles  The Essential List of Farming Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-game-capture-made-simple-top-free-tools-listing/"><u>[New] Game Capture Made Simple  Top Free Tools Listing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-look-at-wirecast-plus-comparables/"><u>[New] In-Depth Look at WireCast + Comparables</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premiere-add-ons-for-firefox-recording/"><u>[New] Premiere Add-Ons for Firefox Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premium-bargains-no-cost-screen-recorder-extensions-for-chromeos/"><u>[New] Premium Bargains  No-Cost Screen Recorder Extensions for ChromeOS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-accurate-and-efficient-video-frame-grabber/"><u>[Updated] Accurate and Efficient Video Frame Grabber</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-screen-recorder-for-windows-10/"><u>[Updated] Best Screen Recorder for Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-choosing-the-right-screen-recorder-outside-of-xbox/"><u>[Updated] Choosing the Right Screen Recorder, Outside of Xbox</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-downloading-vimeo-media-direct-conversion-to-mp3-format-for-2024/"><u>[Updated] Downloading Vimeo Media  Direct Conversion to MP3 Format for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-gamers-playbook-the-best-capture-tools-for-pcmac-gamers/"><u>[Updated] Gamer's Playbook  The Best Capture Tools for PC/Mac Gamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-hassle-free-hd-video-on-your-device/"><u>[Updated] Hassle-Free HD Video on Your Device</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-reel-your-audience-in-with-top-mobile-video-editors-for-snaps/"><u>[Updated] In 2024, Reel Your Audience in with Top Mobile Video Editors for Snaps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inside-secrets-to-stunning-photography-with-canva/"><u>[Updated] Inside Secrets to Stunning Photography with Canva</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-listings-of-youtube-partner-opportunities-and-advertisements/"><u>[Updated] Top Listings of YouTube Partner Opportunities and Advertisements</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/10-tips-to-prevent-oculus-rift-vr-motion-sickness/"><u>10 Tips to Prevent Oculus Rift VR Motion Sickness</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-5-essential-steps-to-prevent-blank-screen-issues-in-obs/"><u>2024 Approved  5 Essential Steps to Prevent Blank-Screen Issues in OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-earn-big-on-snapchat-the-ultimate-guide-to-money-making-tips/"><u>2024 Approved  Earn Big on Snapchat  The Ultimate Guide to Money-Making Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-newbies-instalment-checklist-vrecorder/"><u>2024 Approved  Newbie's Instalment Checklist  VRecorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/achieve-professional-webcam-quality-with-ease/"><u>Achieve Professional Webcam Quality with Ease</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/exploring-6-exquisite-eastern-themed-homes-in-mc/"><u>Exploring 6 Exquisite Eastern Themed Homes in MC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-guide-advanced-techniques-for-skype-screenshots-via-obs-for-2024/"><u>How-To Guide  Advanced Techniques for Skype Screenshots via OBS for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-accelerate-your-retro-play-with-best-ps2-android-emulators/"><u>In 2024, Accelerate Your Retro Play with Best Ps2 Android Emulators</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-12-pro-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Realme 12 Pro 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-effortlessly-pinning-friends-on-snapchat-with-confidence/"><u>In 2024, Effortlessly Pinning Friends on Snapchat with Confidence</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-techniques-for-stellar-screen-captures-with-adobe-captivity/"><u>In 2024, Innovative Techniques for Stellar Screen Captures with Adobe Captivity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-macs-choice-of-capture-an-in-depth-look-at-premium-software/"><u>In 2024, Mac's Choice of Capture  An In-Depth Look at Premium Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optimal-list-of-10-excellent-spotify-audio-recorders/"><u>In 2024, Optimal List of 10 Excellent Spotify Audio Recorders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ken-burns-effect-techniques-for-camtasia-users-for-2024/"><u>Ken Burns Effect Techniques for Camtasia Users for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/saving-the-ephemeral-a-guide-to-online-audio-recording/"><u>Saving the Ephemeral  A Guide to Online Audio Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/starry-nights-in-focus-advice-on-night-portraiture/"><u>Starry Nights in Focus  Advice on Night Portraiture</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-to-a-luminous-world-of-android-videos-for-2024/"><u>Step-by-Step to a Luminous World of Android Videos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-civi-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi Civi 3 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/vpx-film-record-thorough-examination-and-reviews/"><u>VPX Film Record  Thorough Examination & Reviews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/zd-soft-an-in-depth-guide-to-capture-record-and-edit-videos/"><u>ZD Soft  An In-Depth Guide to Capture, Record & Edit Videos</u></a></li>
+</ul></div>

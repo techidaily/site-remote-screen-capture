@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Tailored Gaming Journey - Disabling Crossplay for Solo Apex Players\""
-date: 2024-05-18T13:41:00.043Z
-updated: 2024-05-19T13:41:00.043Z
+date: 2024-07-21T10:07:54.940Z
+updated: 2024-07-22T10:07:54.940Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Tailored Gaming Journey - Disabling Crossplay for Solo Apex Players\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Tailored Gaming Journey - Disabling Crossplay for Solo Apex Players\""
 keywords: "Gamers' Solo Tailor,Apex Play Solo Mode,Disable Crossplay Gamer,Solo Apex Gaming Journey,Tailored Game Soloing,Crossplay Disabling Guide,Customized Solo Apex"
-thumbnail: https://www.lifewire.com/thmb/jkTzGxTQj6GZdoRByOnef64Ubf0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows_search-56aa11bd3df78cf772ac3ea5.jpg
+thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
 ## Tailored Gaming Journey - Disabling Crossplay for Solo Apex Players
@@ -49,6 +49,9 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -67,6 +70,9 @@ Step1, to disable it, you need to go to the setting button at the lobby's right 
 
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -81,6 +87,9 @@ The best thing about Apex Legends is that it has multiplatform support. You can 
 
 **Microsoft Xbox One S and X**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-one.jpg)You can play Apex Legends on Xbox One S, but you may need to compromise a little bit and play on a low resolution for better fps. Although the game will run just fine, you may need to make some adjustments to your graphics settings. You can play this game on 720p on Xbox One S, so make sure to sit a little closer to your screen to see everything.
 
 If you want to get Apex's best experience on Xbox consoles, you should play it on Xbox One X. If you switch from Xbox one S to Xbox one X, you will see a significant difference in the game performance. On the X version, you can run the game on 1080p. It offers overall better performance in terms of gameplay as compared to other Xbox variants.
@@ -95,12 +104,18 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 5**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
 
 **PC**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -116,6 +131,9 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -148,6 +166,9 @@ Follow @Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -188,8 +209,14 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -214,6 +241,9 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 4**
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
@@ -257,6 +287,9 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -292,3 +325,41 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-macbook-airs-hidden-potential-expertise-in-screen-capturing/"><u>[New] 2024 Approved  MacBook Air's Hidden Potential  Expertise in Screen Capturing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-cutting-edge-top-11-list-of-soundscape-capturers-for-2024/"><u>[New] Cutting-Edge Top 11 List of Soundscape Capturers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dividing-opinions-is-mirrorless-better-than-dslr-for-vids-for-2024/"><u>[New] Dividing Opinions  Is Mirrorless Better than DSLR for Vids for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-advanced-methods-for-recording-in-adobe-presenter/"><u>[New] In 2024, Advanced Methods for Recording in Adobe Presenter</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-banishing-the-darkness-tips-for-a-bright-screen-on-obs/"><u>[New] In 2024, Banishing the Darkness  Tips for a Bright Screen on OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-countdown-configuration-guide-for-obs-enthusiasts/"><u>[New] In 2024, Countdown Configuration Guide for OBS Enthusiasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-grasping-valheim-greenery-leading-saplings-explored/"><u>[New] In 2024, Grasping Valheim Greenery  Leading Saplings Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-harmony-hub-capture-store-and-review-sounds/"><u>[New] In 2024, Harmony Hub  Capture, Store & Review Sounds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-navigate-through-screens-the-best-recorders-for-w11w10/"><u>[New] In 2024, Navigate Through Screens  The Best Recorders for W11/W10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-lightning-leap-into-facebook-id-sleuthing-for-2024/"><u>[New] Lightning Leap Into Facebook ID Sleuthing for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unleash-peak-potential-in-discords-auditory-realm-with-top-tier-bot-aids/"><u>[New] Unleash Peak Potential in Discord's Auditory Realm with Top-Tier Bot Aids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-bandicam-your-compreayer-for-high-quality-screen-recording/"><u>[Updated] 2024 Approved  Bandicam  Your Compreayer for High-Quality Screen Recording</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-creating-high-impact-short-waterway-previews/"><u>[Updated] 2024 Approved  Creating High-Impact Short Waterway Previews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-epic-zombie-battles-our-favorites-revealed/"><u>[Updated] 2024 Approved  Epic Zombie Battles  Our Favorites Revealed</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-superior-gopro-film-production-options/"><u>[Updated] 2024 Approved  Superior GoPro Film Production Options</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-50-top-tier-virtual-bgms-for-zoomgoogle-for-2024/"><u>[Updated] 50 Top-Tier Virtual BGMs for Zoom/Google for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-guide-audio-free-video-recording-methods-for-2024/"><u>[Updated] Guide  Audio-Free Video Recording Methods for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>[Updated] How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-choosing-your-stage-obs-or-twitch-pro/"><u>[Updated] In 2024, Choosing Your Stage  OBS or Twitch Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-master-level-stardew-upgrades-for-ultimate-growth/"><u>[Updated] In 2024, Master Level Stardew Upgrades for Ultimate Growth</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-premium-5-video-capturing-web-devices/"><u>[Updated] In 2024, Premium 5 Video Capturing Web Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-obs-recording-setup-and-usage-tips-for-mac-users-for-2024/"><u>[Updated] Mastering OBS Recording  Setup & Usage Tips for Mac Users for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-professional-techniques-to-streamline-video-capture-on-computers-and-phones-for-2024/"><u>[Updated] Professional Techniques to Streamline Video Capture on Computers & Phones for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-your-creative-potential-without-spending/"><u>[Updated] Unlocking Your Creative Potential Without Spending</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-motion-blur-made-easy-a-comprehensive-guide-for-final-cut-pro-users/"><u>2024 Approved Motion Blur Made Easy A Comprehensive Guide for Final Cut Pro Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bangla-easy-routine-10-mins/"><u>Bangla Easy Routine (10 Mins)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-mastery-of-ipad-video-recording-for-2024/"><u>Easy Mastery of iPad Video Recording for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-14-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi 14 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-racer-replicas-our-top-games/"><u>In 2024, Ultimate Racer Replicas  Our Top Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-your-vr-gametime-recordings/"><u>In 2024, Unlocking the Potential of Your VR Gametime Recordings</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-splitting-audio-from-video-in-sony-vegas-step-by-step/"><u>New Splitting Audio From Video in Sony Vegas Step by Step</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/say-goodbye-to-windows-movie-maker-10-free-alternatives-youll-love/"><u>Say Goodbye to Windows Movie Maker 10 Free Alternatives Youll Love</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-5-choice-of-online-meeting-recorder-gadgets-for-2024/"><u>Ultimate 5 Choice of Online Meeting Recorder Gadgets for 2024</u></a></li>
+</ul></div>

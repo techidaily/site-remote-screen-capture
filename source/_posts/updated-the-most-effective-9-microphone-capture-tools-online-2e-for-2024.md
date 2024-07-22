@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Most Effective 9 Microphone Capture Tools Online (2E) for 2024"
-date: 2024-05-18T13:34:35.109Z
-updated: 2024-05-19T13:34:35.109Z
+date: 2024-07-21T09:39:28.046Z
+updated: 2024-07-22T09:39:28.046Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] The Most Effective 9 Microphone Capture Tools Online (2E) for 2024"
 excerpt: "This Article Describes [Updated] The Most Effective 9 Microphone Capture Tools Online (2E) for 2024"
 keywords: "Top Mic Capture Tools,Best Mic Recorders Web,Pro Mics for Digital Audio,Ultimate Mini Microphone Guide,Optimal DI Box Solutions,Clearest Mic Setup Online,Advanced Recording Mic Tools"
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## The Most Effective 9 Microphone Capture Tools Online (2E)
@@ -31,6 +31,9 @@ One more magnificent component of this brilliant 123 apps recorder is that your 
 
 To start recording your microphone input with this online voice recorder, visit the website that has been pasted below. After that, all you need to do is to click the red MIC icon to start recording your microphone's input.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![open online voice recorder](https://images.wondershare.com/filmora/article-images/open-online-voice-recorder.jpg)
 
 **Step 2\. Allow Mic Permission**
@@ -77,6 +80,9 @@ There are some other splendid elements that you will like non-disastrous alterin
 
 Visit the <https://www.speakpipe.com/voice-recorder> website to begin recording your mic input with this web-based voice recorder.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![launch speakpipe](https://images.wondershare.com/filmora/article-images/launch-speakpipe.jpg)
 
 **Step 2\. Give Mic Permissions**
@@ -87,6 +93,9 @@ As you're on the site, hit the mic button and allow the mic recording permission
 
 Lastly, you can choose the Save button again to save the recorded file to your system. Simply hit the Save recording after the recording is being done.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speakpipe audio recording](https://images.wondershare.com/filmora/article-images/speakpipe-audio-recording.jpg)
 
 ## 4\. [Check Mic Online](https://webcammictest.com/check-mic.html)
@@ -111,6 +120,9 @@ After you're done with the recording, hit the stop button and it will stop and s
 
 ![check mic online audio recording](https://images.wondershare.com/filmora/article-images/check-mic-online-audio-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. [Veed.io Recorder](https://www.veed.io/tools/voice-recorder)
 
 Rather than conveying a different recording gadget, you can straightforwardly download this application on your cell phone. Voice recording is rearranged here. You get voice recording whenever it might suit you and prevalent sound quality for every one of the accounts. The easy-to-understand interface makes it simple to utilize. You can even request a record for your recorded sound through a paid choice.
@@ -153,8 +165,14 @@ In the next step, after that, add the extension to your Chrome by hitting add to
 
 Now, inside the chrome, launch the extension and from there, start the recording by clicking on the record button as shown here:
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start recording online voice recorder](https://images.wondershare.com/filmora/article-images/start-recording-online-voice-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 7\. [Voice Recorder \[Chrome\]](https://chrome.google.com/webstore/detail/voice-recorder/jehegmanppiacmmpiifhjalpkigpcida?hl=en)
 
 If your gadget has an upheld program, you can straightforwardly record sound with the Itself online voice recorder. At the point when you record any sound, you can save it on your gadget as MP3 documents or play it straightforwardly in the program. The MP3 pressure design is low in size and keeps an exceptionally top-notch sound. Also, you can even look at different instruments accessible on the site. There are a lot of them for sound, video, area, text, pictures, and records.
@@ -185,6 +203,9 @@ For a superior encounter, you can make a record to monitor every one of your acc
 
 To start recording from Sodaphonic recorder, visit the website <https://sodaphonic.com/> and go for the recording from your mic as shown here:
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![sodaphonic mic recorder](https://images.wondershare.com/filmora/article-images/sodaphonic-mic-recorder.jpg)
 
 **Step 2\. Allow Asked Permissions**
@@ -195,8 +216,14 @@ In the next step, click on the allow button to give access to your mic recording
 
 Lastly, when you're done with the setup, simply hit the record button and perform your recording on the go.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record mic with sodaphonic](https://images.wondershare.com/filmora/article-images/record-mic-with-sodaphonic.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 9\. [Voice-Recorder.Io](https://voice-recorder.io/)
 
 By Itself tools, this Voice Recorder is an easy to-utilize screen recorder that does the essentials effectively. With a tick of the mouse or one of the basic console alternate ways, you can catch a picture or video of an area, a window, the whole screen, or your webcam.
@@ -207,6 +234,9 @@ Other than that, you can likewise move up to the ace adaptation for some upgrade
 
 To begin with, voice-recorder.io, visit the website and then go for the mic recording on the go. You'll get to the dialogue box after hitting the record button.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![itself online audio recorder](https://images.wondershare.com/filmora/article-images/itself-online-voice-recorder.jpg)
 
 **Step 2\. Permit Mic Access**
@@ -217,8 +247,14 @@ Hit the Allow button when asked as it will require permission to access your mic
 
 Whenever you're finished managing your sound, hit the record button and afterwards save the recorded voice on the go.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![recording mic audio itself](https://images.wondershare.com/filmora/article-images/recording-mic-audio-itself.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 You want a decent voice recorder, regardless of whether you wish to record a tune, address notes, or even gatherings. These internet-based voice recorders will make it simple for you as you don't need to download any device onto your framework. You likewise get excellent sound accounts readily available with these web-based recorders. So pick up your favourite one and then let us know in the comments below.
@@ -248,3 +284,62 @@ You want a decent voice recorder, regardless of whether you wish to record a tun
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-8-tools-linux-based-edits-software/"><u>[New] 2024 Approved  Essential 8 Tools  Linux-Based Edits Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-guide-easycapture-v2-analysis/"><u>[New] 2024 Approved  Ultimate Guide  EasyCapture V2 Analysis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-from-social-media-to-high-definition-free-conversion-of-fb-videos-to-mp4-for-2024/"><u>[New] From Social Media to High Definition  Free Conversion of FB Videos to MP4 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1716069347206-new-in-2024-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users/"><u>[New] In 2024, An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users.</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-complete-guide-to-using-siri-in-tiktok-videos-easy-and-effective-filming/"><u>[New] In 2024, Complete Guide to Using Siri in TikTok Videos  Easy and Effective Filming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-vidma-scratch-assessing-the-screen-capture-tool/"><u>[New] In 2024, Vidma Scratch  Assessing the Screen Capture Tool</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-leading-livestream-archiving-toolkit-for-2024/"><u>[New] Leading Livestream Archiving Toolkit for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-next-level-game-monitoring-software-beyond-the-fbx-standard/"><u>[New] Next Level Game Monitoring Software Beyond the FBX Standard</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professionally-recording-every-aspect-of-your-ppt-presentations/"><u>[New] Professionally Recording Every Aspect of Your PPT Presentations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-screensnapper-for-privacy-conscious-users-for-2024/"><u>[New] Ultimate ScreenSnapper for Privacy Conscious Users for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-top-ten-nintendo-switch-battle-titles-max-156-for-2024/"><u>[New] Ultimate Top Ten Nintendo Switch Battle Titles (Max 156) for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-10-proven-techniques-for-mastering-the-art-of-tiktok-marketing/"><u>[Updated] 2024 Approved  10 Proven Techniques for Mastering the Art of TikTok Marketing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-inside-apeaksofts-2023-recording-technology-breakthroughs/"><u>[Updated] 2024 Approved  Inside Apeaksoft's 2023 Recording Technology Breakthroughs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-tech-for-speedy-video-frame-snapping/"><u>[Updated] 2024 Approved  Top Tech for Speedy Video Frame Snapping</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ultimate-free-mp3-skype-call-logger/"><u>[Updated] 2024 Approved  Ultimate Free MP3 Skype Call Logger</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-agriculture-affinity-games-top-10-farmers-craft-for-comradeship/"><u>[Updated] Agriculture Affinity Games  Top 10 Farmer's Craft for Comradeship</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-arena-aces-unbeatable-10-royale-games/"><u>[Updated] Arena Aces  Unbeatable 10 Royale Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-detailed-guide-taking-full-screen-photos-with-android/"><u>[Updated] Detailed Guide  Taking Full-Screen Photos with Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ensuring-your-zoom-appointments-match-iphoneandroidpc-calendars/"><u>[Updated] Ensuring Your Zoom Appointments Match iPhone/Android/PC Calendars</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-free-screen-recorder-for-android/"><u>[Updated] Free Screen Recorder for Android</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-calculate-and-change-aspect-ratio-online/"><u>[Updated] How to Calculate and Change Aspect Ratio Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-powerhouse-guide-to-screen-recording-with-tunefab-for-2024/"><u>[Updated] The Powerhouse Guide to Screen Recording with Tunefab for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/12-hd-webcam-recorder-software/"><u>12 HD Webcam Recorder Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-creating-skype-chats-for-pc-and-mac-users/"><u>2024 Approved  Creating Skype Chats for PC & Mac Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-two-dimensions-to-three-making-text-pop-in-photoshop/"><u>2024 Approved  From Two-Dimensions to Three  Making Text Pop in Photoshop</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-outstanding-non-zoom-video-conferencing-tech/"><u>2024 Approved  Outstanding Non-Zoom Video Conferencing Tech</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-respectful-approach-to-enhancing-your-tiktok-presence/"><u>2024 Approved  Respectful Approach to Enhancing Your TikTok Presence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seizing-stability-eliminating-instability/"><u>2024 Approved  Seizing Stability  Eliminating Instability</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-google-pixel-8-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Google Pixel 8 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-step-by-step-guide-to-video-editing-filters-on-computers-and-phones/"><u>A Step-by-Step Guide to Video Editing Filters on Computers & Phones</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/achieving-professional-level-youtube-streams-using-wirecast-for-2024/"><u>Achieving Professional-Level Youtube Streams Using WireCast for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/discover-top-browser-screen-recording-software-audiences/"><u>Discover Top Browser Screen Recording Software Audiences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/effortless-tips-for-storing-vimeo-videos/"><u>Effortless Tips for Storing Vimeo Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/excellence-in-camera-technology-top-15/"><u>Excellence in Camera Technology – Top 15</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/fives-finest-tools-for-rapid-video-frame-capturing/"><u>Five's Finest Tools for Rapid Video Frame Capturing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-record-your-favorite-youtube-show-regardless-of-your-gear-for-2024/"><u>How to Record Your Favorite YouTube Show, Regardless of Your Gear for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g34-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G34 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-nubia-red-magic-8s-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Nubia Red Magic 8S Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-androids-budget-friendly-video-call-leaders/"><u>In 2024, Android's Budget-Friendly Video Call Leaders</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-converging-sound-and-vision-top-tier-tips-for-effortless-audio-video-alignment-automatically/"><u>In 2024, Converging Sound and Vision Top-Tier Tips for Effortless Audio-Video Alignment Automatically</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-enrich-your-brain-with-these-15-ultimate-science-youtubes/"><u>In 2024, Enrich Your Brain with These 15 Ultimate Science Youtubes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ideal-tools-for-capturing-your-next-google-meet-success/"><u>In 2024, Ideal Tools for Capturing Your Next Google Meet Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-insider-advice-crafting-the-best-ps3-gaming-recordings/"><u>In 2024, Insider Advice  Crafting the Best PS3 Gaming Recordings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-xs-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone XS Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-recording-your-world-how-camstudio-redefined/"><u>In 2024, Recording Your World - How CamStudio Redefined</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/leading-screen-grabbers-top-picks-for-windows-11/"><u>Leading Screen Grabbers  Top Picks for Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/overcoming-non-detectable-obs-camera-link/"><u>Overcoming Non-Detectable OBS Camera Link</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/starting-out-right-budget-friendly-game-editing-software-for-beginners/"><u>Starting Out Right  Budget-Friendly Game Editing Software for Beginners</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-x-flip-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo X Flip? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-rest-windows-movie-maker-substitute-tools/"><u>The Best of the Rest Windows Movie Maker Substitute Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-creations-unique-and-chic-minecraft-dwellings/"><u>Top Creations  Unique and Chic Minecraft Dwellings</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-essential-tutorial-for-archiving-your-google-voice-dialogue-with-both-mobile-and-computer-devices/"><u>Updated 2024 Approved The Essential Tutorial for Archiving Your Google Voice Dialogue with Both Mobile & Computer Devices</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713952150404-wondering-if-you-can-make-diy-green-screen-video-for-streaming-learn-the-easy-steps-to-setup-diy-green-screen-shoot-the-video-and-edit-it-out-to-add-green-s/"><u>Wondering if You Can Make DIY Green Screen Video for Streaming? Learn the Easy Steps to Setup DIY Green Screen, Shoot the Video and Edit It Out to Add Green Screen Effects for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Apex Legends Solo Mode  Top Choices for Non-Crossplay Gaming\""
-date: 2024-05-18T13:45:09.165Z
-updated: 2024-05-19T13:45:09.165Z
+date: 2024-07-21T10:26:19.233Z
+updated: 2024-07-22T10:26:19.233Z
 tags: 
   - screen-recording
   - ai video
@@ -12,13 +12,16 @@ categories:
 description: "\"This Article Describes Apex Legends Solo Mode: Top Choices for Non-Crossplay Gaming\""
 excerpt: "\"This Article Describes Apex Legends Solo Mode: Top Choices for Non-Crossplay Gaming\""
 keywords: "\"Apex Solos Guide,Solo Apex Play,No Crossplay Games,Solo Apex Legends,Non-Crossplay Apex,Solo Apex Strategy,Single Player Apex\""
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## Apex Legends Solo Mode: Top Choices for Non-Crossplay Gaming
 
 # Apex Legends Crossplay: How to Turn it Off & Platform Choosing Guide
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -39,6 +42,9 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -49,6 +55,10 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -67,6 +77,9 @@ Step1, to disable it, you need to go to the setting button at the lobby's right 
 
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -91,6 +104,9 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 4**
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
@@ -116,6 +132,9 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -162,6 +181,9 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -172,6 +194,9 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -188,6 +213,9 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
@@ -224,6 +252,9 @@ Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is alr
 
 **PC**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -259,6 +290,9 @@ Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wo
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -292,3 +326,53 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-value-tech-for-costless-screen-mirroring/"><u>[New] 2024 Approved  Best Value Tech for Costless Screen Mirroring</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-digital-chronicles-recording-and-preserving-your-roblox-playthroughs-on-macos/"><u>[New] 2024 Approved  Digital Chronicles  Recording and Preserving Your Roblox Playthroughs on MacOS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-navigate-beyond-conventional-webcam-uses/"><u>[New] 2024 Approved  Navigate Beyond Conventional Webcam Uses</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-obs-studio-for-professional-gamers/"><u>[New] 2024 Approved  OBS Studio for Professional Gamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-professional-tips-to-transform-your-facecam-videos/"><u>[New] 2024 Approved  Professional Tips to Transform Your Facecam Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-5-cutting-edge-streamers-camera-recommendations-for-2024/"><u>[New] 5 Cutting-Edge Streamers' Camera Recommendations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-create-awe-inspiring-gopro-time-lapse-cinematography/"><u>[New] Create Awe-Inspiring GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expand-your-gaming-library-5-best-xbox-hdds-for-2024/"><u>[New] Expand Your Gaming Library  5 Best Xbox HDDs for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-walls-in-grey-buildings-a-step-towards-eco-cities-for-2024/"><u>[New] Green Walls in Grey Buildings  A Step Towards Eco-Cities for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ace-google-meet-selecting-ideal-video-call-bgs/"><u>[New] In 2024, Ace Google Meet  Selecting Ideal Video Call BGs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-instantgrabbed-extendedcapture-for-2024/"><u>[New] InstantGrabbed ExtendedCapture for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-itunes-recording-hacks-for-enhanced-videos-for-2024/"><u>[New] ITunes Recording Hacks for Enhanced Videos for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pixel-perfection-leading-ps5-compatible-hdmi-21-monitors/"><u>[New] Pixel Perfection  Leading PS5 Compatible HDMI 2.1 Monitors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unveiling-the-top-4-fullscreen-recorder-for-pc-and-mac-users/"><u>[New] Unveiling the Top 4 Fullscreen Recorder for PC & Mac Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-6-unique-asian-themed-structures-in-minecraft/"><u>[Updated] 2024 Approved  6 Unique Asian-Themed Structures in Minecraft</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-compact-video-summary-key-insights-unveiled/"><u>[Updated] 2024 Approved  Compact Video Summary  Key Insights Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-intuitive-platform-for-video-collaboration-streamxpert/"><u>[Updated] 2024 Approved  Intuitive Platform for Video Collaboration - StreamXpert</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-leading-edge-top-10-webcams-in-the-latest-os/"><u>[Updated] 2024 Approved  Leading Edge  Top 10 Webcams in the Latest OS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-learn-screen-casting-on-macbook-air-step-by-step/"><u>[Updated] 2024 Approved  Learn Screen Casting on Macbook Air, Step by Step</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-clear-screen-strategy-effortless-background-management-in-digital-gatherings-for-2024/"><u>[Updated] Clear Screen Strategy  Effortless Background Management in Digital Gatherings for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-top-11-list-of-soundscape-capturers-for-2024/"><u>[Updated] Cutting-Edge Top 11 List of Soundscape Capturers for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-discover-the-art-of-making-captivating-discord-profile-pictures/"><u>[Updated] Discover the Art of Making Captivating Discord Profile Pictures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-independent-android-adventures-the-ultimate-list-of-unplugged-titles/"><u>[Updated] In 2024, Independent Android Adventures - The Ultimate List of Unplugged Titles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-perpetual-screen-moments-tool/"><u>[Updated] In 2024, Perpetual Screen Moments Tool</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inside-look-the-power-of-recmeister-capturing-features-for-2024/"><u>[Updated] Inside Look  The Power of Recmeister Capturing Features for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-mac-streamnetflix-with-screen-capture-for-2024/"><u>[Updated] Mastering Mac  StreamNetflix with Screen Capture for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-no-watermark-screen-recorder-selection-for-2024/"><u>[Updated] No-Watermark Screen Recorder Selection for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-strategies-for-smooth-srt-exports-post-premiere/"><u>[Updated] Strategies for Smooth SRT Exports Post-Premiere</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-zoomers-handbook-for-captivating-video-and-audio-content/"><u>[Updated] The Complete Zoomer's Handbook for Captivating Video and Audio Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-bringing-clarity-to-online-meetings-free-and-paid-zoom-transcribing-pros/"><u>2024 Approved  Bringing Clarity to Online Meetings  Free & Paid Zoom Transcribing Pros</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevate-your-profiles-visual-appeal/"><u>2024 Approved  Elevate Your Profile's Visual Appeal</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-memetic-mastery-the-finest-text-based-jesters/"><u>2024 Approved  Memetic Mastery  The Finest Text-Based Jesters</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-comparison-top-screen-recorders-focusing-on-recmeister/"><u>2024 Approved  The Ultimate Comparison  Top Screen Recorders, Focusing on Recmeister</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capturing-your-world-maccam-techniques-unveiled-for-2024/"><u>Capturing Your World  MacCam Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/dynamic-duo-of-images-on-ig-for-2024/"><u>Dynamic Duo of Images on IG for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone 13</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-instagram-perfect-integration-of-twitters-visual-content/"><u>In 2024, Instagram-Perfect Integration of Twitter's Visual Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-finding-pixel-tone-sites/"><u>In 2024, Mastering the Art of Finding Pixel Tone Sites</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-recordingrealm-expedition-unveiling-snapcastpro-2023/"><u>In 2024, RecordingRealm Expedition  Unveiling 'SnapCastPro' 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-swift-practices-efficient-recording-of-online-meetings/"><u>In 2024, Swift Practices  Efficient Recording of Online Meetings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-art-of-timelapses-recording-techniques-for-ipads/"><u>In 2024, The Art of Timelapses  Recording Techniques for iPads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-guide-to-high-quality-zoom-recordings-for-podcasters-for-2024/"><u>Step-by-Step Guide to High-Quality Zoom Recordings for Podcasters for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-costless-conundrum-of-final-cut-pro-access-for-2024/"><u>The Costless Conundrum of Final Cut Pro Access for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unpacking-the-performance-a-complete-guide-to-lg-bp350-monitors-for-2024/"><u>Unpacking the Performance  A Complete Guide to LG BP350 Monitors for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-troubleshoot-snapchat-camera-zoomed-in-issue-4-tips/"><u>Updated Troubleshoot Snapchat Camera Zoomed in Issue 4 Tips</u></a></li>
+</ul></div>
