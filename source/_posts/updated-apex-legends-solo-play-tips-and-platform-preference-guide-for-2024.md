@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Apex Legends Solo Play Tips & Platform Preference Guide for 2024"
-date: 2024-07-21T10:38:29.847Z
-updated: 2024-07-22T10:38:29.847Z
+date: 2024-09-03T11:24:37.331Z
+updated: 2024-09-04T11:24:37.331Z
 tags: 
   - screen-recording
   - ai video
@@ -39,9 +39,6 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -52,9 +49,6 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -71,9 +65,6 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
@@ -104,9 +95,6 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 5**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
@@ -146,13 +134,6 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -167,9 +148,6 @@ Follow @Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -184,9 +162,6 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -239,22 +214,10 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 4**
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
@@ -276,9 +239,6 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -297,9 +257,6 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -337,3 +294,51 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-beyond-liberty-city-best-games-resembling-gta-v/"><u>[New] 2024 Approved  Beyond Liberty City  Best Games Resembling GTA V</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-detailed-breakdown-of-camstudio-screencapture-pro/"><u>[New] 2024 Approved  Detailed Breakdown of CamStudio ScreenCapture Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-download-and-utilize-the-full-power-of-ez-grabber-quickly/"><u>[New] 2024 Approved  Download and Utilize the Full Power of EZ Grabber Quickly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1716069698189-new-2024-approved-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>[New] 2024 Approved  Engaging Recorders Within Huawei Mate and P-Series for Video Capture.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-joining-google-meet-a-step-by-step-guide/"><u>[New] 2024 Approved  Joining Google Meet  A Step-by-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-navigating-permissions-recording-on-whatsapp-platforms/"><u>[New] 2024 Approved  Navigating Permissions  Recording on WhatsApp Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-quick-snapshots-on-xbox-one-a-users-manual/"><u>[New] 2024 Approved  Quick Snapshots on Xbox One  A User's Manual</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-tracking-trends-the-systematic-method-for-assessing-youtube-income-flows/"><u>[New] 2024 Approved  Tracking Trends  The Systematic Method for Assessing YouTube Income Flows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-screen-capture-techniques-for-powerpoint-presentations/"><u>[New] Essential Screen Capture Techniques for PowerPoint Presentations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-harvest-mastery-discovering-valheims-optimal-flora/"><u>[New] Harvest Mastery  Discovering Valheim's Optimal Flora</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-inside-the-tech-a-comprehensive-review-of-apowersofts-recorder/"><u>[New] In 2024, Inside the Tech  A Comprehensive Review of Apowersoft’s Recorder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-quickcopy-consultants-thoughts/"><u>[New] In 2024, QuickCopy Consultants' Thoughts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-log-every-victory-on-samsungs-mobile-arena-for-2024/"><u>[New] Log Every Victory on Samsung's Mobile Arena for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pushing-the-boundaries-of-screen-recording-with-recmeister-for-2024/"><u>[New] Pushing the Boundaries of Screen Recording with Recmeister for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-sound-capture-device-audit-for-2024/"><u>[New] Sound Capture Device Audit for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue-for-2024/"><u>[New] The Zen of Zoom Talk  Top Strategies for Smooth Virtual Dialogue for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capturereview-station/"><u>[Updated] 2024 Approved  CaptureReview Station</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-guide-for-youtube-video-clips/"><u>[Updated] 2024 Approved  Essential Guide for YouTube Video Clips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-steps-for-recording-video-from-your-switch/"><u>[Updated] Easy Steps for Recording Video From Your Switch</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-discovering-the-leading-speech-to-text-apps-for-ipads-3/"><u>[Updated] In 2024, Discovering the Leading Speech-to-Text Apps for iPads #3</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-the-art-of-play-navigating-switch-pro-and-steam-games/"><u>[Updated] In 2024, Mastering the Art of Play  Navigating Switch Pro and Steam Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-minecraft-homestead-blueprint-6-10-for-2024/"><u>[Updated] Minecraft Homestead Blueprint #6-10 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-fixes-for-annoying-ipad-recording-problems-for-2024/"><u>[Updated] Quick Fixes for Annoying iPad Recording Problems for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-great-debate-should-you-go-for-obs-or-bandicam-in-2024/"><u>[Updated] The Great Debate  Should You Go for OBS or Bandicam, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-xbox-recorders-handbook-for-gamers-for-2024/"><u>[Updated] The Xbox Recorder’s Handbook for Gamers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transform-online-sales-with-these-premier-15-facebook-monitoring-tools/"><u>[Updated] Transform Online Sales with These Premier 15 Facebook Monitoring Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-webcam-setup-for-quick-recordings-on-chromebooks/"><u>[Updated] Webcam Setup for Quick Recordings on Chromebooks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-redmi-a2plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Redmi A2+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ace-the-arena-techniques-to-elevate-fps-and-cut-down-on-lag-time-in-fall-guys/"><u>Ace the Arena: Techniques to Elevate FPS & Cut Down on Lag Time in Fall Guys</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beating-the-blackout-expert-tips-for-league-of-legends-display-fixes-2024-edition/"><u>Beating the Blackout: Expert Tips for League of Legends Display Fixes, 2024 Edition</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-image-editing-mastering-photo-cropping-tools/"><u>IPhone Image Editing  Mastering Photo Cropping Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/jumpstart-your-pc-experience-mastering-windows-11s-search-tool/"><u>Jumpstart Your PC Experience: Mastering Windows 11’S Search Tool</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/two-screen-titans-is-splitcam-supreme-in-2024/"><u>Two-Screen Titans  Is SplitCam Supreme, In 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-how-to-easily-installing-configuring-and-launching-your-revo-app-manager/"><u>Ultimate How-To: Easily Installing, Configuring, and Launching Your Revo App Manager</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unlocking-your-ipads-voice-capture-potential/"><u>Unlocking Your iPad's Voice Capture Potential</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

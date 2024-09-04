@@ -1,7 +1,7 @@
 ---
 title: "\"Safe Surveillance Strategies  Blurring Sensitive Content\""
-date: 2024-08-25T01:56:33.380Z
-updated: 2024-08-26T01:56:33.380Z
+date: 2024-09-03T11:27:41.985Z
+updated: 2024-09-04T11:27:41.985Z
 tags: 
   - screen-recording
   - ai video
@@ -89,7 +89,7 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe id="iframe_1983582" src="//a.impactradius-go.com/gen-ad-code/5597632/1983582/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
@@ -100,7 +100,7 @@ Hiding the identity of the people in your videos and concealing private informat
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe id="iframe_1983575" src="//a.impactradius-go.com/gen-ad-code/5597632/1983575/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -117,7 +117,10 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
@@ -132,7 +135,7 @@ Ok, that's it. Hope you have hidden and blurred the private info in your recorde
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe id="iframe_1982499" src="//a.impactradius-go.com/gen-ad-code/5597632/1982499/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 Max Wales
 

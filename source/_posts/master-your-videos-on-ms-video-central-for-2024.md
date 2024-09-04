@@ -1,7 +1,7 @@
 ---
 title: "Master Your Videos on MS Video Central for 2024"
-date: 2024-08-29T22:28:06.798Z
-updated: 2024-08-30T22:28:06.798Z
+date: 2024-09-03T11:27:37.363Z
+updated: 2024-09-04T11:27:37.363Z
 tags: 
   - screen-recording
   - ai video
@@ -66,7 +66,10 @@ Microsoft Stream is designed to help **organizations, upload, share, and manage*
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Can I Do with Microsoft Stream?
 
@@ -88,20 +91,28 @@ Once you've uploaded a video to a Microsoft Stream account, you can set its priv
 
 The metadata improves a video's searchability as well as its availability to the Stream's users. Titles, hashtags, and meta descriptions can be used as search terms, but keep in mind that you'll only be able to view public videos.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Microsoft Stream?
 
 Before you go ahead and upload your first video to Microsoft Stream, there are just a few more things you should know. The owners of the Office 365 Video account, can access Stream from their accounts, by clicking on the 'Explore all your apps' feature and selecting it from the menu. Alternatively, you can create an account on the Microsoft Stream platform, and enjoy the 90 days of the free trial period. Monthly subscriptions for Stream vary between $3 and $5 depending on the pricing plan you've selected.
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-strem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 At the moment, there are no Android or iOS apps for Stream, but this doesn't mean you can't view videos on this platform from any web browser on any device, including Mac and PCs or Smartphones. You'll need a 64-bit Windows 7 or later OS if you want to use Microsoft Stream from a PC, while Mac owners must have 64-bit Mac OS 10.11 or later installed on their devices to use this platform.
 
 Here's how you can record, upload, and manage videos with Microsoft Stream.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How to Record Videos in Microsoft Stream?
 
 Capturing videos with Microsoft Stream requires you to install the inbuilt screen recorder on your computer. You can accomplish this by clicking on the Create menu and selecting the Record a Video option from your account.
@@ -114,15 +125,18 @@ To initiate the screencast, you'll have to repeat the steps you took to install 
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-record-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Step 2 - Adjusting the video settings
 
 Once the screen recorder loads, you'll be able to select the area of the screen you want to capture, record audio from an external device, and record system audio.
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-record-video-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The limited scope of screen recording features also includes the system audio recording option and the feature that enables you to record the movement of your cursor. Don't start recording before you've adjusted all the settings following the demands of the video you're working on. Hold the Shift + F11 buttons to start recording or click on the big red Record button.
 
 #### Step 3 - Screencasting with Microsoft Stream
@@ -137,9 +151,6 @@ There are no limitations on the duration of your videos, but longer videos are o
 
 Immediately after the recording is finished, you'll be able to preview the video, but Microsoft Stream doesn't offer even the basic video editing tools. If you want to edit a video, you'll have to use some other software, and you'll have to upload a video from your Stream account. Users that don't want to edit their videos can proceed to upload the content to a group or a channel they are managing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## How to Upload Videos in Microsoft Stream?
 
 The process of uploading videos to this platform may be time-consuming if you are uploading more than just one video, but it is by no means difficult. However, the steps you'll need to take to upload a video depending on where on the portal you want to upload your video. Here's how you can upload videos to Microsoft Stream in just a few steps.
@@ -150,18 +161,12 @@ Head over to the Create menu, and click on the Upload a Video option. This actio
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-upload-video.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 #### Step 2 - Uploading a video to My Videos Page
 
 Click on the My Content menu, that is located next to Create menu, and select the My Videos option. Drag the files you want to upload to the designated area and drop them to start the upload.
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-upload-video-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You can also search for videos you already uploaded or alter the search criteria. Wait for the videos to be uploaded and then proceed to add a title, metadata, or even subtitles.
 
 #### Step 3 - Uploading Videos to a Group or a Channel
@@ -188,6 +193,12 @@ A thumbnail is like a video's profile picture, and the Microsoft Stream platform
 
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-video-thumbnail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 The video language option enables you to select the language spoken in the video. If the language of the video is supported by the portal, the closed caption file will be automatically created which improves the video's performance in the search results.
 
 **Privacy and Permissions**
@@ -197,7 +208,10 @@ The owner of the video can grant permission to other Stream's users to view a vi
 ![Microsoft Stream](https://images.wondershare.com/filmora/article-images/microsoft-stream-video-privacy-permission.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 The platform allows you to keep your videos private and available only to users that have a password.
 
@@ -211,6 +225,12 @@ Once you've edited the metadata, you can either click on the Publish Now or Shar
 
 The Share feature enables you to create a link, by sharing it on an enterprise social network such as Yammer. The link can then be used to share the video on all other social media. If you would like to make further adjustments to the video's metadata, you can do so by selecting the My Videos option in the My Content menu, and clicking on the Edit option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Manage Videos in Microsoft Stream?
 
 All content you upload to Microsoft Stream will be displayed on My Videos page, and you can edit the metadata, filter, or browse through the videos as well as add videos to channels and groups. The portal enables you to sort out your videos based on different parameters such as view count or publish date, to name a few, which means that you can organize your video collection most functionally.
@@ -219,15 +239,18 @@ Editing metadata requires you to go to a group, channel, or My Videos page, clic
 
 Global administrators and group owners can change the settings of the groups they run. Name, descriptions, or the privacy status can be changed in all groups you manage, and the Delete option is also available if you want to erase a group. In order to do this, you only have to navigate to the group you're managing and click on the Settings icon.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Summary
 
 Microsoft Stream is still a young platform that facilitates corporate communications through videos. Its features include password protection and amazing sharing options that enable you to distribute a video to an entire company. However, the portal lacks some of the key tools that make communication within an organization easier. Stream's users can't capture webcam footage or broadcast live streams, but Microsoft has already announced that many upgrades are in store and that this business-oriented video sharing portal is going to continue to get better.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.

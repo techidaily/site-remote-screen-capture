@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Your Quick Pathway to iPad Time-Lapse Success\""
-date: 2024-08-29T22:26:49.035Z
-updated: 2024-08-30T22:26:49.035Z
+date: 2024-09-03T11:27:38.791Z
+updated: 2024-09-04T11:27:38.791Z
 tags: 
   - screen-recording
   - ai video
@@ -60,7 +60,10 @@ Yes, you can turn a regular video into a timelapse video easily on iPhone and iP
 When the recording duration is one hour in timelapse mode, iPhone frame capture rate is 1 frame per second. This means a 1-hour time lapse on iPhone will be 4 minutes. The calculation is that you have to divide the recording duration in seconds by one frame capture duration in seconds. In this case, you need to divide 3600 seconds by 4 seconds. This comes to 240 seconds which is 4 minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Bottom Line
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Universal Approach  How To Record Any YouTube Stream on Different Devices\""
-date: 2024-07-21T10:39:57.574Z
-updated: 2024-07-22T10:39:57.574Z
+date: 2024-09-03T11:22:57.126Z
+updated: 2024-09-04T11:22:57.126Z
 tags: 
   - screen-recording
   - ai video
@@ -23,9 +23,6 @@ In fact, if you are a YouTuber yourself and you are live streaming, you need a Y
 
 **Note:** We resolutely oppose all forms of copyright-infringing downloads. This tutorial is only for downloading YouTube videos/audio materials from your own channel.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. Record YouTube Stream with on PC/Mac with Filmora
 
 The best YouTube live stream [screen recorder](https://tools.techidaily.com/wondershare/filmora/download/) is Wondershare Filmora. It is a premium screen recorder as well as a professional video editor. You can record your screen activities such as your gameplay that you are live streaming. Along with that, you can record your webcam video that you are live streaming alongside your screen video. You can also record someone’s YouTube live stream session by playing the video full screen on your computer. Filmora is available for both Windows and Mac users. Here are the steps to record YouTube live stream with Filmora.
@@ -40,9 +37,6 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Launch Filmora and click on New Project.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 Step 2: Click on Record and select Record From Webcam if your YouTube live stream will be you speaking to your audience. Otherwise, you can select Record PC Screen if you are live streaming gameplay or screen activities. Here, we are considering Record PC Screen option which you can use to record someone’s YouTube live stream session as well.
@@ -51,9 +45,6 @@ Step 2: Click on Record and select Record From Webcam if your YouTube live strea
 
 Step 3: Choose the recording screen area and select the system audio and external mic audio sources properly. Turn on “Record Camera Stream” option if you want to capture your webcam along with the screen in PiP mode.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![record panel](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 Step 4: Click on Record button to start recording as soon as you go live on YouTube. Press F9 key to stop recording when you end your live stream on YouTube. You can edit and export in the desired file format.
@@ -74,14 +65,8 @@ Step 2: When YouTube live streaming session begins, click on the Record button f
 
 Step 3: When the session gets over, click on Stop button. Go to File> Save option to save the recorded video on your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![quicktime save the recorder gameplay](https://images.wondershare.com/filmora/article-images/quicktime-save-the-recorder-gameplay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. Use OBS Studio Stream Recorder
 
 If you are a YouTuber yourself, you must have been using OBS Studio for YouTube live streaming. OBS Studio is the most popular platform for live streaming video on almost all online platforms where live streaming option is available. OBS Studio also lets you record your YouTube live streaming session as well as record others’ YouTube live sessions. OBS Studio is completely free to use and it is available for all desktop operating systems. Here are the steps to record YouTube live stream Windows 10 and Mac with OBS.
@@ -90,33 +75,45 @@ Step 1: Download and install OBS Studio as per your operating system. Launch the
 
 Step 2: Under Sources tab and click on “+” icon. Select Display Capture if you want to record your screen when you want to record someone’s live stream or your live stream where you are showing screen activities.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![obs display capture](https://images.wondershare.com/filmora/article-images/obs-display-capture.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: You have to enter a name for the YouTube live stream capturing session and click on Ok button.
 
 ![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: You will see your screen video on the OBS window for confirmation that the connection is well established. Click on Start Recording button under Controls tab when you start your live streaming session on YouTube. OBS will keep recording your screen activities in the background.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 5: To stop recording, go to OBS Studio and click on Stop Recording. You can use the available Hotkeys to start and stop recording.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1993650" src="//a.impactradius-go.com/gen-ad-code/5597632/1993650/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Part 4\. Use AZ Screen Recorder on Android
 
 If you have the latest version of Android, you might have an inbuilt screen recorder. But different Android smartphone comes with different Android version and the screen recorder may not be present. Hence, it is better to opt for YouTube live stream screen recorder app from Play Store. We recommend AZ Screen Recorder for recording your screen when you play YouTube live streaming video. Here are the steps to follow.
 
 Step 1: Go to Google Play Store and install AZ Screen Recorder.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
 
 Step 2: Launch AZ Screen Recorder and allow the necessary permissions. It comes in the form of a widget with floating buttons on the side of the screen. Tap on the gear icon for video settings.
@@ -128,7 +125,10 @@ Step 3: Open YouTube live streaming video and tap on the Red Record button on AZ
 Step 4: To stop the recording once the live stream is over, you have to tap on AZ screen recorder widget icon. Tap on Stop icon and the recorded video will be available in the gallery.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5\. Use iPhone Built-in Recorder
 
@@ -138,16 +138,167 @@ Step 1: Open You Tube live stream video that you want to record.
 
 Step 2: Go to the Control Centre on your iPhone and tap on Screen Recording icon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![iphone built in recorder](https://images.wondershare.com/filmora/article-images/iphone-built-in-recorder.jpg)
 
 Step 3: Tap on Start Recording option from the pop-up message. Make sure you turn off the microphone when you are recording someone’s YouTube live stream video.
 
+![ipone built-in start recording](https://images.wondershare.com/filmora/article-images/ipone-built-in-start-recording.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+Step 4: To stop recording, tap on the Red timer icon at the top-left corner.
+
+![iphone built in red timer icon](https://images.wondershare.com/filmora/article-images/iphone-built-in-red-timer-icon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_1770526" src="//a.impactradius-go.com/gen-ad-code/5597632/1770526/20702" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+Recording anyone’s live stream video on YouTube should no more be an issue on any device. We have stated the best YouTube live stream recorder apps for computer as well as mobile users. For desktop users, Filmora is the best YouTube live stream recorder whether you are recording your live stream session or someone you have subscribed on YouTube.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora. Launch Filmora and click on New Project.
+
+![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 2: Click on Record and select Record From Webcam if your YouTube live stream will be you speaking to your audience. Otherwise, you can select Record PC Screen if you are live streaming gameplay or screen activities. Here, we are considering Record PC Screen option which you can use to record someone’s YouTube live stream session as well.
+
+![choose record option](https://images.wondershare.com/filmora/guide/recording-02.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 3: Choose the recording screen area and select the system audio and external mic audio sources properly. Turn on “Record Camera Stream” option if you want to capture your webcam along with the screen in PiP mode.
+
+![record panel](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+Step 4: Click on Record button to start recording as soon as you go live on YouTube. Press F9 key to stop recording when you end your live stream on YouTube. You can edit and export in the desired file format.
+
+![export the project class=](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2\. Use QuickTime to Record YouTube Stream on Mac
+
+If you are a Mac user, QuickTime Player comes pre-installed and it is the default media player. You can use QuickTime to record your screen activities when you go live on YouTube. You can also record someone’s live stream as well by playing it on your screen and recording the screen in the background with QuickTime. QuickTime is completely free and readily available for Mac users. There is no need for installing any third-party app. Here are the steps to record YouTube live stream with QuickTime.
+
+Step 1: Open QuickTime Player from Applications folder. Go to File and then to New Screen Recording option.
+
+![quicktime player new screen recording](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_1977006" src="//a.impactradius-go.com/gen-ad-code/5597632/1977006/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+Step 2: When YouTube live streaming session begins, click on the Record button from QuickTime floating widget.
+
+![quicktime widget](https://images.wondershare.com/filmora/article-images/quicktime-widget.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Step 3: When the session gets over, click on Stop button. Go to File> Save option to save the recorded video on your hard drive.
+
+![quicktime save the recorder gameplay](https://images.wondershare.com/filmora/article-images/quicktime-save-the-recorder-gameplay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_1977020" src="//a.impactradius-go.com/gen-ad-code/5597632/1977020/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3\. Use OBS Studio Stream Recorder
+
+If you are a YouTuber yourself, you must have been using OBS Studio for YouTube live streaming. OBS Studio is the most popular platform for live streaming video on almost all online platforms where live streaming option is available. OBS Studio also lets you record your YouTube live streaming session as well as record others’ YouTube live sessions. OBS Studio is completely free to use and it is available for all desktop operating systems. Here are the steps to record YouTube live stream Windows 10 and Mac with OBS.
+
+Step 1: Download and install OBS Studio as per your operating system. Launch the software after installation.
+
+Step 2: Under Sources tab and click on “+” icon. Select Display Capture if you want to record your screen when you want to record someone’s live stream or your live stream where you are showing screen activities.
+
+![obs display capture](https://images.wondershare.com/filmora/article-images/obs-display-capture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_1977023" src="//a.impactradius-go.com/gen-ad-code/5597632/1977023/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+Step 3: You have to enter a name for the YouTube live stream capturing session and click on Ok button.
+
+![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
+
+Step 4: You will see your screen video on the OBS window for confirmation that the connection is well established. Click on Start Recording button under Controls tab when you start your live streaming session on YouTube. OBS will keep recording your screen activities in the background.
+
+![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
+
+Step 5: To stop recording, go to OBS Studio and click on Stop Recording. You can use the available Hotkeys to start and stop recording.
+
+## Part 4\. Use AZ Screen Recorder on Android
+
+If you have the latest version of Android, you might have an inbuilt screen recorder. But different Android smartphone comes with different Android version and the screen recorder may not be present. Hence, it is better to opt for YouTube live stream screen recorder app from Play Store. We recommend AZ Screen Recorder for recording your screen when you play YouTube live streaming video. Here are the steps to follow.
+
+Step 1: Go to Google Play Store and install AZ Screen Recorder.
+
+![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
+
+Step 2: Launch AZ Screen Recorder and allow the necessary permissions. It comes in the form of a widget with floating buttons on the side of the screen. Tap on the gear icon for video settings.
+
+Step 3: Open YouTube live streaming video and tap on the Red Record button on AZ Screen Recorder widget to start recording.
+
+![az screen recorder recorder widget](https://images.wondershare.com/filmora/article-images/az-screen-recorder-recorder-widget.jpg)
+
+Step 4: To stop the recording once the live stream is over, you have to tap on AZ screen recorder widget icon. Tap on Stop icon and the recorded video will be available in the gallery.
+
+## Part 5\. Use iPhone Built-in Recorder
+
+If you want to record YouTube live stream from your iPhone, there is no need for an external YouTube live stream recorder app. iPhone comes with an inbuilt screen recorder that will help you to record any live stream video on YouTube app without any issue. The inbuilt screen recorder is readily available on iOS 11 and higher versions. You can access the recorder from Control Center. If it is not available, you can go to Settings> Control Center> Screen Recording and enable the screen recorder option. Here are the steps to record live stream video on YouTube.
+
+Step 1: Open You Tube live stream video that you want to record.
+
+Step 2: Go to the Control Centre on your iPhone and tap on Screen Recording icon.
+
+![iphone built in recorder](https://images.wondershare.com/filmora/article-images/iphone-built-in-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_1983475" src="//a.impactradius-go.com/gen-ad-code/5597632/1983475/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+Step 3: Tap on Start Recording option from the pop-up message. Make sure you turn off the microphone when you are recording someone’s YouTube live stream video.
+
 ![ipone built-in start recording](https://images.wondershare.com/filmora/article-images/ipone-built-in-start-recording.jpg)
 
 Step 4: To stop recording, tap on the Red timer icon at the top-left corner.
@@ -166,17 +317,26 @@ Step 1: Download and install Wondershare Filmora. Launch Filmora and click on Ne
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2: Click on Record and select Record From Webcam if your YouTube live stream will be you speaking to your audience. Otherwise, you can select Record PC Screen if you are live streaming gameplay or screen activities. Here, we are considering Record PC Screen option which you can use to record someone’s YouTube live stream session as well.
 
 ![choose record option](https://images.wondershare.com/filmora/guide/recording-02.png)
 
 Step 3: Choose the recording screen area and select the system audio and external mic audio sources properly. Turn on “Record Camera Stream” option if you want to capture your webcam along with the screen in PiP mode.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![record panel](https://images.wondershare.com/filmora/guide/recording-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Click on Record button to start recording as soon as you go live on YouTube. Press F9 key to stop recording when you end your live stream on YouTube. You can edit and export in the desired file format.
 
 ![export the project class=](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
@@ -189,19 +349,22 @@ Step 1: Open QuickTime Player from Applications folder. Go to File and then to N
 
 ![quicktime player new screen recording](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1912746" src="//a.impactradius-go.com/gen-ad-code/5597632/1912746/20231" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Step 2: When YouTube live streaming session begins, click on the Record button from QuickTime floating widget.
 
 ![quicktime widget](https://images.wondershare.com/filmora/article-images/quicktime-widget.jpg)
 
 Step 3: When the session gets over, click on Stop button. Go to File> Save option to save the recorded video on your hard drive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![quicktime save the recorder gameplay](https://images.wondershare.com/filmora/article-images/quicktime-save-the-recorder-gameplay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. Use OBS Studio Stream Recorder
 
@@ -219,13 +382,16 @@ Step 3: You have to enter a name for the YouTube live stream capturing session a
 
 Step 4: You will see your screen video on the OBS window for confirmation that the connection is well established. Click on Start Recording button under Controls tab when you start your live streaming session on YouTube. OBS will keep recording your screen activities in the background.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
 
 Step 5: To stop recording, go to OBS Studio and click on Stop Recording. You can use the available Hotkeys to start and stop recording.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4\. Use AZ Screen Recorder on Android
 
 If you have the latest version of Android, you might have an inbuilt screen recorder. But different Android smartphone comes with different Android version and the screen recorder may not be present. Hence, it is better to opt for YouTube live stream screen recorder app from Play Store. We recommend AZ Screen Recorder for recording your screen when you play YouTube live streaming video. Here are the steps to follow.
@@ -242,9 +408,6 @@ Step 3: Open YouTube live streaming video and tap on the Red Record button on AZ
 
 Step 4: To stop the recording once the live stream is over, you have to tap on AZ screen recorder widget icon. Tap on Stop icon and the recorded video will be available in the gallery.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5\. Use iPhone Built-in Recorder
 
 If you want to record YouTube live stream from your iPhone, there is no need for an external YouTube live stream recorder app. iPhone comes with an inbuilt screen recorder that will help you to record any live stream video on YouTube app without any issue. The inbuilt screen recorder is readily available on iOS 11 and higher versions. You can access the recorder from Control Center. If it is not available, you can go to Settings> Control Center> Screen Recording and enable the screen recorder option. Here are the steps to record live stream video on YouTube.
@@ -257,9 +420,6 @@ Step 2: Go to the Control Centre on your iPhone and tap on Screen Recording icon
 
 Step 3: Tap on Start Recording option from the pop-up message. Make sure you turn off the microphone when you are recording someone’s YouTube live stream video.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![ipone built-in start recording](https://images.wondershare.com/filmora/article-images/ipone-built-in-start-recording.jpg)
 
 Step 4: To stop recording, tap on the Red timer icon at the top-left corner.
@@ -267,7 +427,10 @@ Step 4: To stop recording, tap on the Red timer icon at the top-left corner.
 ![iphone built in red timer icon](https://images.wondershare.com/filmora/article-images/iphone-built-in-red-timer-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -289,38 +452,47 @@ Step 3: Choose the recording screen area and select the system audio and externa
 
 ![record panel](https://images.wondershare.com/filmora/guide/recording-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: Click on Record button to start recording as soon as you go live on YouTube. Press F9 key to stop recording when you end your live stream on YouTube. You can edit and export in the desired file format.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![export the project class=](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## Part 2\. Use QuickTime to Record YouTube Stream on Mac
 
 If you are a Mac user, QuickTime Player comes pre-installed and it is the default media player. You can use QuickTime to record your screen activities when you go live on YouTube. You can also record someone’s live stream as well by playing it on your screen and recording the screen in the background with QuickTime. QuickTime is completely free and readily available for Mac users. There is no need for installing any third-party app. Here are the steps to record YouTube live stream with QuickTime.
 
 Step 1: Open QuickTime Player from Applications folder. Go to File and then to New Screen Recording option.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![quicktime player new screen recording](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1982459" src="//a.impactradius-go.com/gen-ad-code/5597632/1982459/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Step 2: When YouTube live streaming session begins, click on the Record button from QuickTime floating widget.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![quicktime widget](https://images.wondershare.com/filmora/article-images/quicktime-widget.jpg)
 
 Step 3: When the session gets over, click on Stop button. Go to File> Save option to save the recorded video on your hard drive.
 
 ![quicktime save the recorder gameplay](https://images.wondershare.com/filmora/article-images/quicktime-save-the-recorder-gameplay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3\. Use OBS Studio Stream Recorder
 
 If you are a YouTuber yourself, you must have been using OBS Studio for YouTube live streaming. OBS Studio is the most popular platform for live streaming video on almost all online platforms where live streaming option is available. OBS Studio also lets you record your YouTube live streaming session as well as record others’ YouTube live sessions. OBS Studio is completely free to use and it is available for all desktop operating systems. Here are the steps to record YouTube live stream Windows 10 and Mac with OBS.
@@ -339,128 +511,19 @@ Step 4: You will see your screen video on the OBS window for confirmation that t
 
 ![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
 
-Step 5: To stop recording, go to OBS Studio and click on Stop Recording. You can use the available Hotkeys to start and stop recording.
-
-## Part 4\. Use AZ Screen Recorder on Android
-
-If you have the latest version of Android, you might have an inbuilt screen recorder. But different Android smartphone comes with different Android version and the screen recorder may not be present. Hence, it is better to opt for YouTube live stream screen recorder app from Play Store. We recommend AZ Screen Recorder for recording your screen when you play YouTube live streaming video. Here are the steps to follow.
-
-Step 1: Go to Google Play Store and install AZ Screen Recorder.
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![az screen recorder](https://images.wondershare.com/filmora/article-images/az-screen-recorder.jpg)
-
-Step 2: Launch AZ Screen Recorder and allow the necessary permissions. It comes in the form of a widget with floating buttons on the side of the screen. Tap on the gear icon for video settings.
-
-Step 3: Open YouTube live streaming video and tap on the Red Record button on AZ Screen Recorder widget to start recording.
-
-![az screen recorder recorder widget](https://images.wondershare.com/filmora/article-images/az-screen-recorder-recorder-widget.jpg)
-
-Step 4: To stop the recording once the live stream is over, you have to tap on AZ screen recorder widget icon. Tap on Stop icon and the recorded video will be available in the gallery.
-
-## Part 5\. Use iPhone Built-in Recorder
-
-If you want to record YouTube live stream from your iPhone, there is no need for an external YouTube live stream recorder app. iPhone comes with an inbuilt screen recorder that will help you to record any live stream video on YouTube app without any issue. The inbuilt screen recorder is readily available on iOS 11 and higher versions. You can access the recorder from Control Center. If it is not available, you can go to Settings> Control Center> Screen Recording and enable the screen recorder option. Here are the steps to record live stream video on YouTube.
-
-Step 1: Open You Tube live stream video that you want to record.
-
-Step 2: Go to the Control Centre on your iPhone and tap on Screen Recording icon.
-
-![iphone built in recorder](https://images.wondershare.com/filmora/article-images/iphone-built-in-recorder.jpg)
-
-Step 3: Tap on Start Recording option from the pop-up message. Make sure you turn off the microphone when you are recording someone’s YouTube live stream video.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-![ipone built-in start recording](https://images.wondershare.com/filmora/article-images/ipone-built-in-start-recording.jpg)
-
-Step 4: To stop recording, tap on the Red timer icon at the top-left corner.
-
-![iphone built in red timer icon](https://images.wondershare.com/filmora/article-images/iphone-built-in-red-timer-icon.jpg)
-
-## Conclusion
-
-Recording anyone’s live stream video on YouTube should no more be an issue on any device. We have stated the best YouTube live stream recorder apps for computer as well as mobile users. For desktop users, Filmora is the best YouTube live stream recorder whether you are recording your live stream session or someone you have subscribed on YouTube.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora. Launch Filmora and click on New Project.
-
-![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: Click on Record and select Record From Webcam if your YouTube live stream will be you speaking to your audience. Otherwise, you can select Record PC Screen if you are live streaming gameplay or screen activities. Here, we are considering Record PC Screen option which you can use to record someone’s YouTube live stream session as well.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![choose record option](https://images.wondershare.com/filmora/guide/recording-02.png)
-
-Step 3: Choose the recording screen area and select the system audio and external mic audio sources properly. Turn on “Record Camera Stream” option if you want to capture your webcam along with the screen in PiP mode.
-
-![record panel](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-Step 4: Click on Record button to start recording as soon as you go live on YouTube. Press F9 key to stop recording when you end your live stream on YouTube. You can edit and export in the desired file format.
-
-![export the project class=](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-## Part 2\. Use QuickTime to Record YouTube Stream on Mac
-
-If you are a Mac user, QuickTime Player comes pre-installed and it is the default media player. You can use QuickTime to record your screen activities when you go live on YouTube. You can also record someone’s live stream as well by playing it on your screen and recording the screen in the background with QuickTime. QuickTime is completely free and readily available for Mac users. There is no need for installing any third-party app. Here are the steps to record YouTube live stream with QuickTime.
-
-Step 1: Open QuickTime Player from Applications folder. Go to File and then to New Screen Recording option.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
-![quicktime player new screen recording](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
-
-Step 2: When YouTube live streaming session begins, click on the Record button from QuickTime floating widget.
-
-![quicktime widget](https://images.wondershare.com/filmora/article-images/quicktime-widget.jpg)
-
-Step 3: When the session gets over, click on Stop button. Go to File> Save option to save the recorded video on your hard drive.
-
-![quicktime save the recorder gameplay](https://images.wondershare.com/filmora/article-images/quicktime-save-the-recorder-gameplay.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 3\. Use OBS Studio Stream Recorder
-
-If you are a YouTuber yourself, you must have been using OBS Studio for YouTube live streaming. OBS Studio is the most popular platform for live streaming video on almost all online platforms where live streaming option is available. OBS Studio also lets you record your YouTube live streaming session as well as record others’ YouTube live sessions. OBS Studio is completely free to use and it is available for all desktop operating systems. Here are the steps to record YouTube live stream Windows 10 and Mac with OBS.
-
-Step 1: Download and install OBS Studio as per your operating system. Launch the software after installation.
-
-Step 2: Under Sources tab and click on “+” icon. Select Display Capture if you want to record your screen when you want to record someone’s live stream or your live stream where you are showing screen activities.
-
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![obs display capture](https://images.wondershare.com/filmora/article-images/obs-display-capture.jpg)
-
-Step 3: You have to enter a name for the YouTube live stream capturing session and click on Ok button.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
-
-Step 4: You will see your screen video on the OBS window for confirmation that the connection is well established. Click on Start Recording button under Controls tab when you start your live streaming session on YouTube. OBS will keep recording your screen activities in the background.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
-
 Step 5: To stop recording, go to OBS Studio and click on Stop Recording. You can use the available Hotkeys to start and stop recording.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 4\. Use AZ Screen Recorder on Android
 
@@ -479,7 +542,10 @@ Step 3: Open YouTube live streaming video and tap on the Red Record button on AZ
 Step 4: To stop the recording once the live stream is over, you have to tap on AZ screen recorder widget icon. Tap on Stop icon and the recorded video will be available in the gallery.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 5\. Use iPhone Built-in Recorder
 
@@ -495,16 +561,21 @@ Step 3: Tap on Start Recording option from the pop-up message. Make sure you tur
 
 ![ipone built-in start recording](https://images.wondershare.com/filmora/article-images/ipone-built-in-start-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4: To stop recording, tap on the Red timer icon at the top-left corner.
 
 ![iphone built in red timer icon](https://images.wondershare.com/filmora/article-images/iphone-built-in-red-timer-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -537,3 +608,45 @@ Recording anyone’s live stream video on YouTube should no more be an issue on 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-automated-calendar-management-for-remote-teams/"><u>[New] Automated Calendar Management for Remote Teams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-continuous-media-gatherers/"><u>[New] Continuous Media Gatherers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-from-novice-to-geometric-master-crafting-perfect-circular-and-spherical-objects-for-2024/"><u>[New] From Novice to Geometric Master  Crafting Perfect Circular & Spherical Objects for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-dynamic-ppt-leveraging-voice-for-effective-delivery/"><u>[New] In 2024, Dynamic PPT  Leveraging Voice for Effective Delivery</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-privacy-preservation-through-invisible-modifications/"><u>[New] In 2024, Privacy Preservation Through Invisible Modifications</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quickcapturewin-instant-screenshots-for-pcs/"><u>[New] QuickCaptureWin  Instant Screenshots for PCs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-skype-recording-excellence-the-years-leading-tools/"><u>[New] Skype Recording Excellence  The Year's Leading Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-google-meet-a-comprehensive-no-cost-host-and-participant-manual-for-2024/"><u>[New] Unlocking Google Meet  A Comprehensive No-Cost Host & Participant Manual for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamlining-online-recording-of-webcamplusscreen/"><u>[Updated] 2024 Approved  Streamlining Online Recording of Webcam+Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-complete-screencast-cheat-sheet-must-knows/"><u>[Updated] 2024 Approved  The Complete Screencast Cheat Sheet  Must-Knows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-agrarian-adventures-unplugged-stardews-kin-titles/"><u>[Updated] Agrarian Adventures Unplugged  Stardew's Kin Titles</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-crafting-professionalism-the-best-practices-for-post-upload-editing/"><u>[Updated] Crafting Professionalism  The Best Practices for Post-Upload Editing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-evaluating-top-screen-capture-software-which-is-superior-obs-or-fraps-in-2024/"><u>[Updated] Evaluating Top Screen Capture Software  Which Is Superior, OBS or Fraps, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-first-steps-in-using-zooms-group-rooms/"><u>[Updated] First Steps in Using Zoom's Group Rooms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-streamcatcher-pro-for-facebook-videos/"><u>[Updated] In 2024, StreamCatcher Pro for Facebook Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-skald-rage-new-age-of-might-for-2024/"><u>[Updated] Skald Rage  New Age of Might for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-process-recording-youtube-livestream-on-multiple-platforms/"><u>[Updated] The Complete Process  Recording YouTube Livestream on Multiple Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-training-harnessing-the-power-of-adobe-captivates-screen-record-feature/"><u>[Updated] Ultimate Training  Harnessing the Power of Adobe Captivate's Screen Record Feature</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-vidma-scratch-assessing-the-screen-capture-tool-for-2024/"><u>[Updated] Vidma Scratch  Assessing the Screen Capture Tool for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/10-hits-you-cant-miss-on-spotify/"><u>10 Hits You Can’t Miss on Spotify</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chromatic-brilliance-in-high-definition-blade-camera-review/"><u>2024 Approved  Chromatic Brilliance in High Definition  Blade Camera Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-fraps-your-go-to-screen-recorder/"><u>2024 Approved  Fraps  Your Go-To Screen Recorder?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obsudio-screen-recorder-analysis-your-best-choices-explored/"><u>2024 Approved  Obsudio Screen Recorder Analysis  Your Best Choices Explored</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-rectifying-identity-mix-up-in-fb-text-exchange/"><u>2024 Approved  Rectifying Identity Mix-Up in FB Text Exchange</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unveil-the-power-of-vrecorder-installs-demystified/"><u>2024 Approved  Unveil the Power of VRecorder  Installs Demystified</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/action-camera-buying-for-newbies-the-updated-guide-23/"><u>Action Camera Buying for Newbies - The Updated Guide '23</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ceasing-noise-during-obs-recordings/"><u>Ceasing Noise During OBS Recordings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/elite-tech-list-screen-recorders-with-zero-latency/"><u>Elite Tech List  Screen Recorders with Zero Latency</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-game-picks-ghost-of-tsushima-rival-edition-in-2024/"><u>Essential Game Picks  Ghost of Tsushima Rival Edition, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/excellent-e-recorders-for-voices/"><u>Excellent E-Recorders for Voices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/finding-your-preferred-video-editor-filmora-vs-democreator-insights/"><u>Finding Your Preferred Video Editor  Filmora Vs. Democreator Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-capturing-the-action-screen-recorder-roundup/"><u>In 2024, Capturing the Action  Screen Recorder Roundup</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-correcting-time-jumps-fixing-obs-studio-problems/"><u>In 2024, Correcting Time Jumps  Fixing OBS Studio Problems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-techniques-for-quick-and-reliable-recording-of-online-classes/"><u>In 2024, Essential Techniques for Quick and Reliable Recording of Online Classes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/make-stunning-videos-in-minutes-wevideo-for-2024/"><u>Make Stunning Videos in Minutes WeVideo for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/undoing-the-delete-action-recovering-lost-messages-in-microsoft-outlook/"><u>Undoing the Delete Action: Recovering Lost Messages in Microsoft Outlook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unleash-creativity-with-ezvides-tool-for-capturing-your-desktop/"><u>Unleash Creativity with EZvide's Tool for Capturing Your Desktop</u></a></li>
+</ul></div>

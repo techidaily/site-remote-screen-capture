@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unlocking Composite Power with Blend Mode Knowledge"
-date: 2024-08-25T01:55:12.714Z
-updated: 2024-08-26T01:55:12.714Z
+date: 2024-09-03T11:27:43.599Z
+updated: 2024-09-04T11:27:43.599Z
 tags: 
   - screen-recording
   - ai video
@@ -71,8 +71,10 @@ The **Multiply Mode** is also one of the frequently used blending modes that **m
 This mode will enable you to create the black background for your video effortlessly, and highlight the subjects in the video clip you intend to use as a top layer. You need to choose carefully which video clips you are going to use and how are they going to look on a dark background if you want to produce visually pleasing videos that captivate the viewer's attention.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to use Blending Modes?
 
@@ -84,6 +86,9 @@ In case you've used Filmora Scrn's screen recorder to capture your video, the vi
 
 ![ Filmora Scrn Import Media ](https://images.wondershare.com/filmora/article-images/filmora-scrn-add-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1982459" src="//a.impactradius-go.com/gen-ad-code/5597632/1982459/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Click on the Add Files icon in the Media bin, and select the footage you want to use in your project. Drag the video clip you'd like to use as a background to a track on the timeline and then drag and drop the video or a photo to a timeline above the one on which the background clip is located.
 
 Adjust the duration of the video clips or photos you've placed on the timeline and use the preview window to determine whether or not you should readjust the size and position of the overlaying image.
@@ -91,7 +96,10 @@ Adjust the duration of the video clips or photos you've placed on the timeline a
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-tracks.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 #### Step 2 - Select the Blending mode
 
@@ -102,7 +110,10 @@ In the Compositing menu, you will be able to see the Blending Mode feature. Clic
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-selection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Changing the Opacity value will enable you to reduce the transparency level of a layer while changing the values in the Transform menu will help you find the perfect position on the background for the overlaying image.
 
@@ -113,10 +124,10 @@ Click on the Export button if you like the results and choose whether you want t
 ![ Filmora Scrn Blending modes](https://images.wondershare.com/filmora/article-images/filmora-scrn-blending-mode-export.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
@@ -125,7 +136,10 @@ Overlaying two video clips and blending them to each other can be an effective w
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Max Wales
 

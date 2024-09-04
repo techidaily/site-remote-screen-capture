@@ -1,7 +1,7 @@
 ---
 title: "Optimal OBS Configurations on Budget Computers"
-date: 2024-08-29T22:28:54.409Z
-updated: 2024-08-30T22:28:54.409Z
+date: 2024-09-03T11:27:36.375Z
+updated: 2024-09-04T11:27:36.375Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,12 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Settings That You Should Keep
 
 Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
@@ -41,12 +47,21 @@ Output tab, which is the resolution of the video that the people will watch. For
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Output Settings
 
 Once you are done with the general video settings now it's time you should come to the output settings. For that, you will need to choose the output from the main vertical tab as shown in the figure below in 1\. You will see a new window appears with a variety of settings. Now it's time to choose the advanced setting as shown in 2 in the figure to see all settings to be edited.
 
 ![obs output settings edited](https://images.wondershare.com/filmora/article-images/obs-output-settings-edited.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1977032" src="//a.impactradius-go.com/gen-ad-code/5597632/1977032/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Let's move towards the detail settings for the output video for your audience it's best to choose the settings shown in the figure and below for lag-free and jitter-free video.
 
 **Encoder:**
@@ -79,9 +94,6 @@ So that’s it for the video settings. These are all the settings that you need 
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1: Output Audio
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
@@ -89,15 +101,15 @@ The audio settings can be adjusted from two places. Let us discuss the first one
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2: Audio Tab Settings
 
 ![obs audio tab settings steps](https://images.wondershare.com/filmora/article-images/obs-audio-tab-settings-steps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 The audio consists of many settings,it is divided into categories lets start one by one and explain it.
 
 **Sample Rate and Channels:**
@@ -118,14 +130,16 @@ The meter is a decibel meter (dB). It is a measurement of volume. The more the d
 
 Finally, the rest of the options should be kept as default since being a streamer you won’t need them to change and they are pretty much basic hotkeys to set up if you wish to.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Stream Settings
 
 Here are the streaming settings that you just need to follow for your streaming videos. The streaming tab consists of settings for the platform you are going to stream your video. Let's begin with step-by-step procedures to follow for the best streaming settings for your low-end PCs or laptops.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Step 1: Stream Tab
 
 The streaming tab can be accessed from the main vertical tab. After going to the main “stream” tab you will see a bunch of options.
@@ -133,16 +147,10 @@ The streaming tab can be accessed from the main vertical tab. After going to the
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2: Streaming Settings
 
@@ -154,15 +162,18 @@ Here you have to choose the platform on which you are going to stream your video
 
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Best Alternative to OBS
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
 
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)

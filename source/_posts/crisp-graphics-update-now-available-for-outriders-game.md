@@ -1,7 +1,7 @@
 ---
 title: Crisp Graphics Update Now Available for Outriders Game
-date: 2024-08-29T22:28:36.624Z
-updated: 2024-08-30T22:28:36.624Z
+date: 2024-09-03T11:27:36.751Z
+updated: 2024-09-04T11:27:36.751Z
 tags:
   - win11
   - win10
@@ -46,6 +46,12 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of game files
 
  Missing and corrupted game file is a known culprit of various game problems. Fortunately, you can use the Steam built-in tool to verify the file integrity easily.
@@ -54,24 +60,33 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1495277" src="//a.impactradius-go.com/gen-ad-code/5597632/1495277/17189" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 **2)** Right-click**L.A. Noire** from the game list. Then, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)** Click the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wait until the repair process completes, then you can launch L.A. Noire to see if the problem disappears. If not, head towards the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Launch the DXSETUP.exe file
 
  If L.A. Noire doesn’t launch the right way and a DirectX error appears, the corresponding solution is to launch the DXSETUP.exe file and install DirectX 9.
@@ -81,7 +96,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
@@ -92,7 +110,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **4)** Open the**3rd folder** .
 
@@ -102,6 +123,9 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1983549" src="//a.impactradius-go.com/gen-ad-code/5597632/1983549/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Fix 4 – Opt out of all beta programs
 
  Game developers usually release Beta version before an official update is available. However, they can contain bugs and even cause the game instability. So if you’re participating in the Steam beta, try opting out so that L.A. Noire can launch in the normal version.
@@ -111,8 +135,10 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2)** Click**Account** and click the**Change** button under Beta participation.
 
@@ -126,10 +152,6 @@ Playing L.A. Noire is great fun except when the game fails to launch and confusi
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Disable SteamVR Desktop Game Theatre
 
  According to a lot of players, the Steam desktop theatre mode will also cause L.A. Noire not launching. Try disabling this option and see if that solves your problem.
@@ -138,15 +160,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-0-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right-click**L.A. Noire** from the game list and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)** Untick**Use Desktop Game Theatre while SteamVR is active** . Then, click**Close** .
 
@@ -156,9 +178,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6 – Update your graphics driver
 
  Wrong or outdated graphics driver can trigger various gaming annoyance and completely ruin the playing experience. To make your games run perfectly all the time, you need to install the up-to-date graphics driver.
