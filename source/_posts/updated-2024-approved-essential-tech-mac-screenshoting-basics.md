@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Essential Tech  Mac Screenshoting Basics\""
-date: 2024-09-07T23:01:10.403Z
-updated: 2024-09-08T23:01:10.403Z
+date: 2024-09-06T16:39:43.157Z
+updated: 2024-09-13T16:52:40.092Z
 tags: 
   - screen-recording
   - ai video
@@ -15,24 +15,12 @@ keywords: "Basic Mac Snaps,ScreenShot Guide Mac,Mac Screenshoting 101,Essential 
 thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Essential Tech: Mac Screenshoting Basics
 
 # How to Capture a Screenshot or Video of What's Showing On Your Mac Computer
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
@@ -44,11 +32,12 @@ For simple applications, the Mac screenshot keyboard shortcuts are sufficient fo
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -67,11 +56,12 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tip 1. Mac OS Keyboard shortcut screenshots
 
 • To print screen on mac (the entire screen), press \[COMMAND\] + \[SHIFT\] + 3
@@ -82,6 +72,13 @@ For more advanced Mac screenshot applications, including the capability to edit,
 
 These applications can help you improve your screen captures and recordings with advanced tools and professional capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 2.Free screen capture tools for Mac
 
 **QuickTime** – PROS: free and included with your Mac, easy to use, exports to popular Mac formats; CONS: a limited toolset for advanced editing.
@@ -91,17 +88,12 @@ These applications can help you improve your screen captures and recordings with
 **Jing** – PROS: optimized for online and social sharing of screenshots, allows video capture; CONS: limited advanced feature list.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tip 3. More advanced all-in-one video capture & editing tools for Mac
 
 **Movavi Screen Capture Studio** – PROS: extensive editing tools, helpful interface; CONS: no video zoom or crop options.
@@ -112,6 +104,13 @@ These applications can help you improve your screen captures and recordings with
 
  **Screenium 2.1** – PROS: a full roster of advanced editing tools; CONS: steep learning curve and poor support.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 4.Bonus Tip Wondershare Filmora for Mac
 
 One all-in-one video capture & editing tool for Mac that is getting a lot of attention recently in Wondershare. Users are enthusiastic about this program's blend of advanced features and more versatile and professional performance.
@@ -120,12 +119,6 @@ One all-in-one video capture & editing tool for Mac that is getting a lot of att
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Wondershare Filmora for Mac supports all formats (including .mov) shot on any digital camera, mobile phone, or camcorder. It also has an extensive list of advanced video editing and screen capture tools, including:
 
 • Convenient, easy-to-use interface  
@@ -143,53 +136,18 @@ Another point in its favor: Wondershare Filmora for Mac is one of the least expe
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-beginners-blueprint-for-youtube-success-setting-up-and-making-money/"><u>[New] 2024 Approved  Beginner’s Blueprint for YouTube Success  Setting Up & Making Money</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-practices-for-livestreaming-and-archiving-sports-events/"><u>[New] 2024 Approved  Best Practices for Livestreaming & Archiving Sports Events</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-guide-to-ice-cream-watching-tools/"><u>[New] 2024 Approved  Comprehensive Guide to Ice Cream Watching Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-explore-and-master-group-communication-using-zoom-on-phone/"><u>[New] 2024 Approved  Explore & Master Group Communication  Using Zoom on Phone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamlining-screen-shots-efficiently-documenting-your-roblox-adventures-on-macos/"><u>[New] 2024 Approved  Streamlining Screen Shots  Efficiently Documenting Your Roblox Adventures on MacOS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-step-by-step-screen-recording-in-win10-gaming/"><u>[New] Step-by-Step  Screen Recording in Win10 Gaming</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-essential-steps-to-joining-youtubes-2024-partnership/"><u>[New] The Essential Steps to Joining YouTube's 2024 Partnership</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-champion-phonographs-for-seminar-sessions/"><u>[Updated] 2024 Approved  Champion Phonographs for Seminar Sessions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-crafty-escapades-discover-top-imaginative-venues/"><u>[Updated] 2024 Approved  Crafty Escapades  Discover Top Imaginative Venues</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-deep-dive-ultimate-ice-cream-viewer-analysis/"><u>[Updated] 2024 Approved  Deep Dive  Ultimate Ice Cream Viewer Analysis</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-immediate-screen-shotter-for-chromes/"><u>[Updated] 2024 Approved  Immediate Screen Shotter for Chromes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-50-essential-screen-savers-for-online-video-calls-for-2024/"><u>[Updated] 50 Essential Screen Savers for Online Video Calls for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-best-10-volume-magnifiers-for-windowsmacos-for-2024/"><u>[Updated] Best 10 Volume Magnifiers for Windows/MacOS for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-value-video-meeting-applications-compatible-with-both-windowsmac-for-2024/"><u>[Updated] Best Value Video Meeting Applications  Compatible with Both Windows/MAC for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-boredoms-ender-the-ultimate-list-of-jovial-youtube-content-for-2024/"><u>[Updated] Boredom's Ender  The Ultimate List of Jovial YouTube Content for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-peak-performance-high-end-webcams-for-quality-live-streams-on-twitch-for-2024/"><u>[Updated] Capture Peak Performance  High-End Webcams for Quality Live Streams on Twitch for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-effortless-multimedia-collaboration-streamwork/"><u>[Updated] In 2024, Effortless Multimedia Collaboration  StreamWork</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-elevate-farming-fun-with-these-top-7-stardew-valley-enhancements/"><u>[Updated] In 2024, Elevate Farming Fun with These Top 7 Stardew Valley Enhancements</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-capture-to-curve-an-insider-look-at-editing-and-sharing-360-videos-on-youtube/"><u>[Updated] In 2024, From Capture to Curve  An Insider Look at Editing and Sharing 360° Videos on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-loom-labyrinthine-exploring-the-art-of-recordings/"><u>[Updated] In 2024, Loom Labyrinthine  Exploring the Art of Recordings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-logo-luminosity-enhancing-gaming-channels-with-designs/"><u>[Updated] Logo Luminosity  Enhancing Gaming Channels with Designs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-miniature-asian-houses-innovative-designs-for-mcers-for-2024/"><u>[Updated] Miniature Asian Houses  Innovative Designs for MCers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-precision-in-ppt-recording-a-comprehensive-guide/"><u>[Updated] Precision in PPT Recording  A Comprehensive Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-guide-to-sims-4-gameplay-recording/"><u>[Updated] Step-by-Step Guide to Sims 4 Gameplay Recording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-voice-logger-innovations-for-mac-users-unveiling-the-best-5-apps/"><u>[Updated] Voice Logger Innovations for Mac Users  Unveiling the Best 5 Apps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/wi-fi2024/"><u>【Wi-Fi無し、通信エリア外でも聞ける】2024新着無料ミュージックアプリ - すぐに使える最高の選択</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-smooth-steam-gaming-recordings-guide/"><u>2024 Approved  Smooth Steam Gaming Recordings Guide</u></a></li>
-<li><a href="https://techidaily.com/1723808070986-disable-windows-11-updates-easily/"><u>Disable Windows 11 Updates Easily</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-infinix-smart-8-plus-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Infinix Smart 8 Plus in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-premier-10-note-taking-solutions-of-2024/"><u>Exploring the Premier 10 Note Taking Solutions of 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-asus-rog-phone-8-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Asus ROG Phone 8 Devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-10-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 10 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/junior-jams-and-junction-gaming/"><u>Junior Jams & Junction Gaming</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mac-enhanced-a-dive-into-screenflows-capabilities/"><u>Mac Enhanced  A Dive Into ScreenFlow's Capabilities</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-vsdc-free-video-editor-review-for-2024/"><u>New VSDC Free Video Editor Review for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/textual-brilliance-in-media-exploring-the-best-effects-for-2024/"><u>Textual Brilliance in Media  Exploring the Best Effects for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/zooming-into-clarity-a-blueprint-for-crisp-screenshots-for-2024/"><u>Zooming Into Clarity  A Blueprint for Crisp Screenshots for 2024</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -197,3 +155,23 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-fast-tracking-tiktok-filming-the-ultimate-playbook-for-2024/"><u>[New] Fast-Tracking TikTok Filming The Ultimate Playbook for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-audible-annotators-top-selections-for-offline-text-conversion/"><u>[Updated] Audible Annotators Top Selections for Offline Text Conversion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-harvest-hits-the-next-level-of-virtual-farms-for-2024/"><u>[Updated] Harvest Hits The Next Level of Virtual Farms for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-peering-into-the-future-of-video-capturing-with-apeaksoft/"><u>[Updated] In 2024, Peering Into the Future of Video Capturing with Apeaksoft</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unveiling-the-art-of-recording-discord-conversations-in-real-time/"><u>[Updated] In 2024, Unveiling the Art of Recording Discord Conversations in Real-Time</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-virtual-journeys-ultimate-listing-of-10-free-mmorpg-games/"><u>[Updated] In 2024, Virtual Journey's Ultimate Listing of 10 Free MMORPG Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-skype-call-capture-guide-pcmac-edition-for-2024/"><u>[Updated] Skype Call Capture Guide PC/Mac Edition for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dialogos-para-colores-en-espanol/"><u>Diálogos Para Colores en Español</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-systems-that-blend-the-past-with-now/"><u>Game Systems That Blend the Past with Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-oppo-a58-4g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Oppo A58 4G Pattern Lock Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-mix-fold-3-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi Mix Fold 3 Is Unlocked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-anthropics-prompt-repository/"><u>Leveraging Anthropic's Prompt Repository</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-device-specific-zoom-configurations-for-2024/"><u>Navigating Device-Specific Zoom Configurations for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/podcasters-playground-unleashing-full-potential-in-video-and-audio-recording-on-zoom/"><u>Podcaster's Playground Unleashing Full Potential in Video and Audio Recording on Zoom</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/splitcam-dissection-top-in-the-video-realm-in-2024/"><u>SplitCam Dissection Top in the Video Realm, In 2024</u></a></li>
+</ul></div>
+

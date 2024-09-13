@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tech Tips for Free TV Show Recording on Windows"
-date: 2024-09-07T23:01:08.389Z
-updated: 2024-09-08T23:01:08.389Z
+date: 2024-09-09T17:08:40.704Z
+updated: 2024-09-13T16:23:47.697Z
 tags: 
   - screen-recording
   - ai video
@@ -32,17 +32,12 @@ All versions of Windows, since Windows 7, feature a built-in video recording sof
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -61,17 +56,12 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## How to record TV shows on Windows 7/8 for Free
 
 Which software you are going to utilize for the purpose of recording a TV show from a computer, depends on the version of the Windows OS you have installed on your PC. If you have a Windows 7 or 8, then the easiest solution, is the Windows Media Center, although Windows 8 users must download this software because it is no longer a part of the built-in software package that comes with the Windows 8 OS.
@@ -85,11 +75,18 @@ Locate the Windows Media Center on your computer's hard drive. Chances are that 
 ![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
 
 #### Step 3
@@ -99,6 +96,19 @@ Click on the Guide feature, and browse through the TV program in order to select
 #### Step 4
 
 On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to record live TV on Windows 10 for free
 
@@ -115,6 +125,13 @@ After you've launched the program, find the Game DVR icon that is located in the
 #### Step 3
 
 Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Free TV Show Recording Software on Windows
 
@@ -143,66 +160,17 @@ However, NextPVR also works as a standalone program, and in order to start recor
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-master-the-art-of-pc-game-memories-with-these-6-steps/"><u>[New] 2024 Approved  Master the Art of PC Game Memories with These 6 Steps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-quick-and-comfortable-game-capture-tips-for-rainbow-six-siege/"><u>[New] 2024 Approved  Quick & Comfortable Game Capture Tips for Rainbow Six Siege</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-blending-beats-with-video-footage-on-vimeo-platform-for-2024/"><u>[New] Blending Beats with Video Footage on Vimeo Platform for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-examination-assessing-gecatas-game-logger/"><u>[New] Comprehensive Examination  Assessing Gecata's Game Logger</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-flashfreeze-video-cut-out-instruction-for-2024/"><u>[New] FlashFreeze Video Cut-Out Instruction for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1716068982474-new-in-2024-discovering-androids-premier-mobas-ranked/"><u>[New] In 2024, Discovering Android's Premier MOBAs Ranked!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-du-recorder-features-and-review/"><u>[New] In 2024, Du Recorder Features and Review</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-engaging-users-with-instagrams-interactive-survey-feature/"><u>[New] In 2024, Engaging Users with Instagram's Interactive Survey Feature</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-massive-viewership-triumphs-youtubes-greatest-hits/"><u>[New] In 2024, Massive Viewership Triumphs  YouTube's Greatest Hits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-streamlining-presentations-webcam-screen-capture-techniques/"><u>[New] In 2024, Streamlining Presentations  Webcam Screen Capture Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unleash-creativity-personalizing-your-google-meet-interface/"><u>[New] In 2024, Unleash Creativity  Personalizing Your Google Meet Interface</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-masterclass-in-free-videochats-and-collaborative-screensharing-for-2024/"><u>[New] Masterclass in FREE Videochats & Collaborative Screensharing for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pinnacle-picks-best-online-hd-video-recorder-tools-for-2024/"><u>[New] Pinnacle Picks  Best Online HD Video Recorder Tools for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-precision-adjustments-for-premium-zoom-audio-for-2024/"><u>[New] Precision Adjustments for Premium Zoom Audio for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-premium-vr-headset-picks-for-uavs/"><u>[New] Premium VR Headset Picks for UAVs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-live-stream-audio-effective-recording-methods-for-the-digital-age/"><u>[Updated] 2024 Approved  Live Stream Audio  Effective Recording Methods for the Digital Age</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-undead-uprising-top-8-unleashed-in-video-game-realm/"><u>[Updated] 2024 Approved  Undead Uprising - Top 8 Unleashed in Video Game Realm</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-5-simple-ways-to-save-your-youtube-content-for-2024/"><u>[Updated] 5 Simple Ways to Save Your YouTube Content for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cross-platform-movie-recording-pc-mac-and-mobile/"><u>[Updated] Cross-Platform Movie Recording  PC, Mac & Mobile</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-techniques-for-exceptional-podcast-recordings-via-zoom-for-2024/"><u>[Updated] Cutting Edge Techniques for Exceptional Podcast Recordings via Zoom for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-e-learning-hubs-an-alternate-to-udemys-world-for-2024/"><u>[Updated] Elite E-Learning Hubs  An Alternate to Udemy's World for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-a-concise-guide-to-starting-an-inclusive-chat-room-in-skype-accessible-on-different-operating-systems/"><u>[Updated] In 2024, A Concise Guide to Starting an Inclusive Chat Room in Skype, Accessible on Different Operating Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-datadeliverer-analyst-take/"><u>[Updated] In 2024, DataDeliverer Analyst Take</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-masterclass-in-cinematic-viewing-youtube-edition/"><u>[Updated] In 2024, Masterclass in Cinematic Viewing - YouTube Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-x-record-pc-suite-release/"><u>[Updated] In 2024, X-Record PC Suite Release</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-studio-streamlining-your-professional-skype-broadcasts-for-2024/"><u>[Updated] OBS Studio  Streamlining Your Professional Skype Broadcasts for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-live-broadcasting-on-fb-tips-for-success/"><u>2024 Approved  Live Broadcasting on FB  Tips for Success</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pinnacle-ps2-simulators-for-ios-systems/"><u>2024 Approved  Pinnacle PS2 Simulators for iOS Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unlock-productivity-selecting-the-top-5-mac-snippers/"><u>2024 Approved  Unlock Productivity  Selecting the Top 5 Mac Snippers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-webcam-safety-starts-here-the-10-best-shields/"><u>2024 Approved  Webcam Safety Starts Here - The 10 Best Shields</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/audio-enabled-mac-video-recorder/"><u>Audio-Enabled Mac Video Recorder</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/creating-a-virtual-office-space-with-google-meet/"><u>Creating a Virtual Office Space with Google Meet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>How to Minimize Stress in iPad Screen Recordings? Here's a Way</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-asus-rog-phone-8-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Asus ROG Phone 8 Pro?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-advanced-mac-studio-for-crystal-clear-captures-and-sounds/"><u>In 2024, Advanced Mac Studio for Crystal Clear Captures & Sounds</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-nubia-z50s-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Nubia Z50S Pro Phone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-great-livestream-showdown-streamlabs-vs-obs-head-to-head/"><u>In 2024, The Great Livestream Showdown  Streamlabs Vs. OBS Head-to-Head</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/live-recording-simplified-logitech-webcam-setup-steps/"><u>Live Recording Simplified  Logitech Webcam Setup Steps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/original-visual-storytelling-appraisal-and-substitutions/"><u>Original Visual Storytelling Appraisal & Substitutions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/roku-transforms-your-viewing-space-with-advanced-soundscape/"><u>Roku Transforms Your Viewing Space with Advanced Soundscape</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-guide-to-high-quality-zoom-recordings-for-podcasters-for-2024/"><u>Step-by-Step Guide to High-Quality Zoom Recordings for Podcasters for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/synchronizing-realism-advanced-green-screen-applications-for-viewers-for-2024/"><u>Synchronizing Realism  Advanced Green Screen Applications for Viewers for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essential-list-top-7-ai-for-enhanced-talks/"><u>The Essential List: Top 7 AI for Enhanced Talks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-10-mobile-mobas-for-android-gamers/"><u>Top 10 Mobile MOBAs for Android Gamers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/transform-your-devices-display-into-a-high-quality-record-for-2024/"><u>Transform Your Device's Display Into a High-Quality Record for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-innovative-online-audio-cutter-utilities-the-leading-tools/"><u>Updated 2024 Approved Innovative Online Audio Cutter Utilities – The Leading Tools</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -210,3 +178,20 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-entertaining-videoland-audit/"><u>[New] 2024 Approved Entertaining Videoland Audit</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-beam-bright-navigating-the-world-of-snapchat-gifs/"><u>[New] Beam Bright Navigating the World of Snapchat GIFS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-breakthrough-techniques-for-streaming-success-obs-studio-android/"><u>[New] Breakthrough Techniques for Streaming Success OBS Studio (Android)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-basics-of-weaving-a-narrative-thread/"><u>2024 Approved Basics of Weaving a Narrative Thread</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-visuals-by-attaching-youtube-music-tracks/"><u>Elevating Visuals by Attaching YouTube Music Tracks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-chatgpts-privacy-concerns/"><u>Examining ChatGPT's Privacy Concerns</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/illuminate-your-recording-setup-how-to-prevent-a-dark-screen-on-obs-for-2024/"><u>Illuminate Your Recording Setup How to Prevent a Dark Screen on OBS for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-hasty-handlings-of-slideshow-documentation/"><u>In 2024, Hasty Handlings of Slideshow Documentation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-key-tactics-for-identifying-potential-youtube-co-stars/"><u>In 2024, Key Tactics for Identifying Potential YouTube Co-Stars</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-revolutionary-appeal-of-apples-m1-max-clip/"><u>The Revolutionary Appeal of Apple's M1 Max Clip</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unifying-your-visuals-how-to-color-match-video-clips-in-powerdirector-for-2024/"><u>Unifying Your Visuals How to Color Match Video Clips in PowerDirector for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unlock-retro-classics-on-android-choose-the-best-ps2-emulators/"><u>Unlock Retro Classics on Android – Choose the Best PS2 Emulators</u></a></li>
+</ul></div>
+

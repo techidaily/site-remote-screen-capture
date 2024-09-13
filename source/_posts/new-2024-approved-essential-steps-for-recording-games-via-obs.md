@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Essential Steps for Recording Games via OBS\""
-date: 2024-07-21T10:19:40.409Z
-updated: 2024-07-22T10:19:40.409Z
+date: 2024-09-07T17:09:17.083Z
+updated: 2024-09-13T16:03:57.541Z
 tags: 
   - screen-recording
   - ai video
@@ -27,9 +27,6 @@ Part 2. [How to Record Gameplay with OBS](#part2)
 
 Part 3. [Best OBS Alternatives to Record Games](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. Best OBS Settings for Game Recording
 
 There is no better free alternative to OBS when it comes to game recording. Even though it is completely free, there is no dearth of standard and advanced settings for gamers to record and stream their gameplay like professionals. Here are some of the important settings on OBS Studio how to record games properly.
@@ -45,6 +42,13 @@ There is no better free alternative to OBS when it comes to game recording. Even
 **Hotkeys:** Hotkeys are keyboard shortcuts that you have to press for quick actions such as start recording, pause and stop recording. You can mute audio, turn off video capture device momentarily, switch between scenes, take screenshots, and much more. Go to Hotkeys tab and set the hotkeys for instant action without using your mouse.
 
 **Advanced:** There are various advanced configurations and parameters available under Advanced settings. You can decide process priority and set it to high for faster processing. You can select video renderer and color format which are significant. If you are live streaming and you want to stream with a delay, you can set it here.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Record Gameplay with OBS
 
@@ -67,8 +71,18 @@ Step 7: Go back to your game and press the Hotkey to start recording and start p
 We suggest you follow the above-mentioned steps as well for your query on how to record switch gameplay with OBS.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3\. Best OBS Alternatives to Record Games
 
 If you are not comfortable with OBS and you are looking for a professional gameplay recording with a proper video editor, we recommend [Wondershare Filmora Recorder](https://tools.techidaily.com/wondershare/filmora/download/). You can record gameplay with webcam and mic so that you can showcase your gaming screen along with your reactions and commentary. In general, you cannot upload your gameplay straight away on online platforms. You have to edit out the boring parts and add some effects from better aesthetic value.
@@ -87,31 +101,18 @@ Step 1: Launch Filmora and click on New Project option.
 
 Step 2: Go to Record > Record PC Screen option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 3: Select the recording screen size which is full screen for recording any game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
 Step 4: Click on the Record button and the recording of the gameplay will begin. You will get a few seconds before actual recording starts in the background.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
 
 Step 5: Press F9 on your keyboard to stop recording. You can export the video after the required editing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![edit and share lol game filmora](https://images.wondershare.com/filmora/article-images/lol-video-filmora.jpg)
 
 ## The Bottom Line
@@ -138,91 +139,13 @@ There is no better free alternative to OBS when it comes to game recording. Even
 
 **Advanced:** There are various advanced configurations and parameters available under Advanced settings. You can decide process priority and set it to high for faster processing. You can select video renderer and color format which are significant. If you are live streaming and you want to stream with a delay, you can set it here.
 
-## Part 2\. How to Record Gameplay with OBS
-
-Even though OBS is slightly complicated to use but it is very effective for live streaming and recording gameplay. The software is available for Windows, macOS and Linux. You need to download the software from the official website and install it. Here are the steps you need on how to record switch gameplay with OBS.
-
-Step 1: Launch OBS on your computer.
-
-Step 2: On Sources tab, click on “+” button and select Game Capture.
-
-Step 3: Give it a name and click on OK button.
-
-Step 4: From Mode, select Capture Any Fullscreen Application.
-
-Step 5: Click on OK button and the Game Capture will appear under Sources.
-
-Step 6: Open your game on full screen and come back to OBS and you will see the game on the window.
-
-Step 7: Go back to your game and press the Hotkey to start recording and start playing. Otherwise, you can click on Start Recording button on OBS and go back to game and start playing and the recording will be going on in the background.
-
-We suggest you follow the above-mentioned steps as well for your query on how to record switch gameplay with OBS.
-
-## Part 3\. Best OBS Alternatives to Record Games
-
-If you are not comfortable with OBS and you are looking for a professional gameplay recording with a proper video editor, we recommend [Wondershare Filmora Recorder](https://tools.techidaily.com/wondershare/filmora/download/). You can record gameplay with webcam and mic so that you can showcase your gaming screen along with your reactions and commentary. In general, you cannot upload your gameplay straight away on online platforms. You have to edit out the boring parts and add some effects from better aesthetic value.
-
-Filmora comes with a built-in video editor where you can trim and crop, add audio and video effects, change green screen background, add texts and logos and much more. Naturally, such an edited video will get traction immediately over any straightforward gameplay recording. The first step is to download and install Wondershare Filmora on your computer. Here are the steps to follow to record gameplay with Filmora.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Launch Filmora and click on New Project option.
-
-Step 2: Go to Record > Record PC Screen option.
-
-![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
-
-Step 3: Select the recording screen size which is full screen for recording any game.
-
-![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
-
-Step 4: Click on the Record button and the recording of the gameplay will begin. You will get a few seconds before actual recording starts in the background.
-
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
 
-Step 5: Press F9 on your keyboard to stop recording. You can export the video after the required editing.
-
-![edit and share lol game filmora](https://images.wondershare.com/filmora/article-images/lol-video-filmora.jpg)
-
-## The Bottom Line
-
-We have answered all the queries on how to record gameplay with OBS. OBS is the most preferred desktop software application for live streaming and recording gameplay. However, some gamers find it difficult to use and there are some reports of OBS slowing down performance. As an alternative, we recommend Wondershare Filmora for recording your gameplay with webcam and editing the recorded gameplay for the professional outlook.
-
-Part 2. [How to Record Gameplay with OBS](#part2)
-
-Part 3. [Best OBS Alternatives to Record Games](#part3)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
-## Part 1\. Best OBS Settings for Game Recording
-
-There is no better free alternative to OBS when it comes to game recording. Even though it is completely free, there is no dearth of standard and advanced settings for gamers to record and stream their gameplay like professionals. Here are some of the important settings on OBS Studio how to record games properly.
-
-**Stream:** Under Stream Settings, you can live stream your gameplay. You have to choose an online platform like Twitch, YouTube, Facebook and connect your account. Once the account of the platform gets connected with OBS, you can live stream your gameplay and all your followers on that online platform can witness your gameplay live.
-
-**Output:**Under Output Settings, you can configure your streaming and recording parameters. Focusing mainly on recording, you can set the path to save the recorded videos, recording quality as required, recording file format, encoders and much more. You can also set the output mode to Advanced to configure advanced audio settings and enable replay buffer option.
-
-**Video:** Under Video settings, you get to select base resolution as well as output resolution. The higher the resolution, the larger will be the file size of the recorded video. You can also select FPS value which is extremely important from gameplay recording perspectives.
-
-**Audio:** When you are talking about how to record ps4 gameplay with OBS, you have to pay equal attention to recording audio from the game as well as your commentary. Under Audio settings, you can set sample rate, channels, desktop audio, mic and auxiliary audio and likewise.
-
-**Hotkeys:** Hotkeys are keyboard shortcuts that you have to press for quick actions such as start recording, pause and stop recording. You can mute audio, turn off video capture device momentarily, switch between scenes, take screenshots, and much more. Go to Hotkeys tab and set the hotkeys for instant action without using your mouse.
-
-**Advanced:** There are various advanced configurations and parameters available under Advanced settings. You can decide process priority and set it to high for faster processing. You can select video renderer and color format which are significant. If you are live streaming and you want to stream with a delay, you can set it here.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Part 2\. How to Record Gameplay with OBS
 
 Even though OBS is slightly complicated to use but it is very effective for live streaming and recording gameplay. The software is available for Windows, macOS and Linux. You need to download the software from the official website and install it. Here are the steps you need on how to record switch gameplay with OBS.
@@ -244,8 +167,12 @@ Step 7: Go back to your game and press the Hotkey to start recording and start p
 We suggest you follow the above-mentioned steps as well for your query on how to record switch gameplay with OBS.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3\. Best OBS Alternatives to Record Games
 
 If you are not comfortable with OBS and you are looking for a professional gameplay recording with a proper video editor, we recommend [Wondershare Filmora Recorder](https://tools.techidaily.com/wondershare/filmora/download/). You can record gameplay with webcam and mic so that you can showcase your gaming screen along with your reactions and commentary. In general, you cannot upload your gameplay straight away on online platforms. You have to edit out the boring parts and add some effects from better aesthetic value.
@@ -266,6 +193,19 @@ Step 2: Go to Record > Record PC Screen option.
 
 ![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Select the recording screen size which is full screen for recording any game.
 
 ![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
@@ -276,10 +216,14 @@ Step 4: Click on the Record button and the recording of the gameplay will begin.
 
 Step 5: Press F9 on your keyboard to stop recording. You can export the video after the required editing.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit and share lol game filmora](https://images.wondershare.com/filmora/article-images/lol-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -305,6 +249,13 @@ There is no better free alternative to OBS when it comes to game recording. Even
 
 **Advanced:** There are various advanced configurations and parameters available under Advanced settings. You can decide process priority and set it to high for faster processing. You can select video renderer and color format which are significant. If you are live streaming and you want to stream with a delay, you can set it here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to Record Gameplay with OBS
 
 Even though OBS is slightly complicated to use but it is very effective for live streaming and recording gameplay. The software is available for Windows, macOS and Linux. You need to download the software from the official website and install it. Here are the steps you need on how to record switch gameplay with OBS.
@@ -324,6 +275,13 @@ Step 6: Open your game on full screen and come back to OBS and you will see the 
 Step 7: Go back to your game and press the Hotkey to start recording and start playing. Otherwise, you can click on Start Recording button on OBS and go back to game and start playing and the recording will be going on in the background.
 
 We suggest you follow the above-mentioned steps as well for your query on how to record switch gameplay with OBS.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Best OBS Alternatives to Record Games
 
@@ -349,19 +307,144 @@ Step 3: Select the recording screen size which is full screen for recording any 
 
 ![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Click on the Record button and the recording of the gameplay will begin. You will get a few seconds before actual recording starts in the background.
 
+![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Step 5: Press F9 on your keyboard to stop recording. You can export the video after the required editing.
+
+![edit and share lol game filmora](https://images.wondershare.com/filmora/article-images/lol-video-filmora.jpg)
+
+## The Bottom Line
+
+We have answered all the queries on how to record gameplay with OBS. OBS is the most preferred desktop software application for live streaming and recording gameplay. However, some gamers find it difficult to use and there are some reports of OBS slowing down performance. As an alternative, we recommend Wondershare Filmora for recording your gameplay with webcam and editing the recorded gameplay for the professional outlook.
+
+Part 2. [How to Record Gameplay with OBS](#part2)
+
+Part 3. [Best OBS Alternatives to Record Games](#part3)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 1\. Best OBS Settings for Game Recording
+
+There is no better free alternative to OBS when it comes to game recording. Even though it is completely free, there is no dearth of standard and advanced settings for gamers to record and stream their gameplay like professionals. Here are some of the important settings on OBS Studio how to record games properly.
+
+**Stream:** Under Stream Settings, you can live stream your gameplay. You have to choose an online platform like Twitch, YouTube, Facebook and connect your account. Once the account of the platform gets connected with OBS, you can live stream your gameplay and all your followers on that online platform can witness your gameplay live.
+
+**Output:**Under Output Settings, you can configure your streaming and recording parameters. Focusing mainly on recording, you can set the path to save the recorded videos, recording quality as required, recording file format, encoders and much more. You can also set the output mode to Advanced to configure advanced audio settings and enable replay buffer option.
+
+**Video:** Under Video settings, you get to select base resolution as well as output resolution. The higher the resolution, the larger will be the file size of the recorded video. You can also select FPS value which is extremely important from gameplay recording perspectives.
+
+**Audio:** When you are talking about how to record ps4 gameplay with OBS, you have to pay equal attention to recording audio from the game as well as your commentary. Under Audio settings, you can set sample rate, channels, desktop audio, mic and auxiliary audio and likewise.
+
+**Hotkeys:** Hotkeys are keyboard shortcuts that you have to press for quick actions such as start recording, pause and stop recording. You can mute audio, turn off video capture device momentarily, switch between scenes, take screenshots, and much more. Go to Hotkeys tab and set the hotkeys for instant action without using your mouse.
+
+**Advanced:** There are various advanced configurations and parameters available under Advanced settings. You can decide process priority and set it to high for faster processing. You can select video renderer and color format which are significant. If you are live streaming and you want to stream with a delay, you can set it here.
+
+## Part 2\. How to Record Gameplay with OBS
+
+Even though OBS is slightly complicated to use but it is very effective for live streaming and recording gameplay. The software is available for Windows, macOS and Linux. You need to download the software from the official website and install it. Here are the steps you need on how to record switch gameplay with OBS.
+
+Step 1: Launch OBS on your computer.
+
+Step 2: On Sources tab, click on “+” button and select Game Capture.
+
+Step 3: Give it a name and click on OK button.
+
+Step 4: From Mode, select Capture Any Fullscreen Application.
+
+Step 5: Click on OK button and the Game Capture will appear under Sources.
+
+Step 6: Open your game on full screen and come back to OBS and you will see the game on the window.
+
+Step 7: Go back to your game and press the Hotkey to start recording and start playing. Otherwise, you can click on Start Recording button on OBS and go back to game and start playing and the recording will be going on in the background.
+
+We suggest you follow the above-mentioned steps as well for your query on how to record switch gameplay with OBS.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 3\. Best OBS Alternatives to Record Games
+
+If you are not comfortable with OBS and you are looking for a professional gameplay recording with a proper video editor, we recommend [Wondershare Filmora Recorder](https://tools.techidaily.com/wondershare/filmora/download/). You can record gameplay with webcam and mic so that you can showcase your gaming screen along with your reactions and commentary. In general, you cannot upload your gameplay straight away on online platforms. You have to edit out the boring parts and add some effects from better aesthetic value.
+
+Filmora comes with a built-in video editor where you can trim and crop, add audio and video effects, change green screen background, add texts and logos and much more. Naturally, such an edited video will get traction immediately over any straightforward gameplay recording. The first step is to download and install Wondershare Filmora on your computer. Here are the steps to follow to record gameplay with Filmora.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Launch Filmora and click on New Project option.
+
+Step 2: Go to Record > Record PC Screen option.
+
+![launch filmora](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+Step 3: Select the recording screen size which is full screen for recording any game.
+
+![filmora recording settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 4: Click on the Record button and the recording of the gameplay will begin. You will get a few seconds before actual recording starts in the background.
+
 ![recording lol games](https://images.wondershare.com/filmora/article-images/recording-lol-game-filmora.jpg)
 
 Step 5: Press F9 on your keyboard to stop recording. You can export the video after the required editing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![edit and share lol game filmora](https://images.wondershare.com/filmora/article-images/lol-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -389,8 +472,20 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-guide-to-perfecting-facetime-call-screen-captures/"><u>[New] Comprehensive Guide to Perfecting FaceTime Call Screen Captures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-constructing-captivating-valorant-youtube-thumbnails-for-2024/"><u>[New] Constructing Captivating Valorant YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-supreme-audiovisual-hints-pack/"><u>[New] Supreme Audiovisual Hints Pack</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unlocking-the-potential-of-filters-and-masks-for-online-conferencing/"><u>[Updated] 2024 Approved Unlocking the Potential of Filters and Masks for Online Conferencing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-datadeliverer-analyst-take-for-2024/"><u>[Updated] DataDeliverer Analyst Take for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-preserving-the-pulse-of-internet-radio-waves-for-2024/"><u>[Updated] Preserving the Pulse of Internet Radio Waves for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unlocking-youtube-writers-royalties-with-ad-driven-earnings-cpm/"><u>[Updated] Unlocking YouTube' Writers' Royalties with Ad-Driven Earnings (CPM)</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-itel-s23-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Itel S23 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-14-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 14 Plus without Apple ID?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-ultimate-selection-of-apps-to-tame-your-feed/"><u>The Ultimate Selection of Apps to Tame Your Feed</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-zte-nubia-z60-ultra-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on ZTE Nubia Z60 Ultra without backup.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-picks-for-the-ultimate-offline-game-experience-on-android-for-2024/"><u>Top Picks for the Ultimate Offline Game Experience on Android for 2024</u></a></li>
+</ul></div>
 
