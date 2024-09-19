@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize the Save Spot of Mac Images"
-date: 2024-09-06T18:17:16.086Z
-updated: 2024-09-13T17:33:33.679Z
+date: 2024-09-11T16:34:07.724Z
+updated: 2024-09-19T05:56:05.056Z
 tags: 
   - screen-recording
   - ai video
@@ -31,19 +31,6 @@ Here's how you can change the location where the screenshots you take using the 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -61,38 +48,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -112,19 +72,6 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -136,19 +83,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -165,20 +99,23 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-critical-analysis-the-best-skype-recorders-of-2023/"><u>[New] In 2024, Critical Analysis The Best Skype Recorders of 2023</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-precision-capturing-for-your-ps3-gaming-adventures/"><u>[New] In 2024, Precision Capturing for Your PS3 Gaming Adventures</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-elevate-your-brand-with-these-biz-channel-standouts/"><u>[Updated] In 2024, Elevate Your Brand with These Biz Channel Standouts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-how-to-smoothly-incorporate-snap-camera-into-your-meet-calls/"><u>[Updated] In 2024, How to Smoothly Incorporate Snap Camera Into Your Meet Calls</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-durecorder-handbook-insights-and-evaluation/"><u>[Updated] Ultimate DuRecorder Handbook Insights & Evaluation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-5-best-gaming-keyboards-under-100/"><u>2024 Approved The 5 Best Gaming Keyboards Under 100$</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/how-can-i-amplify-my-notebooks-functionality-with-new-ram/"><u>How Can I Amplify My Notebook’s Functionality with New RAM?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos/"><u>In 2024, Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/introducing-the-stunning-upcoming-intel-motherboard-gigabytes-z790-aorus-xtreme-x-with-gold-sockets-and-enormous-heatsinks/"><u>Introducing the Stunning Upcoming Intel Motherboard - Gigabyte's Z790 Aorus Xtreme X with Gold Sockets and Enormous Heatsinks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/leading-tools-for-clear-uncompromised-4k-recordings-for-2024/"><u>Leading Tools for Clear, Uncompromised 4K Recordings for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-windows-8-simple-steps-for-opening-the-control-panel-with-ease/"><u>Mastering Windows 8: Simple Steps for Opening the Control Panel with Ease</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mediatek-vcom-usb-drive-software-speedy-installation-for-enhanced-performance/"><u>MediaTek VCOM USB Drive Software: Speedy Installation for Enhanced Performance</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-infinix-note-30-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Infinix Note 30 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/strategies-for-optimal-ram-in-the-world-of-minecraft-for-2024/"><u>Strategies for Optimal RAM in the World of Minecraft for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-pro-vs-express-which-video-editing-software-reigns-supreme/"><u>Updated 2024 Approved Pro Vs. Express Which Video Editing Software Reigns Supreme?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-crop-companions-best-farming-games-to-gather-with-buddies-for-2024/"><u>[New] Crop Companions Best Farming Games to Gather with Buddies for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-documenting-digital-dialogues/"><u>[New] Documenting Digital Dialogues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-perfectly-emulated-sony-ps3-titles-top-5-windows-tools/"><u>[New] In 2024, Perfectly Emulated Sony PS3 Titles Top 5 Windows Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-seamless-instagram-to-mp4-conversion-on-any-operating-system-for-2024/"><u>[New] Seamless Instagram to MP4 Conversion on Any Operating System for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-visualizer-screen-recorder-3000/"><u>[Updated] In 2024, Visualizer Screen Recorder 3000</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inexpensive-pc-playback-solutions-for-2024/"><u>[Updated] Inexpensive PC Playback Solutions for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-style-meets-function-essential-sj4000-gear-selection/"><u>[Updated] Style Meets Function Essential SJ4000 Gear Selection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-techniques-to-achieve-consistent-frame-rates-in-obs-studio/"><u>[Updated] Techniques to Achieve Consistent Frame Rates in OBS Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultra-clarity-the-new-era-of-hd-monitors-envy-27/"><u>2024 Approved Ultra Clarity The New Era of HD Monitors - Envy 27</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-easy-screencasting-techniques-systematic-guidebook/"><u>In 2024, Easy Screencasting Techniques Systematic Guidebook</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-qr-code-scanner-issues-try-these-8-quick-fixes-for-immediate-results/"><u>IPhone QR Code Scanner Issues? Try These 8 Quick Fixes for Immediate Results</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

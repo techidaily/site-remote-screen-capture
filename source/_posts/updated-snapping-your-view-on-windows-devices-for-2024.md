@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Snapping Your View on Windows Devices for 2024"
-date: 2024-08-25T01:52:02.331Z
-updated: 2024-08-26T01:52:02.331Z
+date: 2024-09-13T02:56:35.234Z
+updated: 2024-09-19T06:09:58.392Z
 tags: 
   - screen-recording
   - ai video
@@ -82,25 +82,16 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
@@ -115,9 +106,6 @@ You can launch the app from the Start menu or by typing its name in the Search C
 
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
 #### Step 2: Annotating and Saving the Screenshots
@@ -127,8 +115,12 @@ Once you've taken the screenshot you can use the Pen and Highlighter features to
 The app lets you Save the screenshot in PNG, JPEG, GIF or MHTML file formats and it also lets you email the pictures to your friends and colleagues. You can choose the folder where the file will be saved, and if you are not happy with the result you can click on the New icon to take another screenshot.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 4: Using the Share Charm to Take Screenshots on Windows 8.1
 
 Charms were first introduced on Windows 8, but trying to snap a screenshot with the Share Charm on this version of the OS won't produce any results since the screenshot option is only available on the Windows 8.1\. You can access the Charms Bar that offers Search, Share, Start, Devices and Settings charms by either pressing the Windows+C keys or by moving the mouse cursor down from the upper right corner of the screen.
@@ -142,11 +134,28 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Take a Quick Screenshots with Print Screen
 
@@ -188,50 +197,29 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expert-mac-graphic-collector/"><u>[New] 2024 Approved  Expert Mac Graphic Collector</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ps4-live-recording-made-simple-with-obs-tutorial/"><u>[New] 2024 Approved  PS4 Live Recording Made Simple with OBS Tutorial</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-a-comprehensive-list-of-top-10-video-communication-apps/"><u>[New] A Comprehensive List of Top 10 Video Communication Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-apeaksoft-2023-screens-recording-insights-for-2024/"><u>[New] Apeaksoft 2023 Screens Recording Insights for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-countdown-creation-in-obs-step-by-step-guide-for-2024/"><u>[New] Countdown Creation in OBS  Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-from-screen-to-disk-techniques-for-effortless-internet-show-recording/"><u>[New] From Screen To Disk  Techniques for Effortless Internet Show Recording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ideal-fullscreen-recording-software-roundup-pcmac-edition-for-2024/"><u>[New] Ideal Fullscreen Recording Software Roundup  PC/Mac Edition for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-streamlined-strategies-for-gaming-screen-recording/"><u>[New] In 2024, Streamlined Strategies for Gaming Screen-Recording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mac-enhancement-synchronized-screen-plus-audio-tracking-for-2024/"><u>[New] Mac Enhancement  Synchronized Screen + Audio Tracking for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-7-apps-altering-vocal-soundtracks-for-2024/"><u>[New] Top 7 Apps Altering Vocal Soundtracks for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-digital-sound-capturers-for-2024/"><u>[New] Top Digital Sound Capturers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-10plus-tools-to-record-your-pc-screen-seamlessly/"><u>[Updated] 2024 Approved  Top 10+ Tools to Record Your PC Screen Seamlessly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-studio-ultimate-professional-record-for-2024/"><u>[Updated] Capture Studio  Ultimate Professional Record for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-how-android-enables-seamless-screen-capturing/"><u>[Updated] How Android Enables Seamless Screen Capturing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-master-gameplay-filming-in-sims-4/"><u>[Updated] How to Master Gameplay Filming in Sims 4</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-core-concepts-of-story-making/"><u>[Updated] In 2024, Core Concepts of Story Making</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-innovative-approaches-to-capturing-skype-calls-on-obs/"><u>[Updated] In 2024, Innovative Approaches to Capturing Skype Calls on OBS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ps4-live-broadcasting-101-with-obs-recording-tips/"><u>[Updated] In 2024, PS4 Live Broadcasting 101 with OBS Recording Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-managing-bitrate-in-obs-broadcasts-for-2024/"><u>[Updated] Managing Bitrate in OBS Broadcasts for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-premier-eco-cinema-tech-usage-and-mastery-for-2024/"><u>[Updated] Premier Eco-Cinema Tech  Usage and Mastery for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-shattering-synthetic-statistics-on-youtube/"><u>[Updated] Shattering Synthetic Statistics on YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-solo-spotlight-crafting-a-chart-topping-podcast-for-2024/"><u>[Updated] Solo Spotlight  Crafting a Chart-Topping Podcast for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-5-ios-platforms-for-experiencing-classic-psp-games/"><u>[Updated] Top 5 iOS Platforms for Experiencing Classic PSP Games</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-guide-to-choosing-a-screen-recorder-tool/"><u>[Updated] Ultimate Guide to Choosing a Screen Recorder Tool</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-easy-plot-development-basics/"><u>2024 Approved  Easy Plot Development Basics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obs-meets-shadowcast/"><u>2024 Approved  OBS Meets ShadowCast</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-voice-logging-devices-scrutiny/"><u>2024 Approved  Voice Logging Devices Scrutiny</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-y27s-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo Y27s to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/examining-splitcams-video-quality-against-competitors-for-2024/"><u>Examining SplitCam's Video Quality Against Competitors for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-enhance-browsing-with-chromes-pip-technique/"><u>In 2024, Enhance Browsing with Chrome’s PIP Technique</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-obs-adjustments-for-inexpensive-machines/"><u>In 2024, Essential OBS Adjustments for Inexpensive Machines</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-ways-to-log-ps3-competitive-sessions/"><u>In 2024, Innovative Ways to Log PS3 Competitive Sessions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-xs-max-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone XS Max Before the Plan Expires</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-realme-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Realme has been deleted</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/smoothly-blending-bio-and-linktree-on-your-tiktok-platform/"><u>Smoothly Blending Bio & Linktree on Your TikTok Platform</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-art-of-precision-introducing-an-obs-countdown-timer/"><u>The Art of Precision  Introducing an OBS Countdown Timer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/windows-screencast-champions-revealed/"><u>Windows Screencast Champions Revealed</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-guide-to-the-best-money-estimation-apps-on-tiktok-for-2024/"><u>[New] Guide to the Best Money Estimation Apps on TikTok for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-lenovos-easy-pathway-to-screen-recording/"><u>[New] In 2024, Lenovo's Easy Pathway to Screen Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones/"><u>[New] Mastering Google Meet Easy Backdrop Swap for PC & Phones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-clear-and-compelling-1080p-streaming-on-the-social-network-for-2024/"><u>[Updated] Clear and Compelling 1080P Streaming on the Social Network for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-step-by-step-guide-to-obs-streaming-success/"><u>[Updated] In 2024, The Step-by-Step Guide to OBS Streaming Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-mac-live-streaming-options-ranked-1-5/"><u>[Updated] Innovative Mac Live Streaming Options Ranked #1-5</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-lightweightapp-no-trouble-recording-windows-10-for-2024/"><u>[Updated] LightweightApp - No-Trouble Recording, Windows 10 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-simplify-your-audio-life-master-vrecorder-installs-for-2024/"><u>[Updated] Simplify Your Audio Life - Master VRecorder Installs for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-pro-gamers-free-screen-capture-tools-selection-list/"><u>In 2024, Pro Gamers' Free Screen Capture Tools Selection List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-3-nintendo-switch-emulators-free-to-download/"><u>In 2024, Top 3 Nintendo Switch Emulators Free to Download</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-itel-a60s-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Itel A60s Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimize-youtube-submission-swift-rendering-and-uploading-methods-for-2024/"><u>Optimize YouTube Submission - Swift Rendering and Uploading Methods for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-rainbow-six-sieges-pc-boot-issues-a-complete-guide/"><u>Resolving Rainbow Six Siege's PC Boot Issues: A Complete Guide</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/troubleshooting-handbrake-errors-during-mkv-file-conversion-process/"><u>Troubleshooting HandBrake Errors During MKV File Conversion Process</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-nokia-c12-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Nokia C12 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
+
