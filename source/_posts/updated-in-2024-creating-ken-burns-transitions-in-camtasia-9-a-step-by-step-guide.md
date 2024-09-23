@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Creating Ken Burns Transitions in Camtasia 9  A Step-by-Step Guide\""
-date: 2024-09-16T04:32:13.043Z
-updated: 2024-09-18T23:24:50.116Z
+date: 2024-09-20T16:01:37.450Z
+updated: 2024-09-23T19:46:28.804Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,6 +93,13 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -94,20 +115,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-leading-mac-gif-recorders-the-ultimate-list-for-2024/"><u>[New] Leading Mac GIF Recorders The Ultimate List for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-nine-powerful-windows-apps-for-seamless-animated-gif-recording/"><u>[Updated] In 2024, Nine Powerful Windows Apps For Seamless Animated GIF Recording</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-a-beginners-guide-to-recording-video-calls-with-google-meets/"><u>2024 Approved A Beginner's Guide to Recording Video Calls with Google Meets</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-exclusive-list-of-best-video-chat-apps-for-iphone-and-android/"><u>2024 Approved Exclusive List of Best Video Chat Apps for iPhone and Android</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/exclusive-look-top-5-value-for-money-gaming-mice-and-keyboards-for-2024/"><u>Exclusive Look Top 5 Value-for-Money Gaming Mice & Keyboards for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/introduction-to-moving-visual-content/"><u>Introduction to Moving Visual Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simplifying-onestream-techniques-for-effective-streaming/"><u>Simplifying OneStream Techniques for Effective Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-a-new-era-for-cameras-exploring-the-multicam-revolution/"><u>[New] 2024 Approved A New Era for Cameras Exploring the MultiCam Revolution</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-step-by-step-guide-to-audacity-audio-capture-on-mac/"><u>[New] 2024 Approved Step-by-Step Guide to Audacity Audio Capture on Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-mac-studio-for-exceptional-video-and-audiophile-recordings/"><u>[New] 2024 Approved Top Mac Studio for Exceptional Video & Audiophile Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-cadencecritic-sound-evaluation-and-judgment/"><u>[Updated] In 2024, CadenceCritic Sound Evaluation & Judgment</u></a></li>
+<li><a href="https://video-capture.techidaily.com/game-recording-made-easy-with-xbox-one-capture-techniques/"><u>Game Recording Made Easy with Xbox One Capture Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-from-marks-acquiring-unmarked-stock-photography/"><u>In 2024, Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-flashback-snapshot/"><u>In 2024, Vimeo Flashback Snapshot</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-into-action-youtube-rolls-out-interactive-and-testing-minigames/"><u>Step Into Action: YouTube Rolls Out Interactive and Testing Minigames</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-anatomy-of-windows-os-update-process/"><u>The Anatomy of Windows OS Update Process</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/l-the-ultimate-list-of-live-streaming-apps-for-youtube-excellence-iosandroid-for-2024/"><u>Unveil The Ultimate List of Live Streaming Apps for YouTube Excellence (iOS/Android) for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/videocapture-clash-royale/"><u>VideoCapture Clash Royale</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

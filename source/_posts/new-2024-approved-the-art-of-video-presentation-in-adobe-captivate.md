@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Art of Video Presentation in Adobe Captivate\""
-date: 2024-09-15T21:10:53.667Z
-updated: 2024-09-19T01:46:55.218Z
+date: 2024-09-19T18:04:28.742Z
+updated: 2024-09-23T16:27:23.286Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record a Video Presentation Using Adobe Captivate
 
 Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
@@ -74,6 +81,13 @@ Click on the Settings button if you wish to change the destination on your hard-
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
 
 Hit the Record button to initiate the video recording session. You can hit the Esc or End buttons to stop recording if you are using a PC, while Mac users can perform the same action by hitting Cmd + Enter keys.
@@ -84,6 +98,13 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
 
 **Conclusion:**
@@ -91,6 +112,13 @@ You'll also be able to set the preferred frame rate, encoding option and aspect 
 Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -107,30 +135,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-3-simple-methods-to-brighten-a-video-on-iphone/"><u>[Updated] 3 Simple Methods to Brighten a Video on iPhone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-beyond-the-ordinary-superior-share-like-software/"><u>[Updated] In 2024, Beyond the Ordinary Superior Share-Like Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-tools-for-every-videographers-kit/"><u>[Updated] In 2024, Essential Tools for Every Videographer's Kit</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-expert-tips-on-capturing-and-sharing-your-instagram-stories/"><u>[Updated] In 2024, Expert Tips on Capturing and Sharing Your Instagram Stories</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-how-to-avoid-common-mistakes-in-nighttime-photography/"><u>[Updated] In 2024, How to Avoid Common Mistakes in Nighttime Photography</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-top-ten-lady-gamers-on-youtube-rising/"><u>[Updated] Top Ten Lady Gamers on YouTube Rising</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavimxfwmv/"><u>如何使用Movavi将MXF免费转换为WMV格式：在线快速、高效转换服务</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/breach-the-barrier-onedrive-access-restored-in-windows/"><u>Breach the Barrier: OneDrive Access Restored in Windows</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-12-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 12 Pro How to Bypass?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-reviewing-vlc-as-a-multimedia-recorder/"><u>In 2024, Reviewing VLC as a Multimedia Recorder</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-pro-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-easier-cinematography-perfecting-fade-effects/"><u>[New] 2024 Approved Easier Cinematography Perfecting Fade Effects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-playthroughs-on-windows-10-easy-way/"><u>[New] Capturing Playthroughs on Windows 10 Easy Way</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-from-youtube-to-tiktok-and-now-vimeo-gifs/"><u>[New] From YouTube to TikTok, and Now Vimeo-Gifs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-cinematography-simplified-fades-made-easy/"><u>[New] In 2024, Cinematography Simplified Fades Made Easy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-curating-the-best-mac-snipping-software-compilation/"><u>[New] In 2024, Curating the Best Mac Snipping Software Compilation</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-how-to-trim-and-cut-vimeo-videos-online-5-ways/"><u>[New] In 2024, How to Trim and Cut Vimeo Videos Online [5 Ways]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-audio-how-to-download-and-customize-whatsapp-tones-on-devices/"><u>[New] Tailoring Audio How to Download & Customize WhatsApp Tones on Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unveiling-the-leading-6-mac-video-grabber-apps/"><u>[New] Unveiling the Leading 6 Mac Video Grabber Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-practices-for-sharing-desktopsmobile-screens-in-meet/"><u>[Updated] 2024 Approved Best Practices for Sharing Desktops/Mobile Screens in Meet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unlocking-the-potential-ps4-recording-techniques-in-obs/"><u>[Updated] 2024 Approved Unlocking the Potential PS4 Recording Techniques in OBS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-craft-meme-magic-adobe-edition/"><u>[Updated] Craft Meme Magic, Adobe Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-prime-video-editors-for-excellent-webcam-videos-for-2024/"><u>[Updated] Prime Video Editors for Excellent Webcam Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-superior-tools-for-group-online-calls/"><u>[Updated] Superior Tools for Group Online Calls</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-troubleshooting-downloading-and-installing-epson-xp-410-driver-software-on-windows-systems/"><u>Easy Troubleshooting: Downloading & Installing Epson XP-410 Driver Software on Windows Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/introduction-to-the-german-phonetic-system/"><u>Introduction to The German Phonetic System</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/reviving-lost-visual-stories-in-videos/"><u>Reviving Lost Visual Stories in Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/streamline-your-recording-process-across-all-tech-platforms-for-2024/"><u>Streamline Your Recording Process Across All Tech Platforms for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

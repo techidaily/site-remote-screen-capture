@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Photograph Entire Screen Area"
-date: 2024-09-17T17:59:07.419Z
-updated: 2024-09-19T01:30:54.969Z
+date: 2024-09-20T19:04:17.506Z
+updated: 2024-09-23T21:44:14.652Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,13 @@ If you'd like to avoid producing several screenshots that you'll later have to c
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Capturing Screenshots With Browser Extensions
 
 Built-in screen capturing options on Windows and Mac offer only a limited amount of features and for that reason installing the browser extensions that enable you to capture scroll web pages may be a better option. Here are some of the best extensions for taking screenshots of full pages.
@@ -77,10 +84,10 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
@@ -88,13 +95,6 @@ This is a free and easy to use add-on that is compatible with Google Chrome, Fir
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -119,10 +119,10 @@ If you don't want to go through the trouble of installing a screenshot extension
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
@@ -145,6 +145,13 @@ Leave a comment below and let us know which method of capturing full page screen
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -160,18 +167,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capturing-games-in-plain-sight-choose-between-obs-and-shadowplay/"><u>[New] 2024 Approved Capturing Games in Plain Sight Choose Between OBS and ShadowPlay</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-tricks-to-improve-instagram-video-load-speeds-mobile/"><u>[New] In 2024, Tricks to Improve Instagram Video Load Speeds (Mobile)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-your-ipad-as-a-creative-tool-for-time-lapse-for-2024/"><u>[New] Your iPad as a Creative Tool for Time Lapse for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-novices-nook-the-easiest-mc-dwellings-explored/"><u>[Updated] 2024 Approved Novice's Nook The Easiest MC Dwellings Explored</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unpacking-the-features-and-shortcomings-of-samsung-image-editor/"><u>[Updated] Unpacking the Features and Shortcomings of Samsung Image Editor</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-your-pictures-focus-and-soft-edges-quickly/"><u>2024 Approved Perfect Your Picture's Focus & Soft Edges Quickly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/discover-the-power-of-mycam-recording-features-for-2024/"><u>Discover the Power of MyCam Recording Features for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elevate-your-productivity-io-screen-capture-secrets-for-2024/"><u>Elevate Your Productivity IO Screen Capture Secrets for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-magic-6-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Magic 6 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/optimize-obs-encoding-quick-solutions-for-2024/"><u>Optimize OBS Encoding Quick Solutions for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/scheidungssprache-fur-deutschsprechende/"><u>Scheidungssprache Für Deutschsprechende</u></a></li>
-<li><a href="https://fox-http.techidaily.com/sub-from-srt-effective-techniques-for-format-shift/"><u>SUB From SRT Effective Techniques for Format Shift</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-digital-distinction-design-molding-an-animated-profile/"><u>[New] 2024 Approved Digital Distinction Design Molding an Animated Profile</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-zoom-audio-excellence-balance-and-clarity-tactics/"><u>[New] 2024 Approved Zoom Audio Excellence Balance and Clarity Tactics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-pc-game-screenshots/"><u>[New] In 2024, The Ultimate Guide to PC Game Screenshots</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfected-presence-the-art-of-blurring-conference-backdrops/"><u>[Updated] Perfected Presence The Art of Blurring Conference Backdrops</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-overview-of-camstudios-video-tools/"><u>[Updated] Ultimate Overview of CamStudio's Video Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-realme-gt-5-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Realme GT 5 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-language-of-truth-writing-documentaries/"><u>In 2024, The Language of Truth Writing Documentaries</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-uav-models-suited-for-gopro-cameras/"><u>Leading UAV Models Suited for GoPro Cameras</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-setup-finding-and-installing-asus-atk0100-acpi-drivers-online/"><u>Seamless Setup: Finding and Installing ASUS ATK0100 ACPI Drivers Online</u></a></li>
 </ul></div>
 
