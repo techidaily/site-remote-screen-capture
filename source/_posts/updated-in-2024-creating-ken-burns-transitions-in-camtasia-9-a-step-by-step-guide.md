@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Creating Ken Burns Transitions in Camtasia 9  A Step-by-Step Guide\""
-date: 2024-09-20T16:01:37.450Z
-updated: 2024-09-23T19:46:28.804Z
+date: 2024-09-26T16:20:59.425Z
+updated: 2024-09-29T16:52:02.534Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -113,5 +113,21 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-navigating-the-convergence-of-obs-and-zoom-for-enhanced-streaming/"><u>[New] 2024 Approved Navigating the Convergence of OBS & Zoom for Enhanced Streaming</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-cracking-the-code-calculating-your-income-from-youtubes-cpm-for-2024/"><u>[Updated] Cracking the Code Calculating Your Income From YouTube's CPM for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-picks-crafting-mc-villages-abodes/"><u>[Updated] In 2024, Top Picks Crafting MC Villages' Abodes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-webcam-safety-starts-here-the-10-best-shields/"><u>[Updated] In 2024, Webcam Safety Starts Here - The 10 Best Shields</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-optimize-logitech-footage-background-free-method/"><u>[Updated] Optimize Logitech Footage - Background-Free Method</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-visionsplit-assessment-overview-for-2024/"><u>[Updated] VisionSplit Assessment Overview for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streaming-showdown-obs-or-twitch-studio/"><u>2024 Approved Streaming Showdown OBS or Twitch Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/embrace-the-brilliance-stream-create-and-revel-in-pcs-hd-video-splendor/"><u>Embrace the Brilliance Stream, Create, and Revel in PC's HD Video Splendor</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratis-e-ottimi-lettori-di-video-in-formato-h2e65-hevc-uhd-scopri-le-opzioni-migliori-per-la-vostra-experienza-di-visualizzazione/"><u>Gratis E Ottimi Lettori Di Video in Formato H.2e65 HEVC UHD – Scopri Le Opzioni Migliori per La Vostra Experienza Di Visualizzazione</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-968-software-and-driver-download-latest-version-available/"><u>HP OfficeJet Pro Ⅶ968 Software & Driver Download - Latest Version Available</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-total-gb-for-24-hour-movie-size/"><u>In 2024, Total GB for 24-Hour Movie Size</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-iptv-screen-capture-techniques/"><u>Mastering IPTV Screen Capture Techniques</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/system-graphics-error-reported/"><u>System Graphics Error Reported</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-a1x-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo A1x 5G FRP</u></a></li>
+</ul></div>
 

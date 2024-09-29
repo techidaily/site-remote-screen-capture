@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Essential Guide to Creating Cinematic Videos in Camtasa"
-date: 2024-09-11T21:01:58.011Z
-updated: 2024-09-19T00:02:23.599Z
+date: 2024-09-23T16:49:00.213Z
+updated: 2024-09-29T17:15:35.601Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,6 +93,13 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -92,12 +113,24 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-voice-guided-powerpoint-handbook/"><u>[New] In 2024, The Ultimate Voice-Guided PowerPoint Handbook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-investigating-actives-prowess-in-recording-technology/"><u>[New] Investigating Active's Prowess in Recording Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-ways-to-screen-record-on-android/"><u>[Updated] 2024 Approved Best Ways to Screen Record on Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-resolving-fps-confusion-30vs60-for-high-quality-recordings/"><u>[Updated] 2024 Approved Resolving FPS Confusion 30Vs.60 For High-Quality Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-video-conferencing-skills-google-meet-aesthetics-guide-for-2024/"><u>[Updated] Elevate Video Conferencing Skills Google Meet Aesthetics Guide for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-10-top-picks-for-no-cost-zoom-and-screenshare/"><u>[Updated] In 2024, 10 Top Picks for No-Cost Zoom & Screenshare</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-video-privacy-measures-blurring-and-concealing-details/"><u>[Updated] In 2024, Video Privacy Measures Blurring and Concealing Details</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-adding-text-on-images/"><u>[Updated] Ultimate Guide to Adding Text on Images</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-key-reasons-how-raspberry-pi-reinvents-vintage-games/"><u>6 Key Reasons: How Raspberry Pi Reinvents Vintage Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-win11-taskbar-icon-dimensions/"><u>Adjusting Win11 Taskbar Icon Dimensions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-escort-max-360-a-next-generation-radar-detector-featuring-gps-technology-and-extra-functions/"><u>Expert Insights on the Escort Max 360: A Next-Generation Radar Detector Featuring GPS Technology and Extra Functions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-syntax-to-semantics-dissecting-the-unique-features-of-gpt-versus-bert/"><u>From Syntax to Semantics: Dissecting the Unique Features of GPT Versus BERT</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977283997-get-your-behringer-usb-audio-cable-drivers-today-download-and-learn-easily/"><u>Get Your Behringer USB Audio Cable Drivers Today – Download & Learn Easily!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-itel-p55plus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Itel P55+ FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11.techidaily.com/leverage-time-management-with-windows-11-calendar/"><u>Leverage Time Management with Windows 11 Calendar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ringing-in-the-faith-customizing-your-mobile-music/"><u>Ringing in the Faith - Customizing Your Mobile Music</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-power-of-video-conferencing-on-android/"><u>Unveiling the Power of Video Conferencing on Android</u></a></li>
+</ul></div>
 

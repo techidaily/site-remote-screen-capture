@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Windows Guide  Free Tools for Capturing Live TV\""
-date: 2024-09-19T20:31:51.972Z
-updated: 2024-09-23T19:42:50.859Z
+date: 2024-09-25T16:44:37.987Z
+updated: 2024-09-29T17:10:33.301Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to record TV shows on Windows 7/8 for Free
 
 Which software you are going to utilize for the purpose of recording a TV show from a computer, depends on the version of the Windows OS you have installed on your PC. If you have a Windows 7 or 8, then the easiest solution, is the Windows Media Center, although Windows 8 users must download this software because it is no longer a part of the built-in software package that comes with the Windows 8 OS.
@@ -68,10 +61,16 @@ Locate the Windows Media Center on your computer's hard drive. Chances are that 
 ![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
@@ -85,10 +84,10 @@ Click on the Guide feature, and browse through the TV program in order to select
 On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to record live TV on Windows 10 for free
@@ -108,10 +107,10 @@ After you've launched the program, find the Game DVR icon that is located in the
 Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Free TV Show Recording Software on Windows
@@ -140,6 +139,13 @@ However, NextPVR also works as a standalone program, and in order to start recor
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -153,5 +159,22 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-closing-with-panache-free-youtubes-1-six/"><u>[New] 2024 Approved Closing with Panache Free YouTube's #1 Six</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-professional-tips-for-erasing-borders-in-canva-graphics/"><u>[New] 2024 Approved Professional Tips for Erasing Borders in Canva Graphics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-bring-back-classic-ps3-fun-with-best-tools/"><u>[New] In 2024, Bring Back Classic PS3 Fun with Best Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-seamless-edits-start-on-all-your-tech-for-2024/"><u>[New] Seamless Edits Start on All Your Tech for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-why-you-adore-filmora-the-10-key-edits-that-matter/"><u>[New] Why You Adore Filmora The 10 Key Edits That Matter</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-great-live-showdown-obs-vs-twitch-studio/"><u>[Updated] 2024 Approved The Great Live Showdown OBS vs Twitch Studio</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-chorus-chamber-capture-save-and-analyze-sound/"><u>[Updated] In 2024, Chorus Chamber Capture, Save & Analyze Sound</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-get-hooked-on-ez-grabber-a-step-by-step-downloading-guide/"><u>[Updated] In 2024, Get Hooked on EZ Grabber A Step-by-Step Downloading Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-the-best-zero-price-videochat-services-for-2024/"><u>[Updated] Unveiling the Best Zero-Price Videochat Services for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortlessly-resolve-dayz-fps-crashes-expert-advice-inside/"><u>Effortlessly Resolve DayZ FPS Crashes - Expert Advice Inside!</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719271997711-enable-high-contrast-mode-go-to-ease-of-access-settings-and-enable-high-contrast-mode-if-it-improves-visibility/"><u>Enable High Contrast Mode: Go to 'Ease of Access' Settings and Enable High Contrast Mode if It Improves Visibility.</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-correcting-muted-voice-in-obs-broadcasts/"><u>In 2024, Correcting Muted Voice in OBS Broadcasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-cost-effective-pc-image-capture-options/"><u>In 2024, Cost-Effective PC Image Capture Options</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premium-12-video-capture-apps-no-time-limit/"><u>In 2024, Premium 12 Video Capture Apps, No Time Limit</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Step-by-Step Guide to Ken Burns Effect with Camtasia 9\""
-date: 2024-09-16T23:20:52.633Z
-updated: 2024-09-18T21:31:00.299Z
+date: 2024-09-25T16:29:42.302Z
+updated: 2024-09-29T16:57:46.509Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,6 +93,13 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -92,12 +113,19 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-precision-in-preservation-expert-techniques-for-skype-call-recordings/"><u>[New] In 2024, Precision in Preservation Expert Techniques for Skype Call Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-driveease-expert-review/"><u>[Updated] 2024 Approved DriveEase Expert Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-platform-pick-go-live-with-obs-or-twitch-studio/"><u>[Updated] In 2024, Platform Pick Go Live with OBS or Twitch Studio</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-precision-and-artistry-the-ultimate-crossfade-playbook-with-audacity/"><u>[Updated] Precision and Artistry The Ultimate Crossfade Playbook with Audacity</u></a></li>
+<li><a href="https://tools.techidaily.com/bandicam/products/"><u>Bandicam's Products</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comparing-magix-music-maker-and-studio-max-for-2024/"><u>Comparing Magix Music Maker and Studio Max for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-tips-for-fbx-based-game-recording/"><u>Essential Tips for FBX-Based Game Recording</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/gaming-on-a-budget-or-premium-experience-nintendos-switch-lite-vs-switch-oled-unveiled/"><u>Gaming on a Budget or Premium Experience? Nintendo's Switch Lite Vs. Switch OLED Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/high-quality-screen-recording-with-tunefab/"><u>High-Quality Screen Recording with Tunefab</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-windows-11-movie-maker-your-ultimate-instruction-manual/"><u>In 2024, Navigating Windows 11 Movie Maker Your Ultimate Instruction Manual</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-nocostcam-the-infinite-gaming-screen-record-tool/"><u>In 2024, NoCostCam The Infinite Gaming Screen Record Tool</u></a></li>
+</ul></div>
 

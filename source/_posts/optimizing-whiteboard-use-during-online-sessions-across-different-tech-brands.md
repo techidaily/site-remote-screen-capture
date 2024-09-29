@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Whiteboard Use During Online Sessions Across Different Tech Brands"
-date: 2024-09-12T08:02:15.392Z
-updated: 2024-09-19T03:12:28.197Z
+date: 2024-09-28T16:12:48.897Z
+updated: 2024-09-29T16:25:06.615Z
 tags: 
   - screen-recording
   - ai video
@@ -57,6 +57,13 @@ Click on the **three dots** at the bottom of your screen and select **the whiteb
 
 ![Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/google-meet-whiteboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Create Whiteboard**
 
 Click on the **start a new whiteboard** option**.**
@@ -64,6 +71,13 @@ Click on the **start a new whiteboard** option**.**
 **Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
 
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
@@ -102,10 +116,10 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
@@ -135,10 +149,10 @@ Google Meet allows its users to enjoy the vast collection of built-in tools. **G
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -154,5 +168,22 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-techniques-in-itunes-video-saving-for-2024/"><u>[New] Advanced Techniques in iTunes Video Saving for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-engage-with-these-top-10-student-oriented-history-channels/"><u>[New] Engage with These Top 10 Student-Oriented History Channels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-clear-communication-via-skype/"><u>[New] In 2024, Mastering Clear Communication via Skype</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-definitive-window-on-game-recording-in-windows-11/"><u>[New] In 2024, The Definitive Window on Game Recording in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-top-ios-emulators-for-playing-psp-games/"><u>[Updated] Explore Top iOS Emulators for Playing PSP Games</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-a-seamless-transition-from-aspect-ratio-to-square-on-instagram-with-imovie/"><u>[Updated] In 2024, A Seamless Transition From Aspect Ratio to Square on Instagram with iMovie</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ranking-video-chat-winning-windows-tools-6-1/"><u>[Updated] In 2024, Ranking Video Chat Winning Windows Tools #6-#1</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-mastering-your-adventures-with-top-6-head-mounted-cameras-by-gopro/"><u>[Updated] Mastering Your Adventures with Top 6 Head-Mounted Cameras by GoPro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-sharing-stories-every-day-best-practices-in-personal-videography/"><u>2024 Approved Sharing Stories Every Day Best Practices in Personal Videography</u></a></li>
+<li><a href="https://facebook.techidaily.com/connectivitys-catch-understanding-social-media-risks/"><u>Connectivity's Catch: Understanding Social Media Risks</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ai-communication-gpt-vs-bingbot/"><u>Exploring AI Communication: GPT Vs. BingBot</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/obsudios-ultimate-guide-to-video-recording-with-obs-for-2024/"><u>Obsudio's Ultimate Guide to Video Recording with OBS for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/perfecting-obs-streams-for-direct-facebook-engagement/"><u>Perfecting OBS Streams for Direct Facebook Engagement</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-free-note-taking-tricks-for-windows-users/"><u>Quick, Free Note Taking Tricks for Windows Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-10-mp4-convertors-from-mkv-on-pc-and-mac-with-free-trials/"><u>Top 10 MP4 Convertors From MKV on PC and Mac with Free Trials</u></a></li>
+</ul></div>
 

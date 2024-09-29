@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Eliminating Audio Absence in Live OBS Sessions"
-date: 2024-09-13T01:43:58.820Z
-updated: 2024-09-19T07:02:44.923Z
+date: 2024-09-26T16:36:17.403Z
+updated: 2024-09-29T16:21:00.142Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,13 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **2\. Run it as Administrator**
 
 You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
@@ -50,6 +57,13 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 * Right Click on OBS Studio and click Run as administrator
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
 
@@ -68,6 +82,13 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 <img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -77,13 +98,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 * Press the Apply button, then click OK to exit the window.
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
 
@@ -96,10 +110,10 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -112,10 +126,16 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -144,19 +164,6 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Features Why You Should Go for Filmora:**
 
 * It has both the versions for Windows and Mac
@@ -177,5 +184,24 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-enhancing-speech-clarity-on-skype/"><u>[New] 2024 Approved Enhancing Speech Clarity on Skype</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-deciding-on-a-stage-obs-versus-twitch/"><u>[New] In 2024, Deciding on a Stage OBS Versus Twitch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-fan-to-earner-understanding-view-requirements/"><u>[New] In 2024, From Fan to Earner Understanding View Requirements</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-social-snapshot-saver-tool/"><u>[New] Social Snapshot Saver Tool</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-eco-conscious-screen-tech-guide/"><u>[Updated] Eco-Conscious Screen Tech Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inside-scoop-on-sharex-scrutiny-and-comparisons/"><u>[Updated] Inside Scoop on ShareX Scrutiny & Comparisons</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software-for-2024/"><u>[Updated] Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-zoom-and-google-meet-visual-clarity-your-step-by-step-guide-to-cleaner-participation/"><u>[Updated] Zoom & Google Meet Visual Clarity Your Step-by-Step Guide to Cleaner Participation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-a-beginners-approach-to-adding-dates-to-photographs/"><u>2024 Approved A Beginner's Approach to Adding Dates to Photographs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlining-board-collaboration-a-compreenasion-of-using-whiteboards-on-all-zoom-platforms/"><u>2024 Approved Streamlining Board Collaboration - A Compreenasion of Using Whiteboards on All Zoom Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/endless-memories-free-saving-on-instagram-stories/"><u>Endless Memories FREE Saving on Instagram Stories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/expert-picks-top-9-video-chat-and-conference-apps-iosandroid-for-2024/"><u>Expert Picks Top 9 Video Chat & Conference Apps iOS/Android for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/atching-thumbnails-select-the-best-fonts/"><u>Eye-Catching Thumbnails Select the Best Fonts</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-guide-downloading-and-updating-epson-ds-510-drivers-for-windows-easy-step-by-step-process/"><u>Free Guide: Downloading & Updating Epson DS-510 Drivers for Windows – Easy Step by Step Process</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-quadro-rtx-8000-windows-drivers-for-a-smooth-gamingcad-experience-on-os-1087/"><u>Get the Latest Nvidia Quadro RTX 8000 Windows Drivers for a Smooth Gaming/CAD Experience on OS 10/8/7!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-arranging-face-to-face-help-at-apple-retailers/"><u>The Ultimate Guide to Arranging Face-to-Face Help at Apple Retailers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722990725459-why-isnt-my-discord-camera-working-expert-fixes/"><u>Why Isn't My Discord Camera Working? Expert Fixes!</u></a></li>
+</ul></div>
 
