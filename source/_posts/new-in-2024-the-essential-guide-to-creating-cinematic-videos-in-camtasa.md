@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Essential Guide to Creating Cinematic Videos in Camtasa"
-date: 2024-09-23T16:49:00.213Z
-updated: 2024-09-29T17:15:35.601Z
+date: 2024-09-29T20:02:02.894Z
+updated: 2024-10-04T17:20:26.727Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,22 +115,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-voice-guided-powerpoint-handbook/"><u>[New] In 2024, The Ultimate Voice-Guided PowerPoint Handbook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-investigating-actives-prowess-in-recording-technology/"><u>[New] Investigating Active's Prowess in Recording Technology</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-ways-to-screen-record-on-android/"><u>[Updated] 2024 Approved Best Ways to Screen Record on Android</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-resolving-fps-confusion-30vs60-for-high-quality-recordings/"><u>[Updated] 2024 Approved Resolving FPS Confusion 30Vs.60 For High-Quality Recordings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-video-conferencing-skills-google-meet-aesthetics-guide-for-2024/"><u>[Updated] Elevate Video Conferencing Skills Google Meet Aesthetics Guide for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-10-top-picks-for-no-cost-zoom-and-screenshare/"><u>[Updated] In 2024, 10 Top Picks for No-Cost Zoom & Screenshare</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-video-privacy-measures-blurring-and-concealing-details/"><u>[Updated] In 2024, Video Privacy Measures Blurring and Concealing Details</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-adding-text-on-images/"><u>[Updated] Ultimate Guide to Adding Text on Images</u></a></li>
-<li><a href="https://games-able.techidaily.com/6-key-reasons-how-raspberry-pi-reinvents-vintage-games/"><u>6 Key Reasons: How Raspberry Pi Reinvents Vintage Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-win11-taskbar-icon-dimensions/"><u>Adjusting Win11 Taskbar Icon Dimensions</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-insights-on-the-escort-max-360-a-next-generation-radar-detector-featuring-gps-technology-and-extra-functions/"><u>Expert Insights on the Escort Max 360: A Next-Generation Radar Detector Featuring GPS Technology and Extra Functions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-syntax-to-semantics-dissecting-the-unique-features-of-gpt-versus-bert/"><u>From Syntax to Semantics: Dissecting the Unique Features of GPT Versus BERT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722977283997-get-your-behringer-usb-audio-cable-drivers-today-download-and-learn-easily/"><u>Get Your Behringer USB Audio Cable Drivers Today – Download & Learn Easily!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-itel-p55plus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Itel P55+ FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win11.techidaily.com/leverage-time-management-with-windows-11-calendar/"><u>Leverage Time Management with Windows 11 Calendar</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ringing-in-the-faith-customizing-your-mobile-music/"><u>Ringing in the Faith - Customizing Your Mobile Music</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-power-of-video-conferencing-on-android/"><u>Unveiling the Power of Video Conferencing on Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-assessment-unveiling-du-recorders-features/"><u>[New] 2024 Approved Comprehensive Assessment Unveiling Du Recorder's Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-essential-steps-to-record-and-archive-google-voice-calls/"><u>[New] 2024 Approved Essential Steps to Record and Archive Google Voice Calls</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-techniques-to-transform-your-ppt-into-professional-videos/"><u>[New] Techniques to Transform Your PPT Into Professional Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-mastery-in-gameye-advanced-recording-tips/"><u>[Updated] 2024 Approved Mastery in GamEye Advanced Recording Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-rapid-routines-for-capturing-video-calls/"><u>[Updated] 2024 Approved Rapid Routines for Capturing Video Calls</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-revolutionizing-gameplay-a-curated-list-of-stardew-valleys-top-7-mods/"><u>[Updated] 2024 Approved Revolutionizing Gameplay A Curated List of Stardew Valley's Top 7 Mods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cam-problem-solved-operation-normal/"><u>[Updated] Cam Problem Solved Operation Normal</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-deciphering-the-secrets-of-itunes-video-mastery/"><u>[Updated] Deciphering the Secrets of iTunes Video Mastery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-secret-sauce-for-successful-youtubers-channel-featuring-techniques-for-2024/"><u>[Updated] The Secret Sauce for Successful YouTubers Channel Featuring Techniques for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-zte-axon-40-lite-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove ZTE Axon 40 Lite Fingerprint Lock</u></a></li>
+<li><a href="https://network-issues.techidaily.com/diagnosing-non-spinning-gpu-fans/"><u>Diagnosing Non-Spinning GPU Fans</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/how-to-leverage-buyselladscom-for-successful-blogging-monetization-strategies/"><u>How to Leverage buySELLads.com for Successful Blogging Monetization Strategies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-lava-storm-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Lava Storm 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-complete-motion-survey-2023/"><u>In 2024, Complete Motion Survey 2023</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovations-of-sony-bdp-s6700-a-closer-look/"><u>In 2024, Innovations of Sony BDP-S6700 A Closer Look</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998711786-quick-solutions-resolving-winwordexe-program-crashes-in-no-time/"><u>Quick Solutions: Resolving WINWORD.EXE Program Crashes in No Time</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-backstage-pass-for-streamers-recording-on-twitch/"><u>The Backstage Pass for Streamers Recording on Twitch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ultimate-selection-of-safe-speed-optimized-video-editors-for-windows-1110-enthusiasts/"><u>The Ultimate Selection of Safe, Speed-Optimized Video Editors for Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-non-functional-mic-on-steelseries-arctis-5-headset/"><u>Troubleshooting and Resolving Non-Functional Mic on SteelSeries Arctis 5 Headset</u></a></li>
 </ul></div>
 

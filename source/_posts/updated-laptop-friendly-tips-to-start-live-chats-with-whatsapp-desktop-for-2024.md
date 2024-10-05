@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Laptop-Friendly Tips to Start Live Chats with WhatsApp Desktop for 2024\""
-date: 2024-09-23T17:00:45.165Z
-updated: 2024-09-29T16:43:30.035Z
+date: 2024-10-01T23:30:26.035Z
+updated: 2024-10-04T18:52:09.619Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,13 @@ Unfortunately, you can’t use WhatsApp on the desktop to make video calls direc
 
 Anyone asking, “how can I make a video call on WhatsApp Web?” is in the right place.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Video Call from WhatsApp Web in Laptop
 
 Everyone who has done a little research will see that you can use WhatsApp Web to make calls and send messages. At first glance, it appears as though the controls are the same, but you are more limited in options because you can’t, seemingly, make video calls.
@@ -69,10 +76,10 @@ In a few easy steps:
 Your WhatsApp download will run from here, giving you the answer to how to make video calls in WhatsApp web – on laptops.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: WhatsApp Web Alternative
@@ -86,10 +93,10 @@ Skype is one of the longest-running video calling and web calling apps. It gives
 ![Skype](https://images.wondershare.com/filmora/article-images/skype.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. [Google Duo](https://duo.google.com/about/)
@@ -99,17 +106,10 @@ If you can’t figure out how to make video calls on WhatsApp Web on laptops, th
 ![Google Duo](https://images.wondershare.com/filmora/article-images/google-duo-app.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. [Facebook Messenger](https://www.messenger.com/)
@@ -118,18 +118,18 @@ If you don’t intend to do much in the way of group chatting, then video callin
 
 ![Facebook Messenger](https://images.wondershare.com/filmora/article-images/messenger-app.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Rounding Up
 
 So if you can’t work out how to make a WhatsApp call from a PC, try one of our other recommendations for keeping in touch. WhatsApp is a wonderfully secure, encrypted messaging service – but it isn’t the only one on the market. It might not even be the right product for you.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -146,16 +146,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-sky-to-framing-a-compreenasive-review-of-the-drone-dji-spark/"><u>[New] 2024 Approved From Sky to Framing A Compreenasive Review of the Drone DJI Spark</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-comparative-analysis-of-two-streaming-superpowers-obs-studio-and-bandicam/"><u>[New] In 2024, Comparative Analysis of Two Streaming Superpowers OBS Studio and Bandicam</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-ultimate-evaluation-how-does-recmeister-stack-up/"><u>[Updated] 2024 Approved The Ultimate Evaluation How Does Recmeister Stack Up?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-5-best-live-stream-video-conference-recorders/"><u>[Updated] 2024 Approved Top 5 Best Live Stream Video Conference Recorders</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-tips-for-recording-ps4-games-with-obs/"><u>2024 Approved Essential Tips for Recording PS4 Games with OBS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/amplify-and-illuminate-online-videos-with-these-5-aids/"><u>Amplify and Illuminate Online Videos with These 5 Aids</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/broadcasting-showdown-deciding-between-obs-and-twitch-studio-for-2024/"><u>Broadcasting Showdown Deciding Between OBS and Twitch Studio for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-affordable-cloud-keep-optimal-pricing-for-huge-archives/"><u>In 2024, Affordable Cloud Keep Optimal Pricing for Huge Archives</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-depth-insight-on-selecting-superior-valheim-seeds/"><u>In-Depth Insight on Selecting Superior Valheim Seeds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-courteous-interaction-important-when-communicating-with-voice-assistants-such-as-chatgpt-alexa-and-siri/"><u>Is Courteous Interaction Important When Communicating With Voice Assistants Such as ChatGPT, Alexa, and Siri?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/your-top-10-favorites-on-spotify/"><u>Your Top 10 Favorites on Spotify</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mov-file-handling-best-practices-on-windows-10-systems/"><u>[New] 2024 Approved .mov File Handling Best Practices on Windows 10 Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1716068957129-new-2024-approved-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators/"><u>[New] 2024 Approved Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-guide-to-capturing-lol-games/"><u>[New] Comprehensive Guide to Capturing LOL Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-insightful-analysis-the-dji-inspire-2-story/"><u>[New] Insightful Analysis - The DJI Inspire 2 Story</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigate-must-try-world-building-games/"><u>[New] Navigate Must-Try World Building Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-epic-gaming-recorded-an-analysis/"><u>[Updated] 2024 Approved Epic Gaming Recorded An Analysis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-expert-endorsed-srs-conversions-for-macwin-users/"><u>[Updated] 2024 Approved Expert-Endorsed SRS Conversions for Mac/Win Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-heads-up-on-high-tech-the-best-motorcycle-cam-gear-guide-in-23/"><u>[Updated] 2024 Approved Heads Up on High-Tech - The Best Motorcycle Cam Gear Guide in '23</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-restoring-obs-full-screen-display/"><u>[Updated] 2024 Approved Restoring OBS Full Screen Display</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-cheap-not-bad-chromebooks-top-recording-tools/"><u>[Updated] In 2024, Cheap Not Bad – Chromebook's Top Recording Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-firefox-recording-software/"><u>[Updated] Leading Firefox Recording Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-guide-the-best-no-money-recording-software/"><u>Essential Guide The Best No-Money Recording Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mint-magic-in-depth-analysis-and-instructions-for-ice-cream-cam/"><u>In 2024, Mint Magic In-Depth Analysis & Instructions for Ice Cream Cam</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-launches-worlds-first-photo-recovery-and-repair-software-news-of-stellar/"><u>Stellar Launches World's First Photo Recovery & Repair Software - News of Stellar</u></a></li>
+<li><a href="https://win-dash.techidaily.com/transforming-midi-files-into-wav-format-discover-the-simple-methods/"><u>Transforming MIDI Files Into WAV Format: Discover the Simple Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-pressure-into-peace-a-guide-to-using-chatgpt-for-stress-management/"><u>Transforming Pressure Into Peace: A Guide to Using ChatGPT for Stress Management</u></a></li>
 </ul></div>
 

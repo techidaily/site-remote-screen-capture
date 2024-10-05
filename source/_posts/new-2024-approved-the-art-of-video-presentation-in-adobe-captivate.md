@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Art of Video Presentation in Adobe Captivate\""
-date: 2024-09-28T16:47:46.512Z
-updated: 2024-09-29T16:50:10.292Z
+date: 2024-09-30T00:26:42.679Z
+updated: 2024-10-05T02:05:57.104Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Record a Video Presentation Using Adobe Captivate
 
 Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
@@ -66,10 +59,10 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
@@ -81,16 +74,10 @@ After you click on the Create button, a new window will appear on the screen. In
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
@@ -102,10 +89,10 @@ Click on the Settings button if you wish to change the destination on your hard-
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
@@ -117,6 +104,13 @@ Hit the Record button to initiate the video recording session. You can hit the E
 Upon the completion of the video recording session, the Publish Video Demo window will appear on the screen. You'll be able to save your video as an MP4 file directly to your computer, or you can export the video directly to YouTube, Facebook or Twitter.
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
 
@@ -141,22 +135,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-excellent-screen-capture-software-for-windows-11-users/"><u>[New] Excellent Screen Capture Software for Windows 11 Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-full-examination-hero4-black-designs/"><u>[New] Full Examination Hero4 Black Designs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-leading-non-zoom-remote-work-solutions-for-pc-and-mobile/"><u>[New] In 2024, Leading Non-Zoom Remote Work Solutions for PC & Mobile</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-speak-and-record-iphone-voice-memo-basics/"><u>[New] Speak and Record IPhone Voice Memo Basics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-recording-review-and-examination/"><u>[Updated] 2024 Approved Recording Review and Examination</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-active-presenter-8-review/"><u>2024 Approved Active Presenter 8 Review</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/battle-for-honor-other-10-great-games-like-tsushi-for-2024/"><u>Battle for Honor Other 10 Great Games Like Tsushi for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-smart-7-hd-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Infinix Smart 7 HD Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-honor-90-lite-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Honor 90 Lite For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-xs-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone XS to iPad? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-master-the-art-of-recording-10-best-no-cost-mac-software/"><u>In 2024, Master the Art of Recording 10 Best No-Cost Mac Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-unfiltered-truth-insights-into-instagram-reels/"><u>In 2024, The Unfiltered Truth Insights Into Instagram Reels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximize-iphone-screen-space-with-smaller-videos-for-2024/"><u>Maximize iPhone Screen Space with Smaller Videos for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-free-online-animation-creators-of-2024-ranking-the-best/"><u>Top Free Online Animation Creators of 2024: Ranking the Best</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unlocking-the-power-of-your-everyday-webcam/"><u>Unlocking the Power of Your Everyday Webcam</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-obs-optimization-for-seamless-fb-broadcasting/"><u>[New] 2024 Approved OBS Optimization for Seamless FB Broadcasting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-art-of-video-blending-using-modes-mastery/"><u>[New] 2024 Approved The Art of Video Blending Using Modes Mastery</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-explore-and-evaluate-the-top-10-mobile-video-conferencing-apps-for-2024/"><u>[New] Explore & Evaluate The Top 10 Mobile Video Conferencing Apps for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-obs-vs-shadowplay-the-ultimate-showdown-for-gamers/"><u>[New] OBS vs ShadowPlay The Ultimate Showdown for Gamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-all-inclusive-screen-recorder-azs-app-analysis/"><u>[Updated] In 2024, All-Inclusive Screen Recorder - AZ's App Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capturing-screens-with-internal-recorder-on-mate-1020-and-p-series-p20-p10-smartphones/"><u>[Updated] In 2024, Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ideal-choice-12-superior-clicking-adventures-on-your-pc/"><u>[Updated] In 2024, Ideal Choice 12 Superior Clicking Adventures on Your PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-kinemaster-techniques-for-impeccable-storytelling-pace/"><u>[Updated] In 2024, Kinemaster Techniques for Impeccable Storytelling Pace</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premier-6-modern-architecture-in-mc-world/"><u>[Updated] Premier 6 Modern Architecture in MC World</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1-guide-effortless-dvd-duplication-with-winx-dvd-ripper-platinum-the-ultimate-tutorial/"><u>1. [Guide]: Effortless DVD Duplication with WinX DVD Ripper Platinum - The Ultimate Tutorial</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-integrating-zoom-appointments-into-phone-and-pc-schedules/"><u>2024 Approved Integrating Zoom Appointments Into Phone & PC Schedules</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-introduction-to-color-grading-and-luts-in-pscc/"><u>A Comprehensive Introduction to Color Grading and LUTs in PSCC</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-om-to-wav-conversion-service-how-to-convert-oma-audio-files-to-wav-format-with-movavi/"><u>Free Om-to-Wav Conversion Service: How to Convert OMA Audio Files to WAV Format with Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oneplus-12-lock-screen-password-by-drfone-android/"><u>How To Change OnePlus 12 Lock Screen Password?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-windows-10-from-continuously-restarting-on-shutdown-attempts/"><u>How to Stop Windows 10 From Continuously Restarting on Shutdown Attempts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-hp-laserjet-pro-m402n-printing-software-on-your-windows-computer/"><u>How to Successfully Install HP LaserJet Pro M402n Printing Software on Your Windows Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-c32-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia C32</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-nonfunctional-right-click-windows-11-touchpad-armageddon-reversed/"><u>Overcoming Nonfunctional Right Click - Windows 11 Touchpad Armageddon Reversed</u></a></li>
 </ul></div>
 

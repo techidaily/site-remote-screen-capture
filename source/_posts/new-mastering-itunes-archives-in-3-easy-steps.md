@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering iTunes Archives in 3 Easy Steps"
-date: 2024-08-25T01:45:28.438Z
-updated: 2024-08-26T01:45:28.438Z
+date: 2024-10-03T00:20:37.539Z
+updated: 2024-10-05T00:56:03.320Z
 tags: 
   - screen-recording
   - ai video
@@ -78,8 +78,18 @@ Step 6\. Once you are done with recording click on the stop icon on the top bar 
 Step 7\. For that, you just need to go to “File” and click save to a specified location on your computer. The location can be chosen with the new window you will see to select a folder for your recording to be saved. So this is how you can record any video on iTunes just by selecting a part of the area on the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 3\. Use Bandicam to Record iTunes
 
 Bandicam is another best and free video screen and computer screen recorder along with recording the audio, microphone, and any other source connected with a computer. You can also record your webcam footage along with the screen of your computer with bandicam.
@@ -88,88 +98,6 @@ Using bandicam for recording videos from iTunes is another perfect way to store 
 
 ![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
-Step 1\. First of all, you have to is launching the bandicam. You can either do it by searching the windows bar for bandicam. Just type in the bandicam and you will see it on your computer and click to launch it. Once it's launched you will see this window shown below.
-
-Step 2\. You will see a lot of different screen options. Such as you can choose rectangle area selection to select in rectangle shape or full screen. Since we are going to capture any video from iTunes, we will prefer the rectangle selection area. So go to your iTunes page and open a video you want to record as shown. Before going for the selection of areas to capture make sure that you have enabled all the options such as the audio source of the systems.
-
-Step 3\. Once you have selected the area of your interest it's time to start your recording. You can do that by clicking on start recording in the top bar of the recording area as shown below. The recording will get started. The recording will be only limited to the area that you have selected in the application. In other words, you can copy the particular video from iTunes.
-
-Step 4\. To stop recording click on the red stop icon and it will stop recording. You can do this for any video on iTunes. All you have to do is visit the video, select a recording area through the bandicam features, and in the end start recording. To stop recording just click the red icon as shown above and it will stop recording.
-
-Step 5\. For accessing the folder containing your output video, just click on the folder in the above picture. When you click on it it will open up the videos you just recorded from iTunes. This method is only limited to iTunes but there are a lot of other platforms out there from which you can record your liking of video.
-
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Conclusion
-
-These were the most common ways to record videos on the iTunes platform. Although, there are a lot of different other methods too the most efficient and effective ways that we placed at your disposal were these. You can blindly go to the internet and start searching for any other methods but it requires some time to do this searching. Therefore, for your easiness, all you have to do is go through this article and you will be able to capture any videos on iTunes. I hope this article would have greatly helped you and will help others who are quick to know about the readymade applications to record videos from iTunes.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1\. So first and foremost job is to have Filmora latest version on your computer. You can either download it from its official website or take it from your friends. Let's say you have the Filmora installed on your PC now it's time to launch it. So go to the windows search bar and type in Filmora. You will see Filmora, just click on it and you will see it pop a new screen as shown in the figure below.
-
-![filmora screen recorder](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2\. Once you see this screen shown in the figure above click on the PC screen marked in red. After that, you will see Filmora launched into a new window to start your screen recording for iTunes.
-
-![filmora record panel](https://images.wondershare.com/filmora/guide/recording-04.png)
-
-Step 3\. Once you see this screen you can now select full screen to record on your pc or select custom. So to start recoring from itunes just go to the iTune program and play a video as showin in the figure.
-
-Step 4\. Now to capture the video check for the resolution, audio, and microphone settings. Moreover, check for saving to location, fps, and quality of the video as shown in the figure below.
-
-![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-Step 5\. Once you are done with that just click custom and select a range of areas to capture, you can move around the selection area of your own choice. After that click on the start recording button to start recording. Once you are done with the recording you can pause or stop it from its small another video running in the background as shown below. Click stop and it will be saved in the Filmora video section.
-
-Step 6\. Now you can import the video by applying effects to it or leaving it in its original form. Since we are recording video from iTunes we will stick to the video saving part only so now you can access your stored video from the location that has been set in the settings of the capturing menu.
-
-## Way 2\. How to Record iTunes with QuickTime
-
-QuickTime is free software from Apple to handle multimedia in the form of different formats including digital video, picture, sound panoramic, images, and much more. However, this application comes again with the amazing capability of recording your computer screen.
-
-The application is available on windows and is specifically designed for mac systems. The supported version in windows 7 and Vista, might not work well on other versions. So let's begin with how you can use this application for recording videos on iTunes using Mac.
-
-![quicktime screen recorder](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-Step 1\. So first of all install the application by downloading it from its official website. After that launch application and you will see its windows open as shown.
-
-Step 2\. You will variety of options in the menu of the application such as movie recording or only audio recording. To record any video on iTunes, just go to the iTunes website or open its program. Once you have done that all you need to do is turn on the recording.
-
-Step 3\. Click screen recording and you will see its recording on the above menu and a new window will appear as shown below.
-
-Step 4\. To start recording click on the red button and you will see a new pop-up asking you to record the full screen or part of the screen. Choose the audio settings enabled to capture the audio along with the video too. You can also enable the mouse clicks to be visible in the recording, but for now we will not stick to it since we will copy any video without having any unwanted effects.
-
-Step 5\. Since we are interested in only a part of the screen on copying or recording screen from iTunes so drag around the video screen and it will start recording that particular part as shown in the figure. The other options like recording on the full screen are also available. That can also be done just by clicking on the screen and it will record in full screen.
-
-Step 6\. Once you are done with recording click on the stop icon on the top bar of your screen and you will see it is recorded into a video shown on your screen. Now it's time to save it properly on a specific location.
-
-Step 7\. For that, you just need to go to “File” and click save to a specified location on your computer. The location can be chosen with the new window you will see to select a folder for your recording to be saved. So this is how you can record any video on iTunes just by selecting a part of the area on the screen.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Way 3\. Use Bandicam to Record iTunes
-
-Bandicam is another best and free video screen and computer screen recorder along with recording the audio, microphone, and any other source connected with a computer. You can also record your webcam footage along with the screen of your computer with bandicam.
-
-Using bandicam for recording videos from iTunes is another perfect way to store its videos on the computer. All you have to do is to avail yourself of a new version of bandicam. You can do that by downloading it from its official site. So before wasting further of your let's learn how can we utilize bandicam for our video capturing from iTunes.
-
-![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 Step 1\. First of all, you have to is launching the bandicam. You can either do it by searching the windows bar for bandicam. Just type in the bandicam and you will see it on your computer and click to launch it. Once it's launched you will see this window shown below.
 
 Step 2\. You will see a lot of different screen options. Such as you can choose rectangle area selection to select in rectangle shape or full screen. Since we are going to capture any video from iTunes, we will prefer the rectangle selection area. So go to your iTunes page and open a video you want to record as shown. Before going for the selection of areas to capture make sure that you have enabled all the options such as the audio source of the systems.
@@ -192,21 +120,10 @@ Step 1\. So first and foremost job is to have Filmora latest version on your com
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2\. Once you see this screen shown in the figure above click on the PC screen marked in red. After that, you will see Filmora launched into a new window to start your screen recording for iTunes.
 
 ![filmora record panel](https://images.wondershare.com/filmora/guide/recording-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 3\. Once you see this screen you can now select full screen to record on your pc or select custom. So to start recoring from itunes just go to the iTune program and play a video as showin in the figure.
 
 Step 4\. Now to capture the video check for the resolution, audio, and microphone settings. Moreover, check for saving to location, fps, and quality of the video as shown in the figure below.
@@ -214,15 +131,16 @@ Step 4\. Now to capture the video check for the resolution, audio, and microphon
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 5\. Once you are done with that just click custom and select a range of areas to capture, you can move around the selection area of your own choice. After that click on the start recording button to start recording. Once you are done with the recording you can pause or stop it from its small another video running in the background as shown below. Click stop and it will be saved in the Filmora video section.
 
 Step 6\. Now you can import the video by applying effects to it or leaving it in its original form. Since we are recording video from iTunes we will stick to the video saving part only so now you can access your stored video from the location that has been set in the settings of the capturing menu.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Way 2\. How to Record iTunes with QuickTime
 
 QuickTime is free software from Apple to handle multimedia in the form of different formats including digital video, picture, sound panoramic, images, and much more. However, this application comes again with the amazing capability of recording your computer screen.
@@ -246,8 +164,12 @@ Step 6\. Once you are done with recording click on the stop icon on the top bar 
 Step 7\. For that, you just need to go to “File” and click save to a specified location on your computer. The location can be chosen with the new window you will see to select a folder for your recording to be saved. So this is how you can record any video on iTunes just by selecting a part of the area on the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Way 3\. Use Bandicam to Record iTunes
 
 Bandicam is another best and free video screen and computer screen recorder along with recording the audio, microphone, and any other source connected with a computer. You can also record your webcam footage along with the screen of your computer with bandicam.
@@ -266,6 +188,13 @@ Step 4\. To stop recording click on the red stop icon and it will stop recording
 
 Step 5\. For accessing the folder containing your output video, just click on the folder in the above picture. When you click on it it will open up the videos you just recorded from iTunes. This method is only limited to iTunes but there are a lot of other platforms out there from which you can record your liking of video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 These were the most common ways to record videos on the iTunes platform. Although, there are a lot of different other methods too the most efficient and effective ways that we placed at your disposal were these. You can blindly go to the internet and start searching for any other methods but it requires some time to do this searching. Therefore, for your easiness, all you have to do is go through this article and you will be able to capture any videos on iTunes. I hope this article would have greatly helped you and will help others who are quick to know about the readymade applications to record videos from iTunes.
@@ -278,9 +207,6 @@ Step 1\. So first and foremost job is to have Filmora latest version on your com
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2\. Once you see this screen shown in the figure above click on the PC screen marked in red. After that, you will see Filmora launched into a new window to start your screen recording for iTunes.
 
 ![filmora record panel](https://images.wondershare.com/filmora/guide/recording-04.png)
@@ -317,9 +243,100 @@ Step 6\. Once you are done with recording click on the stop icon on the top bar 
 
 Step 7\. For that, you just need to go to “File” and click save to a specified location on your computer. The location can be chosen with the new window you will see to select a folder for your recording to be saved. So this is how you can record any video on iTunes just by selecting a part of the area on the screen.
 
+## Way 3\. Use Bandicam to Record iTunes
+
+Bandicam is another best and free video screen and computer screen recorder along with recording the audio, microphone, and any other source connected with a computer. You can also record your webcam footage along with the screen of your computer with bandicam.
+
+Using bandicam for recording videos from iTunes is another perfect way to store its videos on the computer. All you have to do is to avail yourself of a new version of bandicam. You can do that by downloading it from its official site. So before wasting further of your let's learn how can we utilize bandicam for our video capturing from iTunes.
+
+![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
+
+Step 1\. First of all, you have to is launching the bandicam. You can either do it by searching the windows bar for bandicam. Just type in the bandicam and you will see it on your computer and click to launch it. Once it's launched you will see this window shown below.
+
+Step 2\. You will see a lot of different screen options. Such as you can choose rectangle area selection to select in rectangle shape or full screen. Since we are going to capture any video from iTunes, we will prefer the rectangle selection area. So go to your iTunes page and open a video you want to record as shown. Before going for the selection of areas to capture make sure that you have enabled all the options such as the audio source of the systems.
+
+Step 3\. Once you have selected the area of your interest it's time to start your recording. You can do that by clicking on start recording in the top bar of the recording area as shown below. The recording will get started. The recording will be only limited to the area that you have selected in the application. In other words, you can copy the particular video from iTunes.
+
+Step 4\. To stop recording click on the red stop icon and it will stop recording. You can do this for any video on iTunes. All you have to do is visit the video, select a recording area through the bandicam features, and in the end start recording. To stop recording just click the red icon as shown above and it will stop recording.
+
+Step 5\. For accessing the folder containing your output video, just click on the folder in the above picture. When you click on it it will open up the videos you just recorded from iTunes. This method is only limited to iTunes but there are a lot of other platforms out there from which you can record your liking of video.
+
+## Conclusion
+
+These were the most common ways to record videos on the iTunes platform. Although, there are a lot of different other methods too the most efficient and effective ways that we placed at your disposal were these. You can blindly go to the internet and start searching for any other methods but it requires some time to do this searching. Therefore, for your easiness, all you have to do is go through this article and you will be able to capture any videos on iTunes. I hope this article would have greatly helped you and will help others who are quick to know about the readymade applications to record videos from iTunes.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1\. So first and foremost job is to have Filmora latest version on your computer. You can either download it from its official website or take it from your friends. Let's say you have the Filmora installed on your PC now it's time to launch it. So go to the windows search bar and type in Filmora. You will see Filmora, just click on it and you will see it pop a new screen as shown in the figure below.
+
+![filmora screen recorder](https://images.wondershare.com/filmora/guide/recording-01.png)
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Step 2\. Once you see this screen shown in the figure above click on the PC screen marked in red. After that, you will see Filmora launched into a new window to start your screen recording for iTunes.
+
+![filmora record panel](https://images.wondershare.com/filmora/guide/recording-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 3\. Once you see this screen you can now select full screen to record on your pc or select custom. So to start recoring from itunes just go to the iTune program and play a video as showin in the figure.
+
+Step 4\. Now to capture the video check for the resolution, audio, and microphone settings. Moreover, check for saving to location, fps, and quality of the video as shown in the figure below.
+
+![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+Step 5\. Once you are done with that just click custom and select a range of areas to capture, you can move around the selection area of your own choice. After that click on the start recording button to start recording. Once you are done with the recording you can pause or stop it from its small another video running in the background as shown below. Click stop and it will be saved in the Filmora video section.
+
+Step 6\. Now you can import the video by applying effects to it or leaving it in its original form. Since we are recording video from iTunes we will stick to the video saving part only so now you can access your stored video from the location that has been set in the settings of the capturing menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Way 2\. How to Record iTunes with QuickTime
+
+QuickTime is free software from Apple to handle multimedia in the form of different formats including digital video, picture, sound panoramic, images, and much more. However, this application comes again with the amazing capability of recording your computer screen.
+
+The application is available on windows and is specifically designed for mac systems. The supported version in windows 7 and Vista, might not work well on other versions. So let's begin with how you can use this application for recording videos on iTunes using Mac.
+
+![quicktime screen recorder](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 1\. So first of all install the application by downloading it from its official website. After that launch application and you will see its windows open as shown.
+
+Step 2\. You will variety of options in the menu of the application such as movie recording or only audio recording. To record any video on iTunes, just go to the iTunes website or open its program. Once you have done that all you need to do is turn on the recording.
+
+Step 3\. Click screen recording and you will see its recording on the above menu and a new window will appear as shown below.
+
+Step 4\. To start recording click on the red button and you will see a new pop-up asking you to record the full screen or part of the screen. Choose the audio settings enabled to capture the audio along with the video too. You can also enable the mouse clicks to be visible in the recording, but for now we will not stick to it since we will copy any video without having any unwanted effects.
+
+Step 5\. Since we are interested in only a part of the screen on copying or recording screen from iTunes so drag around the video screen and it will start recording that particular part as shown in the figure. The other options like recording on the full screen are also available. That can also be done just by clicking on the screen and it will record in full screen.
+
+Step 6\. Once you are done with recording click on the stop icon on the top bar of your screen and you will see it is recorded into a video shown on your screen. Now it's time to save it properly on a specific location.
+
+Step 7\. For that, you just need to go to “File” and click save to a specified location on your computer. The location can be chosen with the new window you will see to select a folder for your recording to be saved. So this is how you can record any video on iTunes just by selecting a part of the area on the screen.
+
 ## Way 3\. Use Bandicam to Record iTunes
 
 Bandicam is another best and free video screen and computer screen recorder along with recording the audio, microphone, and any other source connected with a computer. You can also record your webcam footage along with the screen of your computer with bandicam.
@@ -364,4 +381,18 @@ These were the most common ways to record videos on the iTunes platform. Althoug
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-advanced-strategies-for-screen-recording-on-ipad/"><u>[New] In 2024, Advanced Strategies for Screen Recording on iPad</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-handbook-for-saving-insta-content-for-2024/"><u>[New] The Ultimate Handbook for Saving Insta Content for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-ancient-art-of-role-playing-evolutionary-trajectory/"><u>[Updated] 2024 Approved The Ancient Art of Role-Playing Evolutionary Trajectory</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-all-encompassing-mobility-review/"><u>[Updated] In 2024, All-Encompassing Mobility Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-pixel-perfection-radeon-redux-review/"><u>[Updated] In 2024, Pixel Perfection Radeon Redux Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-cash-flow-chart-launching-a-successful-podcast/"><u>In 2024, Comprehensive Cash Flow Chart Launching a Successful Podcast</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-hidden-horizons-in-hand-drawn-harmony/"><u>In 2024, Hidden Horizons in Hand-Drawn Harmony</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optimal-applications-streamlining-video-conferencing/"><u>In 2024, Optimal Applications Streamlining Video Conferencing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-interactions-the-top-9-chatgpt-plugins-for-immediate-use/"><u>Revolutionize Your Interactions: The Top 9 ChatGPT Plugins for Immediate Use</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speedy-shots-that-captivate-audiences-for-2024/"><u>Speedy Shots That Captivate Audiences for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-msvcr1n110dll-absence-in-helldivers-2-game/"><u>Troubleshooting: The MSVCR1n110.dll Absence in Helldivers 2 Game</u></a></li>
+</ul></div>
 

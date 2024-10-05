@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize the Save Spot of Mac Images"
-date: 2024-09-26T16:24:12.289Z
-updated: 2024-09-29T17:15:13.939Z
+date: 2024-10-02T00:46:10.481Z
+updated: 2024-10-04T22:00:59.841Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -62,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -77,10 +77,10 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -93,6 +93,13 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -104,13 +111,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -127,15 +127,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ioss-best-ps2-emulation-software-guide/"><u>[New] 2024 Approved IOS’s Best PS2 Emulation Software Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-pixel-chronicles-mastering-the-art-of-recording-your-minecraft-world/"><u>[New] In 2024, Pixel Chronicles Mastering the Art of Recording Your Minecraft World</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-leveraging-facetimes-features-for-exceptional-audio-capturing/"><u>[New] Leveraging FaceTime's Features for Exceptional Audio Capturing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-saving-screen-scenes-pcmac-and-mobile-devices-walkthrough/"><u>[New] Saving Screen Scenes PC/Mac & Mobile Devices Walkthrough</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-hassle-free-hd-video-on-your-device/"><u>[Updated] Hassle-Free HD Video on Your Device</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/essential-knowledge-for-effective-screensaver-use-in-mobile-applications/"><u>Essential Knowledge for Effective Screensaver Use in Mobile Applications</u></a></li>
-<li><a href="https://extra-information.techidaily.com/fast-track-to-time-lapse-magic-on-samsung-phones/"><u>Fast Track to Time-Lapse Magic on Samsung Phones</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-civi-3-disney-100th-anniversary-edition-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Civi 3 Disney 100th Anniversary Edition Phone Pattern Lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/is-inshot-leading-video-editing-an-examination-review/"><u>Is InShot Leading Video Editing? An Examination Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-easy-steps-to-document-video-calls/"><u>[New] In 2024, Easy Steps to Document Video Calls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-strangers-to-community-your-facebook-onboarding-journey/"><u>[New] In 2024, From Strangers to Community Your Facebook Onboarding Journey</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-guide-to-non-xbox-screen-recording-software/"><u>[New] In 2024, The Ultimate Guide to Non-Xbox Screen Recording Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-integrating-tracks-into-video-production-in-premiere-pro-for-2024/"><u>[New] Integrating Tracks Into Video Production in Premiere Pro for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-perfecting-zoom-sound-a-dual-strategy-approach/"><u>[Updated] 2024 Approved Perfecting Zoom Sound A Dual Strategy Approach</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ultimatevision-recorder-for-w10/"><u>[Updated] 2024 Approved UltimateVision Recorder for W10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-yt-treasure-hunt-accessing-previously-deleted-content/"><u>[Updated] 2024 Approved YT Treasure Hunt Accessing Previously Deleted Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-high-quality-live-streaming-games-via-obs/"><u>[Updated] In 2024, High-Quality Live Streaming Games via OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-securesave-specialists-judgment/"><u>[Updated] SecureSave Specialists Judgment</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/easy-steps-to-incorporate-tunes-into-your-instagram-stories/"><u>Easy Steps to Incorporate Tunes Into Your Instagram Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-eye-catchers-of-tomorrow-discovering-6-future-oriented-genres/"><u>In 2024, Eye Catchers of Tomorrow Discovering 6 Future-Oriented Genres</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterful-manipulation-speedy-stylization-techniques-for-win10-apps/"><u>In 2024, Masterful Manipulation Speedy Stylization Techniques for WIN10 Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-the-waterfront-top-5-cameras-for-big-waters/"><u>Master the Waterfront Top 5 Cameras For Big Waters</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/practical-tips-for-console-game-recordings/"><u>Practical Tips for Console Game Recordings</u></a></li>
 </ul></div>
 

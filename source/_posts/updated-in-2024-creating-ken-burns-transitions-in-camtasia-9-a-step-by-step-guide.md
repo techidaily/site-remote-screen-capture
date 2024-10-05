@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Creating Ken Burns Transitions in Camtasia 9  A Step-by-Step Guide\""
-date: 2024-09-26T16:20:59.425Z
-updated: 2024-09-29T16:52:02.534Z
+date: 2024-10-02T19:20:41.873Z
+updated: 2024-10-05T00:58:52.353Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,19 +115,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-navigating-the-convergence-of-obs-and-zoom-for-enhanced-streaming/"><u>[New] 2024 Approved Navigating the Convergence of OBS & Zoom for Enhanced Streaming</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-cracking-the-code-calculating-your-income-from-youtubes-cpm-for-2024/"><u>[Updated] Cracking the Code Calculating Your Income From YouTube's CPM for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-picks-crafting-mc-villages-abodes/"><u>[Updated] In 2024, Top Picks Crafting MC Villages' Abodes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-webcam-safety-starts-here-the-10-best-shields/"><u>[Updated] In 2024, Webcam Safety Starts Here - The 10 Best Shields</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-optimize-logitech-footage-background-free-method/"><u>[Updated] Optimize Logitech Footage - Background-Free Method</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-visionsplit-assessment-overview-for-2024/"><u>[Updated] VisionSplit Assessment Overview for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streaming-showdown-obs-or-twitch-studio/"><u>2024 Approved Streaming Showdown OBS or Twitch Studio</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/embrace-the-brilliance-stream-create-and-revel-in-pcs-hd-video-splendor/"><u>Embrace the Brilliance Stream, Create, and Revel in PC's HD Video Splendor</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratis-e-ottimi-lettori-di-video-in-formato-h2e65-hevc-uhd-scopri-le-opzioni-migliori-per-la-vostra-experienza-di-visualizzazione/"><u>Gratis E Ottimi Lettori Di Video in Formato H.2e65 HEVC UHD – Scopri Le Opzioni Migliori per La Vostra Experienza Di Visualizzazione</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-968-software-and-driver-download-latest-version-available/"><u>HP OfficeJet Pro Ⅶ968 Software & Driver Download - Latest Version Available</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-total-gb-for-24-hour-movie-size/"><u>In 2024, Total GB for 24-Hour Movie Size</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-iptv-screen-capture-techniques/"><u>Mastering IPTV Screen Capture Techniques</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/system-graphics-error-reported/"><u>System Graphics Error Reported</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-oppo-a1x-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Oppo A1x 5G FRP</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-audiovisual-symphony-adding-music-to-your-youtube-masterpieces/"><u>[New] 2024 Approved Audiovisual Symphony Adding Music to Your YouTube Masterpieces</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-record-skype-video-and-audio-calls-on-windows-and-mac-10-ways/"><u>[New] 2024 Approved How to Record Skype Video & Audio Calls on Windows & Mac [10 Ways]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capture-your-desktop-on-windows-3-ways-free/"><u>[New] Capture Your Desktop on Windows, 3 Ways, Free</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-best-practices-for-online-cricket-watch/"><u>[New] Exploring the Best Practices for Online Cricket Watch</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-perfect-playtime-how-to-take-great-xbox-one-shots/"><u>[New] In 2024, A Perfect Playtime How to Take Great Xbox One Shots</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-webcam-recording-apps-in-windows-10-reviewed/"><u>[New] In 2024, Top Webcam Recording Apps in Windows 10 Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-livestran-vs-screen-capture-titans-battle-of-software-giants-obs-and-bandicam/"><u>[New] Livestran vs Screen Capture Titans Battle of Software Giants, OBS & Bandicam</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-linux-screen-capture-software-ranked/"><u>[Updated] Best Linux Screen Capture Software Ranked</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-firefox-recording-tools-and-extensions/"><u>[Updated] Firefox Recording Tools & Extensions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-experts-picks-top-10-budget-friendly-call-apps/"><u>[Updated] In 2024, Expert's Picks Top 10 Budget-Friendly Call Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-lush-looks-and-flawless-filters-building-your-vlog-empire/"><u>[Updated] Lush Looks and Flawless Filters Building Your Vlog Empire</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-top-5-video-editors-for-macos-sierra-for-2024/"><u>[Updated] Top 5 Video Editors for macOS Sierra for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-advanced-features-and-stylish-look-of-the-dell-alienware-aurora-r9-system-review/"><u>Exploring the Advanced Features and Stylish Look of the Dell Alienware Aurora R9 System Review</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/most-popular-firefox-visual-recorders/"><u>Most Popular Firefox Visual Recorders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/securing-footage-techniques-for-obscuring-sensitive-info-for-2024/"><u>Securing Footage Techniques for Obscuring Sensitive Info for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-airdrop-issues-quickly-discover-the-top-16-remedies/"><u>Solve AirDrop Issues Quickly: Discover the Top 16 Remedies!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-asus-rog-phone-8-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Asus ROG Phone 8 for Parents | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-smart-tv-technology-key-buying-considerations/"><u>Understanding Smart TV Technology: Key Buying Considerations</u></a></li>
 </ul></div>
 
