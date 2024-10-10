@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Step-by-Step Guide to Ken Burns Effect with Camtasia 9\""
-date: 2024-09-30T00:55:44.042Z
-updated: 2024-10-04T22:12:38.242Z
+date: 2024-10-03T19:51:31.928Z
+updated: 2024-10-10T00:03:24.528Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,22 +115,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-sync-zoom-meeting-times-across-mobile-and-desktop-calendars/"><u>[New] 2024 Approved Sync Zoom Meeting Times Across Mobile & Desktop Calendars</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-discover-the-ideal-screencasting-software-for-teachers-for-2024/"><u>[New] Discover the Ideal Screencasting Software for Teachers for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-keep-and-store-your-linkedin-videos-with-these-high-quality-downloader-apps-for-2024/"><u>[New] Keep and Store Your LinkedIn Videos with These High-Quality Downloader Apps for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-prime-monitors-ranked-for-ps5-gameplay/"><u>[New] Prime Monitors Ranked for PS5 Gameplay</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-all-you-need-to-know-about-bandicam-updated/"><u>[Updated] In 2024, All You Need to Know About Bandicam (Updated )</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-digital-expression-unleashed-crafting-metaverse-memes/"><u>[Updated] In 2024, Digital Expression Unleashed Crafting Metaverse Memes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-free-windows-programs-expertly-record-live-shows/"><u>[Updated] In 2024, Free Windows Programs Expertly Record Live Shows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-practices-for-livestreaming-and-archiving-sports-events/"><u>2024 Approved Best Practices for Livestreaming & Archiving Sports Events</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-discovering-the-best-in-webcam-videography-tech/"><u>2024 Approved Discovering the Best in WebCam Videography Tech</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-instant-guide-photos-to-powerful-youtube-channel-thumbnails-in-a-flash/"><u>2024 Approved Instant Guide Photos to Powerful YouTube Channel Thumbnails in a Flash</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-perfect-first-impressions-on-any-device-for-2024/"><u>Crafting Perfect First Impressions on Any Device for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-guide-to-capturing-your-screens-stepwise-approach/"><u>Essential Guide to Capturing Your Screens - Stepwise Approach</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-enabling-overwatch-improve-live-stream-quality-by-minimizing-pauses/"><u>How Does Enabling Overwatch Improve Live Stream Quality by Minimizing Pauses?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/i2c-hid-drivers-troubleshooting-made-simple-top-tips-and-techniques/"><u>I2C HID Drivers Troubleshooting Made Simple - Top Tips & Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/record-computer-sound-and-microphone/"><u>Record Computer Sound and Microphone</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-11-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 11 Pro 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-drone-collection-available-now/"><u>Ultimate Drone Collection Available Now</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-best-10-battle-royale-games/"><u>[New] In 2024, Best 10 Battle Royale Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-targeted-thought-leadership-with-profound-fb-video-strategies/"><u>[New] In 2024, Targeted Thought Leadership with Profound FB Video Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-preventing-frames-gaps-for-flawless-video-captures-for-2024/"><u>[New] Preventing Frames Gaps for Flawless Video Captures for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-practices-in-adobe-captivate-for-videos/"><u>[Updated] 2024 Approved Best Practices in Adobe Captivate for Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-screencast-wisdom-key-facts-and-strategies/"><u>[Updated] Expert Screencast Wisdom Key Facts and Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-make-your-gaming-great-not-stressful/"><u>[Updated] Make Your Gaming Great, Not Stressful</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-list-of-win-11-hd-webcam-recording-kits/"><u>[Updated] Ultimate List of Win 11 HD Webcam Recording Kits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-in-depth-review-complete-camstudio-screencap-suite/"><u>2024 Approved In-Depth Review Complete CamStudio Screencap Suite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speeding-up-your-periscope-streams-effortlessly/"><u>2024 Approved Speeding Up Your Periscope Streams Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207955865-corsair-hs50-not-working-heres-how-to-get-your-mic-up-and-running-again/"><u>Corsair HS50 Not Working? Here's How to Get Your Mic Up and Running Again</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ifa-2023-lenovo-legion-go-next-gen-gaming-experience/"><u>IFA 2023: Lenovo Legion Go - Next-Gen Gaming Experience</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-cut-the-cord-clutter-simultaneous-playthrough-of-videos/"><u>In 2024, Cut the Cord Clutter Simultaneous Playthrough of Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-vsg-hd-screen-snapper-reports-extensive-breakdown/"><u>In 2024, VSG HD Screen Snapper Reports Extensive Breakdown</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-iphone-data-rescue-solution-secure-your-purchase/"><u>Professional iPhone Data Rescue Solution – Secure Your Purchase</u></a></li>
 </ul></div>
 

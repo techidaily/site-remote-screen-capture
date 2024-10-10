@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Essential Guide to Screen Capture Windows"
-date: 2024-08-17T11:33:07.993Z
-updated: 2024-08-18T11:33:07.993Z
+date: 2024-10-05T18:47:20.016Z
+updated: 2024-10-10T02:26:33.988Z
 tags: 
   - screen-recording
   - ai video
@@ -74,6 +74,19 @@ You can add annotations to the screenshots, by clicking on the bullet point pen,
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-editing-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3. Saving and Exporting Screenshots
 
 Click on the Save icon, in the app's toolbar ribbon, and select the destination where the file will be stored. You can also copy the screenshot to the clipboard, by clicking on the icon located next to the Save option.
@@ -83,8 +96,12 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
@@ -92,15 +109,22 @@ All versions of Windows 10 feature the Xbox app that offers the DVR support and 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
@@ -116,8 +140,12 @@ You can launch the app from the Start menu or by typing its name in the Search C
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
 #### Step 2: Annotating and Saving the Screenshots
@@ -138,16 +166,17 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 5: Take a Quick Screenshots with Print Screen
 
 Nearly all desktop and laptop PCs have a PrintScreen button on their keyboards, but the process of taking a screenshot may vary depending on the model you have. When creating a screenshot on a laptop you have to hold the Function (Fn) key with the Print Screen button that is usually labeled PrtScn or PrntScrn. All screenshots you take will be saved in the Screenshots sub-folder located in the Pictures folder in This PC. Furthermore, you can capture the full screen or only a portion of it and you can either copy or save the screenshot by using this keyboard shortcut.
@@ -182,13 +211,18 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -196,3 +230,17 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-easy-loop-keeping-iphone-videos-running/"><u>[New] In 2024, Easy Loop Keeping iPhone Videos Running</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-stepwise-approach-to-planning-online-collaborative-meets/"><u>[Updated] 2024 Approved A Stepwise Approach to Planning Online Collaborative Meets</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-beginner-friendly-approach-to-iphone-screen-casts-for-2024/"><u>[Updated] Beginner-Friendly Approach to Iphone Screen Casts for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-techniques-for-ignoring-home-based-educational-media/"><u>[Updated] Techniques for Ignoring Home-Based Educational Media</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a15-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A15 5Gwith/without a PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-customize-screenshot-storing-on-mac/"><u>In 2024, Customize Screenshot Storing on Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-discover-the-best-5-devices-to-stream-and-record-sessions/"><u>In 2024, Discover the Best 5 Devices to Stream & Record Sessions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-discovering-the-ultimate-solution-showmores-recording-mastery/"><u>In 2024, Discovering The Ultimate Solution ShowMore's Recording Mastery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-tutorial-set-up-your-logitech-driving-force-gt-controller-with-easy-downloads-for-win-oses/"><u>Ultimate Tutorial: Set Up Your Logitech Driving Force GT Controller with Easy Downloads for Win OSes</u></a></li>
+</ul></div>
+

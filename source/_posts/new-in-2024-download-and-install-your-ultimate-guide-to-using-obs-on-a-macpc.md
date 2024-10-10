@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Download & Install  Your Ultimate Guide to Using OBS on a MacPC\""
-date: 2024-09-28T19:18:13.191Z
-updated: 2024-10-04T17:50:17.378Z
+date: 2024-10-03T22:43:15.466Z
+updated: 2024-10-10T04:15:50.477Z
 tags: 
   - screen-recording
   - ai video
@@ -46,13 +46,6 @@ Open OBS for the first time by going to the Applications folder and double-click
 
 ![get-started](https://images.wondershare.com/filmora/article-images/get-started.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Best OBS Settings for Mac
 
 OBS Studio is a complex software that comes with pre-installed screencasting capabilities. Free software often lacks the breadth of features required for flawless broadcasting, but not with OSB Studio. Even though the program is free, it features all of the crucial components that characterize online broadcasting. Many additional parts and modules will be given by the software now and then. That suggests it's really necessary to dabble and refresh with it. Else, you can experience a few hassles in using OBS correctly.
@@ -69,11 +62,25 @@ In OBS for Mac, this setting will deliver the sound of the source to the Desktop
 
 ![customize record](https://images.wondershare.com/filmora/article-images/customize-record.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Set the Screen and Output Mode**
 
 In OBS Studio for Mac, this setting will broadcast the sound of the source to the stream and Desktop sound separately. This takes into mind individual sound control. To do so, go to the bottom right corner of your screen and pick "settings." Then, under "recording path," select the "output" option to specify the spot on your computer where you desire to keep the recordings. Right after that, press the Record button to start recording your Game Audio in parallel.
 
 ![output mode](https://images.wondershare.com/filmora/article-images/output-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Record Screen with OBS on Mac
 
@@ -85,18 +92,18 @@ To purchase OBS Studio, go to the OBS Project's official website and join up for
 
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Add Scenes for Recording**
 
 OBS Studio will be available on their PC when the installation is complete, and players may use it to record their Valorous games. The software, on the other hand, does not come pre-configured for recording and must be set up manually. Scenes should be added. Open OBS and go to the bottom left of the screen to the "+" icon below "scenes." Add a "recording" scenario to the mix.
 
 ![add scenes](https://images.wondershare.com/filmora/article-images/add-scenes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3: Customize the Recording**
 
@@ -105,10 +112,10 @@ Users should go to the Output tab and set the Video Bitrate to 6000 Kbps, Encode
 ![output tab](https://images.wondershare.com/filmora/article-images/output-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You may add a "Video Capture Device" to capture your webcam and an "Audio Input Capture" to gather the sounds from your microphone if you wish to. The next step is for users to go to the Audio tab and deactivate Desktop Audio. Users may add an audio input device, such as a microphone, by setting the Mic/Auxiliary device under the same tab.
@@ -143,13 +150,6 @@ To begin with the Wondershare Filmora video recorder, you need to download the s
 
 ![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Set Up Your Screen**
 
 After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
@@ -190,10 +190,10 @@ To begin with the Wondershare Filmora video recorder, you need to download the s
 ![wondershare](https://images.wondershare.com/filmora/article-images/wondershare.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Set Up Your Screen**
@@ -201,13 +201,6 @@ To begin with the Wondershare Filmora video recorder, you need to download the s
 After starting Wondershare Filmora, you should see the following interface. Now you need to click on the Capture button, to begin with capturing your video screen:
 
 ![capture button](https://images.wondershare.com/filmora/article-images/capture-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Select the screen area which you wish to capture in your final film. Customize the parameters of your recording in the corner settings box with the Filmora title. Just click on the options tab and adjust your recordings as you wish.  
 Step 3: Start Capturing
@@ -227,10 +220,17 @@ The post-production editing capability may also be used to improve the recording
 ![directly share to youtube](https://images.wondershare.com/filmora/article-images/directly-share-to-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -273,10 +273,10 @@ The post-production editing capability may also be used to improve the recording
 ![directly share to youtube](https://images.wondershare.com/filmora/article-images/directly-share-to-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -346,19 +346,18 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-az-screen-recorder-comprehensive-app-review-and-alternative/"><u>[New] 2024 Approved AZ Screen Recorder | Comprehensive App Review & Alternative</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-seamless-transition-transferring-exclusive-youtube-content-to-gmail/"><u>[New] 2024 Approved Seamless Transition Transferring Exclusive YouTube Content to Gmail</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ideal-tools-for-documenting-classroom-engagement-for-2024/"><u>[New] Ideal Tools for Documenting Classroom Engagement for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-depth-evaluation-obs-as-an-advanced-recorder/"><u>[New] In-Depth Evaluation OBS as an Advanced Recorder</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-music-law-guide-for-instagram-users/"><u>[Updated] 2024 Approved The Music Law Guide for Instagram Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-in-action-detailed-analysis-of-apowersoft-on-pcs-for-2024/"><u>[Updated] Capture in Action Detailed Analysis of Apowersoft on PCs for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-stream-downloading-on-different-operating-systems/"><u>[Updated] FB Stream Downloading on Different Operating Systems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-techniques-for-saving-facetime-chats-live/"><u>[Updated] Seamless Techniques for Saving FaceTime Chats Live</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-melody-manual-grab-listen-and-scrutinize-songs/"><u>2024 Approved Melody Manual Grab, Listen & Scrutinize Songs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beam-brighter-adopting-the-playful-cartoon-lens-on-snapchat/"><u>In 2024, Beam Brighter Adopting the Playful Cartoon Lens on Snapchat</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-13c-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi 13C 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ticklish-titles-laugh-out-loud-gaming-for-children/"><u>In 2024, Ticklish Titles Laugh-Out-Loud Gaming for Children</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-vid-recorders-vault-top-techniques-for-tv-streaming/"><u>In 2024, Vid-Recorder's Vault Top Techniques for TV Streaming</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/flv-gif/"><u>영구 용인: 간단한 방법, 우리가 도와드리는 화면에서 FLV 개시를 GIF로 전환</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-10-online-collaboration-tools-ensuring-privacy-for-2024/"><u>[New] Essential 10 Online Collaboration Tools Ensuring Privacy for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-conduct-screenshares-in-zoom/"><u>[New] In 2024, How to Conduct Screenshares in Zoom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-wrapping-the-world-in-one-frame-not-two-sides/"><u>[New] Wrapping the World in One Frame, Not Two Sides</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-game-away-your-worries-the-coolest-titles/"><u>[Updated] In 2024, Game Away Your Worries The Coolest Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-rebranding-identity-on-google-meet-laptops-and-phones/"><u>[Updated] In 2024, Rebranding Identity on Google Meet - Laptops & Phones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-transforming-spaces-the-art-of-metaphysical-marketing-for-2024/"><u>[Updated] Transforming Spaces The Art of Metaphysical Marketing for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/complete-self-guided-tour-to-host-and-participate-in-google-meet-for-2024/"><u>Complete Self-Guided Tour to Host & Participate in Google Meet for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/easy-guide-to-entering-google-meet-on-devices/"><u>Easy Guide to Entering Google Meet on Devices</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-file-removal-on-windows-customizable-scheduling-feature-of-the-stellar-file-eraser-standard-edition/"><u>Effortless File Removal on Windows: Customizable Scheduling Feature of the Stellar File Eraser Standard Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/minimca-homes-the-ultimate-guide-for-entry-level-builders/"><u>MiniMCA Homes The Ultimate Guide for Entry-Level Builders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/smoothscreensaver-lightweight-recording-tool/"><u>SmoothScreenSaver Lightweight Recording Tool</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a05s-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-vivo-y56-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo Y56 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

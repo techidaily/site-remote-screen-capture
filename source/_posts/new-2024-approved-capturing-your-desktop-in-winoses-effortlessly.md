@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capturing Your Desktop in WinOSes Effortlessly\""
-date: 2024-08-25T01:41:40.991Z
-updated: 2024-08-26T01:41:40.991Z
+date: 2024-10-04T07:19:44.984Z
+updated: 2024-10-09T19:44:09.117Z
 tags: 
   - screen-recording
   - ai video
@@ -62,6 +62,13 @@ The Windows Key + Shift + S keyboard shortcut can also be used to activate the S
 
 ![ Windows Screen Sketch](https://images.wondershare.com/filmora/article-images/windows-screen-sketch-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Free Form option lets you create a screenshot in any shape you want, while the Full-Screen feature automatically captures the entire screen. The image you create will be saved on your hard-drive, and if you want to edit it, you'll have to import the file into Screen Sketch.
 
 #### Step 2. Editing the Screenshot
@@ -83,24 +90,35 @@ Click on the Save icon, in the app's toolbar ribbon, and select the destination 
 The Share feature enables you to post the picture on social media or send it via email. PC owners who don't have the latest Windows update can use the Snipping Tool or some other method of creating a screenshot.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2: Capturing Screenshots with Keyboard Shortcuts in Game Bar
 
 All versions of Windows 10 feature the Xbox app that offers the DVR support and it lets its users capture live gameplay or take screenshots of games that are compatible with the Windows 10 OS. Open the Xbox app and head over to the Settings menu and click on the Game DVR option. Make sure that the Take screenshots using Game DVR feature is on, and then press the Windows + G keys to open the Game Bar. The app also lets you customize your own keyboard shortcut if you want to change the default one.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot-shotkey.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 Select the 'Yes, this is a game' option if a dialogue box pops-up on the screen and click on the Camera icon or hold the Windows, Alt and PrintScreen keys to take a screenshot. A Screenshot Saved notification will appear on the screen and you should click on in order to access the picture you've just taken using the Xbox app. The file will be displayed in the Game DVR> On This PC menu. The Game Bar saves screenshots in the PNG file format and it stores them in C:\\Users\\\[your username\]\\Videos\\Captures.
 
 ![ Windows Game Bar Screenshot](https://images.wondershare.com/filmora/article-images/xbox-game-bar-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Using the Snipping Tool to Take Flexible Screenshots
 
 This popular app for taking screenshots has been bundled with all versions of the Windows OS since Windows Vista has been released in 2006, which means that PC owners who have Windows 7,8 or 10 installed on their device can use it to take screenshots. For nearly a decade The Snipping Tool has offered the same set of tools, but recently the Delay option that allows you to select how long the software should wait before taking the screenshot was added to the list of the app's features.
@@ -116,8 +134,18 @@ You can launch the app from the Start menu or by typing its name in the Search C
 ![ Windows snipping tool ](https://images.wondershare.com/filmora/article-images/snipping-tool-screenshot-new.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Afterward, you can just hold the left mouse button and drag the mouse to select the portion of the screen you'd like to capture. When ready to take the snapshot release the mouse key and wait for the app to display the image.
 
 #### Step 2: Annotating and Saving the Screenshots
@@ -139,15 +167,16 @@ Hold the Window + C keys or use the mouse to access the Charms Bar and then clic
 ![ Windows 8 Screenshot tool ](https://images.wondershare.com/filmora/article-images/windows8-screenshot-share-charm.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Find the moment in the video you'd like to capture, and then select the Screenshot option from the Video app's menu. The screenshot will be automatically created, and afterward, you should open the Mail application if want to send it. Enter the email address and click on the Send button to complete the process.
 
 The Share Charm offers a quick and easy way to take screenshots, but it lacks the tools for editing the images you create. However, it still provides powerful sharing options that enable you to send screenshots and other media files without having to invest too much time.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Method 5: Take a Quick Screenshots with Print Screen
 
 Nearly all desktop and laptop PCs have a PrintScreen button on their keyboards, but the process of taking a screenshot may vary depending on the model you have. When creating a screenshot on a laptop you have to hold the Function (Fn) key with the Print Screen button that is usually labeled PrtScn or PrntScrn. All screenshots you take will be saved in the Screenshots sub-folder located in the Pictures folder in This PC. Furthermore, you can capture the full screen or only a portion of it and you can either copy or save the screenshot by using this keyboard shortcut.
@@ -182,13 +211,18 @@ Leave a comment and let us know what is your favorite method of taking screensho
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -196,3 +230,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-5-best-live-streaming-webcamscameras-for-twitch/"><u>[New] In 2024, 5 Best Live Streaming Webcams/Cameras for Twitch</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-speedy-steps-to-save-slideshows/"><u>[New] In 2024, Speedy Steps to Save Slideshows</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-no-credit-calls-unlocking-free-tools-for-iphone-photo-blurring/"><u>[New] No Credit Calls Unlocking Free Tools for iPhone Photo Blurring</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-easy-steps-for-effective-ez-grabber-implementation/"><u>[Updated] In 2024, Easy Steps for Effective EZ Grabber Implementation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-obsudios-deep-dive-into-best-screencast-software-for-live-broadcasts/"><u>[Updated] In 2024, Obsudio's Deep Dive Into Best Screencast Software for Live Broadcasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-secrets-to-flawless-remote-audio-production/"><u>[Updated] Secrets to Flawless Remote Audio Production</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-zoom-brilliance-a-blueprint-for-immaculate-edges/"><u>2024 Approved Zoom Brilliance A Blueprint for Immaculate Edges</u></a></li>
+<li><a href="https://win-forum.techidaily.com/activate-power-management-using-wake-on-lan-with-windows-10-and-11/"><u>Activate Power Management: Using Wake-on-LAN with Windows 10 and 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-video-de-flv-a-3gp-sin-costo-mediante-la-herramienta-online-de-movavi/"><u>Convertir Video De Flv a 3Gp Sin Costo Mediante La Herramienta Online De Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/from-design-to-performance-a-comprehensive-review-of-the-apple-iphone-12-mini/"><u>From Design to Performance: A Comprehensive Review of the Apple iPhone 12 Mini</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-transform-high-definition-footage-from-h264-to-h265-maximize-space-maintain-superior-quality/"><u>How to Transform High-Definition Footage From H.264 To H.265 - Maximize Space, Maintain Superior Quality</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Lava Yuva 2 Pro?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-swift-screen-tape-with-sound-included/"><u>In 2024, Swift Screen Tape with Sound Included</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keep-your-macbook-awake-tips-for-preventing-automatic-sleep-mode/"><u>Keep Your MacBook Awake: Tips for Preventing Automatic Sleep Mode</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/os-melhores-criadores-de-videos-de-aniversarios-online-em-2024-top-9-escolhidos/"><u>Os Melhores Criadores De Vídeos De Aniversários Online Em 2024: Top 9 Escolhidos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-lava-yuva-2-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Lava Yuva 2 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-dos-and-donts-of-youtube-video-logging/"><u>The Do's and Don'ts of YouTube Video Logging</u></a></li>
+</ul></div>
+

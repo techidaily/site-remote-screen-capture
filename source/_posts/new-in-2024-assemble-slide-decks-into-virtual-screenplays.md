@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Assemble Slide Decks Into Virtual Screenplays"
-date: 2024-08-17T11:32:00.303Z
-updated: 2024-08-18T11:32:00.303Z
+date: 2024-10-08T22:25:01.574Z
+updated: 2024-10-09T23:25:27.776Z
 tags: 
   - screen-recording
   - ai video
@@ -53,6 +53,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1:How to Save a PowerPoint 2007 Presentation as a Video on Windows OS
 
 All versions of the PowerPoint that were released since 2010 allow its users to save their presentations as videos, but older versions of the software are still frequently used. The process of converting a PPT file into a video file in PowerPoint 2007 may not be as simple as on the latest version of the software, but it is far from being complicated. Please note that if you have a 2013 PowerPoint and you want to save a PPT file created on the 2007 version of the software you can do so by clicking on the Create a Video option. Here's how you can convert a PowerPoint presentation to video if you are still using PowerPoint 2007.
@@ -75,42 +82,32 @@ After you create a presentation, save it as you normally would. You should then 
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2010.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 When the Save and Send menu appears on the screen you should find the Create a Video option and click on it.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-to-video-ms2010-create-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Create a Video box that contains video settings will pop up on the screen and you should click on the Computer&HD Displays option in order to adjust the size and the quality of your video.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the next step, you can switch off the default timings and narration by clicking on the Don't Use Recorded Timings and Narration. Keep in mind that this step is only necessary if you want to adjust timings manually and use narration you recorded.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-recorded-timings-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Click on the Create Video icon once you've made all adjustments and go ahead to select the destination on your hard drive where the video file will be saved and to insert a file name.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt2010-create-video.jpg)
@@ -130,27 +127,34 @@ Once the Create a Video window emerges on the screen, you should click on the Co
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 After fine-tuning the video settings, you can proceed to click on the Use Recorded Timings and Narrations menu. If you don't want to include narration or recorded timings in your video, you can set the duration of each slide individually with the Timings feature that is located at the bottom of the screen.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-timings-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Hitting the Create a Video button will bring up the Save As window that will enable you to name the video file, select the location of the folder where the video file will be saved and choose the file format to which you want to convert the PPT file. When ready, click on the Save button to start the conversion, and that's it, you've successfully turned a PPT file into a video.
 
 ![ Save PPT to Videos ](https://images.wondershare.com/filmora/article-images/ppt-save-as-video-2013.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: Saving PowerPoint Presentation as video on Mac OS
 
 Mac users who want to save PPT files as videos can easily do so, but the videos they create can only be saved as .mov files that are compatible with [QuickTime](https://tools.techidaily.com/wondershare/filmora/download/) player and file conversion software. The Mac version of PowerPoint doesn't allow you to include multimedia, transitions or animations in your videos, and for that reason, it is important to remove all such content from the presentation before you start the conversion process. The following steps are applicable in 2008 and 2011 PowerPoint for Mac
@@ -161,13 +165,16 @@ Click on the File menu and select the Save as Movie option. After the new window
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 The Movie Options dialogue box will pop up, and you should click on the Movie Options icon to set slide durations, add transitions between slides, create a video loop or choose the size of the video and its quality.
 
 ![Save PPT to Videos](https://images.wondershare.com/filmora/article-images/save-ppt-as-video-mac-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Hit OK to close the Movie Options, and then click Save to convert the PPT into a video file.
 
@@ -185,11 +192,27 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comparing-screen-capture-software-features-bandicam-and-camtasia/"><u>[New] 2024 Approved Comparing Screen Capture Software Features Bandicam & Camtasia</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mac-tips-capturing-class-notes-efficiently/"><u>[New] Mac Tips Capturing Class Notes Efficiently</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/op-8-youtuber-blunders-to-avoid-and-why-theyre-common-for-2024/"><u>[New] Top 8 Youtuber Blunders to Avoid and Why They're Common for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-key-10-acoustic-amplifiers-for-android-ios/"><u>[Updated] In 2024, Key 10 Acoustic Amplifiers for Android, iOS</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-perfect-guide-youtube-videos-on-instagram-feed/"><u>[Updated] Perfect Guide YouTube Videos on Instagram Feed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-definitive-guide-to-du-recorders-capabilities/"><u>[Updated] The Definitive Guide to Du Recorder's Capabilities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-vlc-key-mac-functions-explained/"><u>2024 Approved Mastering VLC Key Mac Functions Explained</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-ultimate-2023-checklist-for-camstudio-video-recording/"><u>2024 Approved The Ultimate 2023 Checklist for CamStudio Video Recording</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sdr-to-hdr-ultimate-guide-on-sdr-to-hdr-video-conversion/"><u>In 2024, SDR to HDR Ultimate Guide on SDR to HDR Video Conversion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/simplified-background-editing-in-google-meet-chats/"><u>Simplified Background Editing in Google Meet Chats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tactical-approach-to-effortless-ipad-screen-records-for-2024/"><u>Tactical Approach to Effortless iPad Screen Records for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-5-best-video-editors-for-ipad-2022-review-for-2024/"><u>Updated 5 Best Video Editors for iPad 2022 Review for 2024</u></a></li>
+</ul></div>
+

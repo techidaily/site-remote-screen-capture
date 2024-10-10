@@ -1,7 +1,7 @@
 ---
 title: "Zoom Breakout Rooms for Newcomers Explored"
-date: 2024-10-03T22:01:01.139Z
-updated: 2024-10-05T01:16:41.876Z
+date: 2024-10-03T00:51:13.319Z
+updated: 2024-10-10T00:29:47.596Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ You must purchase the Large Meeting add-on if you would like to create 50 breako
 ## Part 2: How to Create a Breakout Room?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Enable Breakout Rooms in Zoom
@@ -70,19 +70,33 @@ Zoom also allows account administrators and account members to activate the brea
 
 Afterward, you should just enable the breakout room option from the Meetings tab and decide if you want to pre-assign members to particular rooms while scheduling a meeting.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Create Breakout Rooms in Zoom Meeting
 
 Once the breakout room feature is enabled, you should start a new meeting and click on the Breakout Room icon in the Zoom’s toolbar. You will be prompted to set the number of rooms you would like to create for the meeting and choose if you want to assign participants to breakout rooms automatically or manually.
 
 ![ Create  Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/create-breakout-rooms.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click on the Create Rooms button to complete the process and proceed to fine-tune the settings for each room.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Manage Breakout Rooms
@@ -93,22 +107,21 @@ You can then decide if you want to move all participants into breakout rooms aut
 
 ![ Manage  Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/manage-breakout-rooms-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on the Open all Rooms button to start assigning participants to different breakout rooms. You should then click on the Assign button next to a particular room and select all the participants you wish to add to that room. Keep in mind that the Assign button will be replaced with the number of participants each room has as soon as you add the first participant to them.
 
 Zoom also allows you to move participants from one room to another after you assigned them to one of the breakout rooms you created. You will be able to see Move and Exchange options next to the names of all participants you added to a room. Click on the Move option if you want to move a participant from one room to another or click on the Exchange option if you want to switch places of two participants who were added to different rooms. In addition, you can delete all breakout rooms you created and make new ones by clicking on the Recreate button or delete a room you selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Recording Zoom Breakout Rooms
@@ -136,19 +149,6 @@ Only users with access to Zoom desktop client, Zoom mobile app and H.323/SIP dev
 ### 2\. Can I communicate with participants in Breakout Session?
 
 Hosts can only communicate with participants of a single breakout room, which means that they have to join a room to which a particular participant was assigned in order to communicate with them.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Can participants switch between breakout rooms after a session starts?
 
@@ -179,20 +179,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagrams-guide-to-real-photo-verification/"><u>[New] 2024 Approved Instagram's Guide to Real Photo Verification</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-how-to-clear-suggested-podcast-selections-in-spotify-for-2024/"><u>[New] How To Clear Suggested Podcast Selections in Spotify for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/nnovative-split-screen-videos-for-youtube-sharing-for-2024/"><u>[New] Innovative Split-Screen Videos for YouTube Sharing for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-paired-monitors-preservation/"><u>[Updated] 2024 Approved Paired Monitors Preservation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-complete-process-of-recording-your-fb-messenger-conversations/"><u>[Updated] In 2024, The Complete Process of Recording Your FB Messenger Conversations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-industry-standard-guide-implementing-stopwatches-in-video-streaming-software/"><u>[Updated] Industry Standard Guide Implementing Stopwatches in Video Streaming Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-techniques-for-high-quality-rl-footage/"><u>[Updated] Techniques for High-Quality RL Footage</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-essentials-of-gameplay-saving-a-complete-guide-to-recording-minecraft-on-mac-for-2024/"><u>[Updated] The Essentials of Gameplay Saving A Complete Guide to Recording Minecraft on Mac for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-voice-transcription-appraisal/"><u>[Updated] Voice Transcription Appraisal</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-redmi-12-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi Redmi 12 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-gadget-guidance-by-toms-hardware-professionals/"><u>Advanced Gadget Guidance by Tom's Hardware Professionals</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/comprendre-le-format-webm-guide-complet-pour-lire-et-gerer-les-fichiers/"><u>Comprendre Le Format WebM: Guide Complet Pour Lire Et Gérer Les Fichiers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a59-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A59 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-c53-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-online-audiophiles-mp3-decomposer-and-assembler/"><u>Updated 2024 Approved Online Audiophiles MP3 Decomposer & Assembler</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-godly-onslaught-ragnaroks-day/"><u>[New] In 2024, Godly Onslaught Ragnarok’s Day</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-essential-guide-for-cost-free-google-meet-management/"><u>[New] In 2024, The Essential Guide for Cost-Free Google Meet Management</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-simplicity-guide-to-iphone-screen-recordings-for-2024/"><u>[New] Ultimate Simplicity Guide to iPhone Screen Recordings for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-leading-edge-top-10-webcams-in-the-latest-os/"><u>[Updated] 2024 Approved Leading Edge Top 10 Webcams in the Latest OS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-compact-mp3-skype-archive-on-the-cheap/"><u>[Updated] In 2024, Compact MP3 Skype Archive on the Cheap</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-heroic-journeys-unleashed-the-premier-game-collection/"><u>[Updated] In 2024, Heroic Journeys Unleashed The Premier Game Collection</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastery-levels-of-quantum-hdr-applications/"><u>[Updated] Mastery Levels of Quantum HDR Applications</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-streaming-quality-exclusive-guide-to-9-high-end-filters/"><u>2024 Approved Elevate Streaming Quality Exclusive Guide to 9 High-End Filters</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-terror-in-town-a-list-of-intense-zombie-games/"><u>2024 Approved Terror in Town A List of Intense Zombie Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/filter-outuseless-windows-updates/"><u>Filter Outuseless Windows Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-demonstrating-data-alterations-using-microsoft-excel-on-your-pc/"><u>Guide: Demonstrating Data Alterations Using Microsoft Excel on Your PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-social-simulacrum-sketches-designing-distorted-digital-selves/"><u>In 2024, Social Simulacrum Sketches Designing Distorted Digital Selves</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mastering-custom-link-styling-for-hover-effects-in-flipbook-using-flipbuilder-tools/"><u>Mastering Custom Link Styling for Hover Effects in FlipBook Using FlipBuilder Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/six-sensational-videos-that-keep-on-watchers-for-2024/"><u>Six Sensational Videos That Keep On Watchers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ying-youtube-interactions-for-2024/"><u>Surveying YouTube Interactions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-display-error-nvidias-x0001-on-windows-11/"><u>Tackling Display Error: Nvidia's X0001 on Windows 11</u></a></li>
 </ul></div>
 

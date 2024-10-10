@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Taking Screenshots on Mac [5 Methods]"
-date: 2024-08-25T01:41:14.427Z
-updated: 2024-08-26T01:41:14.427Z
+date: 2024-10-03T20:53:24.849Z
+updated: 2024-10-10T02:04:53.627Z
 tags: 
   - screen-recording
   - ai video
@@ -112,6 +112,13 @@ Want to Make Screen Record on Mac? Try This Out!
 
 [Screen Record on iPad with Ease](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: 4 Methods to Capture Screenshots on Mac Itself
 
 Besides using a screenshot tool, Mac also offers multiple ways to make screenshots on a Mac PC or Macbook. Keep reading to find out the 4 ways!
@@ -120,6 +127,13 @@ Besides using a screenshot tool, Mac also offers multiple ways to make screensho
 * [Method 2: Taking Screenshots with Touch Bar on MacBook Pro](#method2)
 * [Method 3: Capture Screen with Built-in Preview App in Mac](#method3)
 * [Method 4: Make Screenshots with Pre-installed Grab App](#method4)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1 3 Ways to Take Screenshots with Keyboard Commands
 
@@ -131,15 +145,19 @@ Make sure that everything you want to include in the picture is clearly visible 
 
 ![capture entire screen on mac](https://images.wondershare.com/filmora/article-images/capture-entire-screen-on-mac-keyboard-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Way 2: How to Screenshot a Portion of the Screen on a Mac?
 
 If you want to take screenshot on a partial part of the screen, simply hit the **Command + Shift + 4** keys. Then drag the crosshair mouse cursor to the area you want to capture.
 
 ![screenshot protion of screen on mac](https://images.wondershare.com/filmora/article-images/screenshot-portion-of-screen-on-mac-keyboard-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The crosshair will also display the pixel count to show you the size of the screenshot. Holding the **Shift** button will allow you to lock all corners of the selection rectangle, except the one you are dragging.
 
 #### Way 3: How to Take Screenshots of a Specific App Window?
@@ -148,9 +166,6 @@ Launch the app or open the window you'd like to screenshot, and then hold the **
 
 ![capture a window or menu or app on mac](https://images.wondershare.com/filmora/article-images/capture-a-window-or-menu-on-mac-keyboard-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Method 2 Taking Screenshots with Touch Bar on MacBook Pro
 
 MacBook Pro owners can utilize the **Touch Bar** feature to take screenshots on their computers. Click on the **Apple logo** from the menu bar, then select the **System Preferences** option. Click on the **Keyboard > Customize Control Strip** feature, located at the bottom of the screen. Once the new window pops-out you should locate the **Screenshot** icon and drag and drop it to the Touch Bar, and click **Done**.
@@ -159,32 +174,20 @@ MacBook Pro owners can utilize the **Touch Bar** feature to take screenshots on 
 
 Now that the Screenshot option is available from the Touch Bar, you can simply click on its icon and take screenshots of the full screen, a portion of it, or a single window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3 Capture Screen with Built-in Preview App
 
 Open the **Preview** app, go to **File** and find the **Take Screenshot** sub-menu. You can either capture a full screen, a part of it you select or take a screenshot of an active window. Holding the Control button while taking a screenshot will enable you to save the picture to the clipboard and paste it into a photo editing software or a word processor.
 
 ![capture screen with preview on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-preview-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 The Preview app lets you select the saving path and name it before saving.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4 Make Screenshots with Pre-installed Grab App
 
 Go to **Utility > Applications** to launch **Grab**. Click on the **Capture** menu and select the option that suits you best. You can take a screenshot of an entire screen, select the region of the screen you want to capture or take a screenshot of a particular window.
 
 ![make screenshots on mac with grab](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 The Timed Screen feature can be used if you want to have a ten-second delay before you take the screenshot, which can be quite useful if you need time to organize the desktop before the screenshot is taken.
 
 ![use grab to screen shot on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-timed-feature.jpg)
@@ -203,29 +206,48 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -233,3 +255,18 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-tune-up-guide-new-gadgets-reviewed/"><u>[New] 2024 Approved Tune-Up Guide New Gadgets Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-securing-gaming-triumphs-record-save-and-archive-ps4-games/"><u>[New] In 2024, Securing Gaming Triumphs Record, Save & Archive PS4 Games</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-netizen-humorist-platform/"><u>[Updated] Netizen Humorist Platform</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-optimal-mov-recording-settings-for-windows-11/"><u>2024 Approved Optimal MOV Recording Settings for Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-selection-of-mac-clipping-tools/"><u>2024 Approved The Ultimate Selection of Mac Clipping Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock on iPhone 14 Pro Max</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elevate-your-ppt-shows-with-advanced-techniques/"><u>In 2024, Elevate Your PPT Shows with Advanced Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lead-capture-enhanced-solutions-powered-by-the-innovative-cookiebot-engine/"><u>Lead Capture Enhanced: Solutions Powered by the Innovative Cookiebot Engine</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tech-tutorial-record-on-hangouts-for-2024/"><u>Tech Tutorial Record on Hangouts for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-role-of-government-in-supervising-artificial-intelligence-an-examination-of-4-key-techniques/"><u>The Role of Government in Supervising Artificial Intelligence - An Examination of 4 Key Techniques</u></a></li>
+</ul></div>
+
