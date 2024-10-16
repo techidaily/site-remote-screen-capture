@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize the Save Spot of Mac Images"
-date: 2024-10-07T18:04:17.775Z
-updated: 2024-10-10T06:44:44.653Z
+date: 2024-10-15T16:03:09.698Z
+updated: 2024-10-16T16:22:49.410Z
 tags: 
   - screen-recording
   - ai video
@@ -48,13 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -62,10 +55,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -75,6 +68,13 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -87,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,10 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -127,22 +127,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-inexpensive-pcs-optimized-obs-configuration/"><u>[New] 2024 Approved Inexpensive PCs Optimized OBS Configuration</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveiling-the-art-of-podcast-rss-mastery/"><u>[New] 2024 Approved Unveiling the Art of Podcast RSS Mastery</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-chronology-conundrum-best-podcast-times/"><u>[New] Chronology Conundrum Best Podcast Times</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-from-smartphone-to-screen-uploading-pics-on-youtube/"><u>[New] From Smartphone to Screen Uploading Pics on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-saving-your-whatsapp-chat-history-with-confidence/"><u>[New] Saving Your WhatsApp Chat History with Confidence</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-breaking-down-the-finest-liquid-simulation-games/"><u>[Updated] Breaking Down the Finest Liquid Simulation Games</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlining-the-process-of-google-voice-call-capture/"><u>[Updated] Streamlining the Process of Google Voice Call Capture</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-broadcast-battle-analyzing-obs-vs-twitchs-pros/"><u>2024 Approved Broadcast Battle Analyzing OBS Vs. Twitch's Pros</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-smooth-film-making-with-your-macbook-cam/"><u>2024 Approved Smooth Film Making with Your MacBook Cam</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-reno-8t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo Reno 8T Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-11-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 11 Pro in the Best Ways</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-poco-x5-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Poco X5 Device SIM</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-navigating-through-io-screenshot-functionality/"><u>In 2024, Navigating Through IO Screenshot Functionality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-photographers-guide-to-negative-imaging/"><u>In 2024, The Photographer’s Guide to Negative Imaging</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/obs-dominion-vs-streamlabs-kingdom/"><u>OBS Dominion Vs. Streamlabs Kingdom</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/peering-behind-recordcasts-curtain-for-2024/"><u>Peering Behind RecordCast's Curtain for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unleash-creativity-capturing-quality-videos-on-logitech/"><u>Unleash Creativity Capturing Quality Videos on Logitech</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-initiating-conversations-with-google-meet/"><u>[New] 2024 Approved Initiating Conversations with Google Meet</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-simplicity-in-recording-an-overwatch-perspective/"><u>[New] 2024 Approved Simplicity in Recording An Overwatch Perspective</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-lowering-obs-video-encoding-quality-for-2024/"><u>[New] Lowering OBS Video Encoding Quality for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-overwatch-the-ultimate-guide-to-recording-gameplay/"><u>[New] Overwatch The Ultimate Guide to Recording Gameplay</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-step-by-step-setting-up-your-smartphone-as-a-webcam-device-for-2024/"><u>[New] Step-by-Step Setting Up Your Smartphone as a Webcam Device for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-captureconductor-review-a-dive-into-the-best-recording-software/"><u>[Updated] CaptureConductor Review A Dive Into the Best Recording Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-composing-captivating-cutting-edge-synopses/"><u>[Updated] Composing Captivating Cutting-Edge Synopses</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-design-with-confidence-best-free-high-quality-windowsmac-capture-tools/"><u>[Updated] Design with Confidence Best Free, High-Quality Windows/Mac Capture Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-enhancing-engagement-with-impeccable-ppt-recordings/"><u>[Updated] Enhancing Engagement with Impeccable PPT Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-hd-action-recorders-under-100/"><u>2024 Approved Best HD Action Recorders Under $100</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-htc-u23-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your HTC U23 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/beyond-expectations-how-the-ring-spotlight-cam-pro-blew-my-mind-tech-insights-from-zdnet/"><u>Beyond Expectations: How the Ring Spotlight Cam Pro Blew My Mind | Tech Insights From ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquering-the-crash-solutions-for-windows-10-photos-issues/"><u>Conquering the Crash Solutions for Windows 10 Photos Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mac-utility-guide-unlocking-your-ebooks-and-documents-remove-drm-from-pdf-and-epub-formats/"><u>Mac Utility Guide: Unlocking Your Ebooks and Documents - Remove DRM From PDF & EPUB Formats</u></a></li>
 </ul></div>
 

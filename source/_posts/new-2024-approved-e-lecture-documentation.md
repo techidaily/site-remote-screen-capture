@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  E-Lecture Documentation\""
-date: 2024-08-17T11:24:33.061Z
-updated: 2024-08-18T11:24:33.061Z
+date: 2024-10-15T16:36:26.116Z
+updated: 2024-10-16T16:46:38.759Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record Webinars
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -62,6 +69,13 @@ Visit Filmora Scrn's official [webpage](https://tools.techidaily.com/wondershare
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/filmora-scrn-interface.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Select the Quick Capture option in the software's welcome screen and proceed to click on the Setting menu. This action will give you access to the screen recorder's video recording options. Filmora Scrn lets you change Screen, Audio and Camera options. Adjusting the portion of the screen you'd like to record or choosing the frame rate of the recording can be done from the Screen menu, while in the Camera section you can pick a web camera you intend on using in your webinar, change a resolution or set a frame rate for the footage you'll be recording with a webcam.
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
@@ -73,6 +87,13 @@ The Audio option contains Microphone and Computer audio options that can be used
 #### 3. Recording a webinar
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
@@ -93,8 +114,18 @@ Following these simple steps will help you produce insightful and well-rounded w
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -103,16 +134,11 @@ Making sure that all the settings are adjusted properly and that the amount of b
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,3 +146,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-seamless-shoot-and-stream-perfecting-dslr-broadcasts-from-home-pcsmacs/"><u>[New] 2024 Approved Seamless Shoot & Stream Perfecting DSLR Broadcasts From Home PCs/Macs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-strategies-for-measuring-igtv-popularity-indicators/"><u>[New] 2024 Approved Strategies for Measuring IGTV Popularity Indicators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-gamerecorder-gambit/"><u>[New] GameRecorder Gambit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-epicentertainment-eyeview/"><u>[New] In 2024, EpicEntertainment EyeView</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-fight-night-on-nintendo-switch-top-ten-picks/"><u>[New] In 2024, Fight Night on Nintendo Switch - Top Ten Picks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-optimizing-live-obs-broadcasts-for-fb-viewers-for-2024/"><u>[New] Optimizing Live OBS Broadcasts for FB Viewers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professional-tips-for-youtube-and-twitch-streamers-using-obs-effectively/"><u>[New] Professional Tips for YouTube & Twitch Streamers Using OBS Effectively</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-cycling-sims-worth-your-time-for-2024/"><u>[New] Top Cycling Sims Worth Your Time for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-vlc-screencasting-live-feed-webcam-integration-for-2024/"><u>[New] VLC Screencasting Live Feed – Webcam Integration for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-practices-saving-whatsapp-conversations-audio-wise/"><u>[Updated] 2024 Approved Best Practices Saving WhatsApp Conversations Audio-Wise</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-breakthrough-practices-in-youtube-video-saving-for-2024/"><u>[Updated] Breakthrough Practices in YouTube Video Saving for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-instavid-angle-mystery-vertical-reversals-on-the-rise/"><u>[Updated] In 2024, InstaVid Angle Mystery Vertical Reversals on the Rise</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instantaneous-methods-for-video-to-mp3-on-instagram/"><u>[Updated] Instantaneous Methods for Video-to-MP3 on Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/a-complete-guide-on-how-to-capture-and-store-fbs-graphic-delights-effortlessly/"><u>A Complete Guide on How to Capture and Store FB's Graphic Delights Effortlessly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/how-to-use-handbrake-for-transforming-your-dvd-files-compatible-with-windows-media-player/"><u>How to Use Handbrake for Transforming Your DVD Files Compatible with Windows Media Player</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/iphone-app-enables-doc-and-book-scanning-with-ocr-technology-convert-pdfsjpgs-using-finereader/"><u>IPhone App Enables Doc & Book Scanning with OCR Technology - Convert PDFs/JPGs Using FineReader</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-video-recording-and-editing-basics-with-adobe-connect-for-2024/"><u>Navigating Video Recording & Editing Basics with Adobe Connect for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-apple-iphone-12-is-leading-as-this-years-ultimate-smartphone-selection/"><u>Why the Apple iPhone 12 Is Leading as This Year’s Ultimate Smartphone Selection</u></a></li>
+</ul></div>
+

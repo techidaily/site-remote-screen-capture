@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Secure Surveillance Skills  Redacting and Obscuring Personal Information\""
-date: 2024-10-03T17:29:20.255Z
-updated: 2024-10-10T09:18:15.000Z
+date: 2024-10-11T16:59:11.563Z
+updated: 2024-10-16T16:50:30.337Z
 tags: 
   - screen-recording
   - ai video
@@ -54,13 +54,6 @@ For macOS 10.12 or later
 
 ![Filmora Scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-record-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Besides being one of the best screen capturing computer programs for beginners in the industry, Wondershare's Filmora Scrn also features a video editor that allows you to polish your videos immediately after the recording session without using third-party apps.
 
 #### 2. Record Everything on Desktop and Webcam
@@ -74,13 +67,6 @@ Recording voice-over during the recording session, adding markers, or using HotK
 #### 3. Edit Video Footage with Creative Effects
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
@@ -98,9 +84,23 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
@@ -109,13 +109,6 @@ Hiding the identity of the people in your videos and concealing private informat
 #### Step 1. Record a video or import a video file into the editor
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -131,6 +124,13 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -144,10 +144,16 @@ Ok, that's it. Hope you have hidden and blurred the private info in your recorde
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -165,24 +171,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-reviews.techidaily.com/dying-light-review-join-forces-leap-into-action-and-conquer-survival-challenges-together-a-co-op-first-person-parkour-adventure/"><u>'Dying Light' Review: Join Forces, Leap Into Action, and Conquer Survival Challenges Together – A Co-Op First-Person Parkour Adventure</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-voice-over-techniques-video-production-edition/"><u>[New] 2024 Approved Voice Over Techniques Video Production Edition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/oost-viewers-interaction-via-youtube-cards/"><u>[New] Boost Viewers Interaction via YouTube Cards</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-comprehensive-breakdown-sony-fdr-x1000v-complete-guide-for-2024/"><u>[New] Comprehensive Breakdown Sony FDR-X1000V Complete Guide for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-simple-steps-to-make-ipad-screen-captures-a-breeze/"><u>[New] In 2024, Simple Steps to Make iPad Screen Captures a Breeze</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unleash-vrecorder-download-steps/"><u>[New] In 2024, Unleash VRecorder Download Steps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-depth-review-of-razers-high-res-cam/"><u>[New] In-Depth Review of Razer's High-Res Cam</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-innovative-ways-to-archive-voice-transcripts-from-whatsapp-for-2024/"><u>[New] Innovative Ways to Archive Voice Transcripts From WhatsApp for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-mac-tools-excluding-standard-bandicam-for-2024/"><u>[Updated] Best Mac Tools Excluding Standard Bandicam for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-discreetly-see-fb-snapshots-for-2024/"><u>[Updated] Discreetly See FB Snapshots for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-listing-best-no-ad-android-recording-apps-for-2024/"><u>[Updated] Ultimate Listing Best No-Ad Android Recording Apps for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-novice-to-pro-ps4-recordings-using-obs-studio/"><u>2024 Approved From Novice to Pro PS4 Recordings Using OBS Studio</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audio-callback-collector-iphone-2024-model/"><u>Audio Callback Collector - iPhone 2024 Model</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/effortless-file-deletion-for-macs-stellars-mobile-eraser-standard-version/"><u>Effortless File Deletion for MACs: Stellar's Mobile Eraser Standard Version</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>In 2024, M1 Pro & M1 Max Exploring Their Significant Differences</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-sound-capture-in-windows-11/"><u>In 2024, Mastering Sound Capture in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-the-digital-space-with-impactful-fb-giveaway-posts/"><u>Navigating the Digital Space with Impactful FB Giveaway Posts</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/utilizing-smartphones-for-effective-home-based-filming-for-2024/"><u>Utilizing Smartphones for Effective Home-Based Filming for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-conquering-live-broadcast-a-comprehensive-guide-for-youtube-and-twitch/"><u>[Updated] Conquering Live Broadcast A Comprehensive Guide for YouTube & Twitch</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-cutting-edge-editing-10-pioneering-tools-for-instagram-vids/"><u>[Updated] Cutting-Edge Editing 10 Pioneering Tools for Instagram Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-audio-player-insights-and-critiques/"><u>[Updated] In 2024, Audio Player Insights & Critiques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-editors-toolkit-using-markers-in-professional-editing-for-2024/"><u>[Updated] The Editor's Toolkit Using Markers in Professional Editing for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-5-homemade-shot-strategies-the-fastest-hacks-you-need/"><u>[Updated] Top 5 Homemade Shot Strategies – The Fastest Hacks You Need</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-editing-upgrades-for-final-cut-pro-professionals/"><u>2024 Approved Top 10 Editing Upgrades for Final Cut Pro Professionals</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-12-pro-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 12 Pro Safe and Legal</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-15-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 15 Pro Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-targus-docking-station-driver-software-quick-download-and-setup-instructions/"><u>Latest Targus Docking Station Driver Software: Quick Download & Setup Instructions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-overwatch-audio-capture-settings/"><u>Navigating Overwatch Audio Capture Settings</u></a></li>
+<li><a href="https://fox-that.techidaily.com/spotify-on-ios-addressing-app-stability-concerns-prevent-it-from-shutting-down-while-your-phone-is-locked/"><u>Spotify on iOS: Addressing App Stability Concerns – Prevent It From Shutting Down While Your Phone Is Locked</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-15-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 15 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

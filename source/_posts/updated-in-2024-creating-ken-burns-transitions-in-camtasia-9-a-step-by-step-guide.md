@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Creating Ken Burns Transitions in Camtasia 9  A Step-by-Step Guide\""
-date: 2024-10-06T02:42:19.351Z
-updated: 2024-10-09T22:53:24.825Z
+date: 2024-10-11T16:38:47.777Z
+updated: 2024-10-16T16:59:39.083Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,22 +115,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-emotional-undercurrents-in-background-film-soundtracks-for-2024/"><u>[New] Emotional Undercurrents in Background Film Soundtracks for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-navigating-through-linkedin-account-termination-procedures/"><u>[New] In 2024, Navigating Through LinkedIn Account Termination Procedures</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-recording-success-a-step-by-step-approach-to-capturing-chats-on-messenger/"><u>[New] In 2024, Recording Success A Step-by-Step Approach to Capturing Chats on Messenger</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pudding-patrol-tutorial-how-to-guide-to-screen-capture-software/"><u>[Updated] 2024 Approved Pudding Patrol Tutorial How-To Guide to Screen Capture Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-temporary-hold-recording-assistance/"><u>[Updated] Temporary Hold Recording Assistance</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-vdsm-video-recorder-prospectus-detailed-study/"><u>[Updated] VDSM Video Recorder Prospectus Detailed Study</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-compre-cookie-cutter-webinar-logging-a-windows-and-macos-manual/"><u>2024 Approved Compre Cookie Cutter Webinar Logging A Windows & macOS Manual</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>2024 Approved The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-twilight-portraiture-techniques-your-guide-to-stunning-images/"><u>2024 Approved Twilight Portraiture Techniques Your Guide to Stunning Images</u></a></li>
-<li><a href="https://video-capture.techidaily.com/capture-and-share-the-essential-guide-to-maccasting/"><u>Capture and Share The Essential Guide to Maccasting</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/eyecatcher-studio-wx-series-for-2024/"><u>EyeCatcher Studio WX Series for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-soundtracking-tips-for-premiere-pro-editors/"><u>In 2024, Step-by-Step Soundtracking Tips for Premiere Pro Editors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-stepwise-process-for-high-quality-screen-captures-from-dell/"><u>In 2024, Stepwise Process for High-Quality Screen Captures From Dell</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/reassessing-manycam-search-for-a-top-contender-for-2024/"><u>Reassessing ManyCam Search for a Top Contender for 2024</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/unraveling-the-mystery-why-do-ios-to-android-transferred-videos-come-out-blurry/"><u>Unraveling the Mystery: Why Do iOS-to-Android Transferred Videos Come Out Blurry?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/video-vouchers-for-trust-in-brands/"><u>Video Vouchers for Trust in Brands</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-keep-a-record-of-your-online-sessions/"><u>[New] Keep a Record of Your Online Sessions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-guide-to-the-top-15-android-emulators-mac-and-pc/"><u>[New] The Ultimate Guide to the Top 15 Android Emulators (Mac & PC)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-from-novice-to-pro-ps4-recordings-using-obs-studio/"><u>[Updated] 2024 Approved From Novice to Pro PS4 Recordings Using OBS Studio</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-in-depth-look-at-fraps-screen-capture/"><u>[Updated] 2024 Approved In-Depth Look at Fraps Screen Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-a-comprehensive-guide-to-effortless-recording-of-your-favored-youtube-lives-on-any-gear/"><u>[Updated] A Comprehensive Guide to Effortless Recording of Your Favored YouTube Lives on Any Gear</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-valhallas-vanguard-fiery-rebirth/"><u>[Updated] In 2024, Valhalla's Vanguard Fiery Rebirth</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-obs-not-recording-audio-solved/"><u>[Updated] OBS Not Recording Audio [Solved]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-stepping-stones-from-youtube-ads-to-monetary-success/"><u>[Updated] Stepping Stones From YouTube Ads to Monetary Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-hd-capture-software-for-windows-and-macos-for-2024/"><u>[Updated] Ultimate HD Capture Software for Windows & macOS for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-craziest-personalized-gpt-variations-top-3-outrageously-creative-experiments/"><u>Exploring the Craziest Personalized GPT Variations: Top 3 Outrageously Creative Experiments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fostering-fun-with-metaverse-satirical-artifacts/"><u>Fostering Fun with Metaverse Satirical Artifacts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone SE (2022)</u></a></li>
+<li><a href="https://win-news.techidaily.com/inside-microsofts-recent-product-unveilings-the-october-surface-reveal-explained-by-zdnet/"><u>Inside Microsoft’s Recent Product Unveilings – The October Surface Reveal Explained by ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/inside-the-pros-playbook-top-5-gaming-techniques-for-2024/"><u>Inside the Pro's Playbook Top 5 Gaming Techniques for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-solving-common-outriders-sound-problems/"><u>Troubleshooting Guide: Solving Common Outriders Sound Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Origami-Inspired, Miniature Asian Abodes in MC\""
-date: 2024-08-17T11:30:08.628Z
-updated: 2024-08-18T11:30:08.628Z
+date: 2024-10-13T16:56:49.751Z
+updated: 2024-10-16T16:04:33.299Z
 tags: 
   - screen-recording
   - ai video
@@ -79,14 +79,40 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-thrifty-pc-recording-utilities/"><u>[New] 2024 Approved Thrifty PC Recording Utilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-diy-iphone-7-screen-recording-techniques-for-2024/"><u>[New] DIY IPhone 7 Screen Recording Techniques for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-iconic-anime-intros-the-ultimate-collection/"><u>[New] Iconic Anime Intros The Ultimate Collection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-beginners-approach-to-nvidia-screen-capture/"><u>[New] In 2024, A Beginner's Approach to NVIDIA Screen Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-skype-groups-setting-up-windowsmac-conversations-for-2024/"><u>[New] Skype Groups Setting Up Windows/Mac Conversations for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-audience-analysis-the-art-of-finding-your-market-for-2024/"><u>[New] Youtube Audience Analysis The Art of Finding Your Market for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cutting-edge-5-online-video-capture-applications/"><u>[Updated] Cutting-Edge 5 Online Video Capture Applications</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-produce-eye-catching-and-informative-videos-for-education-channels/"><u>[Updated] In 2024, How to Produce Eye-Catching and Informative Videos for Education Channels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-premium-windows-11-webcam-recorder-lineup/"><u>[Updated] In 2024, Premium Windows 11 Webcam Recorder Lineup</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-master-guide-implementing-chapters-in-vimeo-for-2024/"><u>[Updated] Master Guide Implementing Chapters in Vimeo for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-techniques-for-testing-website-responsiveness-with-icmp-echo-requests/"><u>Effective Techniques for Testing Website Responsiveness with ICMP Echo Requests</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-on-steam-these-9-reasons-make-a-difference/"><u>Elevate Your Gameplay on Steam: These 9 Reasons Make a Difference</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-gameplay-decode-and-overcome-destiny-2-weasel-bug/"><u>Fix Your Gameplay: Decode and Overcome Destiny 2 Weasel Bug</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-8-plus-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 8 Plus Without Apple ID Password?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-facetime-for-android-the-ten-best-free-alternatives-to-facetime-on-android/"><u>In 2024, FaceTime for Android The Ten Best Free Alternatives to FaceTime on Android</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-framing-fantasy-elite-tips-for-elevating-your-photography/"><u>In 2024, Framing Fantasy Elite Tips for Elevating Your Photography</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mobile-video-editing-made-easy-best-free-special-effects-apps/"><u>Mobile Video Editing Made Easy Best Free Special Effects Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/record-your-mac-view-in-minutes-for-2024/"><u>Record Your Mac View in Minutes for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/transforming-team-meeting-aesthetics-the-prepost-customization-angle-for-2024/"><u>Transforming Team Meeting Aesthetics The Pre/Post Customization Angle for 2024</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Exploring the Merits of OBS Studio & Fraps for Recording Screens"
-date: 2024-08-17T11:24:07.200Z
-updated: 2024-08-18T11:24:07.200Z
+date: 2024-10-10T16:02:13.968Z
+updated: 2024-10-16T16:08:54.362Z
 tags: 
   - screen-recording
   - ai video
@@ -37,9 +37,6 @@ Live Streaming: OBS supports live broadcasting of videos on various online platf
 
 Besides, the customizable hotkeys for different functions make the recording operating seamless.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fraps -
 
 Record Professional Videos: Fraps lets you record high-quality videos in 120 frames per second. You can even record 4K videos smoothly depending on your webcam or screen resolution. It will automatically optimize the bitrate so that there will be an improved quality video capture.
@@ -50,14 +47,8 @@ System Requirements – Fraps is compatible with the older version of Windows su
 
 Easy to use: Fraps comes with a clean and intuitive user interface. While recording, it shows you various useful parameters at one corner. You can customize various parameters for perfect recording.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How To Use OBS Studio and Fraps -
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## OBS: Here are the steps on how to record video with OBS Studio
 
 Step 1: Download and install OBS Studio on your computer.
@@ -70,18 +61,12 @@ Step 3: Go to Sources tab, click on “+” button and select Display Capture op
 
 ![obs launch display capture](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 Step 4: Go to Controls tab, click on Start Recording to start recording.
 
 ![obs start recording](https://images.wondershare.com/filmora/article-images/obs-start-recording.jpg)
 
 Step 5: When your recording is done, click on Stop Recording option under Controls tab.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Fraps: Here are the steps on how to record video with Fraps
 
 Step 1: Download and install Fraps. You can go for the trial version and if satisfied, you can opt for the premium version.
@@ -90,22 +75,19 @@ Step 2: Open the application and under General tab, check the required parameter
 
 ![fraps general required parameters](https://images.wondershare.com/filmora/article-images/fraps-heneral-required-parameters.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Step 3: Go to Movies tab and set the settings as required.
 
 ![fraps movies settings](https://images.wondershare.com/filmora/article-images/fraps-movies-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 Step 4: Open the screen that you want to record and press F9 to start recording with Fraps. To stop recording, press F9 key again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Comparison - Fraps vs OBS
 
 OBS lets you use it for free on different operating systems. Fraps charges you a one-time free and it only supports the Windows platform. In terms of features, Fraps has limited features as well as configuration settings. However, Fraps is easy to use and the limited controls are intuitive in nature.
@@ -141,11 +123,22 @@ Step 1: Download and install Wondershare Filmora as per you operating system and
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
 
@@ -172,30 +165,11 @@ Step 3: Click on Record button to start recording. When you are done, press F9 k
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## Conclusion
-
-To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
-
-![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
-
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
 
@@ -210,8 +184,12 @@ Step 1: Download and install Wondershare Filmora as per you operating system and
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
 
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
@@ -221,8 +199,46 @@ Step 3: Click on Record button to start recording. When you are done, press F9 k
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Conclusion
+
+To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
+
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
+
+![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
 ## Conclusion
 
 To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
@@ -249,4 +265,21 @@ To sum it up for you, if you have a low configuration computer, you should opt f
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-eyesharp-record-chromeos-native-cam/"><u>[New] EyeSharp Record ChromeOS Native Cam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-premiere-10-battle-royale-titles-for-2024/"><u>[New] Premiere 10 Battle Royale Titles for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-securely-document-whatsapp-discussions/"><u>[Updated] 2024 Approved How to Securely Document WhatsApp Discussions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-daily-dharma-the-best-yoga-channels-for-self-growth-for-2024/"><u>[Updated] Daily Dharma The Best Yoga Channels for Self-Growth for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-to-excellence-in-producing-educational-videos-for-2024/"><u>[Updated] Step-by-Step to Excellence in Producing Educational Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-handbook-for-vr-gameplay-capture/"><u>[Updated] The Ultimate Handbook for VR Gameplay Capture</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/5-best-zero-cost-flv-video-editors-you-need-to-try/"><u>5 Best Zero-Cost FLV Video Editors You Need to Try</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-guide-for-aspiring-graders-essential-tips-from-these-top-7/"><u>A Guide for Aspiring Graders Essential Tips From These Top 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-the-barrier-acquiring-mass-tiktok-videos-easily/"><u>Breaking the Barrier Acquiring Mass TikTok Videos Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fix-apex-legends-wont-launch-fast-and-simple-solutions/"><u>Fix Apex Legends Won't Launch: Fast & Simple Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-infinix-hot-30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Infinix Hot 30 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-to-groups-shared-content-in-messenger/"><u>Navigating to Group's Shared Content in Messenger</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/egies-to-remove-youtube-trailers-and-clips-for-2024/"><u>Strategies to Remove YouTube Trailers and Clips for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-screen-recorder-pro-win11-edition-for-2024/"><u>Ultimate Screen Recorder Pro - Win11 Edition for 2024</u></a></li>
+</ul></div>
 
