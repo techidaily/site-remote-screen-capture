@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Secure Surveillance Skills  Redacting and Obscuring Personal Information\""
-date: 2024-08-17T11:16:07.639Z
-updated: 2024-08-18T11:16:07.639Z
+date: 2024-10-23T00:12:45.473Z
+updated: 2024-10-28T00:22:36.856Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ Besides being one of the best screen capturing computer programs for beginners i
 
 ![Filmora Text Effects](https://images.wondershare.com/filmora/guide/setup-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Filmora Scrn is perfectly equipped for recording all types of PIP videos that need to capture desktop activities while also **recording the footage from a webcam**. YouTubers and all other users of this software can feature themselves in the video. Filmora Scrn lets you capture videos with **frame rates that go from 15 fps to 120 fps**, and it also enables users to **adjust the size of the screen** area they want to capture.
 
 Recording voice-over during the recording session, adding markers, or using HotKeys to start or pause recording sessions are just a few among the many amazing features Filmora Scrn offers.
@@ -84,13 +91,17 @@ After I applied the Horizontal Mix blur and the Vertical Mix blur to these two p
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
 Hiding the identity of the people in your videos and concealing private information like bank account or telephone numbers is advised if you want to avoid any chance of misuse of these data.
@@ -100,8 +111,18 @@ Hiding the identity of the people in your videos and concealing private informat
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
 Filmora Scrn's video editor supports most video file formats, including AVI, MP4, or MOV files. If you want to add blur effects to videos that weren't captured with Filmora Scrn, click on the Add Files icon in the editor's Media Bin, find the video file you'd like to work on and click Open. The file you imported will be displayed in the Media Bin, so to start editing it, drag and drop it to the timeline.
@@ -117,8 +138,18 @@ Drag the effect you like the most to the timeline or drag it to the Canvas direc
 ![Filmora Scrn   ](https://images.wondershare.com/filmora/article-images/adjust-blur-effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 On the right side of the editor's screen, you'll be able to see Transform and Blur options. Use the Transform feature to place the blur effect over the area of the shot in which the sensitive info is located to hide it from the spectators. Alternatively, you can move or resize the blurred window by dragging it on the software's preview screen.
 
 Next to the Transform icon, you'll be able to see the Annotations icon, click on it and proceed to adjust the blur Intensity and Opacity features. You should repeat this process as many times as necessary until all the sensitive information in your video clip is blurred.
@@ -131,16 +162,11 @@ Ok, that's it. Hope you have hidden and blurred the private info in your recorde
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -148,3 +174,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-creating-your-channels-pathway-youtubian-starter-pack-earning-money/"><u>[New] 2024 Approved Creating Your Channel's Pathway Youtubian Starter Pack, Earning Money</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-reel-in-viewers-with-these-best-twitch-cameras-and-webcams/"><u>[New] 2024 Approved Reel in Viewers with These Best Twitch Cameras and Webcams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-scrutinizing-the-importance-of-honesty-in-online-self-portraits/"><u>[New] Scrutinizing the Importance of Honesty in Online Self-Portraits</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-5-chromebook-sniping-apps-essential-clients-reviewed/"><u>[New] Top 5 Chromebook Sniping Apps Essential Clients Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-optimal-window-calls-8-top-rated-titles-4-1/"><u>[Updated] In 2024, Optimal Window Calls 8 Top Rated Titles #4-#1</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-overcoming-inaudibility-in-obs-captured-audio/"><u>[Updated] Overcoming Inaudibility in OBS Captured Audio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-premier-gamers-app-an-in-depth-look-at-kinemaster/"><u>2024 Approved Android's Premier Gamer's App An In-Depth Look at KineMaster</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlining-virtual-collaborations-a-comprehensive-scheduling-and-recording-manual-for-slack-plus-filmora/"><u>2024 Approved Streamlining Virtual Collaborations A Comprehensive Scheduling & Recording Manual for Slack + Filmora</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-polyglot-peaks-navigating-difficult-language-terrain/"><u>Conquer Polyglot Peaks: Navigating Difficult Language Terrain</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-the-amazing-amazon-kindle-paperwhite-2e-2018-release-elevates-your-book-journey-in-depth-analysis-and-insights/"><u>How the Amazing Amazon Kindle Paperwhite (2E, 2018 Release) Elevates Your Book Journey: In-Depth Analysis and Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ae-excellence-select-best-templates-for-free-access/"><u>In 2024, AE Excellence Select Best Templates for Free Access</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/next-level-gameplay-leading-monitors-for-ps5-with-hdmi-21-features-for-2024/"><u>Next-Level Gameplay Leading Monitors for PS5 with HDMI 2.1 Features for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/pcandroid-tutorial-successful-facebook-video-sharing/"><u>PC/Android Tutorial Successful Facebook Video Sharing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-voice-chatting-trouble-heres-a-step-by-step-guide-to-solving-it/"><u>PUBG Voice Chatting Trouble? Here's a Step-by-Step Guide to Solving It</u></a></li>
+</ul></div>
+

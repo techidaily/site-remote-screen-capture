@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Step-by-Step Guide to Ken Burns Effect with Camtasia 9\""
-date: 2024-10-16T00:10:37.147Z
-updated: 2024-10-22T05:29:17.225Z
+date: 2024-10-25T01:17:21.040Z
+updated: 2024-10-28T02:13:14.429Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,16 +115,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-social-media-savvy-unlock-the-secrets-of-crafting-winning-bios-on-facebook/"><u>[New] In 2024, Social Media Savvy Unlock the Secrets of Crafting Winning Bios on Facebook</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-infusing-impact-best-practices-for-podcast-graphics/"><u>[New] Infusing Impact Best Practices for Podcast Graphics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-adopting-the-way-of-google-meet-webinars/"><u>2024 Approved Adopting the Way of Google Meet Webinars</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-flip-the-script-learning-to-negative-play-in-instagram/"><u>2024 Approved Flip the Script Learning to Negative Play in Instagram</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/copyright-aware-techniques-for-reposting-imagery/"><u>Copyright-Aware Techniques for Reposting Imagery</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-on-handling-the-cant-find-dciman32dll-problem/"><u>Expert Advice on Handling the 'Can't Find' dciman32.dll Problem</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-dells-nonfunctional-usb-connection-a-comprehensive-guide/"><u>Fixing Dell's Nonfunctional USB Connection: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-open-world-alternatives-to-grand-theft-adventure/"><u>In 2024, Open World Alternatives to Grand Theft Adventure</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-recorder-picks-to-freeze-your-web-wanderings-in-time/"><u>In 2024, Top 5 Recorder Picks to Freeze Your Web Wanderings in Time</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/skypes-premier-audio-capture-solutions/"><u>Skype's Premier Audio Capture Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-enjoy-high-quality-pc-audio-recording-install-x-recorder/"><u>[New] Enjoy High-Quality PC Audio Recording - Install X-Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-10-free-web-conferencing-software-for-online-meeting/"><u>[Updated] 2024 Approved 10 Free Web Conferencing Software for Online Meeting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-comprehensive-techniques-for-movie-recording-across-os-and-devices-for-2024/"><u>[Updated] Comprehensive Techniques for Movie Recording Across OS and Devices for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia/"><u>[Updated] Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-delving-deep-into-vidma-writescreen-recorder-details/"><u>[Updated] In 2024, Delving Deep Into Vidma’ Writescreen Recorder Details</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-serene-soundtracks-copyright-free-legal-meditation-music/"><u>[Updated] In 2024, Serene Soundtracks – Copyright-Free, Legal Meditation Music</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-sundae-surveillance-insightful-review-of-frozen-film-software/"><u>[Updated] In 2024, Sundae Surveillance Insightful Review of Frozen Film Software</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728474887694-windows-112/"><u>「新しいWindows 11環境におけるパーティションの複製・克隆手順：2つの解決策」</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-powerful-motherboards-featuring-longsun-cpus-now-delivering-to-america-starting-at-only-383/"><u>Affordable, Powerful Motherboards Featuring Longsun CPUs Now Delivering to America - Starting at Only $383!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/basic-recorder-your-windows-10-companion/"><u>Basic Recorder - Your Windows 10 Companion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capturing-the-thrill-streaming-gameplay-like-a-pro/"><u>Capturing the Thrill Streaming Gameplay Like a Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/codec-rivalry-assessing-the-next-step-in-video-encoding/"><u>Codec Rivalry Assessing the Next Step in Video Encoding</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-top-7-ai-integrations-inside-the-functionality-of-gpt-4-powered-apps/"><u>Exploring the Top 7 AI Integrations: Inside the Functionality of GPT-4 Powered Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-warzone-graphics-issues-a-comprehensive-guide/"><u>Fixing Warzone Graphics Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/google-meet-capture-made-simple-for-mobile-users/"><u>Google Meet Capture Made Simple for Mobile Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-issues-with-microsoft-word-documents-not-opening/"><u>How to Fix Issues with Microsoft Word Documents Not Opening</u></a></li>
+<li><a href="https://discover-data.techidaily.com/how-to-remove-restore-points-in-windows-7-8-81-and-10/"><u>How to Remove Restore Points in Windows 7, 8, 8.1, and 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-g2-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo G2 online without jailbreak</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/saving-every-moment-on-mac-with-screen-recording-tutorial/"><u>Saving Every Moment on Mac with Screen Recording Tutorial</u></a></li>
 </ul></div>
 

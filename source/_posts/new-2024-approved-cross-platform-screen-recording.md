@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Cross-Platform Screen Recording\""
-date: 2024-08-17T11:17:08.000Z
-updated: 2024-08-18T11:17:08.000Z
+date: 2024-10-25T02:28:40.194Z
+updated: 2024-10-28T02:43:57.366Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
@@ -55,8 +62,12 @@ The first step towards setting up a screencasting session with multiple displays
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -74,8 +85,12 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Capturing Multiple Monitor Displays with Camtasia
 
 Selecting more than one monitor from the Camtasia's Fullscreen settings is unfortunately not possible, but the Custom recording settings option allows you to capture footage from two different displays. You'll need to make sure that both monitors are properly aligned and the that Extend These Displays feature is selected. Here's how you record multiple monitors with Camtasia.
@@ -102,20 +117,19 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +137,27 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-from-novice-to-leader-top-30-facebook-tactics-unlocked/"><u>[New] 2024 Approved From Novice to Leader Top 30 Facebook Tactics Unlocked</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-diy-youtube-thumbnails-made-simple-for-2024/"><u>[New] DIY YouTube Thumbnails Made Simple for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-game-on-compile-your-collection-of-the-top-12-pc-clickers/"><u>[New] In 2024, Game On Compile Your Collection of the Top 12 PC Clickers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-saving-window-views-on-pcs-from-winxp-to-11/"><u>[New] Saving Window Views on PCs From WinXP to 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unleash-your-inner-tech-wizard-xbox-one-snapshot-secrets-revealed/"><u>[New] Unleash Your Inner Tech Wizard Xbox One Snapshot Secrets Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-zero-price-mac-video-maker-for-2024/"><u>[New] Zero-Price Mac Video Maker for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-elite-tech-list-screen-recorders-with-zero-latency/"><u>[Updated] 2024 Approved Elite Tech List Screen Recorders with Zero Latency</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-make-money-on-vimeo-your-ultimate-guide-to-vimeo-monetization/"><u>[Updated] How to Make Money on Vimeo Your Ultimate Guide to Vimeo Monetization</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-from-novice-to-proficient-the-path-with-zoom-webinars/"><u>[Updated] In 2024, From Novice to Proficient The Path with Zoom Webinars</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-unified-event-tracking-harmonizing-phone-and-tablet-with-pc-zoom/"><u>[Updated] In 2024, Unified Event Tracking Harmonizing Phone & Tablet with PC Zoom</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-prime-methods-for-quiet-videography/"><u>2024 Approved Prime Methods for Quiet Videography</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-artisan-writes-crafting-hdr-magic-with-iphone/"><u>2024 Approved The Artisan’ Writes Crafting HDR Magic with iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-essentials-for-dominating-instagram-stories/"><u>2024 Approved The Essentials for Dominating Instagram Stories</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-ultimate-keyboard-shortcut-compendium-for-mac-screening/"><u>2024 Approved The Ultimate Keyboard Shortcut Compendium for Mac Screening</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unexplained-angle-flip-sideways-vids-in-instagram-world/"><u>2024 Approved Unexplained Angle Flip Sideways Vids in Instagram World</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/basic-obs-setup-tips-for-budget-machines/"><u>Basic OBS Setup Tips for Budget Machines</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/meta-openai-under-legal-scrutiny-by-artistic-collective-leaders/"><u>Meta, OpenAI Under Legal Scrutiny by Artistic Collective Leaders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/perfecting-the-live-broadcast-4-tips-for-fb-enthusiasts-for-2024/"><u>Perfecting the Live Broadcast 4 Tips for FB Enthusiasts for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+</ul></div>
+

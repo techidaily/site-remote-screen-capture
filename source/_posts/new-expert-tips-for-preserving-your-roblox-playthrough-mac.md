@@ -1,7 +1,7 @@
 ---
 title: "[New] Expert Tips for Preserving Your Roblox Playthrough (Mac)"
-date: 2024-10-16T03:31:17.905Z
-updated: 2024-10-21T22:21:52.377Z
+date: 2024-10-25T21:02:51.470Z
+updated: 2024-10-27T21:27:41.557Z
 tags: 
   - screen-recording
   - ai video
@@ -86,10 +86,10 @@ Step 4: Click on Start Recording button under Controls tab and switch to Roblox 
 ![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 5: To stop recording, go back to OBS Studio. Click on Stop Recording under Controls.
@@ -105,229 +105,6 @@ Step 1: From Applications folder, open QuickTime Player. Go to File> New Screen 
 Step 2: Start your Roblox game and click on the Record button instantly from QuickTime widget.
 
 ![quicktime widget](https://images.wondershare.com/filmora/article-images/quicktime-widget.jpg)
-
-Step 3: When the game gets over, click on Stop button. Go to File> Save option to save the recorded gameplay.
-
-![quicktime save the recorder gameplay](https://images.wondershare.com/filmora/article-images/quicktime-save-the-recorder-gameplay.jpg)
-
-## Way 5\. Use VLC Screen Recorder
-
-There are many Mac users who prefer VLC Media Player over QuickTime Player for playing any media file. This is because VLC Media Player supports more file formats and you can boost the volume more than usual. However, you can also use VLC Media Player like QuickTime to record Roblox on MacBook. Here are the steps to follow.
-
-Step 1: Open VLC Media Player. Go to Media > Convert/Save option.
-
-![vlc screen recorder](https://images.wondershare.com/filmora/article-images/vlc-screen-recorder.jpg)
-
-Step 2: Click on Capture Device tab. Make Capture Mode to Desktop.
-
-![vlc capture device tab](https://images.wondershare.com/filmora/article-images/vlc-capture-device-tab.jpg)
-
-Step 3: Go to Destination section, click on Browser button. Select the destination folder and file name.
-
-![vlc destination section](https://images.wondershare.com/filmora/article-images/vlc-destination-section.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 4: To start recording, click on Start button. The screen will show controls to stop recording.
-
-## Conclusion
-
-We have how to record Roblox gameplay on Mac in all the possible ways. You can use Roblox built-in recorder though it is not that great. If you do not want to install any third-party Roblox screen recorder for Mac, you can use QuickTime. OBS Studio is a great Roblox gameplay recorder with different customizable options. But the best screen recorder for Roblox is Wondershare Filmora where you can also edit your recorded gameplay like a pro.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora for Mac. Launch Filmora and click on PC Screen option.
-
-![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: Choose the recording screen area which is generally full screen when you are playing a game on Roblox. If you are using Roblox in windowed mode, you have to set the recording screen accordingly.
-
-Select the system audio properly. If you want to add your voice and live commentary, select external the mic audio source. If you want to capture your webcam video in PiP mode, enable “Record Camera Stream” option.
-
-![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-Step 3: Once you are ready with Roblox, click on Record button to start recording. When your gameplay is over, press F9 key to stop recording. You can edit and export in the desired file format.
-
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Way 2\. Roblox Built-in Recorder
-
-If you do not want to install any third-party application on your Mac, you can use Roblox built-in screen recorder. However, the recorder is not a great one and users have reported performance degradation while recording on Roblox. Hence, user Roblox users opt for an alternative. If you are going to record your gameplay only once or very rarely, Roblox built-in recorder will serve the purpose perfectly. Here are the steps to follow.
-
-Step 1: Launch Roblox and start the game that you want to play and record.
-
-Step 2: Press Esc key and go to Record tab at the top of the screen.
-
-Step 3: Under Record tab, click on Record Video button to start recording.
-
-![roblox built-in recorder](https://images.wondershare.com/filmora/article-images/roblox-built-in-recorder.jpg)
-
-You will see a thin red border around the screen that indicates that the recording is going on.
-
-Step 4: To stop recording, press Esc and go to Record tab. Click on Stop Recording button.
-
-![roblox esc stop](https://images.wondershare.com/filmora/article-images/roblox-esc-stop.jpg)
-
-## Way 3\. Use OBS Studio
-
-OBS Studio is a completely free software that is available for all desktop operating systems. Most gamers use OBS Studio for live streaming their gameplay on online platforms. You can capture your Roblox gameplay with OBS Studio as well. Not just your gameplay, you can capture webcam video and audio from an external mic. You can also switch between multiple scenes to make the video more interesting. Here are the steps to record Roblox on MacBook using OBS Studio.
-
-Step 1: Download and install OBS Studio for Mac. Launch the software after installation.
-
-Step 2: Under Sources tab and click on “+” icon. Select Display Capture option.
-
-![obs display capture](https://images.wondershare.com/filmora/article-images/obs-display-capture.jpg)
-
-Step 3: You have to enter a name for Roblox gameplay capture session and click on Ok button.
-
-![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
-
-Step 4: Click on Start Recording button under Controls tab and switch to Roblox game and start playing. OBS will keep recording in the background.
-
-![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
-
-Step 5: To stop recording, go back to OBS Studio. Click on Stop Recording under Controls.
-
-## Way 4\. Use QuickTime Player
-
-MacBook comes with QuickTime Player pre-installed and it is the default media player for Mac users. Not many mac users are aware of the fact that they can use QuickTime Player to record their screen activities easily. When you use QuickTime Player to record Roblox gameplay, you do not need to install any Roblox screen recorder for Mac. Here are the steps to record Roblox gameplay with QuickTime Player.
-
-Step 1: From Applications folder, open QuickTime Player. Go to File> New Screen Recording option.
-
-![quicktime player new screen recording](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
-
-Step 2: Start your Roblox game and click on the Record button instantly from QuickTime widget.
-
-![quicktime widget](https://images.wondershare.com/filmora/article-images/quicktime-widget.jpg)
-
-Step 3: When the game gets over, click on Stop button. Go to File> Save option to save the recorded gameplay.
-
-![quicktime save the recorder gameplay](https://images.wondershare.com/filmora/article-images/quicktime-save-the-recorder-gameplay.jpg)
-
-## Way 5\. Use VLC Screen Recorder
-
-There are many Mac users who prefer VLC Media Player over QuickTime Player for playing any media file. This is because VLC Media Player supports more file formats and you can boost the volume more than usual. However, you can also use VLC Media Player like QuickTime to record Roblox on MacBook. Here are the steps to follow.
-
-Step 1: Open VLC Media Player. Go to Media > Convert/Save option.
-
-![vlc screen recorder](https://images.wondershare.com/filmora/article-images/vlc-screen-recorder.jpg)
-
-Step 2: Click on Capture Device tab. Make Capture Mode to Desktop.
-
-![vlc capture device tab](https://images.wondershare.com/filmora/article-images/vlc-capture-device-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 3: Go to Destination section, click on Browser button. Select the destination folder and file name.
-
-![vlc destination section](https://images.wondershare.com/filmora/article-images/vlc-destination-section.jpg)
-
-Step 4: To start recording, click on Start button. The screen will show controls to stop recording.
-
-## Conclusion
-
-We have how to record Roblox gameplay on Mac in all the possible ways. You can use Roblox built-in recorder though it is not that great. If you do not want to install any third-party Roblox screen recorder for Mac, you can use QuickTime. OBS Studio is a great Roblox gameplay recorder with different customizable options. But the best screen recorder for Roblox is Wondershare Filmora where you can also edit your recorded gameplay like a pro.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora for Mac. Launch Filmora and click on PC Screen option.
-
-![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-Step 2: Choose the recording screen area which is generally full screen when you are playing a game on Roblox. If you are using Roblox in windowed mode, you have to set the recording screen accordingly.
-
-Select the system audio properly. If you want to add your voice and live commentary, select external the mic audio source. If you want to capture your webcam video in PiP mode, enable “Record Camera Stream” option.
-
-![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-Step 3: Once you are ready with Roblox, click on Record button to start recording. When your gameplay is over, press F9 key to stop recording. You can edit and export in the desired file format.
-
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Way 2\. Roblox Built-in Recorder
-
-If you do not want to install any third-party application on your Mac, you can use Roblox built-in screen recorder. However, the recorder is not a great one and users have reported performance degradation while recording on Roblox. Hence, user Roblox users opt for an alternative. If you are going to record your gameplay only once or very rarely, Roblox built-in recorder will serve the purpose perfectly. Here are the steps to follow.
-
-Step 1: Launch Roblox and start the game that you want to play and record.
-
-Step 2: Press Esc key and go to Record tab at the top of the screen.
-
-Step 3: Under Record tab, click on Record Video button to start recording.
-
-![roblox built-in recorder](https://images.wondershare.com/filmora/article-images/roblox-built-in-recorder.jpg)
-
-You will see a thin red border around the screen that indicates that the recording is going on.
-
-Step 4: To stop recording, press Esc and go to Record tab. Click on Stop Recording button.
-
-![roblox esc stop](https://images.wondershare.com/filmora/article-images/roblox-esc-stop.jpg)
-
-## Way 3\. Use OBS Studio
-
-OBS Studio is a completely free software that is available for all desktop operating systems. Most gamers use OBS Studio for live streaming their gameplay on online platforms. You can capture your Roblox gameplay with OBS Studio as well. Not just your gameplay, you can capture webcam video and audio from an external mic. You can also switch between multiple scenes to make the video more interesting. Here are the steps to record Roblox on MacBook using OBS Studio.
-
-Step 1: Download and install OBS Studio for Mac. Launch the software after installation.
-
-Step 2: Under Sources tab and click on “+” icon. Select Display Capture option.
-
-![obs display capture](https://images.wondershare.com/filmora/article-images/obs-display-capture.jpg)
-
-Step 3: You have to enter a name for Roblox gameplay capture session and click on Ok button.
-
-![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
-
-Step 4: Click on Start Recording button under Controls tab and switch to Roblox game and start playing. OBS will keep recording in the background.
-
-![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
-
-Step 5: To stop recording, go back to OBS Studio. Click on Stop Recording under Controls.
-
-## Way 4\. Use QuickTime Player
-
-MacBook comes with QuickTime Player pre-installed and it is the default media player for Mac users. Not many mac users are aware of the fact that they can use QuickTime Player to record their screen activities easily. When you use QuickTime Player to record Roblox gameplay, you do not need to install any Roblox screen recorder for Mac. Here are the steps to record Roblox gameplay with QuickTime Player.
-
-Step 1: From Applications folder, open QuickTime Player. Go to File> New Screen Recording option.
-
-![quicktime player new screen recording](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
-
-Step 2: Start your Roblox game and click on the Record button instantly from QuickTime widget.
-
-![quicktime widget](https://images.wondershare.com/filmora/article-images/quicktime-widget.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 3: When the game gets over, click on Stop button. Go to File> Save option to save the recorded gameplay.
 
@@ -392,10 +169,10 @@ Step 4: To stop recording, press Esc and go to Record tab. Click on Stop Recordi
 ![roblox esc stop](https://images.wondershare.com/filmora/article-images/roblox-esc-stop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Way 3\. Use OBS Studio
@@ -434,12 +211,241 @@ Step 3: When the game gets over, click on Stop button. Go to File> Save option t
 
 ![quicktime save the recorder gameplay](https://images.wondershare.com/filmora/article-images/quicktime-save-the-recorder-gameplay.jpg)
 
+## Way 5\. Use VLC Screen Recorder
+
+There are many Mac users who prefer VLC Media Player over QuickTime Player for playing any media file. This is because VLC Media Player supports more file formats and you can boost the volume more than usual. However, you can also use VLC Media Player like QuickTime to record Roblox on MacBook. Here are the steps to follow.
+
+Step 1: Open VLC Media Player. Go to Media > Convert/Save option.
+
+![vlc screen recorder](https://images.wondershare.com/filmora/article-images/vlc-screen-recorder.jpg)
+
+Step 2: Click on Capture Device tab. Make Capture Mode to Desktop.
+
+![vlc capture device tab](https://images.wondershare.com/filmora/article-images/vlc-capture-device-tab.jpg)
+
+Step 3: Go to Destination section, click on Browser button. Select the destination folder and file name.
+
+![vlc destination section](https://images.wondershare.com/filmora/article-images/vlc-destination-section.jpg)
+
+Step 4: To start recording, click on Start button. The screen will show controls to stop recording.
+
+## Conclusion
+
+We have how to record Roblox gameplay on Mac in all the possible ways. You can use Roblox built-in recorder though it is not that great. If you do not want to install any third-party Roblox screen recorder for Mac, you can use QuickTime. OBS Studio is a great Roblox gameplay recorder with different customizable options. But the best screen recorder for Roblox is Wondershare Filmora where you can also edit your recorded gameplay like a pro.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora for Mac. Launch Filmora and click on PC Screen option.
+
+![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+Step 2: Choose the recording screen area which is generally full screen when you are playing a game on Roblox. If you are using Roblox in windowed mode, you have to set the recording screen accordingly.
+
+Select the system audio properly. If you want to add your voice and live commentary, select external the mic audio source. If you want to capture your webcam video in PiP mode, enable “Record Camera Stream” option.
+
+![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+Step 3: Once you are ready with Roblox, click on Record button to start recording. When your gameplay is over, press F9 key to stop recording. You can edit and export in the desired file format.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+## Way 2\. Roblox Built-in Recorder
+
+If you do not want to install any third-party application on your Mac, you can use Roblox built-in screen recorder. However, the recorder is not a great one and users have reported performance degradation while recording on Roblox. Hence, user Roblox users opt for an alternative. If you are going to record your gameplay only once or very rarely, Roblox built-in recorder will serve the purpose perfectly. Here are the steps to follow.
+
+Step 1: Launch Roblox and start the game that you want to play and record.
+
+Step 2: Press Esc key and go to Record tab at the top of the screen.
+
+Step 3: Under Record tab, click on Record Video button to start recording.
+
+![roblox built-in recorder](https://images.wondershare.com/filmora/article-images/roblox-built-in-recorder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+You will see a thin red border around the screen that indicates that the recording is going on.
+
+Step 4: To stop recording, press Esc and go to Record tab. Click on Stop Recording button.
+
+![roblox esc stop](https://images.wondershare.com/filmora/article-images/roblox-esc-stop.jpg)
+
+## Way 3\. Use OBS Studio
+
+OBS Studio is a completely free software that is available for all desktop operating systems. Most gamers use OBS Studio for live streaming their gameplay on online platforms. You can capture your Roblox gameplay with OBS Studio as well. Not just your gameplay, you can capture webcam video and audio from an external mic. You can also switch between multiple scenes to make the video more interesting. Here are the steps to record Roblox on MacBook using OBS Studio.
+
+Step 1: Download and install OBS Studio for Mac. Launch the software after installation.
+
+Step 2: Under Sources tab and click on “+” icon. Select Display Capture option.
+
+![obs display capture](https://images.wondershare.com/filmora/article-images/obs-display-capture.jpg)
+
+Step 3: You have to enter a name for Roblox gameplay capture session and click on Ok button.
+
+![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
+
+Step 4: Click on Start Recording button under Controls tab and switch to Roblox game and start playing. OBS will keep recording in the background.
+
+![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
+
+Step 5: To stop recording, go back to OBS Studio. Click on Stop Recording under Controls.
+
+## Way 4\. Use QuickTime Player
+
+MacBook comes with QuickTime Player pre-installed and it is the default media player for Mac users. Not many mac users are aware of the fact that they can use QuickTime Player to record their screen activities easily. When you use QuickTime Player to record Roblox gameplay, you do not need to install any Roblox screen recorder for Mac. Here are the steps to record Roblox gameplay with QuickTime Player.
+
+Step 1: From Applications folder, open QuickTime Player. Go to File> New Screen Recording option.
+
+![quicktime player new screen recording](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 2: Start your Roblox game and click on the Record button instantly from QuickTime widget.
+
+![quicktime widget](https://images.wondershare.com/filmora/article-images/quicktime-widget.jpg)
+
+Step 3: When the game gets over, click on Stop button. Go to File> Save option to save the recorded gameplay.
+
+![quicktime save the recorder gameplay](https://images.wondershare.com/filmora/article-images/quicktime-save-the-recorder-gameplay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Way 5\. Use VLC Screen Recorder
+
+There are many Mac users who prefer VLC Media Player over QuickTime Player for playing any media file. This is because VLC Media Player supports more file formats and you can boost the volume more than usual. However, you can also use VLC Media Player like QuickTime to record Roblox on MacBook. Here are the steps to follow.
+
+Step 1: Open VLC Media Player. Go to Media > Convert/Save option.
+
+![vlc screen recorder](https://images.wondershare.com/filmora/article-images/vlc-screen-recorder.jpg)
+
+Step 2: Click on Capture Device tab. Make Capture Mode to Desktop.
+
+![vlc capture device tab](https://images.wondershare.com/filmora/article-images/vlc-capture-device-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 3: Go to Destination section, click on Browser button. Select the destination folder and file name.
+
+![vlc destination section](https://images.wondershare.com/filmora/article-images/vlc-destination-section.jpg)
+
+Step 4: To start recording, click on Start button. The screen will show controls to stop recording.
+
+## Conclusion
+
+We have how to record Roblox gameplay on Mac in all the possible ways. You can use Roblox built-in recorder though it is not that great. If you do not want to install any third-party Roblox screen recorder for Mac, you can use QuickTime. OBS Studio is a great Roblox gameplay recorder with different customizable options. But the best screen recorder for Roblox is Wondershare Filmora where you can also edit your recorded gameplay like a pro.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora for Mac. Launch Filmora and click on PC Screen option.
+
+![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+Step 2: Choose the recording screen area which is generally full screen when you are playing a game on Roblox. If you are using Roblox in windowed mode, you have to set the recording screen accordingly.
+
+Select the system audio properly. If you want to add your voice and live commentary, select external the mic audio source. If you want to capture your webcam video in PiP mode, enable “Record Camera Stream” option.
+
+![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+Step 3: Once you are ready with Roblox, click on Record button to start recording. When your gameplay is over, press F9 key to stop recording. You can edit and export in the desired file format.
+
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Way 2\. Roblox Built-in Recorder
+
+If you do not want to install any third-party application on your Mac, you can use Roblox built-in screen recorder. However, the recorder is not a great one and users have reported performance degradation while recording on Roblox. Hence, user Roblox users opt for an alternative. If you are going to record your gameplay only once or very rarely, Roblox built-in recorder will serve the purpose perfectly. Here are the steps to follow.
+
+Step 1: Launch Roblox and start the game that you want to play and record.
+
+Step 2: Press Esc key and go to Record tab at the top of the screen.
+
+Step 3: Under Record tab, click on Record Video button to start recording.
+
+![roblox built-in recorder](https://images.wondershare.com/filmora/article-images/roblox-built-in-recorder.jpg)
+
+You will see a thin red border around the screen that indicates that the recording is going on.
+
+Step 4: To stop recording, press Esc and go to Record tab. Click on Stop Recording button.
+
+![roblox esc stop](https://images.wondershare.com/filmora/article-images/roblox-esc-stop.jpg)
+
+## Way 3\. Use OBS Studio
+
+OBS Studio is a completely free software that is available for all desktop operating systems. Most gamers use OBS Studio for live streaming their gameplay on online platforms. You can capture your Roblox gameplay with OBS Studio as well. Not just your gameplay, you can capture webcam video and audio from an external mic. You can also switch between multiple scenes to make the video more interesting. Here are the steps to record Roblox on MacBook using OBS Studio.
+
+Step 1: Download and install OBS Studio for Mac. Launch the software after installation.
+
+Step 2: Under Sources tab and click on “+” icon. Select Display Capture option.
+
+![obs display capture](https://images.wondershare.com/filmora/article-images/obs-display-capture.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Step 3: You have to enter a name for Roblox gameplay capture session and click on Ok button.
+
+![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
+
+Step 4: Click on Start Recording button under Controls tab and switch to Roblox game and start playing. OBS will keep recording in the background.
+
+![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
+
+Step 5: To stop recording, go back to OBS Studio. Click on Stop Recording under Controls.
+
+## Way 4\. Use QuickTime Player
+
+MacBook comes with QuickTime Player pre-installed and it is the default media player for Mac users. Not many mac users are aware of the fact that they can use QuickTime Player to record their screen activities easily. When you use QuickTime Player to record Roblox gameplay, you do not need to install any Roblox screen recorder for Mac. Here are the steps to record Roblox gameplay with QuickTime Player.
+
+Step 1: From Applications folder, open QuickTime Player. Go to File> New Screen Recording option.
+
+![quicktime player new screen recording](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
+
+Step 2: Start your Roblox game and click on the Record button instantly from QuickTime widget.
+
+![quicktime widget](https://images.wondershare.com/filmora/article-images/quicktime-widget.jpg)
+
+Step 3: When the game gets over, click on Stop button. Go to File> Save option to save the recorded gameplay.
+
+![quicktime save the recorder gameplay](https://images.wondershare.com/filmora/article-images/quicktime-save-the-recorder-gameplay.jpg)
 
 ## Way 5\. Use VLC Screen Recorder
 
@@ -487,17 +493,22 @@ We have how to record Roblox gameplay on Mac in all the possible ways. You can u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-dive-into-broadcasting-proficiency-with-obs-on-youtube-and-twitch/"><u>[New] 2024 Approved Dive Into Broadcasting Proficiency with OBS on YouTube and Twitch</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-2023s-best-rated-ps3-virtual-players-for-pc/"><u>[Updated] 2024 Approved 2023'S Best-Rated PS3 Virtual Players for PC</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-masterful-fb-watching-essential-top-10-players/"><u>[Updated] In 2024, Masterful FB Watching Essential Top 10 Players</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-probing-the-depth-of-recmeisters-high-end-screen-capture-features-for-2024/"><u>[Updated] Probing the Depth of Recmeister's High-End Screen Capture Features for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-prodigy-playgrounds-top-10-roguelike-creations/"><u>[Updated] Prodigy Playgrounds Top 10 Roguelike Creations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-seamless-connectivity-with-amplifi-hd-wireless-mesh-network-say-goodbye-to-weak-signals/"><u>Experience Seamless Connectivity with Amplifi HD Wireless Mesh Network – Say Goodbye to Weak Signals</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unparalleled-selection-of-budget-stock-media-sites/"><u>In 2024, Unparalleled Selection of Budget Stock Media Sites</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-end-persistent-login-error-alerts-on-pc/"><u>Methods to End Persistent Login Error Alerts on PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-to-ipad-video-editors-top-5/"><u>Updated 2024 Approved The Ultimate Guide to iPad Video Editors Top 5</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/what-to-do-to-delete-and-remove-a-virus-from-your-iphone/"><u>What to Do to Delete & Remove a Virus From Your iPhone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamlining-audio-interpretation-a-comprehensive-guide-for-google/"><u>[New] 2024 Approved Streamlining Audio Interpretation A Comprehensive Guide for Google</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-online-fun-girl-games-for-kids-for-2024/"><u>[New] Best Online Fun Girl Games for Kids for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-instant-display-image-any-window-os/"><u>[New] In 2024, Instant Display Image, Any Window OS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-zooming-into-clarity-a-blueprint-for-crisp-screenshots/"><u>[New] In 2024, Zooming Into Clarity A Blueprint for Crisp Screenshots</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-become-a-veterinarian-on-android-12-great-simulators/"><u>[Updated] Become a Veterinarian on Android 12 Great Simulators</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-hilarious-youtube-moments-top-10-quirky-short-film-concepts/"><u>[Updated] In 2024, Hilarious YouTube Moments Top 10 Quirky Short Film Concepts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-depth-guide-to-capturing-and-enhancing-ps4-gaming-for-2024/"><u>[Updated] In-Depth Guide to Capturing and Enhancing PS4 Gaming for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-11-proplus-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme 11 Pro+</u></a></li>
+<li><a href="https://fox-info.techidaily.com/building-a-successful-brand-presence-through-spotify-advertising-for-2024/"><u>Building a Successful Brand Presence Through Spotify Advertising for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/capture-without-capsule-the-no-limit-story-saving-app/"><u>Capture Without Capsule The No-Limit Story Saving App</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
+<li><a href="https://win-web.techidaily.com/guide-to-transforming-your-sony-xavc-videos-into-mp4-format-for-windows-users/"><u>Guide to Transforming Your Sony XAVC Videos Into MP4 Format for Windows Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-next-gen-screen-capture-tools-ultra-fast-action/"><u>In 2024, Next-Gen Screen Capture Tools - Ultra-Fast Action</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-players-guide-to-unforgettable-virtual-realities/"><u>In 2024, Players' Guide to Unforgettable Virtual Realities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-streamlining-adobe-presentation-videos-in-adobe/"><u>In 2024, Streamlining Adobe Presentation Videos in Adobe</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-places-for-accessing-gratis-graphics-for-2024/"><u>Top 10 Places for Accessing Gratis Graphics for 2024</u></a></li>
 </ul></div>
 

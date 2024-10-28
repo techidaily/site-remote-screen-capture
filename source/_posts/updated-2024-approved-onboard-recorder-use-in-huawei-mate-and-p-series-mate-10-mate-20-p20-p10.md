@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Onboard Recorder Use in Huawei Mate and P Series (Mate 10, Mate 20; P20, P10)\""
-date: 2024-08-17T11:15:26.962Z
-updated: 2024-08-18T11:15:26.962Z
+date: 2024-10-26T22:17:48.918Z
+updated: 2024-10-27T16:32:31.394Z
 tags: 
   - screen-recording
   - ai video
@@ -60,6 +60,13 @@ Pull-down notification panel from the top, find the Screen Recorder shortcut ico
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/huawei-screen-recorder-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2. Pressing Buttons to Record Huawei Screen
 
 Besides enabling the screen recording feature from the shortcut menu, you can also use buttons to capture your screen on Huawei smartphone quickly. Just hold the Volume Up and Power buttons that are located on the right side of your device to activate the screen recording feature.
@@ -76,20 +83,34 @@ Before using the double knuckles to record the screen activities, you need to en
 
 ![Huawei Smartphone screen recorder](https://images.wondershare.com/filmora/article-images/hauwei-record-screen-knuckle-gesture-setting.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to record the screen video, just knock the screen with two knuckles twice continuously when your Huawei phone is not sleeping. Read the information on the popped up window and tap **Agree** to start the screen recording. You can stop the screen recording by knocking the screen twice with two knuckles again.
 
 The maximum duration of the screen recording you can make can't exceed the five-minute limit. If you would like to capture longer videos of your screen, you can do so by using free third-party [screen recording apps for Android](https://tools.techidaily.com/wondershare/filmora/download/), such as AZ Recorder. But if you are using the built-in screen recording feature on Huawei smartphone, the recording function of the third-party apps will be disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Where to Find the Recorded Videos
 
 All screen recordings you create will be displayed in the phone's **Gallery** app. Locate the Screenshots or Screen Recordings folder on the Albums tab and then tap on the Share icon if you would like to post the recording on social media or send it to a friend. Hit the Delete button to remove the recording from your phone. Follow the on-screen instructions to complete either of these two processes.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 Capturing your phone's screen can help you entertain your friends and followers on social media or to share valuable information with your business associates. Huawei's Smartphones enable you to accomplish both of these tasks in just a few simple steps. However, the built-in Screen Recorder on Huawei's Mate 10, 20 P20 or P10 Android devices doesn't allow you to specify the region of the screen you want to capture or select the frame rate, so if you want to gain access to more powerful screen recording tools you should install an app such as AZ Screen Recorder or DU Recorder from the Google Play Store, but you can also record the screen on the computer with some desktop screen recorders. Let's know how you [record your screen on Android](https://tools.techidaily.com/wondershare/filmora/download/) in the comments below.
@@ -97,15 +118,17 @@ Capturing your phone's screen can help you entertain your friends and followers 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -113,3 +136,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-7-video-to-text-converters-for-seamless-content-translation/"><u>[New] 2024 Approved Top 7 Video-to-Text Converters for Seamless Content Translation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-chrome-os-screen-capture-mastering-the-art-in-four-steps/"><u>[New] Chrome OS Screen Capture Mastering the Art in Four Steps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-amplify-audience-response-with-innovative-instagram-questions/"><u>[New] In 2024, Amplify Audience Response with Innovative Instagram Questions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-guide-to-camstudio-recording-and-capturing/"><u>[New] Ultimate Guide to CamStudio Recording and Capturing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inaudible-audio-assemblers-6-low-profile-recorders-for-smartphones/"><u>[Updated] Inaudible Audio Assemblers 6 Low-Profile Recorders for Smartphones</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photoshops-role-in-crafting-stunning-hdr-visuals/"><u>[Updated] Photoshop's Role in Crafting Stunning HDR Visuals</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-finest-global-virtual-learning-hubs-outside-udemy/"><u>[Updated] The Finest Global Virtual Learning Hubs Outside Udemy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capturing-classroom-talks-on-a-mac/"><u>Capturing Classroom Talks on a Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehvew-into-fixing-persistent-errors-when-launching-finals-gamesoftware-on-personal-computers/"><u>Comprehvew Into Fixing Persistent Errors when Launching 'Finals' Game/Software on Personal Computers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-revenue-realization-strategies-for-successful-monetization-on-youtube-mobile/"><u>In 2024, Revenue Realization Strategies for Successful Monetization on YouTube Mobile</u></a></li>
+<li><a href="https://techtrends.techidaily.com/james-bond-marathon-blueprint-the-right-way-to-enjoy-all-films-from-start-to-finish/"><u>James Bond Marathon Blueprint: The Right Way to Enjoy All Films From Start to Finish</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/must-watch-live-games-top-nine-sites/"><u>Must-Watch Live Games Top Nine Sites</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/revolutionize-recording-the-ultimate-guide-to-minecraft-screenshots-on-mac/"><u>Revolutionize Recording The Ultimate Guide to Minecraft Screenshots on Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-a-guide-for-windows-users/"><u>Solving 'No Rest for the Wicked' Game Crashes: A Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-guide-to-youtube-video-splitting/"><u>The Ultimate Guide to YouTube Video Splitting</u></a></li>
+</ul></div>
+

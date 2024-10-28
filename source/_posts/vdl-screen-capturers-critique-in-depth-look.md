@@ -1,7 +1,7 @@
 ---
 title: "\"VDL Screen Capturer's Critique  In-Depth Look\""
-date: 2024-08-17T11:15:06.871Z
-updated: 2024-08-18T11:15:06.871Z
+date: 2024-10-26T03:25:24.567Z
+updated: 2024-10-27T23:50:09.128Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,13 @@ It's not common for every screen recorder out there can record game screens with
 
 The amazing feature of the VSDC is that it can even record output from your TV or any other video console in your home that got an HDMI port. All you will need to take is an HDMI cable and plug it into the TV and your PC to record.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Download and Use VSDC
 
 After going through the long list of the features of VSDC let's take up the game one step far. How about starting the download process of VSDC? To keep the story and simple short let’s do it stepwise in the coming sections.
@@ -58,6 +65,13 @@ After going through the long list of the features of VSDC let's take up the game
 The first and foremost thing is to go to a suitable link to download VSDC software. It is recommended to use the official download page here at this [link](https://www.videosoftdev.com/free-screen-recorder). Just click on the download button and you will get your software.
 
 ![vsdc free screen recorder download now](https://images.wondershare.com/filmora/article-images/vsdc-free-screen-recorder-download-now.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Install and Record Screen:**
 
@@ -70,6 +84,13 @@ Double click the downloadable file and install the software. After installation,
 Enable the game's recording mode on the main menu screen after running the game application. You will need to enable recording devices as shown in step 2 in the picture below. Click on the capture screen to start the recording mode and end after you are done with it. Go to the output folder to see your recording output.
 
 ![vsdc record games record output](https://images.wondershare.com/filmora/article-images/vsdc-record-games-record-output.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4: Screen Shots and WebCam Recording**
 
@@ -100,94 +121,6 @@ It's obvious nothing is perfect but it's always about which one has more pros th
 * It lacks advanced video editing tools during recording.
 * Sometimes cursor overlay function doesn’t work.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Part 4: Best Alternative to VSDC Recorder
-
-VSDC is the best screen recorder so far, as we discussed in this article but we also researched the best alternative to this application. A question that might arise in your mind after using VSDC. Is there any application alternative to this application? So why not have a look at another similar application that serves the same purpose of [screen recording](https://tools.techidaily.com/wondershare/filmora/download/) as Filmora. Filmora is not only a screen recorder but it has a wide infrastructure of other tools too. It can animate, edit, and generate video clips after heavy editing. Moreover, you can even put an artistic effect with Filmora on stored videos.
-
-Let’s see how we can screen record using Filmora:
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Step 1:Downloading**
-
-You can download Filmora by visiting the following site and clicking on the download button to get the installation file. After getting done with installation double the launching icon and you will see a screen to launch the screen recorder as shown.
-
-![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-**Step 2: Screen Recording Filmora**
-
-After downloading and installing Filmora launch the screen recorder as shown above. You will end up with a new window from where you can start recording. Follow step 1 as shown in the figure below in red to select recording mode. After the selection of recording mode now it's time to select the path of the recording as shown in step 2\. After that, click on the start recording in step 3\. Finally, click on end recording on the same icon in step 3, and bingo you are done recording your screen with an alternative application to VSDC. Check the output for the result.
-
-![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-## The Bottom Line
-
-There may be a lot of other similar applications like VSDC on the internet out there but it's always about the efficient one to choose. Before choosing the best one to use, a wise user of an application opts for the one which has an honest review. This article is purely based on research for different screen recorders and selecting the optimal in all of them. I hope after reading this article it would have conveyed its basic aim of providing you with the best way of recording your screen for whatever purposes you wanted it. Let's end this article here and enjoy the latest screen recorder VSDC.
-
-**Cons:**
-
-* It lacks advanced video editing tools during recording.
-* Sometimes cursor overlay function doesn’t work.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## Part 4: Best Alternative to VSDC Recorder
-
-VSDC is the best screen recorder so far, as we discussed in this article but we also researched the best alternative to this application. A question that might arise in your mind after using VSDC. Is there any application alternative to this application? So why not have a look at another similar application that serves the same purpose of [screen recording](https://tools.techidaily.com/wondershare/filmora/download/) as Filmora. Filmora is not only a screen recorder but it has a wide infrastructure of other tools too. It can animate, edit, and generate video clips after heavy editing. Moreover, you can even put an artistic effect with Filmora on stored videos.
-
-Let’s see how we can screen record using Filmora:
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Step 1:Downloading**
-
-You can download Filmora by visiting the following site and clicking on the download button to get the installation file. After getting done with installation double the launching icon and you will see a screen to launch the screen recorder as shown.
-
-![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-**Step 2: Screen Recording Filmora**
-
-After downloading and installing Filmora launch the screen recorder as shown above. You will end up with a new window from where you can start recording. Follow step 1 as shown in the figure below in red to select recording mode. After the selection of recording mode now it's time to select the path of the recording as shown in step 2\. After that, click on the start recording in step 3\. Finally, click on end recording on the same icon in step 3, and bingo you are done recording your screen with an alternative application to VSDC. Check the output for the result.
-
-![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## The Bottom Line
-
-There may be a lot of other similar applications like VSDC on the internet out there but it's always about the efficient one to choose. Before choosing the best one to use, a wise user of an application opts for the one which has an honest review. This article is purely based on research for different screen recorders and selecting the optimal in all of them. I hope after reading this article it would have conveyed its basic aim of providing you with the best way of recording your screen for whatever purposes you wanted it. Let's end this article here and enjoy the latest screen recorder VSDC.
-
-**Cons:**
-
-* It lacks advanced video editing tools during recording.
-* Sometimes cursor overlay function doesn’t work.
-
 ## Part 4: Best Alternative to VSDC Recorder
 
 VSDC is the best screen recorder so far, as we discussed in this article but we also researched the best alternative to this application. A question that might arise in your mind after using VSDC. Is there any application alternative to this application? So why not have a look at another similar application that serves the same purpose of [screen recording](https://tools.techidaily.com/wondershare/filmora/download/) as Filmora. Filmora is not only a screen recorder but it has a wide infrastructure of other tools too. It can animate, edit, and generate video clips after heavy editing. Moreover, you can even put an artistic effect with Filmora on stored videos.
@@ -223,6 +156,104 @@ There may be a lot of other similar applications like VSDC on the internet out t
 * It lacks advanced video editing tools during recording.
 * Sometimes cursor overlay function doesn’t work.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 4: Best Alternative to VSDC Recorder
+
+VSDC is the best screen recorder so far, as we discussed in this article but we also researched the best alternative to this application. A question that might arise in your mind after using VSDC. Is there any application alternative to this application? So why not have a look at another similar application that serves the same purpose of [screen recording](https://tools.techidaily.com/wondershare/filmora/download/) as Filmora. Filmora is not only a screen recorder but it has a wide infrastructure of other tools too. It can animate, edit, and generate video clips after heavy editing. Moreover, you can even put an artistic effect with Filmora on stored videos.
+
+Let’s see how we can screen record using Filmora:
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Step 1:Downloading**
+
+You can download Filmora by visiting the following site and clicking on the download button to get the installation file. After getting done with installation double the launching icon and you will see a screen to launch the screen recorder as shown.
+
+![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+**Step 2: Screen Recording Filmora**
+
+After downloading and installing Filmora launch the screen recorder as shown above. You will end up with a new window from where you can start recording. Follow step 1 as shown in the figure below in red to select recording mode. After the selection of recording mode now it's time to select the path of the recording as shown in step 2\. After that, click on the start recording in step 3\. Finally, click on end recording on the same icon in step 3, and bingo you are done recording your screen with an alternative application to VSDC. Check the output for the result.
+
+![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## The Bottom Line
+
+There may be a lot of other similar applications like VSDC on the internet out there but it's always about the efficient one to choose. Before choosing the best one to use, a wise user of an application opts for the one which has an honest review. This article is purely based on research for different screen recorders and selecting the optimal in all of them. I hope after reading this article it would have conveyed its basic aim of providing you with the best way of recording your screen for whatever purposes you wanted it. Let's end this article here and enjoy the latest screen recorder VSDC.
+
+**Cons:**
+
+* It lacks advanced video editing tools during recording.
+* Sometimes cursor overlay function doesn’t work.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 4: Best Alternative to VSDC Recorder
+
+VSDC is the best screen recorder so far, as we discussed in this article but we also researched the best alternative to this application. A question that might arise in your mind after using VSDC. Is there any application alternative to this application? So why not have a look at another similar application that serves the same purpose of [screen recording](https://tools.techidaily.com/wondershare/filmora/download/) as Filmora. Filmora is not only a screen recorder but it has a wide infrastructure of other tools too. It can animate, edit, and generate video clips after heavy editing. Moreover, you can even put an artistic effect with Filmora on stored videos.
+
+Let’s see how we can screen record using Filmora:
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Step 1:Downloading**
+
+You can download Filmora by visiting the following site and clicking on the download button to get the installation file. After getting done with installation double the launching icon and you will see a screen to launch the screen recorder as shown.
+
+![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+**Step 2: Screen Recording Filmora**
+
+After downloading and installing Filmora launch the screen recorder as shown above. You will end up with a new window from where you can start recording. Follow step 1 as shown in the figure below in red to select recording mode. After the selection of recording mode now it's time to select the path of the recording as shown in step 2\. After that, click on the start recording in step 3\. Finally, click on end recording on the same icon in step 3, and bingo you are done recording your screen with an alternative application to VSDC. Check the output for the result.
+
+![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## The Bottom Line
+
+There may be a lot of other similar applications like VSDC on the internet out there but it's always about the efficient one to choose. Before choosing the best one to use, a wise user of an application opts for the one which has an honest review. This article is purely based on research for different screen recorders and selecting the optimal in all of them. I hope after reading this article it would have conveyed its basic aim of providing you with the best way of recording your screen for whatever purposes you wanted it. Let's end this article here and enjoy the latest screen recorder VSDC.
+
+**Cons:**
+
+* It lacks advanced video editing tools during recording.
+* Sometimes cursor overlay function doesn’t work.
+
 ## Part 4: Best Alternative to VSDC Recorder
 
 VSDC is the best screen recorder so far, as we discussed in this article but we also researched the best alternative to this application. A question that might arise in your mind after using VSDC. Is there any application alternative to this application? So why not have a look at another similar application that serves the same purpose of [screen recording](https://tools.techidaily.com/wondershare/filmora/download/) as Filmora. Filmora is not only a screen recorder but it has a wide infrastructure of other tools too. It can animate, edit, and generate video clips after heavy editing. Moreover, you can even put an artistic effect with Filmora on stored videos.
@@ -244,17 +275,18 @@ You can download Filmora by visiting the following site and clicking on the down
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 2: Screen Recording Filmora**
 
 After downloading and installing Filmora launch the screen recorder as shown above. You will end up with a new window from where you can start recording. Follow step 1 as shown in the figure below in red to select recording mode. After the selection of recording mode now it's time to select the path of the recording as shown in step 2\. After that, click on the start recording in step 3\. Finally, click on end recording on the same icon in step 3, and bingo you are done recording your screen with an alternative application to VSDC. Check the output for the result.
 
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 There may be a lot of other similar applications like VSDC on the internet out there but it's always about the efficient one to choose. Before choosing the best one to use, a wise user of an application opts for the one which has an honest review. This article is purely based on research for different screen recorders and selecting the optimal in all of them. I hope after reading this article it would have conveyed its basic aim of providing you with the best way of recording your screen for whatever purposes you wanted it. Let's end this article here and enjoy the latest screen recorder VSDC.
@@ -281,4 +313,23 @@ There may be a lot of other similar applications like VSDC on the internet out t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-automated-text-transcription-powerpoints-new-edge/"><u>[New] 2024 Approved Automated Text Transcription PowerPoint's New Edge</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-epic-adventures-game-editions-greatest-hits/"><u>[New] In 2024, Top 10 Epic Adventures Game Edition's Greatest Hits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-video-to-twitter-platforms/"><u>[New] Leading Video To Twitter Platforms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mac-audio-tools-for-effective-classroom-capture-for-2024/"><u>[New] Mac Audio Tools for Effective Classroom Capture for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-genuine-appraisal-of-recordcast-features/"><u>[Updated] 2024 Approved The Genuine Appraisal of RecordCast Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-distinguishing-between-youtube-policies-and-cc-clauses-for-2024/"><u>[Updated] Distinguishing Between YouTube Policies and CC Clauses for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-eyeview-assessment-surpassing-manycams-standards-for-2024/"><u>[Updated] EyeView Assessment Surpassing ManyCam's Standards for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-investing-in-the-future-learning-to-proficiently-record-skype-calls/"><u>[Updated] Investing in the Future Learning to Proficiently Record Skype Calls</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-advanced-techniques-in-itunes-video-saving/"><u>2024 Approved Advanced Techniques in iTunes Video Saving</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-vivo-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Vivo</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-13-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/enhance-playstation-2-gaming-the-ultimate-guide-to-android-emulation-tools-for-2024/"><u>Enhance PlayStation 2 Gaming The Ultimate Guide to Android Emulation Tools for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-tecno-pova-6-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Tecno Pova 6 Pro 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-gt-neo-5-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme GT Neo 5? Fixed | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-definitive-steps-for-online-streaming-audio-archiving-for-2024/"><u>The Definitive Steps for Online Streaming Audio Archiving for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203197563-troubleshooting-how-to-tell-if-netflix-is-experiencing-issues/"><u>Troubleshooting: How to Tell if Netflix Is Experiencing Issues</u></a></li>
+</ul></div>
 

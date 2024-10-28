@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize the Save Spot of Mac Images"
-date: 2024-10-17T08:07:32.921Z
-updated: 2024-10-21T17:42:14.226Z
+date: 2024-10-21T21:10:27.758Z
+updated: 2024-10-28T04:25:10.710Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -55,10 +62,10 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -68,13 +75,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -87,10 +87,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -106,16 +106,10 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -133,20 +127,20 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-choose-wisely-the-ultimate-list-of-mac-gif-tools/"><u>[New] 2024 Approved Choose Wisely The Ultimate List of Mac GIF Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-say-goodbye-to-bloatware-with-these-44-superb-android-video-reducers/"><u>[New] In 2024, Say Goodbye to Bloatware with These 44 Superb Android Video Reducers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-vidma-screen-recorder-review/"><u>[New] In 2024, Vidma Screen Recorder Review</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-boosting-zoom-clarity-the-guide-to-using-filters-wisely/"><u>[Updated] Boosting Zoom Clarity The Guide to Using Filters Wisely</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-screen-recorder-apps-for-iphoneipad-users/"><u>[Updated] In 2024, Screen Recorder Apps for iPhone/iPad Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-list-20plus-methods-to-record-skype-calls-on-computers/"><u>[Updated] In 2024, The Ultimate List 20+ Methods to Record Skype Calls on Computers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-embrace-the-art-of-timelapses-a-comprehensive-ipad-tutorial/"><u>2024 Approved Embrace the Art of Timelapses A Comprehensive iPad Tutorial</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamline-success-blending-obs-zoom-made-easy/"><u>2024 Approved Streamline Success Blending OBS, Zoom Made Easy</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/automatic-tab-closure-settings-in-safari-on-macos-sierra-a-step-by-step-guide/"><u>Automatic Tab Closure Settings in Safari on macOS Sierra - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/clearing-up-space-for-fortnite-tackling-out-of-memory-errors-easily/"><u>Clearing Up Space for Fortnite: Tackling Out-of-Memory Errors Easily</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-online-and-offline-photo-fusion-guide/"><u>In 2024, Online and Offline Photo Fusion Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-pro-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Pro Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/solving-sound-disconnection-on-live-feeds-for-2024/"><u>Solving Sound Disconnection on Live Feeds for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flip-the-script-on-classic-films-7-list/"><u>[New] 2024 Approved Flip the Script on Classic Films, #7 List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-getting-acquainted-with-zoom-segregated-sessions/"><u>[New] 2024 Approved Getting Acquainted with Zoom Segregated Sessions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-narratives-unleashed-10-adventure-games-reviewed/"><u>[New] Narratives Unleashed #10 Adventure Games Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-secrets-for-capturing-powerpoint-perfection-on-camera-for-2024/"><u>[New] Secrets for Capturing PowerPoint Perfection on Camera for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-strategies-to-improve-seamless-broadcasts-in-obs/"><u>[New] Strategies to Improve Seamless Broadcasts in OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-leading-9-mic-technology-a-comprehensive-analysis/"><u>[Updated] In 2024, Leading 9 Mic Technology A Comprehensive Analysis</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capture-the-spectacular-with-nikon-d500-in-4k/"><u>Capture the Spectacular with Nikon D500 in 4K</u></a></li>
+<li><a href="https://win-web3.techidaily.com/comment-recupere-t-on-les-informations-dun-ancien-disque-dur-ide-pour-la-sauvegarde/"><u>Comment Récupère-T-On Les Informations D’un Ancien Disque Dur IDE Pour La Sauvegarde ?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elite-battle-a-compilation-of-superior-fps-games/"><u>In 2024, Elite Battle A Compilation of Superior FPS Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ultimate-5-choice-of-online-meeting-recorder-gadgets/"><u>In 2024, Ultimate 5 Choice of Online Meeting Recorder Gadgets</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolved-fixing-the-missing-audio-issue-in-google-chrome/"><u>Resolved: Fixing the Missing Audio Issue in Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-0x800705b4-fault-during-windows-10-updates-a-complete-fix-guide/"><u>Resolving the 0X800705b4 Fault During Windows 10 Updates - A Complete Fix Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-filmmakers-handbook-to-superior-voice-overseeing/"><u>The Filmmaker's Handbook to Superior Voice Overseeing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-12-proplus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme 12 Pro+ 5G FRP Bypass</u></a></li>
 </ul></div>
 
