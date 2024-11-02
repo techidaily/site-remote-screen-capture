@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Creating Ken Burns Transitions in Camtasia 9  A Step-by-Step Guide\""
-date: 2024-10-25T17:23:46.390Z
-updated: 2024-10-28T00:01:42.925Z
+date: 2024-10-27T22:09:47.618Z
+updated: 2024-11-02T16:10:54.702Z
 tags: 
   - screen-recording
   - ai video
@@ -48,10 +48,10 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -63,10 +63,10 @@ That's not to say that Filmora only offers basic features as it has a wide range
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -94,10 +94,10 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -115,19 +115,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-guide-to-perfecting-facetime-call-screen-captures/"><u>[New] Comprehensive Guide to Perfecting FaceTime Call Screen Captures</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-enhanced-mac-technology-video-plus-sound-record-for-2024/"><u>[New] Enhanced Mac Technology Video + Sound Record for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-what-to-expect-from-the-dji-inspire-2-experience/"><u>[New] In 2024, What to Expect From the DJI Inspire 2 Experience</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-premier-ai-for-stunning-photo-creation/"><u>[New] Premier AI for Stunning Photo Creation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-complementing-visuals-embedding-text-into-windowsmac-pictures-for-2024/"><u>[Updated] Complementing Visuals Embedding Text Into Windows/Mac Pictures for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-datadeliverer-analyst-take-for-2024/"><u>[Updated] DataDeliverer Analyst Take for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-forward-thinking-ios-for-ps2-emulation-for-2024/"><u>[Updated] Forward-Thinking iOS for PS2 Emulation for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-preserving-the-pulse-of-internet-radio-waves-for-2024/"><u>[Updated] Preserving the Pulse of Internet Radio Waves for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-avi-viewer-mobile-and-desktop-edition/"><u>2024 Approved Ideal AVI Viewer Mobile & Desktop Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-step-by-step-guide-becoming-a-reel-star-on-instagram/"><u>2024 Approved Step-by-Step Guide Becoming a Reel Star on Instagram</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/fbx-recorder-alternatives-the-new-era-of-gaming-capture-for-2024/"><u>FBX Recorder Alternatives The New Era of Gaming Capture for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-6-plus-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 6 Plus</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/thriving-on-both-sides-work-and-youtubing-tips/"><u>Thriving on Both Sides Work and YouTubing Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-picks-for-the-ultimate-offline-game-experience-on-android-for-2024/"><u>Top Picks for the Ultimate Offline Game Experience on Android for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-androids-top-12-virtual-creature-experiences/"><u>[New] 2024 Approved Android's Top 12 Virtual Creature Experiences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-safeguard-your-calls-best-free-and-secure-video-chat-services-for-ios-and-android/"><u>[New] 2024 Approved Safeguard Your Calls Best Free and Secure Video Chat Services for iOS & Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-7-multimedia-cameras-for-quality-live-streams-and-video-blogs-for-2024/"><u>[New] Best 7 Multimedia Cameras For Quality Live Streams & Video Blogs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bridging-images-and-words-step-by-step-text-integration-guide/"><u>[New] Bridging Images & Words Step-by-Step Text Integration Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-masterclass-in-high-speed-recording/"><u>[New] In 2024, Masterclass in High-Speed Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-entering-income-territory-with-a-thousand-followers/"><u>[Updated] 2024 Approved Entering Income Territory with a Thousand Followers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-writing-across-the-spectrum-8-film-categories/"><u>[Updated] Best Writing Across the Spectrum 8 Film Categories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capturing-the-joy-of-lol-gameplay-three-effective-methods/"><u>[Updated] Capturing the Joy of LOL Gameplay - Three Effective Methods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-professional-filming-made-simple-the-essentials-of-logitech-webcam-setup/"><u>[Updated] In 2024, Professional Filming Made Simple The Essentials of Logitech Webcam Setup</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-apeaksoft-2023-screens-recording-insights/"><u>2024 Approved Apeaksoft 2023 Screens Recording Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-a-seamless-gift-discovery-journey/"><u>2024 Approved Crafting a Seamless Gift Discovery Journey</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-expert-schematic-designing-stopwatches-for-streaming-software/"><u>2024 Approved Expert Schematic Designing Stopwatches for Streaming Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-video-privacy-the-art-of-concealing-details/"><u>2024 Approved Mastering Video Privacy The Art of Concealing Details</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-tunemaster-pro-how-to-download-and-assess/"><u>2024 Approved TuneMaster Pro How to Download & Assess</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-tecno-spark-20-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Tecno Spark 20 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ive-music-videos-a-list-of-15-youtube-projects-for-2024/"><u>Creative Music Videos A List of 15 YouTube Projects for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-emulate-elegance-the-premier-selection-of-ps1-emulators-for-pc/"><u>In 2024, Emulate Elegance The Premier Selection of PS1 Emulators for PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Online? Here are 6 Easy Ways</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfecting the Art of PPT Delivery via Google Meet (Any Device) for 2024"
-date: 2024-10-27T04:23:55.073Z
-updated: 2024-10-27T18:35:25.476Z
+date: 2024-10-29T19:35:10.212Z
+updated: 2024-11-02T22:58:43.293Z
 tags: 
   - screen-recording
   - ai video
@@ -69,6 +69,13 @@ There you will see two options and must click one of the following options,
 
 The slideshow will automatically start to broadcast to viewers. We are sure you are not wondering **how to present a ppt in Google Meet** anymore!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Presenting Google Slides in Google Meet on Laptop
 
 In some cases, individuals opt to use Google Slides instead of PowerPoint presentations, but have no fear because Google Meet is equipped to share Google Slides as well. The process is quite similar to that of sharing a PowerPoint, but there are a few changes.
@@ -80,10 +87,10 @@ So to answer your question on **how to present slide in Google Meet**,
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Open Google Meet on your browser and go on to the meeting link page. Here you have two options, one - you can join the session directly and then start presenting the screen, or two - share the screen and then join the session.
@@ -92,13 +99,20 @@ If you decide to go with the latter option, then click the “Present” option.
 
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-tab-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Once you have gone through these steps your Google Slides will automatically be visible to anyone and everyone in the Google Meet session.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Present PowerPoint or Slides in Google Meet On iPhone and iPad?
@@ -110,13 +124,6 @@ Step 1) Open your PowerPoint or Slides on your iPhone or iPad, and then join the
 Step 2) To start sharing your screen, press the three-button icon which appears in the bottom right corner of your screen, and then tap the **Share Screen** option.
 
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Step 3) After doing so, the presenter will see a notification on their screen allowing them to broadcast their entire screen. Upon clicking “Start Broadcast” the screen will start to share in three seconds. Switch from Google Meet to PowerPoint or Google Slides and the screen will automatically share slides.
 
@@ -136,13 +143,6 @@ Step 3) Upon joining the meeting, click the “More” option and tap the “Pre
 
 ![Share slides on Google Meet on Android ](https://images.wondershare.com/filmora/article-images/present-screen-on-google-meet-android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4) After that, allow presenting and go to your PowerPoint / Google Slides to share them with participants, easy right?! Remember, participants can pause your screen presentation and start presenting their screen in between, as well.
 
 ## Part 5: How to Stop Presenting PPT on Google Meet?
@@ -156,6 +156,13 @@ Instead, there is another way, upon finishing the discussion on the PowerPoint s
 If that option is not visible to the presenter, they can return to their Google Meet session, and click the stop sharing button as shown in the image below.
 
 ![stop  Google Meet present](https://images.wondershare.com/filmora/article-images/stop-google-meet-present.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Moreover, if you are on an iPhone or iPad, you can simply click the red stripe on the top of your screen and a notification popup will appear indicating that you can stop presenting.
 
@@ -181,13 +188,6 @@ Presenting a ppt on Google Meet is not all that difficult, if you know what to d
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -203,17 +203,17 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-elite-adventurers-playground-top-10-games-revealed/"><u>[New] In 2024, Elite Adventurers' Playground – Top 10 Games Revealed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-essentials-2023s-highest-ranked-twitter-content-for-2024/"><u>[New] The Essentials 2023'S Highest-Ranked Twitter Content for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-methods-for-android-video-preservation/"><u>[Updated] In 2024, Ultimate Methods for Android Video Preservation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-from-gameplay-to-video-full-guide-on-ps4-with-obs/"><u>2024 Approved From Gameplay to Video Full Guide on PS4 with OBS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-snippets-get-high-quality-images-without-a-penny-paid/"><u>2024 Approved YouTube Snippets Get High-Quality Images Without a Penny Paid</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capturing-and-archiving-itunes-content-effortlessly/"><u>Capturing and Archiving iTunes Content Effortlessly</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-15-plus-how-to-unlock-a-disabled-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 15 Plus How to Unlock a Disabled Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/meilleures-solutions-logicielles-pour-confectionner-les-plus-efficaces-intros-de-youtube-top-5-classes/"><u>Meilleures Solutions Logicielles Pour Confectionner Les Plus Efficaces Intros De YouTube - Top 5 Classés</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-ls-0013-initialization-issue-on-fortnite-expert-advice-and-tips/"><u>Resolving the LS-0013 Initialization Issue on Fortnite: Expert Advice and Tips</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/visionary-tech-that-cares-for-the-earth-for-2024/"><u>Visionary Tech That Cares for the Earth for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-elevating-your-drone-content-post-production-fundamentals-for-2024/"><u>[New] Elevating Your Drone Content Post-Production Fundamentals for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-leading-downloader-software-facebooks-top-choices-5/"><u>[New] In 2024, Leading Downloader Software Facebook's Top Choices #5</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premier-5-time-lapse-camera-apps-for-2024/"><u>[New] Premier 5 Time-Lapse Camera Apps for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-record-webcam-video-on-hp-laptops-and-chromebooks/"><u>[Updated] 2024 Approved How to Record Webcam Video on HP Laptops and Chromebooks?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-techniques-for-high-resolution-webcam-videos/"><u>[Updated] 2024 Approved Top Techniques for High-Resolution WebCam Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-digital-game-chronicles-for-2024/"><u>[Updated] Digital Game Chronicles for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effortless-course-skipping-techniques-for-bypassing-edgenuity-videos/"><u>Effortless Course Skipping Techniques for Bypassing Edgenuity Videos</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-11-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-achieve-perfect-screen-captures-on-the-mi-11-lite/"><u>In 2024, Achieve Perfect Screen Captures on the Mi 11 Lite</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-step-by-step-audacity-crossfading-process/"><u>In 2024, Step-by-Step Audacity Crossfading Process</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-checklist-seamless-conversion-of-phone-photos-to-snapchat-for-2024/"><u>The Ultimate Checklist Seamless Conversion of Phone Photos to Snapchat for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-11-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 11 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
 </ul></div>
 

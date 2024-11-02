@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Silencing Background Noise in OBS Feeds\""
-date: 2024-10-25T02:07:21.414Z
-updated: 2024-10-28T00:34:31.344Z
+date: 2024-10-30T22:53:55.223Z
+updated: 2024-11-02T16:26:42.250Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,13 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
@@ -42,10 +49,16 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -58,13 +71,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -76,16 +82,17 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
@@ -99,16 +106,10 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -121,13 +122,6 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -136,6 +130,13 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -146,13 +147,6 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -192,21 +186,19 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-screen-recorder-pro-for-windows-10/"><u>[New] In 2024, Screen Recorder Pro for Windows 10</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-definitive-list-of-win10s-top-video-capture-software/"><u>[New] The Definitive List of Win10's Top Video Capture Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-apowersofts-new-screen-recording-tech-for-enhanced-pc-captures/"><u>[Updated] Apowersoft’s New Screen Recording Tech for Enhanced PC Captures</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-frost-your-view-freezing-desktop-on-pcs/"><u>[Updated] In 2024, Frost Your View Freezing Desktop on PCs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-tech-manual-for-saving-web-streamed-television/"><u>[Updated] In 2024, The Ultimate Tech Manual for Saving Web-Streamed Television</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-stream-wars-unveiled-which-wins-obs-or-twitch/"><u>2024 Approved Stream Wars Unveiled Which Wins, OBS or Twitch?</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/guida-rapida-alla-riduzione-delle-dimensioni-dei-file-video-per-facebook-senza-perdere-qualita/"><u>Guida Rapida Alla Riduzione Delle Dimensioni Dei File Video per Facebook Senza Perdere Qualità</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-12-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 12 Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-v30t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme V30T Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unbiased-comparison-sony-vegas-vs-adobe-premiere-pro-for-video-creators-for-2024/"><u>New Unbiased Comparison Sony Vegas vs Adobe Premiere Pro for Video Creators for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-techniques-for-webcam-integration-in-game-recording-for-2024/"><u>Top Techniques for WebCam Integration in Game Recording for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-a05s-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy A05s without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unveiling-the-secrets-of-superior-tunefab-recordings/"><u>Unveiling the Secrets of Superior Tunefab Recordings</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-path-to-autoplay-configuring-youtube-content-for-uninterrupted-streaming/"><u>[New] 2024 Approved The Path to Autoplay Configuring Youtube Content for Uninterrupted Streaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-10-innovative-platforms-revolutionizing-online-education/"><u>[New] In 2024, 10 Innovative Platforms Revolutionizing Online Education</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-aligning-apple-android-and-computer-schedules-for-zoom-syncing/"><u>[New] In 2024, Aligning Apple, Android, and Computer Schedules for Zoom Syncing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-thriving-in-the-digital-space-crafting-high-impact-fb-videos/"><u>[New] In 2024, Thriving in the Digital Space Crafting High-Impact FB Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-original-visual-storytelling-appraisal-and-substitutions-for-2024/"><u>[New] Original Visual Storytelling Appraisal & Substitutions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-excellent-webcam-recorders-on-windows-10/"><u>[Updated] 2024 Approved Excellent Webcam Recorders on Windows 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-elevate-gameplay-memories-overwatchs-recording-hacks/"><u>[Updated] In 2024, Elevate Gameplay Memories - Overwatch's Recording Hacks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-transform-your-devices-display-into-a-high-quality-record-for-2024/"><u>[Updated] Transform Your Device's Display Into a High-Quality Record for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-resounding-beats-audio-studio-mac/"><u>2024 Approved Resounding Beats Audio Studio Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streaming-platforms-battle-evaluating-streamlabs-and-obs-features/"><u>2024 Approved Streaming Platforms Battle Evaluating Streamlabs & OBS Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-clearer-picture-remove-borders-and-boost-recording-quality/"><u>2024 Approved The Clearer Picture Remove Borders and Boost Recording Quality</u></a></li>
+<li><a href="https://discover-best.techidaily.com/cookiebot-driven-custom-experiences-revolutionizing-user-engagement-through-smart-tracking/"><u>Cookiebot-Driven Custom Experiences: Revolutionizing User Engagement Through Smart Tracking</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-conversion-technique-windows-11-heic-to-jpeg/"><u>Effortless Conversion Technique: Windows 11 HEIC to JPEG</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-free-text-animation-to-videos-for-2024/"><u>How to Add Free Text Animation to Videos for 2024</u></a></li>
 </ul></div>
 

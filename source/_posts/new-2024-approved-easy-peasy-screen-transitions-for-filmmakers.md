@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Easy-Peasy Screen Transitions for Filmmakers\""
-date: 2024-10-24T01:09:05.683Z
-updated: 2024-10-27T17:26:55.123Z
+date: 2024-11-01T22:53:41.300Z
+updated: 2024-11-02T21:11:42.390Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,13 @@ Here is how to add dissolve transition in Filmora.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * After importing video footage into Filmora, drag and drop them in the timeline.
 * Go to the Transition tab and find Dissolve under the Basic category. If you didn’t see it, you can use the search bar to find it.
 
@@ -60,13 +67,6 @@ Besides applying Dissolve transition to fade video, you can also try the Fade or
 
 You can learn more about Dissolve transition at our guide [How to add Dissolve Transitions in Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Apply Fade Motion Effects to Video
 
 Besides the regular dissolve and fade transitions, you can also apply motion fade effect to make your footage more vivid. Here is how to apply the motion fade effect to video in Filmora.
@@ -75,14 +75,21 @@ Besides the regular dissolve and fade transitions, you can also apply motion fad
 
 ![Add  Fade Motion Effects to video in Filmora  ](https://images.wondershare.com/filmora/article-images/fade-motion-effects-animation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Expand it and you will find that there are several fade effects available, such as fade-zoom in, fade-zoom out, fade slide from top to bottom, fade slide from bottom to top, fade from left to right, or fade right to left.
 * Double click on the fade effect that you want to use and the fade motion effect will be added to the clip automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Add Sample Colors at the beginning and end of the video clip
@@ -96,10 +103,17 @@ We’ve made a video tutorial about how to fade in and fade out video easily in 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Using Animation Keyframing to Create Fade Effects
@@ -120,23 +134,9 @@ So easy, isn’t it? You can now download the software and make fade-in and fade
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Besides fade-in and fade-out videos, Filmora can fade in and fade out audio easily. Check the details in our guide about how to fade in and [fade out audio in Filmora](https://tools.techidaily.com/wondershare/filmora/download/) or watch the video tutorial below.
 
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 YouTuber Aaron Bowman has made a tutorial about the Filmora transitions, explaining how to add fade in fade out effects to videos, control the duration of transitions, as well as how to use the keyframing animations to create transitions.
 
@@ -157,19 +157,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ree-tribe-50-branding-banners-ready-to-unleash-in-2024/"><u>[New] Free Tribe 50 Branding Banners Ready to Unleash, In 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-essential-guide-crafting-and-refining-windows-11-videos/"><u>[New] In 2024, Essential Guide Crafting & Refining Windows 11 Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-review-of-camstudio-capturing-features-for-2024/"><u>[New] The Ultimate Review of CamStudio Capturing Features for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-crown-jewels-of-online-watching-youtubes-treasures/"><u>[Updated] 2024 Approved Crown Jewels of Online Watching YouTube's Treasures</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-harness-the-power-of-obs-on-android-gadgets/"><u>[Updated] 2024 Approved How to Harness the Power of OBS on Android Gadgets</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-offline-android-games-dive-into-the-fun-without-a-network-for-2024/"><u>[Updated] Best Offline Android Games - Dive Into the Fun Without a Network for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-virtual-forum-transcription/"><u>[Updated] In 2024, Virtual Forum Transcription</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-lightening-your-day-with-humor-comical-facebook-detention-memes/"><u>[Updated] Lightening Your Day with Humor Comical Facebook Detention Memes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-to-procure-free-visual-frame-videos/"><u>2024 Approved Techniques to Procure Free Visual Frame Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/editore-videoguida-mac-premium-guida-completa-al-montaggio-con-movavi-video-editor/"><u>Editore Videoguida Mac Premium: Guida Completa Al Montaggio Con Movavi Video Editor</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-use-free-countdown-timer-for-2024/"><u>How to Use Free Countdown Timer for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-preventing-non-displayed-images-in-youtubes-shorts/"><u>In 2024, Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-easygoing-pc-game-guide/"><u>The Ultimate Easygoing PC Game Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-8-undead-adventures-ultimate-zombie-game-guide/"><u>Top 8 Undead Adventures Ultimate Zombie Game Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-chasing-charm-innovative-photo-techniques-to-ignite-insta-for-2024/"><u>[New] Chasing Charm Innovative Photo Techniques to Ignite Insta for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-zoom-with-precision-using-videoleap-software-for-2024/"><u>[New] Zoom with Precision Using Videoleap Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-future-of-game-monitoring-advanced-alternatives-to-fbx/"><u>[Updated] 2024 Approved The Future of Game Monitoring Advanced Alternatives to FBX</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages-for-2024/"><u>[Updated] Exploring the Mystery of the Blue Video Symbol on FB Messages for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-epochs-epic-journey-best-free-mmo-games-roundup/"><u>2024 Approved Epoch's Epic Journey Best Free MMO Games Roundup</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-elite-set-selecting-the-best-gaming-streamers-webcams/"><u>2024 Approved The Elite Set Selecting the Best Gaming Streamers Webcams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/bandicam-demystified-a-clearer-understanding-of-2023-functionality-for-2024/"><u>Bandicam Demystified A Clearer Understanding of 2023 Functionality for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-nvidia-geforce-rtx-3080-ti-drivers-compatible-with-windows-1087/"><u>Download Latest NVIDIA GeForce RTX 3080 Ti Drivers - Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/efficient-recording-techniques-for-itunes-media-for-2024/"><u>Efficient Recording Techniques for iTunes Media for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/engaging-sims-4-experience-through-recording/"><u>Engaging Sims 4 Experience Through Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-no-money-no-problem-guide-to-flying-solo-in-google-meet/"><u>In 2024, No Money? No Problem! Guide to Flying Solo in Google Meet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-overcoming-grey-screens-in-gaming-recording/"><u>In 2024, Overcoming Grey Screens in Gaming Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-press-pause-on-anxiety-with-these-games/"><u>In 2024, Press Pause on Anxiety with These Games</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-probing-into-asuss-proart-pa-329q-professional-4k-display-review-insights/"><u>In 2024, Probing Into Asus's ProArt PA 329Q – Professional 4K Display Review Insights</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/navigating-tech-choices-reliable-information-straight-from-toms-hardware-specialists/"><u>Navigating Tech Choices: Reliable Information Straight From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-mobile-animation-mastery-the-best-apps-for-android-and-ios/"><u>New 2024 Approved Mobile Animation Mastery The Best Apps for Android and iOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-platforms-offering-unrestricted-access-to-ebooks-and-digital-comics/"><u>Top Platforms Offering Unrestricted Access to eBooks & Digital Comics</u></a></li>
 </ul></div>
 

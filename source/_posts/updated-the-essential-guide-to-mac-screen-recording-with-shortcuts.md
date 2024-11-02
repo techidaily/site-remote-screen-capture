@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Essential Guide to Mac Screen Recording with Shortcuts"
-date: 2024-10-22T03:57:56.407Z
-updated: 2024-10-28T00:07:08.595Z
+date: 2024-10-31T19:04:20.223Z
+updated: 2024-11-02T21:55:14.031Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,10 @@ Press Command, shift, and 5 on the console at the same time. The screen capture 
 ![shortcut recorder mac](https://images.wondershare.com/filmora/article-images/shortcut-recorder-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2: Select Recording Mode**
@@ -52,38 +52,17 @@ Pick whether you need to "Record Entire Screen" or "Record Selected Portion." If
 
 ![select recording mode mac](https://images.wondershare.com/filmora/article-images/select-recording-mode-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Start Recording**
 
 Whenever you've chosen the choices you need, it's an ideal opportunity to record. Click the "Record button." Or, on the off chance that you're recording the whole screen, you can click anyplace on the screen to begin recording. Assuming that you've decided to set the clock, you'll see the clock counting down until the recording starts. If not, the recording will start right away. Assuming that you chose Record Selected Portion, you will see a container on-screen showing what will be caught. Snap and drag the handles at the edges of this container to change what is recorded. You can move this choice to any place you need. At the point when you're prepared, click Record.
 
 ![record screen with shortcut mac](https://images.wondershare.com/filmora/article-images/record-screen-with-shortcut-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: End the Recording**
 
 To stop the recording, click on the little square stop button in the upper right corner of the menu bar from the highest point of your screen. You can likewise hit Command, control, ESC to quit recording. Or on the other hand, hit Command, shift, 5 and the screen capture bar will return with a stop button you can click. Or on the other hand, assuming that you have a Touch Bar, you'll see a stop button in the upper left. When you quit recording, you'll momentarily see a thumbnail of the video in the lower-right corner of your screen. Assuming you swipe the thumbnail to one side or sit idle, your recording will consequently save as a MOV format in the directory you've set.
 
 ![stop mac shortcut recording](https://images.wondershare.com/filmora/article-images/stop-shortcut-recording-mac.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Alternative Software to Record Screen on Mac
 
@@ -113,15 +92,36 @@ From that recorder interface, click on the record button and select the Record P
 
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Start Recording**
 
 At last, when you're ready, hit the Record button and it shall start the recording after giving you a 3-second get-ready time. You can start recording your screen activity afterwards. Then, stop the recording by hitting the stop button and it'll allow you to add explanations, additional media documents, changes, titles and more can then all be dropped in with your recording.
 
 ![filmora recording screen](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4: Edit and Save Your Recordings**
 
 After you're done with the recording, hit the Stop button and go through the Video Editor features to utilize them to the best extent. You can use Titles, Transitions, Cursor Settings, audio editing and much more with the Editor. Afterwards, to share your work of art straightforwardly to YouTube or some other renowned stage, go for the Export button and select the platform to share your video recording.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,24 +138,16 @@ Part 2. [Alternative Software to Record Screen on Mac](#part2)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-efficient-techniques-screen-recording-in-google-meet/"><u>[New] In 2024, Efficient Techniques Screen Recording in Google Meet</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boldly-step-up-claim-your-set-of-50-exquisite-cost-free-youtube-promo-materials/"><u>[Updated] 2024 Approved Boldly Step Up Claim Your Set of 50 Exquisite, Cost-Free YouTube Promo Materials</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-celebrating-top-10-moba-play-android-edition-for-2024/"><u>[Updated] Celebrating Top 10 MOBA Play Android Edition for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-detailed-walkthrough-timer-creation-in-obs-broadcasts/"><u>[Updated] Detailed Walkthrough Timer Creation in OBS Broadcasts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-exploring-ice-cream-screen-recorder-technology/"><u>[Updated] Exploring Ice Cream Screen Recorder Technology</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-video-capture-devices-for-windows-os/"><u>[Updated] Premium Video Capture Devices for Windows OS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unraveling-the-mystery-of-frame-rates-in-videos-for-2024/"><u>[Updated] Unraveling the Mystery of Frame Rates in Videos for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-visualcapture-reviewer-tool-for-2024/"><u>[Updated] VisualCapture Reviewer Tool for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-content-top-15-download-apps-unveiled/"><u>2024 Approved Instagram Content Top 15 Download Apps Unveiled</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-lone-path-with-3d-printers-in-the-3dr-world-for-2024/"><u>A Lone Path with 3D Printers in the '3DR' World for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/backupmasters-expert-verdict/"><u>BackUpMasters Expert Verdict</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-budget-friendly-caixun-75-inch-android-4k-television/"><u>Comprehensive Review of the Budget-Friendly Caixun 75-Inch Android 4K Television</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-90-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 90 Pro Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastering-zoom-segregation-techniques-quickstart/"><u>In 2024, Mastering Zoom Segregation Techniques Quickstart</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-insiders-look-at-vidma-screen-recording/"><u>In 2024, The Insider's Look at Vidma Screen Recording</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-setting-up-your-psn-account-securely/"><u>Step-by-Step Guide: Setting Up Your PSN Account Securely</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-screen-shotting-for-xbox-enthusiasts/"><u>Step-by-Step Screen Shotting for Xbox Enthusiasts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs-for-2024/"><u>Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs) for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-master-your-youtube-content-with-superior-webm-converters/"><u>[Updated] 2024 Approved Master Your YouTube Content with Superior WebM Converters</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-modern-shoppers-guide-to-360-degree-imaging-tech/"><u>[Updated] The Modern Shopper's Guide to 360-Degree Imaging Tech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-creating-polished-composites-with-skillful-modes-use/"><u>2024 Approved Creating Polished Composites with Skillful Modes Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elite-mac-graphics-recorder/"><u>2024 Approved Elite Mac Graphics Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-twitch-broadcast-excellence-the-ultimate-5-guide/"><u>2024 Approved Twitch Broadcast Excellence The Ultimate 5 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/aviyoutube/"><u>AVI形式への無料YouTubeビデオ変換</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/exploring-8-open-source-video-collaboration-software-picks/"><u>Exploring 8 Open Source Video Collaboration Software Picks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-precise-obs-settings-for-inexpensive-hardware/"><u>In 2024, Precise OBS Settings for Inexpensive Hardware</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/minimap-memories-mastering-6-ways-to-record-your-gameplay/"><u>Minimap Memories Mastering 6 Ways to Record Your Gameplay</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-microphone-malfunction-here-are-the-solutions/"><u>Realtek Microphone Malfunction? Here Are The Solutions!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-best-exercise-journaling-apps-for-the-year-2024/"><u>The Ultimate List: Best Exercise Journaling Apps for the Year 2024</u></a></li>
 </ul></div>
 
