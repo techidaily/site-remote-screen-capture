@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Advanced 3D Shaping  Crafting Perfect MC Circles & Spheres\""
-date: 2024-10-30T16:38:06.916Z
-updated: 2024-11-02T19:23:30.940Z
+date: 2024-11-04T18:03:46.660Z
+updated: 2024-11-11T02:35:01.359Z
 tags: 
   - screen-recording
   - ai video
@@ -67,13 +67,6 @@ The only difference between making a circle and a sphere is the difference in di
 
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
@@ -83,10 +76,10 @@ The only difference between making a circle and a sphere is the difference in di
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
@@ -96,10 +89,10 @@ These circles and spheres are useful in Minecraft and they play a very vital rol
 ![minecraft-make-sphere4](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -110,13 +103,20 @@ Creating such amazing things and sharing them on your social media and video sha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -134,17 +134,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-your-youtube-thumbnails-triple-neon-border-techniques/"><u>[New] 2024 Approved Elevate Your YouTube Thumbnails - Triple Neon Border Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-enhancing-visual-storytelling-with-impeccable-voice-over/"><u>[New] 2024 Approved Enhancing Visual Storytelling with Impeccable Voice Over</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-professional-selections-best-5-interactive-capture-apps/"><u>[New] 2024 Approved Professional Selections Best 5 Interactive Capture Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-compactscreengrab-critique-report/"><u>[New] In 2024, CompactScreenGrab Critique Report</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-young-filmmakers-guide-to-selecting-video-gear/"><u>[New] The Young Filmmaker's Guide to Selecting Video Gear</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-ways-to-take-amazing-time-lapse-videos-with-android-phone-2024/"><u>[Updated] Best Ways to Take Amazing Time-Lapse Videos with Android Phone 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-sonic-and-the-hedgehog-switch-edition-top-10/"><u>2024 Approved Sonic and the Hedgehog Switch Edition (Top 10)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-10-battle-royale-games/"><u>2024 Approved Top 10 Battle Royale Games</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-music-blends/"><u>In 2024, Mastering YouTube Music Blends</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-superior-chromebook-video-saver/"><u>In 2024, Superior ChromeBook Video Saver</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/sharing-vimeo-content-instagram-tips-for-2024/"><u>Sharing Vimeo Content Instagram Tips for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-beat-stress-away-the-ultimate-gaming-list/"><u>[New] 2024 Approved Beat Stress Away The Ultimate Gaming List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-twitch-replay-magic-stream-control-secrets/"><u>[New] Twitch Replay Magic Stream Control Secrets</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-snicker-studio-cybernetic-cackles/"><u>[Updated] 2024 Approved Snicker Studio Cybernetic Cackles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-secure-total-visual-display-for-2024/"><u>[Updated] Secure Total Visual Display for 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/accessing-bios-settings-on-windows-11-three-simple-methods/"><u>Accessing BIOS Settings on Windows 11: Three Simple Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-series-7-vs-series-10-why-sticking-to-what-works-pays-off-for-me-tech-insights-blog/"><u>Apple Watch Series 7 Vs. Series 10: Why Sticking to What Works Pays Off for Me | Tech Insights Blog</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capturing-moons-a-guide-to-proper-night-photography-techniques-for-2024/"><u>Capturing Moons A Guide to Proper Night Photography Techniques for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-recording-google-voice-calls/"><u>In 2024, Unlocking the Potential of Recording Google Voice Calls</u></a></li>
+<li><a href="https://solve-info.techidaily.com/leverage-cookiebot-technology-for-improved-website-insights-and-optimization/"><u>Leverage Cookiebot Technology for Improved Website Insights and Optimization</u></a></li>
+<li><a href="https://games-able.techidaily.com/modify-interface-language-of-steam-platform/"><u>Modify Interface Language of Steam Platform</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/revolutionizing-facebook-video-cover-updates-tips-and-tricks-for-2024/"><u>Revolutionizing Facebook Video Cover Updates Tips and Tricks for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719171566459-series-xands-the-ultimate-offer-extravaganza/"><u>Series X&S: The Ultimate Offer Extravaganza!</u></a></li>
 </ul></div>
 

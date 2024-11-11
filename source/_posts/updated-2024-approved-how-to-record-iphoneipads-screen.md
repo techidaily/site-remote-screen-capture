@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Record iPhone/iPad’s Screen\""
-date: 2024-10-31T16:02:10.044Z
-updated: 2024-11-02T22:10:31.335Z
+date: 2024-11-08T20:31:07.517Z
+updated: 2024-11-11T07:43:18.384Z
 tags: 
   - screen-recording
   - ai video
@@ -64,10 +64,10 @@ That's the steps of how to record your iPhone screen in iOS 11 and later version
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
@@ -81,10 +81,10 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. Launch QuickTime on your Mac available in the application folder.
@@ -93,6 +93,13 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
 
 5\. Click on the arrow next to the red record button to show the camera and microphone recording options. Choose your device from the list of devices and you will be able to see your device screen in the QuickTime window.
@@ -100,6 +107,13 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 6\. Click on the red record button when you want to start recording.
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
 
@@ -113,21 +127,7 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -144,18 +144,21 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-cutting-edge-video-editing-strategies-for-impactful-obs-content/"><u>[New] 2024 Approved Cutting-Edge Video Editing Strategies for Impactful OBS Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-google-hangout-improvement-strategies-roundup-4/"><u>[New] 2024 Approved Google Hangout Improvement Strategies, Roundup #4</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-critical-selection-the-best-10-video-cards-for-seamless-playback-for-2024/"><u>[New] Critical Selection The Best 10 Video Cards for Seamless Playback for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-webinar-mastery-record-without-monetary-burden/"><u>[New] In 2024, Webinar Mastery Record Without Monetary Burden</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-iphoneipad-advanced-screen-recording-tips-new-methods-2023/"><u>[Updated] 2024 Approved IPhone/iPad Advanced Screen Recording Tips - New Methods 2023</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/crafting-visual-stories-quick-methods-to-design-snaps-for-2024/"><u>Crafting Visual Stories Quick Methods to Design Snaps for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-dividing-devices-top-cam-rating-review/"><u>In 2024, Dividing Devices Top Cam Rating Review</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-v29-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo V29? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-the-comprehensive-mac-bookworms-guide-to-effortless-voice-recording-techniques/"><u>New 2024 Approved The Comprehensive Mac Bookworms Guide to Effortless Voice Recording Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-problem-with-armored-core-vi-fires-of-rubicon-non-responsive-game-issue-fixes/"><u>Solving the Problem with Armored Core VI: Fires of Rubicon - Non-Responsive Game Issue Fixes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-assessment-of-the-microsoft-surface-laptop-go-high-performance-meets-accessibility/"><u>The Ultimate Assessment of the Microsoft Surface Laptop Go – High Performance Meets Accessibility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-guide-to-repairing-aesthetic-issues-and-aspect-anomalies-in-computer-displays/"><u>The Ultimate How-To Guide to Repairing Aesthetic Issues and Aspect Anomalies in Computer Displays</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-asus-rog-phone-8-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Asus ROG Phone 8 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-complete-guide-to-capturing-ps4-games-via-obs/"><u>[New] 2024 Approved Complete Guide to Capturing PS4 Games via OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expert-video-making-opt-for-studio-versus-beta-version/"><u>[New] 2024 Approved Expert Video Making Opt for Studio Versus Beta Version</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-embed-presentation-asset-as-video-feature/"><u>[New] Embed Presentation Asset as Video Feature</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-gameplay-capture-simplified-the-ultimate-win10-guide/"><u>[New] Gameplay Capture Simplified The Ultimate Win10 Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-step-by-step-guide-to-ken-burns-effect-with-camtasia-9/"><u>[New] In 2024, Step-by-Step Guide to Ken Burns Effect with Camtasia 9</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-perfectly-record-and-preserve-your-ps3-games/"><u>[Updated] 2024 Approved How to Perfectly Record and Preserve Your PS3 Games</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-best-online-photo-background-changers-filmora/"><u>2024 Approved 10 Best Online Photo Background Changers - Filmora</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-ways-to-fix-autocorrect-fails-and-teach-your-iphone-to-spell-properly/"><u>6 Ways to Fix Autocorrect Fails and Teach Your iPhone to Spell Properly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726222398645-avi/"><u>了解AVI文件: 詳細介紹、內容以及在多媒體設備上如何運行</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-note-50-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme Note 50? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhancing-document-automation-how-abbyy-flexicaptures-updated-rest-api-fuels-seamless-adoption-and-immediate-data-processing/"><u>Enhancing Document Automation: How ABBYY FlexiCapture's Updated REST API Fuels Seamless Adoption & Immediate Data Processing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/kinemaster-pro-guide-crafting-uninterrupted-storytelling/"><u>Kinemaster Pro Guide Crafting Uninterrupted Storytelling</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-gaming-nostalgia-discovering-the-most-acclaimed-gb-console-emulators-on-pc/"><u>Mastering Gaming Nostalgia Discovering The Most Acclaimed GB Console Emulators on PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/screen-moments-a-compreenasive-recorder-roundup-for-2024/"><u>Screen Moments A Compreenasive Recorder Roundup for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-your-apple-watch-a-guide-to-fix-sleep-tracking-issues/"><u>Troubleshooting Your Apple Watch: A Guide to Fix Sleep Tracking Issues</u></a></li>
 </ul></div>
 
