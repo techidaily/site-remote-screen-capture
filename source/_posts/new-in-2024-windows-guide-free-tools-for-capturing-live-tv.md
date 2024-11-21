@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Windows Guide  Free Tools for Capturing Live TV\""
-date: 2024-11-09T23:46:12.578Z
-updated: 2024-11-11T02:40:01.521Z
+date: 2024-11-14T22:34:02.495Z
+updated: 2024-11-20T22:18:54.832Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record TV shows on Windows 7/8 for Free
@@ -67,6 +64,10 @@ Locate the Windows Media Center on your computer's hard drive. Chances are that 
 
 ![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
 
 #### Step 3
@@ -78,10 +79,7 @@ Click on the Guide feature, and browse through the TV program in order to select
 On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record live TV on Windows 10 for free
@@ -101,10 +99,7 @@ After you've launched the program, find the Game DVR icon that is located in the
 Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free TV Show Recording Software on Windows
@@ -134,10 +129,7 @@ However, NextPVR also works as a standalone program, and in order to start recor
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -155,18 +147,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-elite-women-gaming-leaders-top-10-on-yt/"><u>[New] 2024 Approved Elite Women Gaming Leaders Top 10 On YT</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-global-gross-earnings-of-youtube-luminaries/"><u>[New] 2024 Approved Global Gross Earnings of YouTube Luminaries</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-strategy-supreme-the-top-7-battlefield-commanders/"><u>[New] 2024 Approved Strategy Supreme The Top 7 Battlefield Commanders</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-best-practices-in-selecting-premium-hdr-cameras/"><u>[New] Best Practices in Selecting Premium HDR Cameras</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-examining-video-comments-on-youtube/"><u>[New] In 2024, Examining Video Comments on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-stardew-essentials-unveiling-ginger-islands-secrets/"><u>[Updated] 2024 Approved Stardew Essentials Unveiling Ginger Island's Secrets</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-androids-top-choice-does-pickup-beat-other-photo-editors-in-2024/"><u>[Updated] Android's Top Choice Does PickUp Beat Other Photo Editors, In 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-netflix-tips-maximizing-screenshots-with-your-mac-for-2024/"><u>[Updated] Expert Netflix Tips Maximizing Screenshots with Your Mac for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-virtual-realitys-creativity-quandary-a-2023-outlook/"><u>[Updated] In 2024, Virtual Reality's Creativity Quandary - A 2023 Outlook</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-composite-power-with-blend-mode-knowledge/"><u>[Updated] Unlocking Composite Power with Blend Mode Knowledge</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-practical-guide-to-using-vsco-for-professionals-for-2024/"><u>A Practical Guide to Using VSCO for Professionals for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-hot-30i-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Hot 30i Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://article-helps.techidaily.com/google-meet-zoom-tips-maximizing-participant-visibility-for-2024/"><u>Google Meet Zoom Tips Maximizing Participant Visibility for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-seamless-way-to-capture-your-favorite-pc-games-6-methods/"><u>[New] 2024 Approved The Seamless Way to Capture Your Favorite PC Games (6 Methods)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-4k-screen-recorder-applications-for-2024/"><u>[New] Best 4K Screen Recorder Applications for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-tips-for-high-quality-zoom-podcast-sessions-for-2024/"><u>[New] Expert Tips for High-Quality Zoom Podcast Sessions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-novel-nooks-in-mc-the-simplest-house-designs-for-2024/"><u>[New] Novel Nooks in MC The Simplest House Designs for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-transform-videos-on-vimeo-using-zero-dollar-resources-for-2024/"><u>[New] Transform Videos on Vimeo Using Zero-Dollar Resources for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-when-worlds-collapse-premium-zombie-video-game-guide-for-2024/"><u>[New] When Worlds Collapse Premium Zombie Video Game Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-converting-youtube-broadcasts-into-listenable-formats/"><u>[Updated] In 2024, Converting YouTube Broadcasts Into Listenable Formats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-professional-tips-for-high-quality-sports-streaming/"><u>[Updated] In 2024, Professional Tips for High-Quality Sports Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-live-game-replays-with-fraps-for-2024/"><u>[Updated] Mastering Live Game Replays with Fraps for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/5-star-channel-cutting-long-urls-down-for-youtube-videos-for-2024/"><u>5-Star Channel Cutting Long URLs Down for YouTube Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>In 2024, Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-preserve-the-illusion-professional-tactics-for-vr-gaming-logging/"><u>In 2024, Preserve the Illusion Professional Tactics for VR Gaming Logging</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mac-users-manual-recording-high-quality-audio-with-audacity-for-2024/"><u>Mac Users' Manual Recording High-Quality Audio with Audacity for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-endless-launch-issue-in-far-cry-5-a-step-by-step-guide/"><u>Overcoming the Endless Launch Issue in Far Cry 5 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-zoom-integration-joining-and-scheduling-made-simple/"><u>Seamless Zoom Integration Joining & Scheduling Made Simple</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-ranking-xbox-one-elite-series-2-controller-a-gaming-classic/"><u>Ultimate Ranking: Xbox One Elite Series 2 Controller - A Gaming Classic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/virtual-webcams-revolutionized-discover-how-manycam-elevates-your-live-video-creations/"><u>Virtual Webcams Revolutionized: Discover How ManyCam Elevates Your Live Video Creations</u></a></li>
 </ul></div>
 

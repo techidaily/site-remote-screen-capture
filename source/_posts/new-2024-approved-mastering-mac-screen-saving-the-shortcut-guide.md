@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastering Mac Screen Saving  The Shortcut Guide\""
-date: 2024-10-29T22:31:17.510Z
-updated: 2024-11-02T20:17:24.108Z
+date: 2024-11-20T00:53:22.601Z
+updated: 2024-11-20T23:22:06.393Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,7 @@ Press Command, shift, and 5 on the console at the same time. The screen capture 
 ![shortcut recorder mac](https://images.wondershare.com/filmora/article-images/shortcut-recorder-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Select Recording Mode**
@@ -52,6 +49,10 @@ Pick whether you need to "Record Entire Screen" or "Record Selected Portion." If
 
 ![select recording mode mac](https://images.wondershare.com/filmora/article-images/select-recording-mode-mac.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Start Recording**
 
 Whenever you've chosen the choices you need, it's an ideal opportunity to record. Click the "Record button." Or, on the off chance that you're recording the whole screen, you can click anyplace on the screen to begin recording. Assuming that you've decided to set the clock, you'll see the clock counting down until the recording starts. If not, the recording will start right away. Assuming that you chose Record Selected Portion, you will see a container on-screen showing what will be caught. Snap and drag the handles at the edges of this container to change what is recorded. You can move this choice to any place you need. At the point when you're prepared, click Record.
@@ -59,10 +60,7 @@ Whenever you've chosen the choices you need, it's an ideal opportunity to record
 ![record screen with shortcut mac](https://images.wondershare.com/filmora/article-images/record-screen-with-shortcut-on-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: End the Recording**
@@ -72,10 +70,7 @@ To stop the recording, click on the little square stop button in the upper right
 ![stop mac shortcut recording](https://images.wondershare.com/filmora/article-images/stop-shortcut-recording-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Alternative Software to Record Screen on Mac
@@ -112,16 +107,13 @@ At last, when you're ready, hit the Record button and it shall start the recordi
 
 ![filmora recording screen](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Edit and Save Your Recordings**
 
 After you're done with the recording, hit the Stop button and go through the Video Editor features to utilize them to the best extent. You can use Titles, Transitions, Cursor Settings, audio editing and much more with the Editor. Afterwards, to share your work of art straightforwardly to YouTube or some other renowned stage, go for the Export button and select the platform to share your video recording.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,20 +130,20 @@ Part 2. [Alternative Software to Record Screen on Mac](#part2)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-skype-recording-techniques-for-pc-mac-users/"><u>[New] 2024 Approved Skype Recording Techniques for PC, Mac Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-exploring-stardews-best-modifications-a-list-of-the-top-7-for-2024/"><u>[New] Exploring Stardew's Best Modifications A List of the Top 7 for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-deciphering-the-value-of-free2x-cam-recorders/"><u>[Updated] Deciphering the Value of Free2X Cam Recorders</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs-for-2024/"><u>[Updated] Fantasy Realms Awaits Ultimate List of No-Cost RPGs for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-windows-11-gamers-ultimate-playbook-top-5-record-techniques/"><u>[Updated] In 2024, Windows 11 Gamers' Ultimate Playbook Top 5 Record Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/2022s-most-durable-iphone-se-skins-and-covers-enhance-your-phones-safety/"><u>2022'S Most Durable iPhone SE Skins and Covers: Enhance Your Phone’s Safety</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-prime-5-image-background-altering-mobile-apps-iphone/"><u>2024 Approved Prime 5 Image Background Altering Mobile Apps (iPhone)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-tailor-your-media-auto-scaling-videos-for-instagram-via-macos/"><u>2024 Approved Tailor Your Media Auto-Scaling Videos for Instagram via MacOS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unlock-mysteries-select-top-puzzle-houses/"><u>2024 Approved Unlock Mysteries Select Top Puzzle Houses</u></a></li>
-<li><a href="https://article-helps.techidaily.com/gain-listener-traffic-advanced-techniques-in-podcast-seo-for-2024/"><u>Gain Listener Traffic Advanced Techniques in Podcast SEO for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-facetime-for-android-the-ten-best-free-alternatives-to-facetime-on-android/"><u>In 2024, FaceTime for Android The Ten Best Free Alternatives to FaceTime on Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stanza-squadron-vs-artificial-intelligence-offline-alpaca-edition/"><u>Stanza Squadron vs Artificial Intelligence - Offline Alpaca Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-broken-or-uncooperative-keys-on-your-hp-laptop-easily/"><u>Step-by-Step Guide: Fixing Broken or Uncooperative Keys on Your HP Laptop Easily</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oneplus-12-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent OnePlus 12 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/winx-hd-video-converter-pro-transforma-y-redimensiona-videos-con-accelerador-de-gpu/"><u>WinX HD Video Converter Pro: Transforma Y Redimensiona Vídeos Con Accelerador De GPU</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-taking-flight-in-content-creation-dji-drones-and-fb-live/"><u>[New] In 2024, Taking Flight in Content Creation DJI Drones & FB Live</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-seamless-gaming-top-5-high-res-display-with-hdmi-21-for-2024/"><u>[New] Seamless Gaming Top 5 High-Res Display with HDMI 2.1 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-ranking-top-9-puzzle-games-for-offline-play/"><u>[New] The Ultimate Ranking Top 9 Puzzle Games for Offline Play</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-effortless-viewing-automatic-playback-of-youtube-videos-on-social-media-for-2024/"><u>[Updated] Effortless Viewing Automatic Playback of YouTube Videos on Social Media for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-high-definition-spectrum-selecting-best-screen-recorders/"><u>[Updated] High Definition Spectrum Selecting Best Screen Recorders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-moons-magic-dos-and-donts-of-immersive-night-photography/"><u>[Updated] In 2024, Moon's Magic Do's & Don'ts of Immersive Night Photography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beyond-samsung-gear-360-top-alternative-cameras-of-2023/"><u>Beyond Samsung Gear 360 Top Alternative Cameras of 2023</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-hardware-analysis-by-toms-computer-wisdom/"><u>Expert Hardware Analysis by Tom's Computer Wisdom</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-navigating-stardew-the-complete-guide-to-ginger/"><u>In 2024, Navigating Stardew The Complete Guide to Ginger</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-samsung-galaxy-a05s-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy A05s Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs/"><u>In 2024, Virtual Questland The Ultimate Guide to No-Cost MMORPGs</u></a></li>
+<li><a href="https://win-web3.techidaily.com/les-meilleurs-outils-gratuits-de-backup-logiciel-compatibles-avec-nas-sur-le-marche/"><u>Les Meilleurs Outils Gratuits De Backup Logiciel Compatibles Avec NAS Sur Le Marché</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/perfect-your-action-shots-mastering-stable-techniques-for-gopro-4k-recording/"><u>Perfect Your Action Shots: Mastering Stable Techniques for GoPro 4K Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/tailored-viewing-experience-constructing-a-personalized-watch-later-list-for-2024/"><u>Tailored Viewing Experience Constructing a Personalized 'Watch Later' List for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-eco-conscious-cinematography-setups-guide/"><u>Ultimate Eco-Conscious Cinematography Setups Guide</u></a></li>
 </ul></div>
 

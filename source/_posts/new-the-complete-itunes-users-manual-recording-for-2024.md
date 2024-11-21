@@ -1,7 +1,7 @@
 ---
 title: "[New] The Complete iTunes User's Manual (Recording) for 2024"
-date: 2024-11-09T20:34:20.061Z
-updated: 2024-11-11T04:26:00.591Z
+date: 2024-11-18T23:56:44.224Z
+updated: 2024-11-20T18:05:52.154Z
 tags: 
   - screen-recording
   - ai video
@@ -64,10 +64,7 @@ The application is available on windows and is specifically designed for mac sys
 ![quicktime screen recorder](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 1\. So first of all install the application by downloading it from its official website. After that launch application and you will see its windows open as shown.
@@ -92,13 +89,6 @@ Using bandicam for recording videos from iTunes is another perfect way to store 
 
 ![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 1\. First of all, you have to is launching the bandicam. You can either do it by searching the windows bar for bandicam. Just type in the bandicam and you will see it on your computer and click to launch it. Once it's launched you will see this window shown below.
 
 Step 2\. You will see a lot of different screen options. Such as you can choose rectangle area selection to select in rectangle shape or full screen. Since we are going to capture any video from iTunes, we will prefer the rectangle selection area. So go to your iTunes page and open a video you want to record as shown. Before going for the selection of areas to capture make sure that you have enabled all the options such as the audio source of the systems.
@@ -108,6 +98,10 @@ Step 3\. Once you have selected the area of your interest it's time to start you
 Step 4\. To stop recording click on the red stop icon and it will stop recording. You can do this for any video on iTunes. All you have to do is visit the video, select a recording area through the bandicam features, and in the end start recording. To stop recording just click the red icon as shown above and it will stop recording.
 
 Step 5\. For accessing the folder containing your output video, just click on the folder in the above picture. When you click on it it will open up the videos you just recorded from iTunes. This method is only limited to iTunes but there are a lot of other platforms out there from which you can record your liking of video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -120,19 +114,6 @@ For macOS 10.12 or later
 Step 1\. So first and foremost job is to have Filmora latest version on your computer. You can either download it from its official website or take it from your friends. Let's say you have the Filmora installed on your PC now it's time to launch it. So go to the windows search bar and type in Filmora. You will see Filmora, just click on it and you will see it pop a new screen as shown in the figure below.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2\. Once you see this screen shown in the figure above click on the PC screen marked in red. After that, you will see Filmora launched into a new window to start your screen recording for iTunes.
 
@@ -178,13 +159,6 @@ Using bandicam for recording videos from iTunes is another perfect way to store 
 
 ![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 1\. First of all, you have to is launching the bandicam. You can either do it by searching the windows bar for bandicam. Just type in the bandicam and you will see it on your computer and click to launch it. Once it's launched you will see this window shown below.
 
 Step 2\. You will see a lot of different screen options. Such as you can choose rectangle area selection to select in rectangle shape or full screen. Since we are going to capture any video from iTunes, we will prefer the rectangle selection area. So go to your iTunes page and open a video you want to record as shown. Before going for the selection of areas to capture make sure that you have enabled all the options such as the audio source of the systems.
@@ -194,6 +168,10 @@ Step 3\. Once you have selected the area of your interest it's time to start you
 Step 4\. To stop recording click on the red stop icon and it will stop recording. You can do this for any video on iTunes. All you have to do is visit the video, select a recording area through the bandicam features, and in the end start recording. To stop recording just click the red icon as shown above and it will stop recording.
 
 Step 5\. For accessing the folder containing your output video, just click on the folder in the above picture. When you click on it it will open up the videos you just recorded from iTunes. This method is only limited to iTunes but there are a lot of other platforms out there from which you can record your liking of video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -244,10 +222,7 @@ Step 6\. Once you are done with recording click on the stop icon on the top bar 
 Step 7\. For that, you just need to go to “File” and click save to a specified location on your computer. The location can be chosen with the new window you will see to select a folder for your recording to be saved. So this is how you can record any video on iTunes just by selecting a part of the area on the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 3\. Use Bandicam to Record iTunes
@@ -259,10 +234,7 @@ Using bandicam for recording videos from iTunes is another perfect way to store 
 ![bandicam recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 1\. First of all, you have to is launching the bandicam. You can either do it by searching the windows bar for bandicam. Just type in the bandicam and you will see it on your computer and click to launch it. Once it's launched you will see this window shown below.
@@ -292,10 +264,7 @@ Step 2\. Once you see this screen shown in the figure above click on the PC scre
 ![filmora record panel](https://images.wondershare.com/filmora/guide/recording-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3\. Once you see this screen you can now select full screen to record on your pc or select custom. So to start recoring from itunes just go to the iTune program and play a video as showin in the figure.
@@ -304,9 +273,17 @@ Step 4\. Now to capture the video check for the resolution, audio, and microphon
 
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5\. Once you are done with that just click custom and select a range of areas to capture, you can move around the selection area of your own choice. After that click on the start recording button to start recording. Once you are done with the recording you can pause or stop it from its small another video running in the background as shown below. Click stop and it will be saved in the Filmora video section.
 
 Step 6\. Now you can import the video by applying effects to it or leaving it in its original form. Since we are recording video from iTunes we will stick to the video saving part only so now you can access your stored video from the location that has been set in the settings of the capturing menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 2\. How to Record iTunes with QuickTime
 
@@ -315,6 +292,10 @@ QuickTime is free software from Apple to handle multimedia in the form of differ
 The application is available on windows and is specifically designed for mac systems. The supported version in windows 7 and Vista, might not work well on other versions. So let's begin with how you can use this application for recording videos on iTunes using Mac.
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 1\. So first of all install the application by downloading it from its official website. After that launch application and you will see its windows open as shown.
 
@@ -329,6 +310,10 @@ Step 5\. Since we are interested in only a part of the screen on copying or reco
 Step 6\. Once you are done with recording click on the stop icon on the top bar of your screen and you will see it is recorded into a video shown on your screen. Now it's time to save it properly on a specific location.
 
 Step 7\. For that, you just need to go to “File” and click save to a specified location on your computer. The location can be chosen with the new window you will see to select a folder for your recording to be saved. So this is how you can record any video on iTunes just by selecting a part of the area on the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Way 3\. Use Bandicam to Record iTunes
 
@@ -347,13 +332,6 @@ Step 3\. Once you have selected the area of your interest it's time to start you
 Step 4\. To stop recording click on the red stop icon and it will stop recording. You can do this for any video on iTunes. All you have to do is visit the video, select a recording area through the bandicam features, and in the end start recording. To stop recording just click the red icon as shown above and it will stop recording.
 
 Step 5\. For accessing the folder containing your output video, just click on the folder in the above picture. When you click on it it will open up the videos you just recorded from iTunes. This method is only limited to iTunes but there are a lot of other platforms out there from which you can record your liking of video.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -383,16 +361,21 @@ These were the most common ways to record videos on the iTunes platform. Althoug
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capturing-coziness-ideal-winter-scenes-for-yt-video/"><u>[New] In 2024, Capturing Coziness Ideal Winter Scenes for YT Video</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-twitters-video-content-aspect-ratios-included-for-2024/"><u>[New] Navigating Twitter’s Video Content Aspect Ratios Included for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-virtual-reality-top-emulators-for-playing-ps3-games-on-pc-for-2024/"><u>[New] Virtual Reality Top Emulators for Playing PS3 Games on PC for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-a-comprehensive-explanation-of-changing-your-social-media-cover/"><u>[Updated] 2024 Approved A Comprehensive Explanation of Changing Your Social Media Cover</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-of-breed-capture-card-for-switch-for-2024/"><u>[Updated] Best of Breed Capture Card for Switch for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ace-screen-recorders-list-for-the-winning-setup/"><u>[Updated] In 2024, The Ace Screen Recorders List - For the Winning Setup</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-iphone-x-secure-access-restoring-biometric-lock/"><u>[Updated] Mastering iPhone X Secure Access Restoring Biometric Lock</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-perfecting-the-art-of-ppt-delivery-via-google-meet-any-device-for-2024/"><u>[Updated] Perfecting the Art of PPT Delivery via Google Meet (Any Device) for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-convenient-ways-to-archive-your-insta-story/"><u>2024 Approved Convenient Ways to Archive Your Insta Story</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-5-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic 5 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/zoom-breakout-rooms-for-newcomers-explored/"><u>Zoom Breakout Rooms for Newcomers Explored</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-childhood-cruisers-crafted-games/"><u>[New] Childhood Cruisers, Crafted Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-from-casual-to-expert-your-path-with-obs-gaming-capture/"><u>[New] In 2024, From Casual to Expert Your Path with OBS Gaming Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-steps-to-record-voice-memo-on-iphone/"><u>[New] Steps to Record Voice Memo on iPhone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-a-look-into-the-future-of-camera-multicam-systems/"><u>2024 Approved A Look Into the Future of Camera Multicam Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elite-6-ad-free-android-screen-captures/"><u>2024 Approved Elite 6 AD-Free Android Screen Captures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/design-ideas-top-6-mc-village-residences-for-2024/"><u>Design Ideas Top 6 MC Village Residences for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-review-the-ultimate-guide-to-twelve-souths-bookbook-v2-case-for-your-macbook/"><u>Expert Review: The Ultimate Guide to Twelve South's BookBook V2 Case for Your MacBook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-t2-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo T2 5G Unlock Without Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/livescreen-capture-halt-guidebook/"><u>LiveScreen Capture Halt Guidebook</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-resilient-chatgpt-sign-in/"><u>Mastering the Art of Resilient ChatGPT Sign-In</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-permissions-how-to-obtain-trust-from-trustedinstaller-in-windows-10/"><u>Navigating Permissions: How to Obtain Trust From TrustedInstaller in Windows 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rking-galore-places-for-youtube-affiliate-marketing/"><u>Networking Galore Places for YouTube Affiliate Marketing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unlocking-seamless-communication-with-top-tier-free-and-paid-zoom-applications/"><u>Unlocking Seamless Communication with Top-Tier Free & Paid Zoom Applications</u></a></li>
 </ul></div>
 
