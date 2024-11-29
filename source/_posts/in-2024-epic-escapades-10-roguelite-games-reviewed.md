@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Epic Escapades  #10 Roguelite Games Reviewed\""
-date: 2024-08-10T12:06:29.170Z
-updated: 2024-08-11T12:06:29.170Z
+date: 2024-11-23T22:22:12.641Z
+updated: 2024-11-29T03:27:19.173Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
 # Top 10 Roguelike or Roguelite Games
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -63,6 +60,10 @@ We will discuss every game one by one in detail to give you an idea about their 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **1. Darkest Dungeon
 
 **_Platform:_** _PS4, Xbox One, Switch, PC, iOS_
@@ -89,6 +90,10 @@ Only a couple of minutes to complete each run, this roguelike takes us on an adv
 
 Don't let its retro look fool you. This 2015 title is fast and intense, with a good amount of power-ups that boost your survivability. It is immediately enjoyable with its fast-paced downward action, but gaining mastery of its combat is no simple feat. Downwell is one of the best roguelikes out there, despite its intense difficulty. Its concise levels, satisfying combo system, and creative boss are among the roguelikes' best features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **3\. Dungeon Crawl Stone Soup
 
 **_Platforms:_** _Android, Web browser_
@@ -97,12 +102,17 @@ Don't let its retro look fool you. This 2015 title is fast and intense, with a g
 
 The successor to the 1997's roguelike Liney's Dungeon Crawl, Dungeon Crawl Stone Soup is another best roguelike game. Although there is a considerable saturation in the roguelike titles these days, we had to include this classic title in the best roguelike games list because it deserves a spot.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Each item, class, spell, and trait in this community-developed game has hundreds of hidden interactions that just heighten your enjoyment every time you play. Each floor increases the game's difficulty, and as you go deeper, it becomes harder to decide whether to fight or flee.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **4\. Hades
 
@@ -112,9 +122,6 @@ Each item, class, spell, and trait in this community-developed game has hundreds
 
 Hades is a masterpiece when it comes to dungeon crawling and roguelike games. Your character is Hades' son, Zagreus, trying to escape from the Underworld and make his way to Mount Olympus. Hades' cyclical narrative is presented through its procedural runs and a compelling story and evocative cast of characters.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hades](https://images.wondershare.com/filmora/article-images/hades.png)
 
 Many blessings have been given to you by the gods of Olympus, but your quest is not an easy one. A game like this will enthrall you and entice you to keep playing until you get some better stuff for your characters. After each failure, you are resurrected in your own house, the House of Hades, where your friends and family await your following conversation. It is one of the best roguelike titles out there.
@@ -127,18 +134,16 @@ Many blessings have been given to you by the gods of Olympus, but your quest is 
 
 This is the second title developed and published by Subset Games. Their first title was FTL: **_Faster Than Light_** in 2012\. FTL could have taken this spot, but Into the Breach's design and hidden depth make it stand out among the competition. It's a game of turn-based tactics where your team is faced with an army of monsters known as the Vek.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![into-the-breach](https://images.wondershare.com/filmora/article-images/into-the-breach.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There's only one way to hold off their attack, and that is to enlist some giant mechs. But you'll have to agonize over every decision if you intend to keep your team intact. The more you progress through the game's islands, the more advanced equipment you'll find, so you can turn the tide of war and save humankind.
 
 This is one of the most accessible strategy games out there, and its straightforward combat won't offend novices, but you should expect something more challenging, though rewarding, from Into the Breach.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **6\. Slay the Spire
 
 **_Platforms:_** _PS4, Switch, PC_
@@ -149,11 +154,16 @@ It foregoes combat mechanics solely in favor of strategy and premonition in a de
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The game, released in 2017, has gained massive audience recognition thanks to its 10/10 Steam rating and over 60,00 reviews despite its simplistic art and simplistic interface. It is considered the best deck-builder roguelike in the market, so if you haven't tried it already, you miss out a lot.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **7\. Crypt of the Necrodancer
 
 **_Platforms:_** _PlayStation 4, Nintendo Switch, iOS, Microsoft Windows, Linux, Classic Mac OS, PlayStation Vita, Xbox One_
@@ -164,6 +174,10 @@ This rhythm-based roguelike game hits a sweet spot combining two niche genres. T
 
 This game deviates from roguelike conventions, forcing players to arrive at snappy judgments quickly. While quick decision-making and foresight are required in the genre, the escalating rhythm forces players to maintain a higher tempo to maintain a strong combo, and all you know is, you can't lose the combo. If you haven't tried this game yet, then it's worth your time and money.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **8\. Dead Cells
 
 **_Platforms:_** _Platforms: PS4, Xbox One, Switch, PC, iOS, Android_
@@ -172,9 +186,6 @@ This game deviates from roguelike conventions, forcing players to arrive at snap
 
 Dead Cells is a 2D and Souls-inspired roguelike game. You revolve around procedurally generated dungeon exploration in search of blueprints for better gear. The dungeon hosts a multitude of tough-as-nails enemies, which make finding these schematics no easy task.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 Various upgrades can be carried over between runs, generating a constant sense of progression. Because of this, starting a new run after a particularly messy boss fight doesn't sting quite as much as many other roguelike games might be. There are many different weapon types and perks to unlock in Dead Cells, making it more replayable and keeps it from being monotonous.
@@ -187,9 +198,6 @@ Various upgrades can be carried over between runs, generating a constant sense o
 
 An indie roguelike developed by Super Meat Boy creator Edmund McMillen, The Binding of Isaac is an action-packed adventure game. With its action-adventure elements fused with shooters, the game is an outright sick action-adventure with an acquired taste that has become cult.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![binding-of-issac](https://images.wondershare.com/filmora/article-images/the-binding-of-isaac.png)
 
 In addition to some captivating gameplay, the game contains some compelling storytelling, with Biblical references providing a nice hint of lore. Although decisions are essential in roguelikes, you may also need to be quick with your reaction times with some bullet hell-style bosses.
@@ -202,14 +210,6 @@ In addition to some captivating gameplay, the game contains some compelling stor
 
 Otherworld Legends is a mystery roguelite where you explore a mysterious and dangerous realm while discovering the mystery hidden within it. This requires equal measures of skill and perseverance.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![the-other-world-legends](https://images.wondershare.com/filmora/article-images/the-other-world-legends.png)
 
 As you journey through various dungeon rooms in this game, you defeat all enemies you encounter. This is similar to the binding of Isaac series of games and Elemental Dungeon. Some relics are also found or bought from time to time. These items give you powerful advantages in combat, which can be the difference between victory and defeat.
@@ -220,9 +220,6 @@ The Otherworld Legends game is incredibly entertaining to play with beautiful gr
 
 **Bonus:** you wanna record your gameplay and upload to YouTube? We're here for you. Wondershare Filmora can directly upload your finished work to YouTube.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -233,8 +230,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -242,5 +237,20 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-best-in-class-racing-games/"><u>[New] 2024 Approved The Ultimate Guide to Best-in-Class Racing Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-remove-background-noise-from-skype-video-calls-for-2024/"><u>[New] How to Remove Background Noise From Skype Video Calls for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-comparing-recording-obs-studio-versus-bandicam-for-2024/"><u>[Updated] Comparing Recording OBS Studio Versus Bandicam for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-democracy-dive-top-5-political-gamified-experiences/"><u>[Updated] Democracy Dive Top 5 Political Gamified Experiences</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-pcmacphone-step-by-step-guide-to-movie-capture/"><u>[Updated] In 2024, PC/Mac/Phone Step-by-Step Guide to Movie Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-transform-playtime-into-memories-with-switch-videos/"><u>[Updated] Transform Playtime Into Memories with Switch Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/behind-the-scenes-how-to-remove-background-in-picsart/"><u>Behind the Scenes How to Remove Background in Picsart</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-the-best-free-passport-picture-creation-services-online/"><u>Explore the Best Free Passport Picture Creation Services Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-repairing-non-functional-corsair-icue-software-for-windows-users/"><u>Guide: Repairing Non-Functional Corsair iCUE Software for Windows Users</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-tecno-camon-20-premier-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Tecno Camon 20 Premier 5G Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-gameplay-videos-top-free-editing-tools/"><u>Revolutionize Your Gameplay Videos Top Free Editing Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-why-is-my-discord-camera-not-responding/"><u>Troubleshooting Tips: Why Is My Discord Camera Not Responding?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unveiling-the-power-of-video-enhancer-22-for-professionals/"><u>Unveiling the Power of Video Enhancer 2.2 for Professionals</u></a></li>
+</ul></div>
 

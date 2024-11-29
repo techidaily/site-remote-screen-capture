@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Photograph Entire Screen Area"
-date: 2024-11-14T22:42:29.478Z
-updated: 2024-11-20T16:24:59.180Z
+date: 2024-11-27T19:41:22.011Z
+updated: 2024-11-28T21:10:32.752Z
 tags: 
   - screen-recording
   - ai video
@@ -38,7 +38,7 @@ On the other hand, The Internet contains such a vast amount of information, that
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -58,17 +58,21 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
 Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offer the Print option, so all you need to do in order to capture the whole page is to head over to the web page you'd like to capture, open the browser's File menu and then click on the **Print** feature. If it is easier, you can just hit the **CTRL + P** keyboard shortcut to launch the Print window.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
-Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
@@ -77,7 +81,7 @@ If you'd like to avoid producing several screenshots that you'll later have to c
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
@@ -87,6 +91,10 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 #### 1\. [Nimbus Screenshot](https://nimbusweb.me/)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
 
@@ -116,10 +124,6 @@ If you don't want to go through the trouble of installing a screenshot extension
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
 Stand-alone software products that enable its users to take screenshots of entire documents and web pages are a great choice for professionals that frequently need a powerful screen capturing tool. [Screenpresso,](https://www.screenpresso.com/) [FastStone Capture](http://www.faststone.org/FSCaptureDetail.htm) or [Snagit](https://www.techsmith.com/screen-capture.html) are just a few screen recorders, that are capable of producing still and moving images of a computer display.
@@ -127,10 +131,6 @@ Stand-alone software products that enable its users to take screenshots of entir
 Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
 
@@ -159,22 +159,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2023s-top-rated-facebook-live-viewing-software-for-2024/"><u>[New] 2023'S Top-Rated Facebook Live Viewing Software for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ps4-live-recording-made-simple-with-obs-tutorial/"><u>[New] 2024 Approved PS4 Live Recording Made Simple with OBS Tutorial</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-a-comprehensive-list-of-top-10-video-communication-apps/"><u>[New] A Comprehensive List of Top 10 Video Communication Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-streamlined-strategies-for-gaming-screen-recording/"><u>[New] In 2024, Streamlined Strategies for Gaming Screen-Recording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mac-enhancement-synchronized-screen-plus-audio-tracking-for-2024/"><u>[New] Mac Enhancement Synchronized Screen + Audio Tracking for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-revolutionary-techniques-for-exceptional-android-time-lapses-2024/"><u>[New] Revolutionary Techniques for Exceptional Android Time-Lapses 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-wave-goodbye-to-breakups-keep-your-streak-going/"><u>[New] Wave Goodbye to Breakups Keep Your Streak Going</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-ideal-free-resources-to-start-a-youtube-channel/"><u>[Updated] 2024 Approved Ideal Free Resources to Start a YouTube Channel</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-lights-camera-action-youtubes-17-essentials-for-2024/"><u>[Updated] Lights, Camera, Action! - YouTube's #17 Essentials for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-5-ios-platforms-for-experiencing-classic-psp-games/"><u>[Updated] Top 5 iOS Platforms for Experiencing Classic PSP Games</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obs-meets-shadowcast/"><u>2024 Approved OBS Meets ShadowCast</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/gain-a-competitive-edge-optimize-your-site-using-the-cookiebot-platform/"><u>Gain a Competitive Edge: Optimize Your Site Using the Cookiebot Platform</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2022-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2022) to Windows 10? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-gadgets-and-gizmos-at-toms-hardware-hub/"><u>Navigating Gadgets and Gizmos at Tom's Hardware Hub</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-art-of-precision-introducing-an-obs-countdown-timer/"><u>The Art of Precision Introducing an OBS Countdown Timer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/windows-screencast-champions-revealed/"><u>Windows Screencast Champions Revealed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ace-driving-realism-series-best-5/"><u>[New] Ace Driving Realism Series (Best 5)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-efficiently-transfer-vids-from-premiere-to-youtube/"><u>[Updated] 2024 Approved Efficiently Transfer Vids From Premiere to YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1716068998910-updated-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles-for-2024/"><u>[Updated] Explore Android' Written By Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles. For 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-visualcapture-reviewer-tool/"><u>[Updated] In 2024, VisualCapture Reviewer Tool</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-tickles-for-young-game-fans/"><u>[Updated] Top Tickles for Young Game Fans</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unheard-film-footage-appraisal-and-parallel-projects/"><u>[Updated] Unheard Film Footage Appraisal and Parallel Projects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capture-and-share-your-games-like-a-pro-with-these-windows-11-tactics/"><u>2024 Approved Capture and Share Your Games Like a Pro with These Windows 11 Tactics</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/addictively-designed-city-planning-inside-the-world-of-cities-skylines-review/"><u>Addictively Designed City Planning: Inside the World of Cities: Skylines Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/enhancing-video-creation-tips-for-adobe-connect-users-for-2024/"><u>Enhancing Video Creation Tips for Adobe Connect Users for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/fostering-fandom-creating-jujutsu-kaisen-content-for-tiktok/"><u>Fostering Fandom Creating Jujutsu Kaisen Content for TikTok</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-create-your-own-virtual-reality-gear-with-google-cards/"><u>How to Create Your Own Virtual Reality Gear with Google Cards</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-record-desktop-on-windows-8-effortlessly-for-2024/"><u>How To Record Desktop on Windows 8 Effortlessly for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-streamlining-mov-files-on-windows-11-os/"><u>In 2024, Streamlining MOV Files on Windows 11 OS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-swift-screen-capture-with-your-idevice/"><u>In 2024, Swift Screen Capture with Your iDevice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-searches-for-abandoned-reddit-discussions/"><u>In 2024, Swift Searches for Abandoned Reddit Discussions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-transform-your-live-streaming-best-practices-in-obs-studio/"><u>In 2024, Transform Your Live Streaming Best Practices in OBS Studio</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-vitas-complete-video-editing-software-for-2024/"><u>The Essential Guide to Vita's Complete Video Editing Software for 2024</u></a></li>
 </ul></div>
 

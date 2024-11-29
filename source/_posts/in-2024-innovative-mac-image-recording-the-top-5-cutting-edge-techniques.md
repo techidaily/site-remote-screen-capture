@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Innovative Mac Image Recording  The Top 5 Cutting-Edge Techniques\""
-date: 2024-08-10T12:07:05.059Z
-updated: 2024-08-11T12:07:05.059Z
+date: 2024-11-26T03:37:44.690Z
+updated: 2024-11-29T02:57:42.484Z
 tags: 
   - screen-recording
   - ai video
@@ -30,35 +30,26 @@ Unlike Windows PC, Mac computer doesn't own the "PrintScreen" shortcut button to
 * [Part 1: How to Make Screen Record and Screenshots on Mac](#part1) \- Edit After Screenshots
 * [Part 2: 4 Methods to Capture Screenshots on Mac Itself](#part2)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Make Screen Record and Screenshots on Mac
 
 Here, we would like to recommend a tool for making screenshots and screen recordings at the same time. [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) can easily capture and record the operation on a Mac. Below are the 3 ways to start the function. Now download and install Filmora on Mac first, then keep reading.
 
 [Easy to Make Screenshots on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Easy to Make Screenshots on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -83,20 +74,18 @@ Enter Filmora and navigate towards the "**Files**" > "**Record Media**". You wil
 
 ![launch filmora screen recorder from the top toolbar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **3\.** From the Search Bar Menu
 
 Enter Filmora then find the search bar, the "**Record**" option just next to it. Select a suitable recording option.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch filmora screen recorder from the search bar](https://images.wondershare.com/filmora/guide/guide-mac/screen-recording-in-mac-3.jpg)
 
 [Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Make Screen Record and Snapshot on Mac](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -104,6 +93,10 @@ Enter Filmora then find the search bar, the "**Record**" option just next to it.
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -121,22 +114,21 @@ Enter Filmora then find the search bar, the "**Record**" option just next to it.
 
 Then you can make simple settings and get your screenshots.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check screenshots in filmora mac](https://images.wondershare.com/filmora/article-images/check-screenshots-in-filmora-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Want to Make Screen Record on Mac? Try This Out![**Filmora Screen Recorder**](https://tools.techidaily.com/wondershare/filmora/download/) helps to record games, videos, lectures, and webcams with original visual quality on Mac. Furthermore, you can re-edit the recording video clips with various AI features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Screen Record on Mac with Ease](https://tools.techidaily.com/wondershare/filmora/download/) [Screen Record on Mac with Ease](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg) ](https://app.adjust.com/w06dr6m%5F19za1f6)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -161,11 +153,19 @@ Make sure that everything you want to include in the picture is clearly visible 
 
 ![capture entire screen on mac](https://images.wondershare.com/filmora/article-images/capture-entire-screen-on-mac-keyboard-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Way 2: How to Screenshot a Portion of the Screen on a Mac?
 
 If you want to take screenshot on a partial part of the screen, simply hit the **Command + Shift + 4** keys. Then drag the crosshair mouse cursor to the area you want to capture.
 
 ![screenshot protion of screen on mac](https://images.wondershare.com/filmora/article-images/screenshot-portion-of-screen-on-mac-keyboard-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The crosshair will also display the pixel count to show you the size of the screenshot. Holding the **Shift** button will allow you to lock all corners of the selection rectangle, except the one you are dragging.
 
@@ -173,28 +173,20 @@ The crosshair will also display the pixel count to show you the size of the scre
 
 Launch the app or open the window you'd like to screenshot, and then hold the **Command + Shift + 4** keys on your keyboard. Press the **SPACE** key to select the window, as the selected area turns blue, **press the left-click** of your mouse or hit the **Enter** button to snap a screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![capture a window or menu or app on mac](https://images.wondershare.com/filmora/article-images/capture-a-window-or-menu-on-mac-keyboard-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2 Taking Screenshots with Touch Bar on MacBook Pro
 
 MacBook Pro owners can utilize the **Touch Bar** feature to take screenshots on their computers. Click on the **Apple logo** from the menu bar, then select the **System Preferences** option. Click on the **Keyboard > Customize Control Strip** feature, located at the bottom of the screen. Once the new window pops-out you should locate the **Screenshot** icon and drag and drop it to the Touch Bar, and click **Done**.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screenshots from touch bar on macbook pro](https://images.wondershare.com/filmora/article-images/touch-bar-on-macbook-pro.jpg)
 
 Now that the Screenshot option is available from the Touch Bar, you can simply click on its icon and take screenshots of the full screen, a portion of it, or a single window.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3 Capture Screen with Built-in Preview App
 
 Open the **Preview** app, go to **File** and find the **Take Screenshot** sub-menu. You can either capture a full screen, a part of it you select or take a screenshot of an active window. Holding the Control button while taking a screenshot will enable you to save the picture to the clipboard and paste it into a photo editing software or a word processor.
@@ -211,9 +203,6 @@ Go to **Utility > Applications** to launch **Grab**. Click on the **Capture** me
 
 The Timed Screen feature can be used if you want to have a ten-second delay before you take the screenshot, which can be quite useful if you need time to organize the desktop before the screenshot is taken.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![use grab to screen shot on mac](https://images.wondershare.com/filmora/article-images/mac-screenshot-grab-timed-feature.jpg)
 
 If you would like to include the mouse cursor in your screenshots, you have go to the **Preferences** option, then select the **Pointer Type**, it also able to record the clicking sound if needed.
@@ -236,11 +225,12 @@ Mac provides the screenshots itself, also, some built-in apps are available to m
 
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -249,8 +239,6 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -258,5 +246,19 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-easy-steps-for-win-11-users-to-reactivate-photo-viewing-software/"><u>[New] Easy Steps for Win 11 Users to Reactivate Photo Viewing Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-deep-dive-into-zdsoft-recorder-features/"><u>[New] In 2024, A Deep Dive Into ZDSoft Recorder Features</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-innovative-illusions-snapchat-filters-leading-the-way-for-2024/"><u>[New] Innovative Illusions Snapchat Filters Leading the Way for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-prime-videobg-selections-enhancing-remote-collaboration/"><u>[New] Prime Videobg Selections Enhancing Remote Collaboration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-djs-guide-to-elevating-visual-narratives-with-soundtracks-fb-for-2024/"><u>[New] The DJ's Guide to Elevating Visual Narratives with Soundtracks (FB) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-12-proven-ways-to-increase-youtube-views/"><u>[Updated] 12 Proven Ways to Increase YouTube Views</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-advanced-gaming-setup-for-nintendo-switch-for-2024/"><u>[Updated] Advanced Gaming Setup for Nintendo Switch for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/experience-classic-ps1-games-with-leading-emulators-for-2024/"><u>Experience Classic PS1 Games with Leading Emulators for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/high-performance-video-calls-a-curated-ranking-of-top-10-apps/"><u>High-Performance Video Calls A Curated Ranking of Top 10 Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-alternatives-to-the-turing-test-whats-next-for-assessing-artificebility/"><u>Innovative Alternatives to the Turing Test: What's Next for Assessing Artificebility?</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-retrieving-kodi-directory-information-solutions-for-connection-problems/"><u>Successfully Retrieving Kodi Directory Information: Solutions for Connection Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubles-with-image-recognition-here-are-the-possible-causes-behind-iphones-look-up-failure/"><u>Troubles with Image Recognition? Here Are the Possible Causes Behind iPhone's Look Up Failure</u></a></li>
+</ul></div>
 

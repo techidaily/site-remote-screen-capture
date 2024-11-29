@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide to Optimizing Solo Play in Apex Legends"
-date: 2024-08-10T12:10:30.608Z
-updated: 2024-08-11T12:10:30.608Z
+date: 2024-11-27T22:45:44.272Z
+updated: 2024-11-28T16:23:04.669Z
 tags: 
   - screen-recording
   - ai video
@@ -19,18 +19,12 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
 # Apex Legends Crossplay: How to Turn it Off & Platform Choosing Guide
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -71,9 +65,6 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
@@ -157,9 +148,6 @@ Follow @Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -174,9 +162,6 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -187,9 +172,6 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -222,9 +204,6 @@ The best thing about Apex Legends is that it has multiplatform support. You can 
 
 **Microsoft Xbox One S and X**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-one.jpg)You can play Apex Legends on Xbox One S, but you may need to compromise a little bit and play on a low resolution for better fps. Although the game will run just fine, you may need to make some adjustments to your graphics settings. You can play this game on 720p on Xbox One S, so make sure to sit a little closer to your screen to see everything.
 
 If you want to get Apex's best experience on Xbox consoles, you should play it on Xbox One X. If you switch from Xbox one S to Xbox one X, you will see a significant difference in the game performance. On the X version, you can run the game on 1080p. It offers overall better performance in terms of gameplay as compared to other Xbox variants.
@@ -245,9 +224,6 @@ Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is alr
 
 **PC**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -263,9 +239,6 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -284,14 +257,8 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -322,9 +289,21 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-elite-expeditions-and-epic-quests-the-ultimate-gaming-journeys-top-ten/"><u>[New] 2024 Approved Elite Expeditions & Epic Quests – The Ultimate Gaming Journey's Top Ten</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-effective-methods-to-document-facetime-calls/"><u>[New] In 2024, Effective Methods to Document FaceTime Calls</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-share-a-private-youtube-video-with-google-account/"><u>[Updated] 2024 Approved How to Share a Private YouTube Video with Google Account?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-streamline-your-obs-outputs/"><u>[Updated] In 2024, Streamline Your OBS Outputs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-visual-vanguard-revived-radeon/"><u>[Updated] In 2024, Visual Vanguard Revived Radeon</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-master-the-art-of-sowing-and-cultivation-in-valheim-for-2024/"><u>[Updated] Master the Art of Sowing and Cultivation in Valheim for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/fast-conversion-from-dat-to-mpeg-format-on-pc-step-by-step-guide/"><u>Fast Conversion From DAT to MPEG Format on PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-how-to-disable-live-recording-in-quicktime-player/"><u>In 2024, How to Disable Live Recording in QuickTime Player</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-creating-and-utilizing-data-tables-within-ms-excel-visuals/"><u>Step-by-Step Guide: Creating and Utilizing Data Tables Within MS Excel Visuals</u></a></li>
+</ul></div>
 
-
-
-
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
