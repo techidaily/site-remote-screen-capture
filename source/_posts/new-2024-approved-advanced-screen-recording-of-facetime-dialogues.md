@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Advanced Screen Recording of FaceTime Dialogues\""
-date: 2024-11-27T23:21:03.191Z
-updated: 2024-11-28T21:46:40.192Z
+date: 2024-12-01T01:08:55.615Z
+updated: 2024-12-07T17:56:09.061Z
 tags: 
   - screen-recording
   - ai video
@@ -28,7 +28,7 @@ Part 2. [How to Record FaceTime on iPhone](#part2)
 ## Part 1\. How to Record FaceTime on Mac
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 1\. Use Mac Screen Recorder Tool
@@ -39,19 +39,11 @@ Step 1: Open FaceTime app on your Mac and be ready to make a FaceTime call.
 
 ![open facetime mac](https://images.wondershare.com/filmora/article-images/open-facetime-on-mac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Press Command + Shift + 5 keys together. This will launch the inbuilt screen recorder tool.
 
 Step 3: Drag the selection to get the recording screen dimensions correct and click on Record Selected Portion.
 
 ![mac screenshot toolbar](https://images.wondershare.com/filmora/article-images/screen-toolbar-on-mac.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: Click on Options and select audio source and the destination to save the recorded video.
 
@@ -62,7 +54,7 @@ Step 6: Go to FaceTime app and begin your FaceTime call and the recording is goi
 ![stop recording facetime](https://images.wondershare.com/filmora/article-images/stop-recording-facetime.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Way 2\. Use QuickTime Player
@@ -105,6 +97,10 @@ Step 2: Launch the application and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Go to Record > Record PC Screen option.
 
 Step 4: Set screen size as per FaceTime application window that you want to record. Make sure to turn on Microphone option. This is how to screenrecord FaceTime with sound.
@@ -116,6 +112,10 @@ Step 5: Open FaceTime app and prepare for FaceTime call. Click on the Record but
 You will get a few buffer seconds to start your FaceTime call after which the recording will start.
 
 Step 6: Click on Stop button to stop recording whenever it is done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Record FaceTime on iPhone
 
@@ -139,6 +139,10 @@ Step 5: Tap on Screen Recording icon. Start your FaceTime call and it will be re
 
 Once you are done, tap on Stop and the recorded video will be saved in iPhone Photos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 2\. Record iPhone Screen Through Mac
 
 If your iPhone is running on an older version of iOS, you can still record your FaceTime video call with audio. For that, you need to connect your iPhone to your Mac and while you make the FaceTime call on your iPhone, it will be recorded through Mac. We will be using QuickTime Player on Mac to record your FaceTime call on iPhone. Here are the steps to follow rigorously.
@@ -150,7 +154,7 @@ Step 2: Open QuickTime on your Mac and go to File> New Movie Recording.
 ![new movie recording](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Click on Arrow icon beside Record button and under Camera section, select your iPhone. Your iPhone display should now be mirroring on Mac.
@@ -161,16 +165,12 @@ Step 4: Turn up the volume on QuickTime. Click on Record button to start recordi
 
 ![recording facetime iphone](https://images.wondershare.com/filmora/article-images/recording-facetime-iphone-mac.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: Open FaceTime on iPhone and make the video call. Your video call is getting recorded on your mac through QuickTime.
 
 Step 6: Once you are done, click on Stop button to stop recording. Go to File> Save option to save the recording on your device storage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Bottom Line
@@ -188,20 +188,14 @@ Part 2. [How to Record FaceTime on iPhone](#part2)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-effortless-methods-for-capturing-google-voice-conversations/"><u>[New] Effortless Methods for Capturing Google Voice Conversations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-easy-steps-for-effective-ez-grabber-implementation/"><u>[Updated] In 2024, Easy Steps for Effective EZ Grabber Implementation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-learn-quickly-how-to-film-anywhere-with-one-tech-setup/"><u>[Updated] In 2024, Learn Quickly How to Film Anywhere with One Tech Setup</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-sculpting-images-selecting-the-right-aspect-ratio/"><u>[Updated] Sculpting Images Selecting the Right Aspect Ratio</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unlocking-youtube-subtitles-a-guide-with-3-efficient-techniques/"><u>[Updated] Unlocking YouTube Subtitles A Guide with 3 Efficient Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-the-power-of-effective-screencasts-in-digital-content/"><u>[Updated] Unveiling the Power of Effective Screencasts in Digital Content</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/8-innovative-tablets-changing-the-face-of-photo-editing-landscape/"><u>8 Innovative Tablets Changing the Face of Photo Editing Landscape</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/dells-direct-methods-easy-screenshot-solutions-for-2024/"><u>Dell's Direct Methods Easy Screenshot Solutions for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/from-silence-to-clarity-recording-on-your-iphone-easy-way/"><u>From Silence to Clarity Recording on Your iPhone Easy Way</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-swagtron-swagboard-t1-a-flexible-choice-with-a-hefty-price-tag/"><u>In-Depth Analysis of the Swagtron Swagboard T1: A Flexible Choice with a Hefty Price Tag</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/noworrycapture-quick-and-easy-win11-recordings/"><u>NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-device-not-recognized-fix-for-windows-users/"><u>Overcoming Device Not Recognized: Fix for Windows Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/pro-gamers-manual-learn-xbox-one-screen-recording/"><u>Pro Gamer's Manual Learn Xbox One Screen Recording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-dos-and-donts-of-youtube-video-logging/"><u>The Do's and Don'ts of YouTube Video Logging</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/youtube-video-upgrades-how-to-add-precise-times/"><u>YouTube Video Upgrades How to Add Precise Times</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-10-premier-moba-experiences-on-android-devices/"><u>[New] In 2024, 10 Premier MOBA Experiences on Android Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-10-battle-royale-matchups/"><u>[Updated] 2024 Approved Ultimate 10 Battle Royale Matchups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-audio-tuning-apps-mobiledesktop-edition/"><u>[Updated] Advanced Audio Tuning Apps Mobile/Desktop Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-interactive-presenters-synopsis-update-8/"><u>[Updated] Interactive Presenter's Synopsis, Update 8</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapstreak-savvy-guidance-to-prevent-interruptions-for-2024/"><u>[Updated] Snapstreak Savvy Guidance to Prevent Interruptions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-androids-free-screen-snip-picks-our-best-8-on-display/"><u>2024 Approved Android's Free Screen Snip Picks – Our Best 8 on Display</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-the-latest-version-of-hp-laserjet-p1007-printer-drivers/"><u>Download & Install the Latest Version of HP LaserJet P1007 Printer Drivers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-complete-guide-to-iphone-speech-recordings-for-2024/"><u>The Complete Guide to iPhone Speech Recordings for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-top-tier-classic-gaming-in-hd-clarity-windows-plus-scummvm-techniques/"><u>Tips for Top-Tier Classic Gaming in HD Clarity: Windows + ScummVM Techniques</u></a></li>
 </ul></div>
 

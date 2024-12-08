@@ -1,7 +1,7 @@
 ---
 title: "\"Startup Zoom  Navigating Participant Groups for 2024\""
-date: 2024-10-28T22:02:29.982Z
-updated: 2024-11-02T16:04:30.075Z
+date: 2024-12-02T03:31:11.090Z
+updated: 2024-12-07T23:24:59.277Z
 tags: 
   - screen-recording
   - ai video
@@ -39,11 +39,19 @@ You are at the right place if you are just getting started with Zoom. Because in
 * [Part 4: How to Record Breakout Rooms meetings?](#record%5Fbreakout%5Froom)
 * [Part 5: Troubleshooting Zoom Breakout Rooms](#zoom-breakout-room%5Ffaq)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is a Breakout Room in Zoom?
 
 A breakout room is a sub-room that can be created during a meeting and you can split a meeting into up to 50 breakout sessions. The app allows you to choose if you want to create these sub-rooms and split the participants in a meeting into smaller groups automatically or manually.
 
 You must purchase the Large Meeting add-on if you would like to create 50 breakout sessions that have as many as two hundred participants. Each participant in a breakout session has complete control over video, audio and screen sharing options, and they can record each breakroom locally. In case the meeting’s host has enabled the cloud recording feature, Zoom will only record the main room while giving the participants the option to record the breakout room separately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Create a Breakout Room?
 
@@ -52,19 +60,6 @@ You must purchase the Large Meeting add-on if you would like to create 50 breako
 Creating a breakout room requires you to install the Zoom desktop client and to create an account on Zoom. Once you complete these two steps, you should sign in to your account and choose the Account Settings option from the Account Management menu. Locate the Breakout Room feature that is located in the Meeting tab and if the feature is disabled you should click on it to toggle it on.
 
 ![ Enable Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/eable-breakout-room-zoom.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hosts who would like to assign participants to breakout rooms while scheduling a meeting should click on the Allow host to assign participants to breakout rooms when scheduling a checkbox. Clicking on the Lock icon will make the breakout room setting mandatory for all users on your Zoom account.
 
@@ -76,27 +71,17 @@ Zoom also allows account administrators and account members to activate the brea
 
 Afterward, you should just enable the breakout room option from the Meetings tab and decide if you want to pre-assign members to particular rooms while scheduling a meeting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Create Breakout Rooms in Zoom Meeting
 
 Once the breakout room feature is enabled, you should start a new meeting and click on the Breakout Room icon in the Zoom’s toolbar. You will be prompted to set the number of rooms you would like to create for the meeting and choose if you want to assign participants to breakout rooms automatically or manually.
 
 ![ Create  Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/create-breakout-rooms.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on the Create Rooms button to complete the process and proceed to fine-tune the settings for each room.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Manage Breakout Rooms
 
@@ -109,6 +94,10 @@ You can then decide if you want to move all participants into breakout rooms aut
 Click on the Open all Rooms button to start assigning participants to different breakout rooms. You should then click on the Assign button next to a particular room and select all the participants you wish to add to that room. Keep in mind that the Assign button will be replaced with the number of participants each room has as soon as you add the first participant to them.
 
 Zoom also allows you to move participants from one room to another after you assigned them to one of the breakout rooms you created. You will be able to see Move and Exchange options next to the names of all participants you added to a room. Click on the Move option if you want to move a participant from one room to another or click on the Exchange option if you want to switch places of two participants who were added to different rooms. In addition, you can delete all breakout rooms you created and make new ones by clicking on the Recreate button or delete a room you selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Recording Zoom Breakout Rooms
 
@@ -129,10 +118,7 @@ We’ve written an article about Zoom meeting, if you’ve met any questions abo
 Even though creating and managing breakout rooms shouldn’t be too difficult, you may still experience problems. Let's take a look at some of the most common issues Zoom users encounter with breakout rooms.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Why can’t I join a Zoom Breakout Room?
@@ -147,13 +133,6 @@ Hosts can only communicate with participants of a single breakout room, which me
 
 No, this is not an option. However, if you remove a participant from the meeting, you will be able to assign them to a new breakout room after they rejoin the meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. What happens if I miss or close an invitation to a breakout session?
 
 Participants can join a breakout session before it ends. Join Breakout Session icon will remain active as long as the meeting is in progress.
@@ -163,6 +142,10 @@ Participants can join a breakout session before it ends. Join Breakout Session i
 Dividing a meeting into smaller sessions that have fewer participants can boost the productivity of an entire team. Zoom’s breakout rooms offer an easy way to accomplish this by allowing the host to create up to fifty different rooms that can have as many as 200 participants. Setting up breakout rooms with Zoom is a straightforward process that is not going to take more than a few moments of your time. Do you use Zoom’s breakout rooms feature? Leave a comment below and share your experiences with us.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -179,16 +162,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-master-list-of-premier-game-broadcasting-apps/"><u>[New] 2024 Approved Master List of Premier Game Broadcasting Apps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-swift-techniques-for-shifting-iphone-media-to-pc/"><u>[New] Swift Techniques for Shifting iPhone Media to PC</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-enhancing-live-broadcasts-with-premium-webcams/"><u>2024 Approved Enhancing Live Broadcasts with Premium WebCams</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-podcasters-playground-unleashing-full-potential-in-video-and-audio-recording-on-zoom/"><u>2024 Approved Podcaster's Playground Unleashing Full Potential in Video and Audio Recording on Zoom</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-revolutionize-your-gaming-recordings-a-guide-to-fbx-tech/"><u>2024 Approved Revolutionize Your Gaming Recordings A Guide to FBX Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-chatgpt-traps-best-practices-for-students-seeking-academic-improvement/"><u>Avoiding ChatGPT Traps: Best Practices for Students Seeking Academic Improvement</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/crystalvision-pro-screen-capturing-101-for-2024/"><u>CrystalVision Pro Screen Capturing 101 for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-se-2020-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ideal-remote-recording-gear/"><u>Ideal Remote Recording Gear</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-demystifying-ps4s-capture-features-a-comprehensive-walkthrough/"><u>In 2024, Demystifying PS4's Capture Features A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-forget-reddit-weve-got-you-covered-for-filmora-coupons-for-2024/"><u>New Forget Reddit, Weve Got You Covered for Filmora Coupons for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-a-deep-dive-into-screenflow-for-the-creative-minded-mac-user/"><u>[New] 2024 Approved A Deep Dive Into ScreenFlow for the Creative Minded Mac User</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-hulu-recording-guide-for-pcmacios-devices/"><u>[New] 2024 Approved Comprehensive Hulu Recording Guide for PC/Mac/iOS Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-expert-tips-to-perfectly-utilize-instagrams-sound-stickers/"><u>[New] 2024 Approved Expert Tips to Perfectly Utilize Instagram's Sound Stickers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-troubleshooting-obs-blackouts-on-game-recordings/"><u>[New] In 2024, Troubleshooting OBS Blackouts on Game Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-youtube-video-dimension-standards/"><u>[New] In 2024, YouTube Video Dimension Standards</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-mac-video-capture-now/"><u>[New] Mastering MAC Video Capture Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-iphone-vr-videos-unveiled-a-quick-how-to/"><u>[Updated] 2024 Approved IPhone VR Videos Unveiled A Quick How-To</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-quick-start-guide-recording-your-pcs-display-with-hp/"><u>[Updated] 2024 Approved Quick Start Guide Recording Your PC's Display with HP</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-next-generation-virtual-collaboration-tools-post-zoom-era/"><u>[Updated] In 2024, Next Generation Virtual Collaboration Tools, Post-Zoom Era</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-momentfreeze-immediate-screen-grab-guide-for-2024/"><u>[Updated] MomentFreeze Immediate Screen Grab Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-educational-apps-for-high-school-students-a-comprehvew-of-10-picks/"><u>Best Educational Apps for High School Students: A Comprehvew of 10 Picks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/powerhouses-for-captivating-youtube-thumbnails-for-2024/"><u>Font Powerhouses for Captivating YouTube Thumbnails for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-nokia-c12-plus-easily-by-drfone-android/"><u>How To Unlock a Nokia C12 Plus Easily?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-60x-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo 60x 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-end-screen-how-to-add-end-screen-to-video-on-vimeo-for-2024/"><u>Vimeo End Screen How to Add End Screen to Video on Vimeo for 2024</u></a></li>
 </ul></div>
 

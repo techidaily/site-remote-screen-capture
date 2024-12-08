@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Advanced 3D Shaping  Crafting Perfect MC Circles & Spheres\""
-date: 2024-11-23T18:29:11.388Z
-updated: 2024-11-28T19:29:34.660Z
+date: 2024-12-06T00:35:45.055Z
+updated: 2024-12-07T23:03:20.529Z
 tags: 
   - screen-recording
   - ai video
@@ -37,17 +37,21 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 ![minecraft-make-circle1](https://images.wondershare.com/filmora/article-images/minecraft-make-circle1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Now add 7 blocks on each side of the line to make a plus '+' sign. It will create a circumference of the circle by both the x-axis and y-axis.
 
 ![minecraft-make-circle2](https://images.wondershare.com/filmora/article-images/minecraft-make-circle2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** At the edges of each line create a perpendicular line of 5 blocks each. This will create an outer boundary of the circle.
 
 ![minecraft-make-circle3](https://images.wondershare.com/filmora/article-images/minecraft-make-circle3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Now to complete the outer boundary of the circle, you have to add two blocks in the same direction of the outer line of the circle. But this time come a little bit closer to the center of the circle.
 
@@ -57,10 +61,6 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 ![minecraft-make-circle5](https://images.wondershare.com/filmora/article-images/minecraft-make-circle5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6:** Since the outer of the circle is complete, now you can either remove the center lines of the circle to make it hollow or fill it with the blocks to make it a complete filled circle and make it a place where you can stand.
 
 ![minecraft-make-circle6](https://images.wondershare.com/filmora/article-images/minecraft-make-circle6.jpg)
@@ -68,7 +68,7 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to make a Sphere in Minecraft
@@ -82,10 +82,6 @@ The only difference between making a circle and a sphere is the difference in di
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
@@ -106,10 +102,14 @@ Creating such amazing things and sharing them on your social media and video sha
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -126,21 +126,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-giggles-guidebook-planning-7-funny-video-frameworks-for-2024/"><u>[New] Giggles Guidebook Planning 7 Funny Video Frameworks for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-perfect-discord-streams-tips-and-tricks/"><u>[New] Perfect Discord Streams Tips & Tricks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-picture-capture-unpacker-for-2024/"><u>[New] Picture Capture Unpacker for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sculpting-images-selecting-the-right-aspect-ratio/"><u>[New] Sculpting Images Selecting the Right Aspect Ratio</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-expertly-curated-9-best-video-conferencing-software-for-smartphones-and-tablets/"><u>[Updated] 2024 Approved Expertly Curated 9 Best Video Conferencing Software for Smartphones & Tablets</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unveiling-the-leading-mac-speech-recorders-our-curated-list-of-5/"><u>[Updated] 2024 Approved Unveiling The Leading Mac Speech Recorders Our Curated List of 5</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-extensive-review-the-gecata-gamersoft-toolkit-for-2024/"><u>[Updated] Extensive Review The Gecata Gamersoft Toolkit for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-playlists-that-rule-spotifys-top-10/"><u>[Updated] In 2024, Playlists that Rule Spotify's Top 10</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-the-quick-guide-to-stellar-disco-screen-names-for-2024/"><u>[Updated] The Quick Guide to Stellar Disco Screen Names for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-budding-filmmakers-best-gopro-upgrades/"><u>2024 Approved Budding Filmmakers Best GoPro Upgrades</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-seamless-idevice-screen-saving-tricks/"><u>2024 Approved Seamless iDevice Screen Saving Tricks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/into-old-content-youtube-video-recovery-guide/"><u>Dive Into Old Content YouTube Video Recovery Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-14-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 14 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-booting-up-windows-directly-into-safe-mode/"><u>Step-by-Step Tutorial: Booting Up Windows Directly Into Safe Mode</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-powerhouse-the-ultimate-review-of-hp-omen-obelisk-for-budget-friendly-gaming-bliss/"><u>Unveiling the Powerhouse: The Ultimate Review of HP OMEN Obelisk for Budget-Friendly Gaming Bliss</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/workout-smarter-tune-deeper-experience-high-tech-fitness-on-your-wrist-with-garmin-vivoactive-3/"><u>Workout Smarter, Tune Deeper: Experience High-Tech Fitness on Your Wrist with Garmin Vivoactive 3</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-a-compreehers-path-to-aspect-ratio-mastery-in-facebook-videos-for-2024/"><u>[New] A Compreeher's Path to Aspect Ratio Mastery in Facebook Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-angle-artistry-guide-mastering-the-craft-of-video-spinning-on-social-sites-for-2024/"><u>[New] The Angle Artistry Guide Mastering the Craft of Video Spinning on Social Sites for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-translation-wondershare-virbo-online/"><u>2024 Approved AI Translation | Wondershare Virbo Online</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-best-5-digital-recorder-selects/"><u>2024 Approved Best 5 Digital Recorder Selects</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-tools-for-perfect-linux-screenshots/"><u>2024 Approved Essential Tools for Perfect Linux Screenshots</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-game-on-and-store-more-top-5-ssd-reviews-for-xbox/"><u>2024 Approved Game On & Store More Top 5 SSD Reviews for Xbox</u></a></li>
+<li><a href="https://games-able.techidaily.com/3-alternative-methods-for-enjoying-flash-games-post-adobe/"><u>3 Alternative Methods for Enjoying Flash Games Post-Adobe</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/androids-top-video-recording-options-5-excellent-picks/"><u>Android's Top Video Recording Options - 5 Excellent Picks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-en-linea-y-gratis-de-mpe-a-wav-con-movavi-herramienta-sin-coste/"><u>Conversion en Línea Y Gratis De MPE a WAV Con Movavi: Herramienta Sin Coste</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-guide-recording-netflix-videos-on-a-mac-for-2024/"><u>Essential Guide Recording Netflix Videos on a Mac for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-top-social-platforms-connect-on-facebook-tweet-on-twitter-snap-with-instagram-and-share-on-youtube/"><u>Exploring Top Social Platforms: Connect on Facebook, Tweet on Twitter, Snap with Instagram & Share on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-master-the-art-of-fighting-top-5-martial-arts-gaming-experience/"><u>In 2024, Master the Art of Fighting Top 5 Martial Arts Gaming Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-kid-friendly-driving-delights/"><u>In 2024, Ultimate Kid-Friendly Driving Delights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-uniform-visual-clarity-in-microsoft-teams-conferences/"><u>In 2024, Uniform Visual Clarity in Microsoft Teams Conferences</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-the-premiere-pro-video-templates-help-make-original-content-of-broadcast-quality-the-article-introduces-10-free-premiere-pro-templates-that-are-sure-to-/"><u>New The Premiere Pro Video Templates Help Make Original Content of Broadcast Quality. The Article Introduces 10 Free Premiere Pro Templates that Are Sure to Make Your Life Easy</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-essential-reasons-to-update-your-device-with-ios-153-immediately/"><u>Urgent: Essential Reasons to Update Your Device with iOS 15.3 Immediately</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-gionee-f3-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Gionee F3 Pro</u></a></li>
 </ul></div>
 

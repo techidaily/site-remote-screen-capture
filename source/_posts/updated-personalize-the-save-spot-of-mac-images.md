@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize the Save Spot of Mac Images"
-date: 2024-11-25T23:00:54.381Z
-updated: 2024-11-29T04:12:21.722Z
+date: 2024-12-07T07:52:14.408Z
+updated: 2024-12-08T06:21:29.195Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -63,7 +67,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -73,10 +77,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,17 +119,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-precision-techniques-the-most-essential-8-tools-for-microphone-and-speaker-recording/"><u>[New] 2024 Approved Precision Techniques The Most Essential 8 Tools for Microphone & Speaker Recording</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-basic-understanding-of-animate-graphic-content-for-2024/"><u>[New] Basic Understanding of Animate Graphic Content for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unlocking-potential-multi-angle-cameras-redefined-surveillinas/"><u>[New] In 2024, Unlocking Potential Multi-Angle Cameras Redefined Surveillinas</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-picture-perfect-videos-to-melodious-mp3-files/"><u>[Updated] 2024 Approved From Picture-Perfect Videos to Melodious MP3 Files</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ideal-microphone-logging-software-on-mac-devices-compile-the-best-5-for-2024/"><u>[Updated] Ideal Microphone Logging Software on Mac Devices Compile the Best 5 for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-visual-data-harvester-for-2024/"><u>[Updated] Visual Data Harvester for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fix-unresponsive-trash-feature-error-36/"><u>Fix Unresponsive Trash Feature, Error 36</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-can-you-retrieve-missing-facetime-images/"><u>How Can You Retrieve Missing FaceTime Images?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pathway-to-get-your-hands-on-movie-maker-6/"><u>In 2024, Pathway to Get Your Hands on Movie Maker 6</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/latest-chatgpt-upgrade-explore-the-new-features-and-improvements/"><u>Latest ChatGPT Upgrade: Explore the New Features and Improvements!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-ipad-based-time-lapse-videos/"><u>The Ultimate Guide to iPad-Based Time-Lapse Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-comprehensive-guide-to-sound-in-powerpoint-presentations-for-2024/"><u>[Updated] Comprehensive Guide to Sound in PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-your-images-true-self-a-canva-step-by-step/"><u>[Updated] Unveiling Your Image’s True Self A Canva Step-by-Step</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-comprehensible-techniques-for-effective-classroom-recordings-on-mac/"><u>2024 Approved Comprehensible Techniques for Effective Classroom Recordings on Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/a-guide-to-effective-video-capture-methods-for-playstation-4-for-2024/"><u>A Guide to Effective Video Capture Methods for PlayStation 4 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-coding-standards-is-av1-outclassing-vp9-for-2024/"><u>Advanced Coding Standards Is AV1 Outclassing VP9 for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-plus-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 Plus activation lock with a professional tool</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-build-circles-and-spheres-in-minecraft/"><u>How to Build Circles and Spheres in Minecraft</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-best-guide-for-setting-tiktok-countdown-timer/"><u>In 2024, Best Guide for Setting TikTok Countdown Timer</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-easy-steps-to-activate-a-full-screen-grid-on-google-meet/"><u>In 2024, Easy Steps to Activate a Full-Screen Grid on Google Meet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-step-by-step-guide-to-obs-streaming-success/"><u>In 2024, The Step-by-Step Guide to OBS Streaming Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-screencast-software-on-the-market-bandicam-vs-camtasia/"><u>In 2024, Top Screencast Software on the Market Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://video-capture.techidaily.com/microphone-efficiency-checklist-for-2024/"><u>Microphone Efficiency Checklist for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quality-no-cost-top-ultimate-list-free-and-easy/"><u>Quality, No-Cost, Top, Ultimate List, Free, and Easy.</u></a></li>
 </ul></div>
 

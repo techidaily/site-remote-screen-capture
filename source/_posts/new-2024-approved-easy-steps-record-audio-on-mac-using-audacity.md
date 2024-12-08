@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Easy Steps  Record Audio on Mac Using Audacity\""
-date: 2024-11-24T00:25:28.743Z
-updated: 2024-11-29T04:12:17.282Z
+date: 2024-12-01T06:55:38.054Z
+updated: 2024-12-08T00:13:44.076Z
 tags: 
   - screen-recording
   - ai video
@@ -23,10 +23,6 @@ Are you looking for a free application for your Mac where you can record your au
 
 Audacity is a free and open-source application. It is quite advanced in its features even though it is completely free to download and use. That is why not just beginners but professionals prefer it over other premium audio recorders and editors. However, Audacity is slightly complicated to operate. In this article, we will illustrate how to use Audacity on Mac and recommend a better alternative.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to download and install Audacity on Mac?
 
 Downloading and installing Audacity macOS is not as simple as any other application. You can blame Audacity Developers for making it complicated for Mac users. You can either download the application from the official website or from their download partner – FossHub. Here are the steps to download and install Audacity Macbook and iMac.
@@ -36,10 +32,6 @@ Step 1: Visit [Audacity Download](https://www.audacityteam.org/download/mac/) pa
  Step 2: It should download Audacity DMG file automatically. However, if it does not, click on “Audacity (version) dmg file” on the Download website.
 
 ![step2 dmg file](https://images.wondershare.com/filmora/article-images/step2-dmg-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Alternatively, you can go to FossHub and search for Audacity and download the latest Audacity macOS DMG file.
 
@@ -66,7 +58,7 @@ Step 3: Go to Tracks menu option and go to Add New. Here, you have to select eit
 ![go to tracks menu](https://images.wondershare.com/filmora/article-images/go-to-tracks-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Now, you are ready to start recording your audio through microphone using Audacity. Click on Record button at the top bar. The recording will start immediately and you will see audiograph of your audio which shows that your voice is getting recorded.
@@ -74,10 +66,6 @@ Step 4: Now, you are ready to start recording your audio through microphone usin
 ![ready to start](https://images.wondershare.com/filmora/article-images/ready-to-start.jpg)
 
 Step 5: When you are done, click on Stop button at the top bar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Alternative way to record sound on Mac
 
@@ -107,51 +95,9 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
-Step 2: From Recording window, set the video recording screen size as per your requirement.
-
-Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
-
-![select](https://images.wondershare.com/filmora/article-images/select.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
-
-![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## Conclusion
-
-If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-* Record only external microphone audio.
-* Record only computer audio even when mic is plugged in.
-* Record both computer and mic audio simultaneously.
-* Record screen and webcam video along with audio.
-* Edit audio recording such as trim out unnecessary parts.
-* Add audio effects and external audio files.
-* Export the recorded audio and video files in different file formats.
-
-Here are the steps on how to record any audio with video using Filmora.
-
-Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: From Recording window, set the video recording screen size as per your requirement.
 
@@ -164,10 +110,14 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -235,7 +185,57 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## Conclusion
+
+If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+* Record only external microphone audio.
+* Record only computer audio even when mic is plugged in.
+* Record both computer and mic audio simultaneously.
+* Record screen and webcam video along with audio.
+* Edit audio recording such as trim out unnecessary parts.
+* Add audio effects and external audio files.
+* Export the recorded audio and video files in different file formats.
+
+Here are the steps on how to record any audio with video using Filmora.
+
+Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
+
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+Step 2: From Recording window, set the video recording screen size as per your requirement.
+
+Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
+
+![select](https://images.wondershare.com/filmora/article-images/select.jpg)
+
+Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
+
+![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -265,24 +265,18 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-racing-games-the-ultimate-5-list/"><u>[New] 2024 Approved Essential Racing Games The Ultimate 5-List</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-pathway-for-high-quality-video-production-in-adobe-connect/"><u>[New] 2024 Approved The Ultimate Pathway for High-Quality Video Production in Adobe Connect</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-cost-free-chromebook-video-capturing-leaders/"><u>[New] Cost-Free Chromebook Video Capturing Leaders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-techniques-for-screen-capturing-on-various-os-and-gadgets/"><u>[New] In 2024, Essential Techniques for Screen Capturing on Various OS & Gadgets</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-minicam-project-scrutiny-overview/"><u>[New] In 2024, MiniCam Project Scrutiny Overview</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-full-spectrum-screen-recording-az-analyses-and-backups/"><u>[Updated] In 2024, Full Spectrum Screen Recording - AZ Analyses & Backups</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-share-screen-on-facebook-live/"><u>[Updated] In 2024, How to Share Screen on Facebook Live?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-navigating-gif-storage-and-use-in-the-digital-age-iphone/"><u>[Updated] In 2024, Navigating GIF Storage and Use in the Digital Age (iPhone)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-launching-into-the-world-of-vlogging/"><u>[Updated] Launching Into the World of Vlogging</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-must-see-mac-video-frames-selection-limited-to-156-characters-for-2024/"><u>[Updated] Must-See Mac Video Frames Selection (Limited to 156 Characters) for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-poco-x5-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Poco X5 Pro via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/converter-offline-gratuito-per-convertire-i-gif-nei-file-mkv-con-moveavev/"><u>Converter Offline Gratuito per Convertire I GIF Nei File MKV Con Moveavev</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-the-libexec32dll-file-missing-issue-a-comprehensive-guide/"><u>Fixing the libexec32.dll File Missing Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-insider-advice-crafting-the-best-ps3-gaming-recordings/"><u>In 2024, Insider Advice Crafting the Best PS3 Gaming Recordings</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-live-video-showdown-which-is-superior-virusmixwirecast/"><u>In 2024, Live Video Showdown Which Is Superior, VirusMix/WireCast?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-tools-for-effortless-recording-of-desktop-screens-on-windows-10/"><u>In 2024, Top Tools for Effortless Recording of Desktop Screens on Windows 10</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/innovative-techniques-for-flawless-voice-capture-in-facetime-calls/"><u>Innovative Techniques for Flawless Voice Capture in FaceTime Calls</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/prime-zero-dollar-clip-maker-program-for-2024/"><u>Prime Zero-Dollar Clip Maker Program for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ling-the-secrets-accessing-forgotten-youtube-vids-for-2024/"><u>Revealing the Secrets Accessing Forgotten YouTube Vids for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-best-practices-in-adobe-captivate-for-videos/"><u>[Updated] 2024 Approved Best Practices in Adobe Captivate for Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-expert-screencast-wisdom-key-facts-and-strategies/"><u>[Updated] Expert Screencast Wisdom Key Facts and Strategies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-make-your-gaming-great-not-stressful/"><u>[Updated] Make Your Gaming Great, Not Stressful</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-obs-studio-vs-fraps-top-screen-capture-software-showdown/"><u>[Updated] OBS Studio Vs Fraps Top Screen Capture Software Showdown</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ultimate-list-of-win-11-hd-webcam-recording-kits/"><u>[Updated] Ultimate List of Win 11 HD Webcam Recording Kits</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-hp-photosmart-7520-usbethernet-printing-drivers/"><u>Free Download - HP Photosmart 7520 USB/Ethernet Printing Drivers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-how-to-excel-at-ppt-delivery-google-meet-tactics-for-any-device/"><u>In 2024, How to Excel at PPT Delivery Google Meet Tactics for Any Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-vsg-hd-screen-snapper-reports-extensive-breakdown/"><u>In 2024, VSG HD Screen Snapper Reports Extensive Breakdown</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-the-desktopmobile-youtube-speed-control-for-2024/"><u>Nailing the Desktop/Mobile YouTube Speed Control for 2024</u></a></li>
+<li><a href="https://win-net.techidaily.com/step-by-step-masterclass-on-modifying-vcenter-sso-domain-settings-and-troubleshooting-typical-errors/"><u>Step-by-Step Masterclass on Modifying vCenter SSO Domain Settings & Troubleshooting Typical Errors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-creating-viral-reaction-videos-with-filmora/"><u>The Ultimate Guide to Creating Viral Reaction Videos with Filmora</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vesi-vastainen-2024-parasta-ilmaista-videoedittiota-ilman-sisallolaismme/"><u>Vesi-Vastainen 2024 - Parasta Ilmaista VideoEdittiota Ilman Sisälloläismme</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/x-recorder-your-companion-for-high-quality-pc-recording-for-2024/"><u>X-Recorder Your Companion for High-Quality PC Recording for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Silencing Background Noise in OBS Feeds\""
-date: 2024-11-27T16:17:44.392Z
-updated: 2024-11-29T02:45:50.389Z
+date: 2024-12-04T08:37:52.620Z
+updated: 2024-12-07T20:43:09.946Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -62,7 +66,7 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
@@ -76,7 +80,7 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -89,14 +93,6 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -105,6 +101,10 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -115,6 +115,14 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -131,14 +139,6 @@ For macOS 10.12 or later
 After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
 
@@ -162,20 +162,16 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-recording-your-iphoneipad-whats-new/"><u>[New] 2024 Approved Recording Your iPhone/iPad What's New</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems/"><u>[New] A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mac-display-recorder-tips-and-tricks/"><u>[New] In 2024, Mac Display Recorder Tips & Tricks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-jumpstart-your-photo-editing-essential-pixlr-wisdoms/"><u>[Updated] 2024 Approved Jumpstart Your Photo Editing Essential Pixlr Wisdoms</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-remove-background-in-logitech-webcam-recording/"><u>[Updated] 2024 Approved Remove Background in Logitech Webcam Recording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-snap-shooting-techniques-for-zoom-calls/"><u>[Updated] 2024 Approved Snap Shooting Techniques for Zoom Calls</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-platforms-crafting-3d-animation-art/"><u>2024 Approved Prime Platforms Crafting 3D Animation Art</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-guide-to-macs-preferred-snippers-for-2024/"><u>Comprehensive Guide to Mac's Preferred Snippers for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-standard-definition-to-high-dynamic-range-mastery/"><u>From Standard Definition to High Dynamic Range Mastery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-ai-code-suggestions-using-microsoft-copilot-on-mac-computers/"><u>Harness the Power of AI Code Suggestions – Using Microsoft Copilot on Mac Computers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40i-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Hot 40i Phone without Any Data Loss</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/premium-serene-pc-games-catalog/"><u>Premium Serene PC Games Catalog</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-virtual-reality-archivists-handbook-for-game-recordings-for-2024/"><u>The Virtual Reality Archivist's Handbook for Game Recordings for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-honor-90-gt-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Honor 90 GT Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unveiling-steps-for-hyper-v-activation-and-deployment-on-new-windows-11-os/"><u>Unveiling Steps for Hyper-V Activation and Deployment on New Windows 11 OS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-acknowledgement-pack-free-and-paid-otus-ready-for-2024/"><u>[New] Acknowledgement Pack Free & Paid OTUs Ready for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-iphone-plus-android-tutorial-screen-recording-google-meets/"><u>[Updated] 2024 Approved IPhone + Android Tutorial Screen Recording Google Meets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-risk-and-revelation-10-roguelike-game-selection/"><u>[Updated] In 2024, Risk and Revelation #10 Roguelike Game Selection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-guide-for-iphone-screen-taping/"><u>[Updated] In 2024, The Ultimate Guide for iPhone Screen Taping</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-virtual-space-clearing-perfecting-your-backdrop-in-zoom-and-google-meet-for-2024/"><u>[Updated] Virtual Space Clearing Perfecting Your Backdrop in Zoom & Google Meet for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-surviving-in-mc-6-home-ideas/"><u>2024 Approved Surviving in MC 6 Home Ideas</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-tools-and-methods-capturing-your-iphones-display-without-a-cost/"><u>Free Tools and Methods: Capturing Your iPhone's Display Without a Cost</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-t2-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo T2 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-top-5-platforms-for-active-engagement-outside-of-twitter/"><u>In 2024, Top 5 Platforms For Active Engagement Outside of Twitter</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-up-your-game-obtain-latest-windows-graphics-driver-support-from-nvidia/"><u>Step Up Your Game: Obtain Latest Windows Graphics Driver Support From NVIDIA</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-how-to-reverse-a-tiktok-video-an-ultimate-guide-2023-update/"><u>Updated In 2024, How to Reverse A TikTok Video An Ultimate Guide 2023 Update</u></a></li>
 </ul></div>
 
