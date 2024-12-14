@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Pioneering RPGs  Rogelikes & Their Descendants\""
-date: 2024-08-29T22:19:49.478Z
-updated: 2024-08-30T22:19:49.478Z
+date: 2024-12-13T08:22:03.918Z
+updated: 2024-12-14T04:08:12.772Z
 tags: 
   - screen-recording
   - ai video
@@ -39,9 +39,6 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
@@ -55,8 +52,9 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
@@ -69,10 +67,6 @@ It's roguelites that are also usually a mix of different genres with _Rogue_ sty
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## A Clear Distinction
 
 Regardless of where you stand on what defines a faithful roguelike, the distinction between it and roguelites is quite straightforward. You know you are playing a roguelike when dying means you **lose it all**. No matter how far into the game you've progressed, one misstep means all of the time and work you put into your progress has come to an end. Roguelites, on the other hand, prefer to give you **some sense of progression**, making them **friendlier** for players who don't want to play with the stress of potentially losing everything.
@@ -92,8 +86,9 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -110,9 +105,6 @@ Straying a bit from _Rogue's_ high fantasy setting, _Caves of Qud_ mixes some sc
 
 Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_ is one of the true innovators of its space. Taking all of the core defining elements of _Rogue_, including its hyper retro art style, _DCSS_ makes a concerted effort towards being more accessible. For starters, it offers a more user-friendly interface that brings all important information to the forefront. The developers also wanted to make its gameplay far easier to understand so that any person can pick it up and play without needing any convoluted prior knowledge of how the game works.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 ---
@@ -131,9 +123,6 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
 #### Hades
@@ -142,11 +131,19 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -160,10 +157,11 @@ Follow @Ollie Mattison
 
 Game developers and designers have experimented with a variety of video game genres across the years. None, however, have been stretched as far as roguelikes and roguelites. You've probably heard these terms used to describe recent hit games such as _Hades_, _Dead Cells,_ and _Binding of Isaac_ and have wondered if there's a difference. While both of these game types share a lot of common elements and the lines between them are seemingly blurred, there is a clear distinction between roguelikes and roguelites.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![isaac-poster](https://images.wondershare.com/filmora/article-images/isaac-poster.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -181,22 +179,20 @@ In order to best understand these two game genres, we must first analyze the ori
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
@@ -206,8 +202,9 @@ It's roguelites that are also usually a mix of different genres with _Rogue_ sty
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Clear Distinction
 
 Regardless of where you stand on what defines a faithful roguelike, the distinction between it and roguelites is quite straightforward. You know you are playing a roguelike when dying means you **lose it all**. No matter how far into the game you've progressed, one misstep means all of the time and work you put into your progress has come to an end. Roguelites, on the other hand, prefer to give you **some sense of progression**, making them **friendlier** for players who don't want to play with the stress of potentially losing everything.
@@ -226,9 +223,6 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -245,12 +239,13 @@ Straying a bit from _Rogue's_ high fantasy setting, _Caves of Qud_ mixes some sc
 
 Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_ is one of the true innovators of its space. Taking all of the core defining elements of _Rogue_, including its hyper retro art style, _DCSS_ makes a concerted effort towards being more accessible. For starters, it offers a more user-friendly interface that brings all important information to the forefront. The developers also wanted to make its gameplay far easier to understand so that any person can pick it up and play without needing any convoluted prior knowledge of how the game works.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Roguelite Games
 
@@ -266,10 +261,11 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Hades
 
@@ -282,8 +278,9 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
@@ -314,10 +311,20 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-practical-approach-to-installing-obs-on-apple-systems/"><u>[New] In 2024, A Practical Approach to Installing OBS on Apple Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-smirksketcher-lighten-up-with-quick-art-tools/"><u>[New] SmirkSketcher Lighten Up with Quick Art Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-optimal-choices-in-monitors-for-ps5-gamers/"><u>[Updated] In 2024, Optimal Choices in Monitors for PS5 Gamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-perfecting-your-video-game-broadcast-the-obs-way/"><u>[Updated] In 2024, Perfecting Your Video Game Broadcast The OBS Way</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-streamlined-conversion-of-youtube-content/"><u>2024 Approved Streamlined Conversion of YouTube Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-out-clutter-a-how-to-tutorial-for-deleting-apps-on-samsung-smarttvs/"><u>Clear Out Clutter: A How-To Tutorial for Deleting Apps on Samsung SmartTVs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-release-magicard-rio-pro-driver-suite-now-available-for-major-windows-versions/"><u>Get the Newest Release: Magicard Rio Pro Driver Suite - Now Available for Major Windows Versions</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-launch-your-brands-professional-chapter-with-instagram/"><u>In 2024, Launch Your Brand's Professional Chapter with Instagram</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tech-savvy-summit-unveiling-our-top-5-video-capture-tools/"><u>Tech-Savvy Summit Unveiling Our Top 5 Video Capture Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-blueprint-to-buzz-generating-posts/"><u>The Blueprint to Buzz-Generating Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/zero-cost-mp3-the-skype-recording-method-for-2024/"><u>Zero-Cost MP3 The Skype Recording Method for 2024</u></a></li>
+</ul></div>
 

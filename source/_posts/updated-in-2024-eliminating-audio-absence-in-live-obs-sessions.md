@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Eliminating Audio Absence in Live OBS Sessions"
-date: 2024-12-01T06:52:58.920Z
-updated: 2024-12-08T01:12:38.388Z
+date: 2024-12-10T00:23:44.425Z
+updated: 2024-12-13T18:55:09.774Z
 tags: 
   - screen-recording
   - ai video
@@ -41,6 +41,10 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **2\. Run it as Administrator**
 
 You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
@@ -50,14 +54,6 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 * Right Click on OBS Studio and click Run as administrator
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
 
@@ -69,6 +65,14 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -78,10 +82,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 * Press the Apply button, then click OK to exit the window.
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
 
@@ -94,7 +94,7 @@ Try recording with your speakers as the default playback device instead of headp
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
@@ -116,6 +116,10 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Use OBS Alternative
 
 When all the preceding approaches fail to address the issue, merely switch to an alternate screen recorder to generate a video. Be that as it may, one of the common troubles while recording with OBS studio is the "OBS studio sound not functioning " issue which looks to be incredibly puzzling since you can end up going through a few hours recording and editing a video yet there is no solid. Personally, Filmora's [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) will be pretty nice. When you are going to uncover the solution to why is OBS not recording audio, there are numerous screen and audio recorders that will be beneficial for you. One of the greatest recording applications is Filmora. The program contains built-in functions, and you may conduct various editing by cropping, dividing, or chopping the audio. Moreover, the application is quite straightforward to use which is pretty different from OBS, the one that requires practice. You may use the keyboard shortcut to start recording your screen without additional setup.
@@ -133,11 +137,7 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -162,24 +162,16 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-how-to-gently-lower-volume-without-distortion/"><u>[New] How to Gently Lower Volume Without Distortion</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-best-brain-teasers-selecting-prime-trivia-channels/"><u>[New] The Best Brain Teasers - Selecting Prime Trivia Channels</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-demystifying-premiere-pros-corrections-for-overexposed-iphone-videos/"><u>[Updated] Demystifying Premiere Pro's Corrections for Overexposed iPhone Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-ultimate-selection-best-idevice-custom-alerts/"><u>[Updated] In 2024, Ultimate Selection Best iDevice Custom Alerts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-easy-routines-keeping-a-transcript-of-google-voice-calls/"><u>2024 Approved Easy Routines Keeping a Transcript of Google Voice Calls</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-indoor-adventures-select-escapade-venues/"><u>2024 Approved Ultimate Indoor Adventures Select Escapade Venues</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-comprehensive-look-at-riots-username-and-slogan-change/"><u>A Comprehensive Look at Riot's Username and Slogan Change</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cross-generational-gaming-running-ps4-titles-on-ps5-systems/"><u>Cross-Generational Gaming: Running PS4 Titles on PS5 Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/expert-methods-for-shushing-complaints-in-gmeet-sessions-for-2024/"><u>Expert Methods for Shushing Complaints in GMeet Sessions for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/high-definition-playtime-best-hdmi-21-gaming-displays-ps5-compatible/"><u>High Definition Playtime Best HDMI 2.1 Gaming Displays [PS5 Compatible]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-8-techniques-for-high-quality-pc-audio-documentation/"><u>In 2024, 8 Techniques for High-Quality PC Audio Documentation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-12-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 12 Pro Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-celebrating-top-10-moba-play-android-edition/"><u>In 2024, Celebrating Top 10 MOBA Play Android Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elite-console-emulation-top-5-ps3-options/"><u>In 2024, Elite Console Emulation Top 5 PS3 Options</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-streamlining-sound-recording-a-filmmakers-handbook-on-voice-overs/"><u>In 2024, Streamlining Sound Recording A Filmmaker's Handbook on Voice-Overs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-switchs-prime-capture-technology-picks/"><u>In 2024, Switch's Prime Capture Technology Picks</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-discover-the-secret-to-affordable-final-cut-pro-education-bundle-revealed-for-2024/"><u>Updated Discover the Secret to Affordable Final Cut Pro Education Bundle Revealed for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/wifi-network-not-showing-up-on-computer-best-fixes/"><u>WiFi Network Not Showing Up on Computer [Best Fixes]</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015744328-world-of-warcraft-audio-troubles-heres-how-to-restore-game-sounds/"><u>World of Warcraft Audio Troubles? Here's How to Restore Game Sounds</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-aurora-hdr-vs-standard-imagery-quality-analysis-for-2024/"><u>[Updated] Aurora HDR vs Standard Imagery Quality Analysis for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-list-high-quality-cost-free-meeting-platforms-for-2024/"><u>[Updated] Essential List High-Quality, Cost-Free Meeting Platforms for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-archive-itunes-content-with-ease-using-these-tips/"><u>[Updated] In 2024, Archive iTunes Content with Ease Using These Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premier-10-royale-arena-games/"><u>[Updated] Premier 10 Royale Arena Games</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-advanced-scripts-engineering-countdown-timers-in-broadcast-tools/"><u>2024 Approved Advanced Scripts Engineering Countdown Timers in Broadcast Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/achieving-realistic-blur-on-images-using-photoshop-techniques-for-2024/"><u>Achieving Realistic Blur on Images Using Photoshop Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-idea-to-income-a-comprehensive-instagram-guide/"><u>In 2024, From Idea to Income A Comprehensive Instagram Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-premier-voice-command-conversion-apps-for-windows-users-for-2024/"><u>New Premier Voice Command Conversion Apps for Windows Users for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/peekintobettercams-beyond-mycam-for-2024/"><u>PeekIntoBetterCams Beyond MyCam for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/quick-guide-to-adding-print-sections-for-booklet-layouts-using-createbookletpro/"><u>Quick Guide to Adding Print Sections for Booklet Layouts Using CreateBookletPro</u></a></li>
 </ul></div>
 

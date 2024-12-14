@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Windows Guide  Free Tools for Capturing Live TV\""
-date: 2024-12-04T07:52:14.786Z
-updated: 2024-12-07T17:23:39.830Z
+date: 2024-12-12T17:56:51.744Z
+updated: 2024-12-14T05:49:11.959Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ All versions of Windows, since Windows 7, feature a built-in video recording sof
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record TV shows on Windows 7/8 for Free
@@ -68,6 +68,10 @@ Locate the Windows Media Center on your computer's hard drive. Chances are that 
 
 ![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
 
 #### Step 3
@@ -79,7 +83,7 @@ Click on the Guide feature, and browse through the TV program in order to select
 On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record live TV on Windows 10 for free
@@ -99,7 +103,7 @@ After you've launched the program, find the Game DVR icon that is located in the
 Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free TV Show Recording Software on Windows
@@ -128,10 +132,6 @@ However, NextPVR also works as a standalone program, and in order to start recor
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -147,24 +147,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-harmonyhub-pro-downloads-and-reviews/"><u>[New] In 2024, HarmonyHub Pro Downloads & Reviews</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-depth-survey-the-apex-of-screen-recording-technology-for-2024/"><u>[New] In-Depth Survey The Apex of Screen Recording Technology for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-fresh-footage-feature-film-reviews/"><u>[Updated] 2024 Approved Fresh Footage Feature Film Reviews</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-elite-web-recording-gadgets-ranked/"><u>[Updated] In 2024, Elite Web Recording Gadgets Ranked</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-prime-interactive-room-for-free-play/"><u>[Updated] In 2024, Prime Interactive Room for Free Play</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-visionary-logo-designs-that-define-your-podcast-brand-for-2024/"><u>[Updated] Visionary Logo Designs that Define Your Podcast Brand for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-game-recording-made-easy-with-xbox-one-capture-techniques/"><u>2024 Approved Game Recording Made Easy with Xbox One Capture Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-navigating-google-meet-profile-edit-laptopmobile/"><u>2024 Approved Navigating Google Meet Profile Edit (Laptop/Mobile)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-prime-selections-the-best-free-screencasting-apps/"><u>2024 Approved Prime Selections The Best Free Screencasting Apps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-the-eu-artificial-intelligence-act-and-its-influence-on-gpt-based-dialogue-systems/"><u>Breaking Down the EU Artificial Intelligence Act and Its Influence on GPT-Based Dialogue Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bypassing-gpt-restrictions-ethical-dilemmas/"><u>Bypassing GPT Restrictions: Ethical Dilemmas</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/clandestine-call-collectors-discreet-voice-capture-tools-list-for-2024/"><u>Clandestine Call Collectors Discreet Voice Capture Tools List for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/code-vein-crashing-solutions-effective-methods-to-resolve-game-stutter/"><u>Code Vein Crashing Solutions: Effective Methods to Resolve Game Stutter</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ensure-vivid-gameplay-tips-to-eliminate-darkness-on-obs-captures/"><u>Ensure Vivid Gameplay Tips to Eliminate Darkness on OBS Captures</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-fixing-silent-realtek-digital-output-now-with-sound/"><u>Guide to Fixing Silent Realtek Digital Output - Now with Sound!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-a54-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy A54 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/revolutionizing-lessons-with-top-screen-recorder-apps/"><u>Revolutionizing Lessons with Top Screen Recorder Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solutions-for-resolving-advapi32dll-file-missing-bugs/"><u>Solutions for Resolving 'Advapi32.dll File Missing' Bugs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/streamline-your-creation-process-with-this-youtube-shorts-guide-for-2024/"><u>Streamline Your Creation Process with This YouTube Shorts Guide for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>[New] 2024 Approved Seamless Transition From Smartphones to PC & Mac Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-art-of-disregarding-harmful-youtube-comments/"><u>[New] 2024 Approved The Art of Disregarding Harmful YouTube Comments</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-digital-chronicling-of-live-audio-content-on-the-net/"><u>[New] In 2024, Digital Chronicling of Live Audio Content on the Net</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-content-creation-evolution-studio-vs-innovative-beta-for-2024/"><u>[Updated] Content Creation Evolution Studio Vs. Innovative Beta for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ps5-visual-mastery-premium-21-hdmi-monitors-for-gamers/"><u>[Updated] In 2024, PS5 Visual Mastery Premium 2.1 HDMI Monitors for Gamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-secure-recording-methods-for-sensitive-whatsapp-discussions/"><u>[Updated] In 2024, Secure Recording Methods for Sensitive WhatsApp Discussions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-step-by-step-techniques-for-clear-screen-captures-on-imac/"><u>[Updated] In 2024, Step-by-Step Techniques for Clear Screen Captures on iMac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-pair-5-sleek-webcams-with-built-in-microphones/"><u>[Updated] Perfect Pair 5 Sleek Webcams with Built-In Microphones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-strategy-for-boosted-instagram-video-traffic-for-2024/"><u>[Updated] The Ultimate Strategy for Boosted Instagram Video Traffic for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-foundations-of-video-editing-in-the-gaming-world/"><u>2024 Approved Foundations of Video Editing in the Gaming World</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/5pya6ygp44gq44oh44oh44kj44ki44ox44os44kk44ok44o844ks6yg444g244gf44kb44gu54sh5paz6zplusz5aow44o75yuv55s75yan55sf44k944ov44oi44km44kn44ki5qplusu6lyd44ks44kk4420/"><u>最適なメディアプレイヤーを選ぶための無料音声・動画再生ソフトウェア比較ガイド</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-guide-to-the-best-8-no-cost-videoconferencing-platforms-for-2024/"><u>Essential Guide to the Best 8 No-Cost Videoconferencing Platforms for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-fix-guide-adding-a-flip-tone-to-your-pcs-vocal-array/"><u>In 2024, Quick-Fix Guide Adding a Flip Tone to Your PC's Vocal Array</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-15-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/perfect-12-video-capture-tools-never-stop/"><u>Perfect 12 Video Capture Tools - Never Stop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/targeted-therapies-are-designed-to-attack-specific-genetic-mutations-within-the-tumor-cells/"><u>Targeted Therapies Are Designed to Attack Specific Genetic Mutations Within the Tumor Cells</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-propstsydll-not-found-expert-advice-and-solutions/"><u>The Ultimate Fix for Propstsy.dll Not Found - Expert Advice and Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-internet-based-image-trimming/"><u>The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
+<li><a href="https://fox-that.techidaily.com/what-to-do-when-only-one-airpod-wont-charge-or-work/"><u>What To Do When Only One AirPod Won’t Charge or Work?</u></a></li>
 </ul></div>
 

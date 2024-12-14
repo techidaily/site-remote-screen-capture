@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Record and Save Your Workscreen on Windows 8"
-date: 2024-12-01T16:03:25.652Z
-updated: 2024-12-08T01:04:54.534Z
+date: 2024-12-09T17:55:45.145Z
+updated: 2024-12-14T08:03:21.088Z
 tags: 
   - screen-recording
   - ai video
@@ -46,15 +46,19 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
 ![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
 
 ![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Record Screen with Steps Recorder on Windows 8
 
@@ -79,7 +83,7 @@ Due to the fact that it is a Google Chrome extension it is for capturing web pag
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Steps to download and use it to record computer screen:
@@ -91,10 +95,6 @@ Steps to download and use it to record computer screen:
  **Step 3:**  Annotate & Edit - You can add comments, shapes and annotate how you like, you can then edit the video and share a screenshot to social media.
 
  **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Use Free Recording Software
 
@@ -110,13 +110,13 @@ Here's the stpes:
 
 ![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
 
  **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,7 +125,7 @@ These are just a few extensions and software that can be used to record computer
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -143,20 +143,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-underground-favorites-in-the-world-of-memes/"><u>[New] Unveiling Underground Favorites in the World of Memes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-background-excision-tool-affinity-photo/"><u>[Updated] Background Excision Tool Affinity Photo</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-steps-for-filming-using-logitech-webcam/"><u>2024 Approved Essential Steps for Filming Using Logitech Webcam</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pro-video-setup-choose-from-our-list-of-best-5-webcams-and-mics/"><u>2024 Approved Pro Video Setup Choose From Our List of Best 5 Webcams & Mics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ace-the-challenge-leading-escape-room-contests-for-2024/"><u>Ace the Challenge Leading Escape Room Contests for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-a1-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo A1 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-solve-the-wslregisterdistribution-failed-with-error-0x80370102-issue-in-windows/"><u>How to Solve the WslRegisterDistribution Failed With Error 0X80370102 Issue in Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-5-best-snipping-tools-for-windows/"><u>In 2024, 5 Best Snipping Tools for Windows</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-comprehensive-look-at-vr-video-recording-systems/"><u>In 2024, A Comprehensive Look at VR Video Recording Systems</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-zoom-techniques-for-captivating-audio-in-podcast-production/"><u>In 2024, Essential Zoom Techniques for Captivating Audio in Podcast Production</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-smoothrec-video-log-analysis/"><u>In 2024, SmoothRec Video Log Analysis</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-7-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 7 Plus Making It Possible</u></a></li>
-<li><a href="https://techtrends.techidaily.com/is-microsoft-teams-experiencing-an-outage-or-is-there-another-culprit-at-play/"><u>Is Microsoft Teams Experiencing an Outage, or Is There Another Culprit at Play?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-as-an-independent-youtube-entrepreneur-dodging-the-ad-dilemrante-for-2024/"><u>Thriving as an Independent YouTube Entrepreneur Dodging the Ad Dilemrante for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-new-possibilities-how-apples-integration-of-nfc-in-iphones-with-third-party-applications-boosts-your-experience-techradar/"><u>Unlock New Possibilities: How Apple's Integration of NFC in iPhones with Third-Party Applications Boosts Your Experience | TechRadar</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-dungeon-dominance-top-ten-rogue-classics-for-2024/"><u>[New] Dungeon Dominance Top Ten Rogue Classics for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-free-high-quality-desktop-video-encoding-software/"><u>[New] Free, High-Quality Desktop Video Encoding Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leveraging-nvidia-tools-for-screen-capture-for-2024/"><u>[New] Leveraging NVIDIA Tools for Screen Capture for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pioneering-creative-expression-through-zero-cost-animation/"><u>[New] Pioneering Creative Expression Through Zero-Cost Animation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-rhythmripper-screen-recordings-review/"><u>[New] RhythmRipper Screen Recordings Review</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-5-pc-compatible-gb-advance-emulators-for-optimal-play/"><u>[New] Top 5 PC-Compatible GB Advance Emulators for Optimal Play</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-simple-strategies-for-capturing-games-on-consoles/"><u>[Updated] 2024 Approved Simple Strategies for Capturing Games on Consoles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-your-privacy-awaits-the-top-10-no-cost-ultra-secure-mobile-chat-applications-for-todays-tech-users/"><u>[Updated] 2024 Approved Your Privacy Awaits The Top 10 No-Cost, Ultra-Secure Mobile Chat Applications for Today's Tech Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-flash-facts-how-videos-captivate-twitters-audience/"><u>[Updated] In 2024, Flash Facts How Videos Captivate Twitter's Audience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-in-device-recorder-activation-huaweis-mate-1020-and-p-series-phones-p20-p10/"><u>[Updated] In 2024, In-Device Recorder Activation Huawei's Mate 10/20 & P Series Phones (P20, P10)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-social-forecast-in-graphs-2023-edition-unveiled-for-2024/"><u>[Updated] Social Forecast in Graphs 2023 Edition Unveiled for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-effortless-complimentary-mac-recorder/"><u>2024 Approved Effortless, Complimentary Mac Recorder</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-creating-masterpiece-canon-chrono-films/"><u>In 2024, Creating Masterpiece Canon Chrono Films</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elite-6-urban-home-structures-in-minecraft/"><u>In 2024, Elite 6 Urban Home Structures in Minecraft</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/persistent-display-repository-solutions-for-2024/"><u>Persistent Display Repository Solutions for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-greatest-hits-of-iphone-movie-streaming/"><u>The Greatest Hits of iPhone Movie Streaming</u></a></li>
 </ul></div>
 
