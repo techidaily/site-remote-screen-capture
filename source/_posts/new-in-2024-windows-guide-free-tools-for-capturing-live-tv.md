@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Windows Guide  Free Tools for Capturing Live TV\""
-date: 2024-12-12T17:56:51.744Z
-updated: 2024-12-14T05:49:11.959Z
+date: 2024-12-16T16:19:53.786Z
+updated: 2024-12-23T07:59:35.282Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ All versions of Windows, since Windows 7, feature a built-in video recording sof
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record TV shows on Windows 7/8 for Free
@@ -69,7 +73,7 @@ Locate the Windows Media Center on your computer's hard drive. Chances are that 
 ![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
@@ -81,10 +85,6 @@ Click on the Guide feature, and browse through the TV program in order to select
 #### Step 4
 
 On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to record live TV on Windows 10 for free
 
@@ -101,10 +101,6 @@ After you've launched the program, find the Game DVR icon that is located in the
 #### Step 3
 
 Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free TV Show Recording Software on Windows
 
@@ -132,6 +128,10 @@ However, NextPVR also works as a standalone program, and in order to start recor
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -147,24 +147,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>[New] 2024 Approved Seamless Transition From Smartphones to PC & Mac Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-the-art-of-disregarding-harmful-youtube-comments/"><u>[New] 2024 Approved The Art of Disregarding Harmful YouTube Comments</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-digital-chronicling-of-live-audio-content-on-the-net/"><u>[New] In 2024, Digital Chronicling of Live Audio Content on the Net</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-content-creation-evolution-studio-vs-innovative-beta-for-2024/"><u>[Updated] Content Creation Evolution Studio Vs. Innovative Beta for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ps5-visual-mastery-premium-21-hdmi-monitors-for-gamers/"><u>[Updated] In 2024, PS5 Visual Mastery Premium 2.1 HDMI Monitors for Gamers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-secure-recording-methods-for-sensitive-whatsapp-discussions/"><u>[Updated] In 2024, Secure Recording Methods for Sensitive WhatsApp Discussions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-step-by-step-techniques-for-clear-screen-captures-on-imac/"><u>[Updated] In 2024, Step-by-Step Techniques for Clear Screen Captures on iMac</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-pair-5-sleek-webcams-with-built-in-microphones/"><u>[Updated] Perfect Pair 5 Sleek Webcams with Built-In Microphones</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-strategy-for-boosted-instagram-video-traffic-for-2024/"><u>[Updated] The Ultimate Strategy for Boosted Instagram Video Traffic for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-foundations-of-video-editing-in-the-gaming-world/"><u>2024 Approved Foundations of Video Editing in the Gaming World</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/5pya6ygp44gq44oh44oh44kj44ki44ox44os44kk44ok44o844ks6yg444g244gf44kb44gu54sh5paz6zplusz5aow44o75yuv55s75yan55sf44k944ov44oi44km44kn44ki5qplusu6lyd44ks44kk4420/"><u>最適なメディアプレイヤーを選ぶための無料音声・動画再生ソフトウェア比較ガイド</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/essential-guide-to-the-best-8-no-cost-videoconferencing-platforms-for-2024/"><u>Essential Guide to the Best 8 No-Cost Videoconferencing Platforms for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-fix-guide-adding-a-flip-tone-to-your-pcs-vocal-array/"><u>In 2024, Quick-Fix Guide Adding a Flip Tone to Your PC's Vocal Array</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-15-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/perfect-12-video-capture-tools-never-stop/"><u>Perfect 12 Video Capture Tools - Never Stop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/targeted-therapies-are-designed-to-attack-specific-genetic-mutations-within-the-tumor-cells/"><u>Targeted Therapies Are Designed to Attack Specific Genetic Mutations Within the Tumor Cells</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-propstsydll-not-found-expert-advice-and-solutions/"><u>The Ultimate Fix for Propstsy.dll Not Found - Expert Advice and Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-internet-based-image-trimming/"><u>The Ultimate Guide to Internet-Based Image Trimming</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-to-do-when-only-one-airpod-wont-charge-or-work/"><u>What To Do When Only One AirPod Won’t Charge or Work?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-income-from-video-how-to-profit-on-vimeo-platform/"><u>[New] 2024 Approved Income From Video How to Profit on Vimeo Platform</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-plating-perfection-30-unique-and-appealing-recipe-channels/"><u>[New] 2024 Approved Plating Perfection 30 Unique and Appealing Recipe Channels</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-best-5-chrome-os-clipping-utilities-ranked-for-2024/"><u>[New] Best 5 Chrome OS Clipping Utilities, Ranked for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-ghostly-witness-to-fb-vignettes/"><u>[New] Ghostly Witness to Fb Vignettes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-most-acclaimed-3ip-voice-recorders-on-tablets/"><u>[New] Most Acclaimed 3iP Voice Recorders on Tablets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-savor-sweetness-on-the-go-the-ultimate-guide-to-cookies-for-travelers/"><u>[New] Savor Sweetness on the Go The Ultimate Guide to Cookies for Travelers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/"><u>[New] Transform AVIs Into GIFs A Step-by-Step Filmora Guide for PC and Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-explore-tools-that-beat-sharex-performance/"><u>[Updated] 2024 Approved Explore Tools That Beat ShareX Performance</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-leading-8-android-calling-apps-more-than-four-people/"><u>[Updated] In 2024, Leading 8 Android Calling Apps More Than Four People</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-10-royale-showdowns/"><u>[Updated] In 2024, Ultimate 10 Royale Showdowns</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-depth-analysis-of-live-streaming-tech/"><u>[Updated] In-Depth Analysis of Live Streaming Tech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-video-conferencing-a-complete-guide-to-zoom-on-android/"><u>[Updated] Mastering Video Conferencing A Complete Guide to Zoom on Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-prime-selections-the-best-free-screencasting-apps-for-2024/"><u>[Updated] Prime Selections The Best Free Screencasting Apps for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nic-hub-curating-exceptional-dj-visual-downloads-for-2024/"><u>Harmonic Hub Curating Exceptional DJ Visual Downloads for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-vegas-pro-gambit-unveiled-a-21-comprehensive-review/"><u>In 2024, Vegas Pro Gambit Unveiled A '21 Comprehensive Review</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208645794-overcome-stuck-keyboard-arrows-effective-troubleshooting-tips-inside/"><u>Overcome Stuck Keyboard Arrows - Effective Troubleshooting Tips Inside</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/powerful-kt/"><u>즉시 구입하세요! Powerful 프로젝кт: 이미지 사진회 제작기</u></a></li>
 </ul></div>
 

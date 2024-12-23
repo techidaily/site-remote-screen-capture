@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  The Complete Checklist for Capturing Flawless PPTs\""
-date: 2024-12-13T03:03:34.318Z
-updated: 2024-12-14T05:14:13.413Z
+date: 2024-12-17T17:55:33.399Z
+updated: 2024-12-22T19:05:07.849Z
 tags: 
   - screen-recording
   - ai video
@@ -51,7 +51,7 @@ But after they are delivered, what happens to all of those PowerPoint slides? De
 In most cases, PowerPoint slides on their own, without the corresponding presentation — are incomplete and don’t do the best job of communicating the concepts from the actual presentation. Those ahead of the curve should be to share and archive recordings of their full presentations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part II. How to record a PowerPoint presentation with video and audio
@@ -68,19 +68,11 @@ The image below shows how your screen will look when your presentation is ready.
 
 ![prepare your powerpoint slides and talking points](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2 Select Your Audio and Video Sources
 
 You can record video, audio, or just your slide show directly within the Microsoft PowerPoint program. After you’ve opened PowerPoint, select “Recording” from the top navigation bar. This will open a new navigation bar with “Record Slide Show” and “Screen Recording” options.
 
 ![select your audio and video sources](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you just want to record your slideshow without adding audio or video, you would select “Record Slide Show”. Choosing “Screen Recording” will let you capture your slideshow while at the same time recording audio from your computer and any video on your computer screen.
 
@@ -93,6 +85,10 @@ If you just want to record your slideshow without adding audio or video, you wou
 Choose “Screen Recording,” and you’ll be given the opportunity to select the area on your screen you want to capture. Adjust the red box to fit your Powerpoint presentation. Once you have the box where you want it, you’re ready to record!
 
 ![open your powerpoint slides and capture the screen](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4 Press Record And Start Presenting
 
@@ -127,7 +123,7 @@ Consequently, using PowerPoint to record your presentation has some advantages a
 * PowerPoint can’t realize recording yourself speaking in the presentation video
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part III. What is the Best Way to Record Your PowerPoint?
@@ -170,6 +166,10 @@ From video catching to video altering, this product from Wondershare is the hub 
 
 ![edit your presentation video](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4 Exporting the Video
 
 After finishing the informational video's creation and editing, you may now save it for social media sharing. Filmora enables embedded sharing platforms like YouTube on the go. The file can be saved in the format as; MP4, WMV, AVI, MOV, GIF, or MP3.
@@ -177,7 +177,7 @@ After finishing the informational video's creation and editing, you may now save
 ![exporting the video](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [You can watch it here to have a detailed understanding of how to use Filmora to record presentations with audio and video](https://www.youtube.com/watch?v=mV9u%5FGO3HDw).
@@ -185,7 +185,7 @@ After finishing the informational video's creation and editing, you may now save
 ## Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Is the PowerPoint recording function only supported on desktops?
@@ -216,6 +216,10 @@ Choose “Screen Recording,” and you’ll be given the opportunity to select t
 
 ![open your powerpoint slides and capture the screen](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step4 Press Record And Start Presenting
 
 Make sure the “Audio” button appears gray before you hit the record button. Once you hit record, you’ll begin capturing everything in the area you’ve selected, and any audio picked up by your computer’s mic.
@@ -283,7 +287,7 @@ You don't need to have any prior knowledge to complete the settings in the next 
 ![start recording the powerpoint presentation with audio](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Step3 Edit Your Presentation Video
@@ -299,10 +303,6 @@ After finishing the informational video's creation and editing, you may now save
 ![exporting the video](https://images.wondershare.com/filmora/article-images/2022/11/how-to-record-a-powerpoint-presentation-7.jpg)
 
 [You can watch it here to have a detailed understanding of how to use Filmora to record presentations with audio and video](https://www.youtube.com/watch?v=mV9u%5FGO3HDw).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Frequently Asked Questions
 
@@ -352,20 +352,15 @@ Directly recording a PowerPoint presentation is simple, although not all program
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-virtual-race-titles-reviewed/"><u>[New] 2024 Approved Best Virtual Race Titles Reviewed</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-capture-solutions-azs-reviews-and-backups/"><u>[New] 2024 Approved Comprehensive Capture Solutions - AZ's Reviews & Backups</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-5-mac-alternatives-to-bandicam-for-video-capture/"><u>[New] In 2024, Top 5 Mac Alternatives to Bandicam for Video Capture</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pro-level-recording-highlighting-9-best-remote-mic-systems-23-for-2024/"><u>[New] Pro-Level Recording Highlighting 9 Best Remote Mic Systems ('23) for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-tranquil-repos-no-pressure-pc-games-for-2024/"><u>[New] Tranquil Repos No-Pressure PC Games for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-methods-to-rectify-obs-fullscreen-crash/"><u>[Updated] 2024 Approved Methods to Rectify OBS Fullscreen Crash</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elite-racer-cutting-edge-gaming-selection/"><u>Elite Racer Cutting-Edge Gaming Selection</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/evaluating-alternatives-to-magixs-acid-pro/"><u>Evaluating Alternatives to Magix's ACID Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-front-to-back-a-step-by-step-guide-for-instagram-video-angles/"><u>From Front to Back A Step-by-Step Guide for Instagram Video Angles</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/inside-fongo-unveiling-the-features-of-a-popular-canadian-internet-phone-provider/"><u>Inside Fongo: Unveiling the Features of a Popular Canadian Internet Phone Provider</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-cannot-reach-desktop-in-cwindowssystem32config/"><u>Resolving the Issue: Cannot Reach Desktop in C: Windows System32 Config</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723013934856-ring-of-elysium-speed-hacks-boost-your-frame-rate-and-gain-the-upper-hand/"><u>Ring of Elysium Speed Hacks: Boost Your Frame Rate and Gain the Upper Hand</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unanswerable-inquiries-in-language-models/"><u>Unanswerable Inquiries in Language Models</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncovering-causes-for-search-blankness-in-windows-11/"><u>Uncovering Causes for Search Blankness in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-solutions-to-side-by-side-error-on-win10/"><u>Unveiling Solutions to Side-by-Side Error on Win10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-cutting-edge-screencasting-harness-the-power-of-visual-storytelling/"><u>[New] 2024 Approved Cutting Edge Screencasting Harness the Power of Visual Storytelling</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-revolutionizing-how-you-record-and-archive-ps3-gaming/"><u>[New] Revolutionizing How You Record and Archive PS3 Gaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-mac-gif-saving-best-10-gif-apps-for-2024/"><u>[New] Top Mac GIF Saving Best 10 Gif Apps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-prime-xsplit-replacements-a-guide-to-streaming/"><u>[Updated] 2024 Approved Prime Xsplit Replacements A Guide to Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715860873792-2024-approved-learn-and-master-io-screen-recording-today/"><u>2024 Approved Learn and Master IO Screen Recording Today!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-measure-the-performance-of-igtv-videos/"><u>How to Measure the Performance of IGTV Videos?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-formulating-flashy-podcast-announcements/"><u>In 2024, Formulating Flashy Podcast Announcements</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-low-cost-subscriber-strategy-on-youtube-platform/"><u>In 2024, Low-Cost Subscriber Strategy on YouTube Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolve-the-mystery-of-a-disappearing-bootmgr/"><u>Resolve the Mystery of a Disappearing BOOTMGR</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win-107811-streamlining-wi-fi-setup-processes/"><u>Win 10/7/8/11: Streamlining Wi-Fi Setup Processes</u></a></li>
 </ul></div>
 
