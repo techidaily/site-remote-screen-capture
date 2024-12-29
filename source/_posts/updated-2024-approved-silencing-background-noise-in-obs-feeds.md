@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Silencing Background Noise in OBS Feeds\""
-date: 2024-12-18T06:16:18.384Z
-updated: 2024-12-22T18:16:00.668Z
+date: 2024-12-27T20:08:15.181Z
+updated: 2024-12-28T20:29:40.530Z
 tags: 
   - screen-recording
   - ai video
@@ -31,12 +31,16 @@ Edit system and microphone audio seperately
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solutions to Fix OBS Not Recording Audio
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Close the OBS and Restart**
@@ -44,6 +48,10 @@ All in all, to record desktop audio with OBS, you have to enter a third-party au
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -65,10 +73,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -80,11 +84,7 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -117,11 +117,11 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -162,17 +162,14 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-comprehensive-guide-to-free-premium-video-callers/"><u>[Updated] Comprehensive Guide to Free, Premium Video Callers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-whiteboard-tech-in-online-classes-ios-android-and-macbooks/"><u>[Updated] Mastering Whiteboard Tech in Online Classes IOS, Android, and MacBooks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocked-mac-capture-tool-no-cost-for-2024/"><u>[Updated] Unlocked Mac Capture Tool - No Cost for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-tips-and-tricks-to-help-you-use-lunapic-photo-editor-like-a-pro/"><u>2024 Approved Tips and Tricks to Help You Use Lunapic Photo Editor Like A Pro</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-outliers-best-sound-distortion-apps-for-your-device-for-2024/"><u>Audio Outliers Best Sound Distortion Apps for Your Device for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/getting-your-discord-overlay-back-up-and-running-in-no-time/"><u>Getting Your Discord Overlay Back Up & Running in No Time!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-download-of-advanced-pci-sound-card-drivers-for-latest-and-legacy-windows-operating-systems/"><u>Secure Download of Advanced PCI Sound Card Drivers for Latest and Legacy Windows Operating Systems</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/secure-your-social-media-experience-from-ad-interruptions-for-2024/"><u>Secure Your Social Media Experience From Ad Interruptions for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/srt-mastery-a-technological-deep-dive-for-media-professionals-for-2024/"><u>SRT Mastery A Technological Deep-Dive for Media Professionals for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-installation-of-ios-18-for-iphone-users-find-out-which-devices-can-be-updated-and-how/"><u>Step-by-Step Installation of iOS 18 for iPhone Users: Find Out Which Devices Can Be Updated & How!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-guide-to-surpassing-a-million-youtube-subscribers-for-2024/"><u>The Ultimate Guide to Surpassing a Million YouTube Subscribers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-action-capturing-software-guide/"><u>Top Action-Capturing Software Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-capture-and-share-adventures-with-gopro-tips-for-livestreams-and-social-media/"><u>[New] Capture and Share Adventures with GoPro Tips for Livestreams & Social Media</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professional-insights-into-recording-quality-conversations-on-facetime/"><u>[New] Professional Insights Into Recording Quality Conversations on FaceTime</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-foster-viewer-connection-easy-anime-subscribe-buttons-for-youtube-creators/"><u>[Updated] 2024 Approved Foster Viewer Connection Easy Anime Subscribe Buttons for YouTube Creators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-logitechs-secret-weapon-video-recordings-unveiled/"><u>[Updated] 2024 Approved Logitech's Secret Weapon Video Recordings Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-jolly-gaming-haven-for-little-explorers/"><u>[Updated] In 2024, Jolly Gaming Haven for Little Explorers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-the-hidden-process-of-downloading-fb-content/"><u>[Updated] Unveiling the Hidden Process of Downloading Fb Content</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-motorola-edgepluss-struggle-for-elite-status/"><u>Comprehensive Review: Motorola Edge+'s Struggle for Elite Status</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-quicktime-stop-screen-recording-guide/"><u>In 2024, Quicktime Stop Screen Recording (Guide)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/skip-unwanted-podcast-advice-on-the-spotify-app-for-2024/"><u>Skip Unwanted Podcast Advice on the Spotify App for 2024</u></a></li>
 </ul></div>
 

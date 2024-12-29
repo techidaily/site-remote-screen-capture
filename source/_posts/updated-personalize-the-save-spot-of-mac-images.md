@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize the Save Spot of Mac Images"
-date: 2024-12-15T16:04:00.016Z
-updated: 2024-12-22T21:17:54.037Z
+date: 2024-12-25T16:43:36.748Z
+updated: 2024-12-29T00:31:28.600Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,11 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -67,7 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -89,7 +85,7 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
@@ -103,6 +99,10 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,19 +119,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-screen-seizing-specialists-the-best-browser-recorder-tools-ranked/"><u>[New] Screen Seizing Specialists The Best Browser Recorder Tools Ranked</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-ace-driving-realism-series-best-5/"><u>[Updated] 2024 Approved Ace Driving Realism Series (Best 5)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-basic-building-blocks-simplest-mc-dwellings-for-novices/"><u>[Updated] In 2024, Basic Building Blocks Simplest MC Dwellings for Novices</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-the-secrets-to-overwatch-video-capture/"><u>[Updated] Unlocking the Secrets to Overwatch Video Capture</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-wmv-video-splitter-free-download-top-choices/"><u>2024 Approved WMV Video Splitter Free Download Top Choices</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-gt-neo-5-se-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme GT Neo 5 SE Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/boost-performance-and-avoid-interruptions-top-7-fixes-to-keep-your-pc-running-smoothly-while-playing-halo-infinite/"><u>Boost Performance & Avoid Interruptions: Top 7 Fixes to Keep Your PC Running Smoothly While Playing Halo Infinite</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-techniques-to-clean-up-win-11-memory-dumps-efficiently/"><u>Effective Techniques to Clean Up Win 11 Memory Dumps Efficiently</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/efficient-aac-file-editing-techniques-on-windows-platforms-step-by-step-guide/"><u>Efficient AAC File Editing Techniques on Windows Platforms - Step-by-Step Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unearthed-echo-collectors-best-unnoticed-android-and-ios-recorders/"><u>In 2024, Unearthed Echo Collectors Best Unnoticed Android & iOS Recorders</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722974743520-install-the-latest-epson-wf-2630-drivers-on-your-pc-running-windows-7-8-or-10-heres-how/"><u>Install the Latest Epson WF-2630 Drivers on Your PC Running Windows 7, 8, or 10 - Here's How</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/tinytake-screen-recorder-review-for-2024/"><u>TinyTake Screen Recorder Review for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleashing-creativity-with-the-new-apple-macbook-pro-16-inch-m2-max-chip-expert-review-zdnet/"><u>Unleashing Creativity with the New Apple MacBook Pro 16-Inch M2 Max Chip | Expert Review - ZDNET</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-create-digital-humor-kapwings-meme-builder/"><u>[New] 2024 Approved Create Digital Humor Kapwing's Meme Builder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-harmonyhub-pro-downloads-and-reviews/"><u>[New] In 2024, HarmonyHub Pro Downloads & Reviews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-depth-survey-the-apex-of-screen-recording-technology-for-2024/"><u>[New] In-Depth Survey The Apex of Screen Recording Technology for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-fresh-footage-feature-film-reviews/"><u>[Updated] 2024 Approved Fresh Footage Feature Film Reviews</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-prime-interactive-room-for-free-play/"><u>[Updated] In 2024, Prime Interactive Room for Free Play</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-screen-capture-methods-for-rainbow-six-siege/"><u>2024 Approved Essential Screen Capture Methods for Rainbow Six Siege</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-game-recording-made-easy-with-xbox-one-capture-techniques/"><u>2024 Approved Game Recording Made Easy with Xbox One Capture Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-navigating-google-meet-profile-edit-laptopmobile/"><u>2024 Approved Navigating Google Meet Profile Edit (Laptop/Mobile)</u></a></li>
+<li><a href="https://win11.techidaily.com/5l255so44gx44gm44ge44kl6zplusz5aow44ov44kp44o844oe44od44oi44gu56k66kqn5pa55rov44co6zplusz5aow56ym5yplus35yyw44k544kt44o844og44ob44kn44od44kv44cp/"><u>使用している音声フォーマットの確認方法『音声符号化スキームチェック』</u></a></li>
+<li><a href="https://common-error.techidaily.com/call-of-duty-world-war-ii-error-4220-steps-to-repair-your-gameplay-experience/"><u>Call of Duty World War II Error 4220 - Steps to Repair Your Gameplay Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/clandestine-call-collectors-discreet-voice-capture-tools-list-for-2024/"><u>Clandestine Call Collectors Discreet Voice Capture Tools List for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ensure-vivid-gameplay-tips-to-eliminate-darkness-on-obs-captures/"><u>Ensure Vivid Gameplay Tips to Eliminate Darkness on OBS Captures</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-nubia-z50s-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Nubia Z50S Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/revolutionizing-lessons-with-top-screen-recorder-apps/"><u>Revolutionizing Lessons with Top Screen Recorder Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-monetary-side-of-podcasting-success-for-2024/"><u>The Monetary Side of Podcasting Success for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-potential-of-your-windows-11-by-running-android-apps-with-these-simple-steps/"><u>Unlock the Potential of Your Windows 11 by Running Android Apps with These Simple Steps</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlocking-dat-files-simple-steps-for-viewing-on-windows-and-macos-systems/"><u>Unlocking DAT Files: Simple Steps for Viewing on Windows and macOS Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
 </ul></div>
 
