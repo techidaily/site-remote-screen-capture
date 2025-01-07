@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How to Record and Save Your Workscreen on Windows 8"
-date: 2024-12-27T23:09:48.627Z
-updated: 2024-12-28T21:02:23.574Z
+date: 2025-01-04T17:47:47.131Z
+updated: 2025-01-07T17:41:35.579Z
 tags: 
   - screen-recording
   - ai video
@@ -46,17 +46,9 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
 ![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
 
 ![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
 
@@ -70,7 +62,15 @@ If you don't want to download any software, the build-in Step Recorder is a tool
 
 ![step recorder](https://images.wondershare.com/filmora/article-images/record-steps-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Use Free Chrome Extension
 
@@ -83,7 +83,7 @@ Due to the fact that it is a Google Chrome extension it is for capturing web pag
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Steps to download and use it to record computer screen:
@@ -95,6 +95,10 @@ Steps to download and use it to record computer screen:
  **Step 3:**  Annotate & Edit - You can add comments, shapes and annotate how you like, you can then edit the video and share a screenshot to social media.
 
  **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Use Free Recording Software
 
@@ -110,10 +114,6 @@ Here's the stpes:
 
 ![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
 
  **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
@@ -125,7 +125,7 @@ These are just a few extensions and software that can be used to record computer
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -143,24 +143,22 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-revolutionary-methods-for-ipad-audio-logging/"><u>[New] 2024 Approved Revolutionary Methods for iPad Audio Logging</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-virtual-battlegrounds-top-7-fps-showdowns/"><u>[New] 2024 Approved Virtual Battlegrounds Top 7 FPS Showdowns</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-professional-thumbnails-from-your-phone-for-youtube/"><u>[New] Professional Thumbnails From Your Phone for YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-screen-recorders-guide-trusted-recommendations-for-2024/"><u>[New] The Ultimate Screen Recorders Guide - Trusted Recommendations for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-the-thrill-essential-recording-tips-for-overwatch-for-2024/"><u>[Updated] Capture the Thrill Essential Recording Tips for Overwatch for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-download-fb-links-8-free-online-tools/"><u>[Updated] Download FB Links 8 FREE, Online Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ideal-tools-to-capture-your-pcs-display-on-windows-10/"><u>[Updated] In 2024, Ideal Tools to Capture Your PC's Display on Windows 10</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mellow-playtime-10-top-rated-stress-erasers-for-2024/"><u>[Updated] Mellow Playtime 10 Top-Rated Stress Erasers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-snap-and-save-professional-screen-recording-11-version-for-2024/"><u>[Updated] Snap & Save Professional Screen Recording 11-Version for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlining-screen-record-on-mac-via-keyboard-shortcuts/"><u>[Updated] Streamlining Screen Record on Mac via Keyboard Shortcuts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unearthing-your-private-playlist-sanctuary-on-youtube/"><u>[Updated] Unearthing Your Private Playlist Sanctuary on Youtube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-achieving-professional-grade-vr-gameplay-captures/"><u>2024 Approved Achieving Professional-Grade VR Gameplay Captures</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-crafting-your-music-collection-youtube-playlists-guide/"><u>2024 Approved Crafting Your Music Collection YouTube Playlists Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-easy-to-follow-guide-for-configuring-streamlabs-obs/"><u>In 2024, Easy-to-Follow Guide for Configuring Streamlabs OBS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-overcoming-obstacles-to-display-videos-prominently/"><u>In 2024, Overcoming Obstacles to Display Videos Prominently</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-nuances-of-using-switch-pro-controller-on-steam/"><u>Navigating the Nuances of Using Switch Pro Controller on Steam</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-enhance-your-audio-experience-a-critical-look-at-the-5-premium-voice-recorders-for-mp3s/"><u>New In 2024, Enhance Your Audio Experience A Critical Look at the 5 Premium Voice Recorders for MP3s</u></a></li>
-<li><a href="https://review-topics.techidaily.com/nubia-red-magic-8s-pro-video-recovery-recover-deleted-videos-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-video/"><u>Nubia Red Magic 8S Pro Video Recovery - Recover Deleted Videos from Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-new-era-of-youtube-branding-best-titles-for-video-content-creators-limit-it-to-156-characters-for-2024/"><u>The New Era of YouTube Branding Best Titles for Video Content Creators (Limit It to 156 Characters) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-captivate-audiences-unveiling-secrets-for-striking-youtube-banners-for-2024/"><u>[New] Captivate Audiences Unveiling Secrets for Striking YouTube Banners for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-effortless-techniques-to-share-igtv-in-stories/"><u>[New] Effortless Techniques to Share IGTV in Stories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-practical-approach-to-installing-obs-on-apple-systems/"><u>[New] In 2024, A Practical Approach to Installing OBS on Apple Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premium-audio-capabilities-1-10-free-desktop-tools/"><u>[New] Premium Audio Capabilities #1-#10 Free Desktop Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-diving-deep-into-screencast-best-practices/"><u>[Updated] 2024 Approved Diving Deep Into Screencast Best Practices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-perfecting-your-video-game-broadcast-the-obs-way/"><u>[Updated] In 2024, Perfecting Your Video Game Broadcast The OBS Way</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-videovault-youtube-extractor-fb/"><u>[Updated] In 2024, VideoVault YouTube Extractor FB</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-lifestyle-logging-101-keeping-viewers-hooked-everyday/"><u>[Updated] Lifestyle Logging 101 Keeping Viewers Hooked Everyday</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-optimizing-engagement-on-igtv-through-thoughtful-dimension-tweaks-for-2024/"><u>[Updated] Optimizing Engagement on IGTV Through Thoughtful Dimension Tweaks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-your-potential-with-these-top-10-affordable-web-conferencing-services-for-2024/"><u>[Updated] Unlocking Your Potential with These Top 10 Affordable Web Conferencing Services for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-creating-a-seamless-virtual-workspace-slack-filmora-combo-for-teams/"><u>2024 Approved Creating a Seamless Virtual Workspace Slack-Filmora Combo for Teams</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/embracing-change-discover-what-makes-me-cherish-this-newly-launched-gaming-controller/"><u>Embracing Change: Discover What Makes Me Cherish This Newly Launched Gaming Controller</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/maximize-meeting-success-top-recording-tools-for-2024/"><u>Maximize Meeting Success Top Recording Tools for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/quick-and-simple-methods-for-pdf-text-redaction-a-2020-guide/"><u>Quick and Simple Methods for PDF Text Redaction: A 2020 Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/resolving-connection-problems-with-your-western-digital-my-passport-ultra-external-drive/"><u>Resolving Connection Problems with Your Western Digital My Passport Ultra External Drive</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tech-savvy-summit-unveiling-our-top-5-video-capture-tools/"><u>Tech-Savvy Summit Unveiling Our Top 5 Video Capture Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/zero-cost-mp3-the-skype-recording-method-for-2024/"><u>Zero-Cost MP3 The Skype Recording Method for 2024</u></a></li>
 </ul></div>
 

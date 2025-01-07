@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Advanced 3D Shaping  Crafting Perfect MC Circles & Spheres\""
-date: 2024-12-21T18:25:34.940Z
-updated: 2024-12-28T18:12:09.335Z
+date: 2025-01-04T17:33:08.695Z
+updated: 2025-01-07T17:09:20.286Z
 tags: 
   - screen-recording
   - ai video
@@ -45,16 +45,12 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 ![minecraft-make-circle3](https://images.wondershare.com/filmora/article-images/minecraft-make-circle3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Now to complete the outer boundary of the circle, you have to add two blocks in the same direction of the outer line of the circle. But this time come a little bit closer to the center of the circle.
 
 ![minecraft-make-circle4](https://images.wondershare.com/filmora/article-images/minecraft-make-circle4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5:** Complete the outer by adding an 'L' shaped structure created with 3 blocks on each of the four sides of the circle to complete the outer boundary.
@@ -66,14 +62,10 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 ![minecraft-make-circle6](https://images.wondershare.com/filmora/article-images/minecraft-make-circle6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to make a Sphere in Minecraft
 
@@ -83,6 +75,10 @@ The only difference between making a circle and a sphere is the difference in di
 
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
@@ -91,15 +87,15 @@ The only difference between making a circle and a sphere is the difference in di
 
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
 
 These circles and spheres are useful in Minecraft and they play a very vital role in building your own world in Minecraft. They can be very beneficial while creating buildings, houses, and more places. These can be used as curves to give your buildings an aesthetic look and feel. But this whole process needs practice and efforts to master it and use it for your own purposes.
 
 ![minecraft-make-sphere4](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -110,6 +106,10 @@ Creating such amazing things and sharing them on your social media and video sha
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -126,20 +126,18 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-screens-with-internal-recorder-on-mate-1020-and-p-series-p20-p10-smartphones/"><u>[New] Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-prolific-photography-and-video-app-selection-iphone-vs-android/"><u>[New] Prolific Photography & Video App Selection IPhone vs Android</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-streamline-your-content-5-efficient-ways-to-manipulate-vimeo-videos/"><u>[Updated] 2024 Approved Streamline Your Content 5 Efficient Ways to Manipulate Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-direct-youtube-tunes-to-mp3s-online-and-offline-options-for-2024/"><u>[Updated] Direct YouTube Tunes to MP3s Online & Offline Options for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-iptv-screen-capture-techniques/"><u>[Updated] Mastering IPTV Screen Capture Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-navigating-screencastifys-screen-capture-feature-for-2024/"><u>[Updated] Navigating Screencastify's Screen Capture Feature for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-snapshot-success-mastering-the-art-of-xbox-one-captures/"><u>[Updated] Snapshot Success Mastering the Art of Xbox One Captures</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-telling-stories-on-linkedin-with-professional-videos/"><u>2024 Approved Telling Stories on LinkedIn with Professional Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/expert-analysis-top-5-high-end-recording-apps/"><u>Expert Analysis Top 5 High-End Recording Apps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-battlefield-brilliance-unleashed-a-guide-to-top-7-total-war-triumphs/"><u>In 2024, Battlefield Brilliance Unleashed A Guide to Top 7 Total War Triumphs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-laptops-your-go-to-machine-for-expert-video-editing/"><u>In 2024, Ultimate Laptops Your Go-To Machine for Expert Video Editing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/no-flair-just-facts-dissecting-recordcast/"><u>No Flair, Just Facts Dissecting RecordCast</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-planting-prowess-in-valheim-uncovering-premium-saplings/"><u>[New] 2024 Approved Planting Prowess in Valheim Uncovering Premium Saplings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-clear-and-concise-guide-to-easy-screen-capture-techniques/"><u>[New] Clear & Concise Guide to Easy Screen Capture Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-prime-low-end-pc-capture-programs-reviewed/"><u>[New] In 2024, Prime Low-End PC Capture Programs Reviewed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-videoapp-insight-a-comprehensive-evaluation/"><u>[Updated] VideoApp Insight A Comprehensive Evaluation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capture-mac-scenery-screen-and-microphone-feature/"><u>Capture Mac Scenery Screen and Microphone Feature</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/celestial-craftsmanship-perfecting-night-portraits-step-by-step-for-2024/"><u>Celestial Craftsmanship Perfecting Night Portraits Step-by-Step for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-driets-for-epson-scanners-how-to-guide/"><u>Download Driets for Epson Scanners - How to Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-10-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 10 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-redmi-note-13-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi Redmi Note 13 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/securing-extended-opera-use-a-30-day-nitro-giveaway/"><u>Securing Extended Opera Use: A 30-Day Nitro Giveaway</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/unlock-clarity-a-comprehensive-tutorial-on-utilizing-denoise-functions-in-lightroom-classic-version-123-and-beyond/"><u>Unlock Clarity: A Comprehensive Tutorial on Utilizing Denoise Functions in Lightroom Classic Version 12.3 and Beyond</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-remove-faces-from-photos-and-videos-the-best-10-free-apps-for-anonymization/"><u>Updated In 2024, Remove Faces From Photos and Videos The Best 10 Free Apps for Anonymization</u></a></li>
 </ul></div>
 

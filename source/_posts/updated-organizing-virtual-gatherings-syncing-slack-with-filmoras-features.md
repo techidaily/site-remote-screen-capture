@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Organizing Virtual Gatherings  Syncing Slack with Filmora's Features\""
-date: 2024-12-23T18:00:41.244Z
-updated: 2024-12-28T22:38:12.338Z
+date: 2025-01-03T17:44:38.015Z
+updated: 2025-01-07T16:12:25.898Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ So, follow our lead on how to schedule a meeting in a few clicks.
 * [Part 2: How to Record Slack Meetings](#part2)
 * [Part 3: Slack Video Call Settings](#part3)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part1: How to Schedule a Meeting on Slack
 
 To schedule a meeting anywhere is a tedious task, but, luckily, not on Slack. Figuring out the free slots on your guest's schedule can now be automated using Outlook or Google Calendar app to schedule a meeting on Slack.
@@ -51,10 +47,6 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 ![Click Shortcut Icon](https://images.wondershare.com/filmora/article-images/click-shortcut-icon.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2.Scroll down to find the option of **Create Event** (To schedule a meeting this way, you must first install the Outlook Calendar or Google Calendar)
 
 ![Create Slack Event](https://images.wondershare.com/filmora/article-images/create-slack-event.jpg)
@@ -63,12 +55,16 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 ![Schedule Slack Meeting](https://images.wondershare.com/filmora/article-images/schedule-slack-meeting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4.The Slack meeting will be displayed in the chat instantly. You can click on the **Share** icon.
 
 ![Share Slack Meeting](https://images.wondershare.com/filmora/article-images/share-slack-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5.Choose a channel to share the Slack meeting or copy the link to paste in other workspaces.
@@ -76,7 +72,7 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 ![Choose Slack Channel](https://images.wondershare.com/filmora/article-images/choose-slack-channel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Record Slack Meetings
@@ -96,16 +92,12 @@ Here is how you can record Slack meeting.
 ![Slack App Directory](https://images.wondershare.com/filmora/article-images/slack-app-directory.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3.Tap on **Add** **to** **Slack**.
 
 ![Add To Slack](https://images.wondershare.com/filmora/article-images/add-to-slack.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4.**Allow**Zoom to access your data and enable the app.
 
@@ -124,12 +116,16 @@ Here is how you can record Slack meeting.
 ![Join Slack Meeting](https://images.wondershare.com/filmora/article-images/join-slack-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8.Finally, tap on the **Record**icon to record Slack meeting. You can click on the **Pause** button or **Stop** to finish recording. Once the recording finishes, it will be automatically sent to your public or private channel(depending on the type of Slack meeting you scheduled).
 
 ![Record Slack Meeting](https://images.wondershare.com/filmora/article-images/record-slack-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Slack Video Call Settings
 
@@ -144,6 +140,10 @@ The settings tab in the video call enables you to create a name for the video ca
 Moreover, if you wish to stay on mute and still engage with the speaker, just click on the emoji on the screen. Select from a variety of reactions or type a text message right on the video screen.
 
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -168,18 +168,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-zoom-audio-capture-techniques/"><u>[New] 2024 Approved Ultimate ZOOM Audio Capture Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-investigating-new-horizons-past-manycams-realm-for-2024/"><u>[New] Investigating New Horizons Past ManyCam's Realm for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-elite-screen-recording-apps-of-2023-expert-picks/"><u>[Updated] In 2024, Elite Screen Recording Apps of 2023 - Expert Picks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-momentfreeze-immediate-screen-grab-guide/"><u>[Updated] In 2024, MomentFreeze Immediate Screen Grab Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-8-capture-tools-without-lag-for-2024/"><u>[Updated] Leading 8 Capture Tools Without Lag for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/battlefield-bliss-exploring-the-7-best-massive-wars-for-2024/"><u>Battlefield Bliss Exploring the 7 Best Massive Wars for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-6-programs-to-analyze-and-communicate-via-chat-on-documentspdfs/"><u>Best 6 Programs to Analyze & Communicate via Chat on Documents/PDFs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gebrauchsfertige-winxdvd-anwendung-dvd-ausschneiden-videokonversion-and-qualitatsverbesserung-authentische-software/"><u>Gebrauchsfertige WinXDVD Anwendung: DVD Ausschneiden, Videokonversion & Qualitätsverbesserung – Authentische Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210926287-9781903353578-planetary-cycles-cinema-trends/"><u>Planetary Cycles & Cinema Trends | Free Book</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/smart-strategies-for-entrepreneurial-video-marketing-for-2024/"><u>SMART Strategies for Entrepreneurial Video Marketing for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-new-face-of-ratchet-and-clank-nostalgic-and-novel-in-one-package/"><u>The New Face of Ratchet & Clank: Nostalgic and Novel in One Package</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-metas-presence-is-a-frightening-reality/"><u>Why Meta's Presence Is a Frightening Reality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-easy-guide-to-documenting-gameplay-sessions/"><u>[New] In 2024, Easy Guide to Documenting Gameplay Sessions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unrivaled-selection-of-top-10-mobile-video-calling-apps/"><u>[Updated] 2024 Approved Unrivaled Selection of Top 10 Mobile Video Calling Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-apex-10-virtual-warrior-battles-for-2024/"><u>[Updated] Apex 10 Virtual Warrior Battles for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-secure-total-visual-display-for-2024/"><u>[Updated] Secure Total Visual Display for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-your-speech-any-sound-discover-the-best-vocal-transformation-tools-on-android-for-2024/"><u>[Updated] Your Speech, Any Sound Discover the Best Vocal Transformation Tools on Android for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-step-by-step-nine-methods-for-logging-pc-acoustics/"><u>2024 Approved Step-by-Step Nine Methods for Logging PC Acoustics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/deconstructing-sharex-and-its-challengers/"><u>Deconstructing ShareX and Its Challengers</u></a></li>
+<li><a href="https://os-tips.techidaily.com/expert-tips-for-retrieving-removed-ios-apps-and-preserving-user-information-securely/"><u>Expert Tips for Retrieving Removed iOS Apps and Preserving User Information Securely</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oppo-f25-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Oppo F25 Pro 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-xr-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone XR Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-most-reliable-external-hdds-for-xbox-users/"><u>In 2024, Most Reliable External HDDs for Xbox Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-recording-google-voice-calls/"><u>In 2024, Unlocking the Potential of Recording Google Voice Calls</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/step-by-step-guide-access-and-monitor-network-settings-via-control-panel-insights-by-yl-computing/"><u>Step-by-Step Guide: Access and Monitor Network Settings via Control Panel - Insights by YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-how-to-utilizing-whatsapps-audio-messaging/"><u>The How-To Utilizing WhatsApp's Audio Messaging</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-x-fold-2-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo X Fold 2 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-breakthrough-how-to-make-a-picture-speak/"><u>Updated 2024 Approved Breakthrough How to Make A Picture Speak</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-camon-20-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Camon 20 Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

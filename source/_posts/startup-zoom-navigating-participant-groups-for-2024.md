@@ -1,7 +1,7 @@
 ---
 title: "\"Startup Zoom  Navigating Participant Groups for 2024\""
-date: 2024-12-21T19:39:30.858Z
-updated: 2024-12-28T18:40:31.219Z
+date: 2025-01-01T17:50:45.998Z
+updated: 2025-01-07T17:49:36.954Z
 tags: 
   - screen-recording
   - ai video
@@ -45,11 +45,11 @@ A breakout room is a sub-room that can be created during a meeting and you can s
 
 You must purchase the Large Meeting add-on if you would like to create 50 breakout sessions that have as many as two hundred participants. Each participant in a breakout session has complete control over video, audio and screen sharing options, and they can record each breakroom locally. In case the meeting’s host has enabled the cloud recording feature, Zoom will only record the main room while giving the participants the option to record the breakout room separately.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Create a Breakout Room?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Enable Breakout Rooms in Zoom
 
@@ -67,6 +67,10 @@ Zoom also allows account administrators and account members to activate the brea
 
 Afterward, you should just enable the breakout room option from the Meetings tab and decide if you want to pre-assign members to particular rooms while scheduling a meeting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Create Breakout Rooms in Zoom Meeting
 
 Once the breakout room feature is enabled, you should start a new meeting and click on the Breakout Room icon in the Zoom’s toolbar. You will be prompted to set the number of rooms you would like to create for the meeting and choose if you want to assign participants to breakout rooms automatically or manually.
@@ -74,10 +78,14 @@ Once the breakout room feature is enabled, you should start a new meeting and cl
 ![ Create  Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/create-breakout-rooms.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on the Create Rooms button to complete the process and proceed to fine-tune the settings for each room.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Manage Breakout Rooms
 
@@ -99,10 +107,6 @@ Participants cannot start recording a breakout room until they are granted permi
 
 ![ Record  Breakout Rooms in Zoom](https://images.wondershare.com/filmora/article-images/allow-record-zoom-meeting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Afterward, you just have to click on the Record button and the activities within your breakout room will be recorded. Zoom allows you to pause or stop a recording at any moment and you should just click on the corresponding button in the meeting toolbar to perform this action.
 
 Keep in mind that you may lose the video you’re recording if the recording process is interrupted in any other way other than clicking on the Stop or Pause buttons.
@@ -110,23 +114,19 @@ Keep in mind that you may lose the video you’re recording if the recording pro
 We’ve written an article about Zoom meeting, if you’ve met any questions about it, you can check it here: [Record Zoom Meeting Guide](https://tools.techidaily.com/wondershare/filmora/download/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5: Troubleshooting Zoom Breakout Rooms
 
 Even though creating and managing breakout rooms shouldn’t be too difficult, you may still experience problems. Let's take a look at some of the most common issues Zoom users encounter with breakout rooms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Why can’t I join a Zoom Breakout Room?
 
 Only users with access to Zoom desktop client, Zoom mobile app and H.323/SIP devices can join breakout rooms. You won’t be able to join a breakout room if you are using Zoom from a web browser.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Can I communicate with participants in Breakout Session?
@@ -162,21 +162,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-from-couch-to-camera-earning-through-personal-vlogging/"><u>[New] 2024 Approved From Couch-to-Camera Earning Through Personal Vlogging</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-apowersofts-free-recording-a-comprehensive-analysis/"><u>[New] Apowersoft's Free Recording A Comprehensive Analysis</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-avoidance-manual-how-to-skip-edgenuity-courses-without-penalty/"><u>[New] Avoidance Manual How to Skip Edgenuity Courses Without Penalty</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-essential-10-online-collaboration-tools-ensuring-privacy-for-2024/"><u>[New] Essential 10 Online Collaboration Tools Ensuring Privacy for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-explore-the-world-of-photo-videos-your-pixiz-companion/"><u>[New] Explore the World of Photo-Videos Your Pixiz Companion</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-secrets-to-flawless-remote-audio-production/"><u>[Updated] 2024 Approved Secrets to Flawless Remote Audio Production</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-combat-chronicles-leading-10-battle-royale-games/"><u>[Updated] Combat Chronicles Leading 10 Battle Royale Games</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-gif-galore-converting-tweet-videos-at-zero-cost-for-2024/"><u>[Updated] GIF Galore Converting Tweet Videos at Zero Cost for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1-transforme-seu-arquivo-ifo-em-mp4-tecnicas-facilmente-compreensiveis-para-pc-e-mac/"><u>1. Transforme Seu Arquivo IFO Em MP4: Técnicas Facilmente Compreensíveis Para PC E Mac</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-maximize-zoom-audio-clarity-methods-and-tips-shared/"><u>2024 Approved Maximize Zoom Audio Clarity Methods & Tips Shared</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/4-methods-to-record-gameplay-on-xbox-one/"><u>4 Methods to Record Gameplay on Xbox One</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-address-the-perplexing-black-screen-challenge-in-fallout-4/"><u>How To Successfully Address The Perplexing Black Screen Challenge in Fallout 4</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/minimca-homes-the-ultimate-guide-for-entry-level-builders/"><u>MiniMCA Homes The Ultimate Guide for Entry-Level Builders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-advancement-in-language-models-an-in-depth-look-at-gpt-series-by-openai/"><u>The Advancement in Language Models: An In-Depth Look at GPT Series by OpenAI</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-budget-friendly-4k-capture-devices/"><u>Top Budget-Friendly 4K Capture Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-the-role-of-ntuserdat-the-essential-windows-registry-file/"><u>Understanding the Role of NTUSER.DAT: The Essential Windows Registry File</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-sims-4-recording-tips-and-tricks-for-quality/"><u>[New] 2024 Approved Sims 4 Recording Tips and Tricks for Quality</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-consolechronicle-critique/"><u>[New] In 2024, ConsoleChronicle Critique</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-macbook-webcam-recording-guide/"><u>[New] In 2024, MacBook Webcam Recording Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-tailoring-game-recording-features-for-windows-11-gamers/"><u>[New] In 2024, Tailoring Game Recording Features for Windows 11 Gamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-screen-capture-mastery-on-iphone-7-for-2024/"><u>[New] Unlocking Screen Capture Mastery on iPhone 7 for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-video-popularity-essential-seo-techniques-for-success/"><u>[Updated] 2024 Approved Elevate Your Video Popularity Essential SEO Techniques for Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-easy-steps-for-perfect-screen-capture-with-mobizen/"><u>[Updated] In 2024, Easy Steps for Perfect Screen Capture with Mobizen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unleashing-the-best-video-footage-with-gopro/"><u>[Updated] In 2024, Unleashing the Best Video Footage with GoPro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-expert-tips-for-pc-gamers-ideal-snapshots/"><u>2024 Approved Expert Tips for PC Gamer's Ideal Snapshots</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-6-video-editing-apps-for-macos-big-sur-11/"><u>2024 Approved Top 6 Video Editing Apps for macOS Big Sur 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/audio-input-assessment-report-for-2024/"><u>Audio Input Assessment Report for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/converting-images-into-harmonious-videography/"><u>Converting Images Into Harmonious Videography</u></a></li>
+<li><a href="https://windows11.techidaily.com/expeditiously-mute-windows-11-pings/"><u>Expeditiously Mute Windows 11 Pings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-ultimate-techniques-for-screen-recording-games-on-win10/"><u>In 2024, Ultimate Techniques for Screen Recording Games on Win10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resize-and-revitalize-your-footage-switching-video-format-from-narrow-43-to-broad-169-widescreen/"><u>Resize and Revitalize Your Footage: Switching Video Format From Narrow 4:3 to Broad 16:9 Widescreen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/sonicarchive-pro-downloads-and-analysis-for-2024/"><u>SonicArchive Pro Downloads & Analysis for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/viewing-samsungs-latest-gadget-launch-online-step-by-step-instructions/"><u>Viewing Samsung's Latest Gadget Launch Online – Step-by-Step Instructions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4-f-movavi/"><u>오피니 안전한 MP4 스위ف 바이트 크기 조정 방법 - MOVAVI</u></a></li>
 </ul></div>
 
