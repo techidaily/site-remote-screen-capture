@@ -1,7 +1,7 @@
 ---
 title: "\"Luminous Landscapes  Mastering Nightscape Portraits with Precision\""
-date: 2025-01-05T16:36:51.308Z
-updated: 2025-01-07T16:02:50.135Z
+date: 2025-01-11T17:38:52.465Z
+updated: 2025-01-14T00:03:10.159Z
 tags: 
   - screen-recording
   - ai video
@@ -23,16 +23,12 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Shooting with a topic
@@ -46,10 +42,6 @@ This will also allow you to take advantage of clicking pictures during special h
 While shooting **night portraits,** based on the location, you may not get sufficient natural light to light up the subject. This is where you need to use some types of artificial lighting. Without this, you may not be able to capture the details of your subject. Your shots will look very blurry and underexposed. Well, artificial lighting need not be a flash. The source of artificial lighting can be anything.
 
 ![pexels matheus bertelli 573298](https://images.wondershare.com/filmora/article-images/2022/11/pexels-matheus-bertelli-573298.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
 
@@ -72,15 +64,7 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 
 ![pexels marcelo dias 1970482](https://images.wondershare.com/filmora/article-images/2022/11/pexels-marcelo-dias-1970482.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Don't-Dos in Night Portraits
 
@@ -90,9 +74,17 @@ When it comes to wearing black for night portraits, experts suggest avoiding it 
 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
 
@@ -102,11 +94,19 @@ When you overuse the light, it can affect the scene's depth of field. Besides, t
 
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
 
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
@@ -114,13 +114,13 @@ However, you can also preset the white balance in your camera or edit the photos
 
 ## FAQs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Should You Need to Avoid in Portrait Photography?
 
@@ -160,16 +160,24 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-boost-engagement-with-these-premier-html5-players-for-2024/"><u>[New] Boost Engagement with These Premier HTML5 Players for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-tips-to-reduce-compression-artifacts-in-obs-for-2024/"><u>[New] Tips to Reduce Compression Artifacts in OBS for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-10-mouse-recorders-for-2024/"><u>[New] Top 10 Mouse Recorders for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-uncomplicated-walkthrough-of-easy-iphone-screen-capture-for-2024/"><u>[New] Uncomplicated Walkthrough of Easy iPhone Screen Capture for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-camera-shake-in-photographyvideo-what-you-need-to-know/"><u>[Updated] 2024 Approved Camera Shake In Photography/Video | What You Need to Know</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-comparative-study-single-vs-multi-camera-tech-today-for-2024/"><u>[Updated] Comparative Study Single Vs. Multi-Camera Tech Today for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-groundbreaking-8-android-video-call-services-more-than-four-for-2024/"><u>[Updated] Groundbreaking 8 Android Video Call Services, More Than Four for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-android-audio-recording-tips-no-root-required/"><u>2024 Approved Android Audio Recording Tips - No Root Required</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-s23-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy S23 Lock Screen Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oppo-find-x7-ultra-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Oppo Find X7 Ultra to Gmail | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-educators-elite-selecting-the-ultimate-classroom-recorders-of-teaching/"><u>[New] Educators’ Elite Selecting the Ultimate Classroom Recorders of Teaching</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-guide-non-commercial-android-recorder-choice-for-2024/"><u>[New] Essential Guide Non-Commercial Android Recorder Choice for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-precision-and-power-choosing-best-kung-fu-games-ranked/"><u>[New] In 2024, Precision & Power Choosing Best Kung Fu Games Ranked</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-meringue-movie-magic-step-by-step-guide-to-ice-cream-capture-for-2024/"><u>[New] Meringue Movie Magic Step-by-Step Guide to Ice Cream Capture for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ultimate-escapades-our-selection-of-best-action-adventures-for-2024/"><u>[New] Ultimate Escapades Our Selection of Best Action-Adventures for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-x-tape-maker-desktop-compatible/"><u>[New] X-Tape Maker Desktop Compatible</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-beyond-the-basics-a-compreran-comparative-analysis/"><u>2024 Approved Beyond the Basics A Compreran Comparative Analysis</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-infographic-spotlight-on-emerging-23-trends/"><u>2024 Approved Infographic Spotlight on Emerging '23 Trends</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defeating-the-iphone-black-screen-of-death-expert-repair-techniques/"><u>Defeating the iPhone 'Black Screen of Death': Expert Repair Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filmmakers-choice-converting-avi-files-to-gif-via-filmora-software-windowsmac-for-2024/"><u>Filmmaker's Choice Converting AVI Files to GIF via Filmora Software (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-gamers-choice-best-alternatives-to-official-recorder/"><u>In 2024, Gamer's Choice Best Alternatives to Official Recorder</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-g2-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo G2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-magic-6-pro-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor Magic 6 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/instantaneous-duo-recording-cam-plus-screen-for-2024/"><u>Instantaneous Duo Recording Cam + Screen for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mobile-mastery-the-leading-app-list-for-popularity-growth/"><u>Mobile Mastery The Leading App List for Popularity Growth</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/symphony-silhouette-audio-studio-mac/"><u>Symphony Silhouette Audio Studio Mac</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-motorola-moto-e13-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Motorola Moto E13 FRP Bypass</u></a></li>
 </ul></div>
 

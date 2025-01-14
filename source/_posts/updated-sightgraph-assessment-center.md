@@ -1,7 +1,7 @@
 ---
 title: "[Updated] SightGraph Assessment Center"
-date: 2024-09-17T04:10:45.121Z
-updated: 2024-09-19T01:44:54.234Z
+date: 2025-01-06T16:31:16.052Z
+updated: 2025-01-13T18:59:08.416Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ Step 1: Visit “screencast-o-matic.com” from your web browser. Click on Recor
 
 ![screencast o-matic to record dell](https://images.wondershare.com/filmora/article-images/screencast-o-matic-to-record-dell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Click on Launch Free Recorder and you will have to download the web launcher for the online tool to work. Allow the web launcher to get downloaded on your device when prompted.
 
 ![screencast launch free recorder](https://images.wondershare.com/filmora/article-images/screencast-launch-free-recorder.jpg)
@@ -41,9 +45,17 @@ Step 1: Visit “screencast-o-matic.com/screen-recorder” from your web browser
 
 ![screencast o-matic com](https://images.wondershare.com/filmora/article-images/screencast-o-matic-com.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: You should now have Screencast-O-Matic on your screen. If you want to record screen, select Screen option. You can also select Webcam if you want to record webcam video only. If you want to record screen as well as webcam, click on Both.
 
 ![screencast screen option](https://images.wondershare.com/filmora/article-images/screencast-screen-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Go to Size and select the screen dimensions or area you want to record. You can choose Active Window, Full Screen, or customize the area as per your requirements.
 
@@ -56,6 +68,10 @@ Step 4: Finally, click on Rec button at the top-left corner to start recording.
 Step 5: To stop recording, click on Pause button and thereafter, click on Done button. You can save or upload the recorder video as well as edit it before saving.
 
 ![screencast pause](https://images.wondershare.com/filmora/article-images/screencast-pause.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Key Features of Screencast-O-Matic Screen Recorder
 
@@ -94,13 +110,6 @@ Hence, the free version of Screencast-O-Matic is more like a demo version. You n
 
 3\. Business Team - $5 per month for 3 users: You get all the features on Solo Deluxe and Premier. Additionally, you get to collaborate with team members, get advanced admin panel to manage user roles and manage content as well as get different integrations.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. Alternative Way To Record Screen Videos
 
 There are several limitations of premium Screencast-O-Matic as well. You always need an active internet connection to record your screen. The file format for saving the video is limited to MP4 only. The useful editing options are still limited in comparison to a professional video editor. That is why there are many who look for a better alternative to Screencast-O-Matic screen recorder. We recommend Wondershare Filmora which is a premium [video recorder](https://tools.techidaily.com/wondershare/filmora/download/) with inbuilt video editor.
@@ -126,6 +135,10 @@ Step 2: Customize the recording screen area and select the audio sources. You ca
 Step 3: Click on Record button to start recording. To stop recording, press F9 key. You can edit the recorded video and export instantly in the desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -166,10 +179,7 @@ Step 3: Click on Record button to start recording. To stop recording, press F9 k
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -203,19 +213,28 @@ Step 1: Download and install Wondershare Filmora. It is available for Windows as
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Customize the recording screen area and select the audio sources. You can select system audio as well as external audio for recording. Turn on Record the Camera Stream option in order to record webcam video alongside screen recording.
 
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Click on Record button to start recording. To stop recording, press F9 key. You can edit the recorded video and export instantly in the desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -247,13 +266,6 @@ Step 1: Download and install Wondershare Filmora. It is available for Windows as
 
 ![filmora record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Customize the recording screen area and select the audio sources. You can select system audio as well as external audio for recording. Turn on Record the Camera Stream option in order to record webcam video alongside screen recording.
 
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
@@ -261,13 +273,6 @@ Step 2: Customize the recording screen area and select the audio sources. You ca
 Step 3: Click on Record button to start recording. To stop recording, press F9 key. You can edit the recorded video and export instantly in the desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -295,5 +300,24 @@ In our complete review of Screencast-O-Matic, we have provided you with Screenca
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-5-essential-strategies-to-avoid-a-dark-screen-during-obs-recordings/"><u>[New] 2024 Approved 5 Essential Strategies to Avoid a Dark Screen During OBS Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-essential-mac-recording-software-for-productivity/"><u>[New] 2024 Approved Essential Mac Recording Software for Productivity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-apex-1-written-by-assistant/"><u>[New] In 2024, Apex 1 Written by Assistant</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-vrecorder-how-to-download-and-install/"><u>[Updated] 2024 Approved VRecorder - How to Download and Install</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-art-of-vrecorder-integration-simple-download-and-use-tutorials-for-2024/"><u>[Updated] The Art of VRecorder Integration Simple Download & Use Tutorials for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-platform-faceoff-twitchs-challenge-to-youtube/"><u>[Updated] The Platform Faceoff Twitch's Challenge to YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-asmrs-secrets-for-optimal-wellness/"><u>[Updated] Unlocking ASMR's Secrets for Optimal Wellness</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-cutting-ties-with-instagram-navigating-a-permanent-exit-strategy/"><u>2024 Approved Cutting Ties with Instagram Navigating a Permanent Exit Strategy</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-enhancing-social-media-reach-a-deep-dive-into-instagram-and-obs-streaming/"><u>2024 Approved Enhancing Social Media Reach A Deep Dive Into Instagram & OBS Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-seamless-integration-of-custom-backgrounds-on-microsoft-teams-calls/"><u>2024 Approved Seamless Integration of Custom Backgrounds on Microsoft Teams Calls</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/capturing-attention-sharing-tweets-as-snaps-for-2024/"><u>Capturing Attention Sharing Tweets as Snaps for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/economical-android-communication-tools-best-of-10/"><u>Economical Android Communication Tools, Best of 10</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fraps-your-go-to-screen-recorder/"><u>Fraps Your Go-To Screen Recorder?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-v-purse-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor V Purse Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Infinix Phone without Google Account?</u></a></li>
+<li><a href="https://article-files.techidaily.com/unveiling-the-power-of-technology-with-toms-hardware-guides/"><u>Unveiling the Power of Technology with Tom's Hardware Guides</u></a></li>
+</ul></div>
 

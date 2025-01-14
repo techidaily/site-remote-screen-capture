@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Windows Guide  Free Tools for Capturing Live TV\""
-date: 2024-12-31T16:19:14.641Z
-updated: 2025-01-07T17:50:15.217Z
+date: 2025-01-09T23:38:32.786Z
+updated: 2025-01-14T03:40:22.071Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ All versions of Windows, since Windows 7, feature a built-in video recording sof
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,7 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record TV shows on Windows 7/8 for Free
@@ -64,10 +72,6 @@ Locate the Windows Media Center on your computer's hard drive. Chances are that 
 
 ![windows 7 recording tv](https://images.wondershare.com/filmora/article-images/windows7-record-tv.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After you've successfully launched the software, scroll through its main menu and select the TV option. You should then click on the Guide feature, but before you can watch TV or record TV shows from your computer, you must first make sure that your TV Tuner Card is properly connected to your satellite or cable TV device, as well as your PC. Furthermore, if you are using the Windows Media Center for the first time, you'll also have to go through the software's Live TV setup procedure.
 
 #### Step 3
@@ -79,7 +83,7 @@ Click on the Guide feature, and browse through the TV program in order to select
 On the program info page, you'll be able to see different live TV recording options, so you should proceed and select the option that best fits your current needs. If you want to start recording right away, you should simply click on the Record button, while the Record Series button will enable you to record every episode of a selected TV series to your PC's hard-drive. In order to prevent a recording session, simply click on the Do Not Record button in the show's info page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to record live TV on Windows 10 for free
@@ -97,10 +101,6 @@ After you've launched the program, find the Game DVR icon that is located in the
 #### Step 3
 
 Hold the Windows and G keys to launch the game bar, and after you've selected the TV show feel free to start your new TV recording session.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free TV Show Recording Software on Windows
 
@@ -147,20 +147,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-boosting-remote-work-engagement-with-4-tactics/"><u>[New] 2024 Approved Boosting Remote Work Engagement with 4 Tactics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-is-splitcam-the-ultimate-in-video-capture/"><u>[New] 2024 Approved Is SplitCam The Ultimate in Video Capture?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-simplicity-in-capturing-your-lenovo-pics/"><u>[New] 2024 Approved Simplicity in Capturing Your Lenovo Pics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-step-in-step-approach-hulu-recording-tutorial-for-diverse-systems/"><u>[New] 2024 Approved Step-In-Step Approach Hulu Recording Tutorial for Diverse Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-definitive-guide-ios-screenshots-and-recording-2inas-2023/"><u>[New] 2024 Approved The Definitive Guide IOS Screenshots & Recording (2Inas 2023)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-who-holds-sway-over-youtube-subscribers/"><u>[Updated] 2024 Approved Who Holds Sway Over YouTube Subscribers?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-best-no-cost-video-conferencing-apps-cross-system-friendly/"><u>[Updated] In 2024, Best No-Cost Video Conferencing Apps Cross-System Friendly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-no-fuss-techniques-for-valorant-sessions/"><u>[Updated] In 2024, Ultimate No-Fuss Techniques for Valorant Sessions</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoiding-digital-drain-6-healthy-habits-for-gamers/"><u>Avoiding Digital Drain: 6 Healthy Habits for Gamers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/cutting-edge-mounts-uninterrupted-mobile-shooting-for-2024/"><u>Cutting-Edge Mounts Uninterrupted Mobile Shooting for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-disconnected-voice-commands-on-microsoft-written-by-jessica-haines/"><u>Fixing Disconnected Voice Commands on Microsoft' Written by Jessica Haines</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Xiaomi 14? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-expanding-youtube-audience-through-perpetual-creative-commons/"><u>In 2024, Expanding YouTube Audience Through Perpetual Creative Commons</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-from-novices-to-vectors-grasping-the-basics-and-choices/"><u>In 2024, From Novices to Vectors Grasping the Basics and Choices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/latest-instagram-photo-and-video-size-checklist/"><u>Latest Instagram Photo and Video Size Checklist</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-perfect-photos-ranking-the-top-11-bridge-cameras/"><u>[New] 2024 Approved Perfect Photos Ranking the Top 11 Bridge Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capture-and-share-your-win10-gaming-life-for-2024/"><u>[New] Capture and Share Your Win10 Gaming Life for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-unleash-your-adventure-essential-tactics-for-saving-your-vr-gaming-experience/"><u>[New] In 2024, Unleash Your Adventure Essential Tactics for Saving Your VR Gaming Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-art-of-online-recording/"><u>[New] The Art of Online Recording</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-essential-shoppers-guide-to-modern-360cams-for-2024/"><u>[New] The Essential Shopper's Guide to Modern 360Cams for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-maximizing-mac-audio-quality-in-mixer-streaming/"><u>[Updated] 2024 Approved Maximizing Mac Audio Quality in Mixer Streaming</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-origami-homes-in-minecraft-japanese-vistas/"><u>[Updated] 2024 Approved Origami Homes in Minecraft Japanese Vistas</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-soundsreview-summary/"><u>[Updated] 2024 Approved SoundsReview Summary</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-amazon-fire-hd-10-tablet-review-the-ultimate-family-entertainment-device/"><u>Comprehensive Amazon Fire HD 10 Tablet Review: The Ultimate Family Entertainment Device</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gtx-970-performance-boost-drivers-update-for-win-11/"><u>GTX 970 Performance Boost - Drivers Update for Win 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-optimize-chromes-voice-the-best-web-based-vocal-modification-apps/"><u>In 2024, Optimize Chrome's Voice The Best Web-Based Vocal Modification Apps</u></a></li>
 </ul></div>
 
