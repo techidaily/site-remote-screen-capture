@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Personalize the Save Spot of Mac Images"
-date: 2025-01-08T23:47:06.908Z
-updated: 2025-01-13T17:22:44.293Z
+date: 2025-01-13T20:20:29.887Z
+updated: 2025-01-19T23:39:47.965Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -61,10 +65,6 @@ For macOS 10.12 or later
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -75,7 +75,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -101,7 +101,7 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -119,24 +119,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-icecream-screen-recorder-indepth-review/"><u>[New] 2024 Approved Icecream Screen Recorder Indepth Review</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-leverage-your-smartphones-capability-to-store-social-snaps/"><u>[New] In 2024, Leverage Your Smartphone's Capability to Store Social Snaps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-soundsreview-summary/"><u>[New] In 2024, SoundsReview Summary</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-vivacious-talker-examined-revision-no-8/"><u>[New] In 2024, Vivacious Talker Examined Revision No. 8</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-basics-of-fading-effects-for-clearer-audio-output/"><u>[Updated] Basics of Fading Effects for Clearer Audio Output</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-best-10-battle-royale-games-for-2024/"><u>[Updated] Best 10 Battle Royale Games for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-adjusting-youtubes-viewership-limits-for-content/"><u>[Updated] In 2024, Adjusting YouTube's Viewership Limits for Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ultimate-guide-to-4k-capturing-applications/"><u>[Updated] In 2024, Ultimate Guide to 4K Capturing Applications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-light-up-your-youtube-content-with-17-tools/"><u>[Updated] Light Up Your YouTube Content with #17 Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-revolutionizing-call-recording-with-facetime-advancements/"><u>[Updated] Revolutionizing Call Recording with FaceTime Advancements</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-oddworld-soulstorm-pc-game-crash-issues-solutions-inside/"><u>Fix Your Oddworld: Soulstorm PC Game Crash Issues - Solutions Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-installation-incomplete-on-windows-with-ease/"><u>Fixing 'Installation Incomplete On Windows' With Ease</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/freeze-the-action-find-these-top-9-gif-recipes-on-windows-pc-for-2024/"><u>Freeze the Action! Find These Top 9 GIF Recipes on Windows PC for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Galaxy A54 5G?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-8-support-systems-for-high-res-4k-cameras/"><u>In 2024, Ideal 8 Support Systems for High Res 4K Cameras</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-insiders-take-top-9-digital-mic-recorder-selections/"><u>In 2024, Insider's Take Top 9 Digital Mic Recorder Selections</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/innovative-solutions-exceeding-standard-fbx-recorders-for-2024/"><u>Innovative Solutions Exceeding Standard FBX Recorders for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1154581-9781608680788-ordinary-sacred/"><u>Ordinary Sacred | Free Book</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-it-means-when-your-text-goes-through-as-an-sms-instead-of-imessage/"><u>What It Means When Your Text Goes Through as an SMS Instead of iMessage</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-effortless-electronic-exchange-5-secure-pathways-to-your-pc-for-2024/"><u>[New] Effortless Electronic Exchange 5 Secure Pathways to Your PC for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamlined-video-logitechs-background-editing-guide-for-2024/"><u>[New] Streamlined Video - Logitech's Background Editing Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation-for-2024/"><u>[New] The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-breakthrough-in-recording-nine-revolutionary-online-microphones/"><u>[Updated] 2024 Approved Breakthrough in Recording Nine Revolutionary Online Microphones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-digital-pioneers-exploring-the-six-surging-in-nft-arts/"><u>[Updated] In 2024, Digital Pioneers Exploring the Six Surging in NFT Arts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-ps2-replay-on-android-devices-top-picks-for-2024/"><u>[Updated] Mastering PS2 Replay on Android Devices - Top Picks for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-asian-miniature-villages-in-creative-sphere-of-mc/"><u>2024 Approved Asian Miniature Villages in Creative Sphere of MC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/4-ways-record-your-screen-on-windows-8/"><u>4 Ways Record Your Screen On Windows 8</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/elevate-your-listening-pleasure-with-the-intelligent-features-of-nest-audio-speaker-system/"><u>Elevate Your Listening Pleasure with the Intelligent Features of Nest Audio Speaker System</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/eliminating-audio-absence-in-live-obs-sessions-for-2024/"><u>Eliminating Audio Absence in Live OBS Sessions for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-nokia-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Nokia</u></a></li>
+<li><a href="https://facebook.techidaily.com/its-getting-easier-to-customize-your-facebook-feed/"><u>It's Getting Easier to Customize Your Facebook Feed</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/mobiesync/"><u>MobieSync – The Best Android iOS Transfer Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-era-of-virtual-gaming-begins-sonys-psvr-2-news-and-breakdown-price-points-release-dates-and-tech-specs/"><u>The Next Era of Virtual Gaming Begins - Sony's PSVR 2 News and Breakdown: Price Points, Release Dates & Tech Specs</u></a></li>
 </ul></div>
 
