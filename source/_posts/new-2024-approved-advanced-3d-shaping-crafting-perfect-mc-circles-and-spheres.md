@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Advanced 3D Shaping  Crafting Perfect MC Circles & Spheres\""
-date: 2025-01-18T16:33:19.946Z
-updated: 2025-01-19T21:40:30.475Z
+date: 2025-01-21T17:10:26.245Z
+updated: 2025-01-26T03:27:38.673Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,7 @@ Minecraft is famous for its cube-shaped structure. The entire world of Minecraft
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to make a circle in Minecraft: A Step by Step Guide
@@ -41,33 +41,17 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 ![minecraft-make-circle1](https://images.wondershare.com/filmora/article-images/minecraft-make-circle1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Now add 7 blocks on each side of the line to make a plus '+' sign. It will create a circumference of the circle by both the x-axis and y-axis.
 
 ![minecraft-make-circle2](https://images.wondershare.com/filmora/article-images/minecraft-make-circle2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** At the edges of each line create a perpendicular line of 5 blocks each. This will create an outer boundary of the circle.
 
 ![minecraft-make-circle3](https://images.wondershare.com/filmora/article-images/minecraft-make-circle3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Now to complete the outer boundary of the circle, you have to add two blocks in the same direction of the outer line of the circle. But this time come a little bit closer to the center of the circle.
 
 ![minecraft-make-circle4](https://images.wondershare.com/filmora/article-images/minecraft-make-circle4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Complete the outer by adding an 'L' shaped structure created with 3 blocks on each of the four sides of the circle to complete the outer boundary.
 
@@ -87,9 +71,17 @@ The only difference between making a circle and a sphere is the difference in di
 
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
@@ -101,6 +93,10 @@ These circles and spheres are useful in Minecraft and they play a very vital rol
 
 ![minecraft-make-sphere4](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 #### Conclusion
@@ -110,6 +106,10 @@ Creating such amazing things and sharing them on your social media and video sha
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -126,15 +126,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-best-practices-for-secondary-footage-management/"><u>[New] Best Practices for Secondary Footage Management</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-most-popular-firefox-visual-recorders/"><u>[New] In 2024, Most Popular Firefox Visual Recorders</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-xbox-storage-solutions-the-essential-5/"><u>[New] In 2024, Xbox Storage Solutions The Essential 5</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-gb-required-for-one-full-movie-hour-by-hour/"><u>[Updated] 2024 Approved GB Required for One Full Movie, Hour by Hour</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/1716069970413-updated-2024-approved-top-cycling-sims-worth-your-time/"><u>[Updated] 2024 Approved Top Cycling Sims Worth Your Time!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-strategies-for-improved-zoom-visuals-via-filters/"><u>[Updated] In 2024, Strategies for Improved Zoom Visuals via Filters</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-7-best-monitors-for-photo-editing-worth-trying/"><u>2024 Approved 7 Best Monitors for Photo Editing Worth Trying</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-action-and-adventure-with-ions-pro-3-camera-insight/"><u>2024 Approved Action and Adventure with ION's Pro 3 Camera Insight</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oneplus-nord-n30-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring OnePlus Nord N30 5G PC | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-algorithmic-illusion-of-affection/"><u>The Algorithmic Illusion of Affection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-screenshot-expert-evaluator-for-2024/"><u>[New] ScreenShot Expert Evaluator for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-tips-for-recording-movies-on-all-devices-for-2024/"><u>[Updated] Essential Tips for Recording Movies on All Devices for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamlined-approach-record-movies-everywhere-you-go/"><u>[Updated] In 2024, Streamlined Approach Record Movies Everywhere You Go</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-screen-recordings-in-gotomeeting/"><u>[Updated] Mastering Screen Recordings in GoToMeeting</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-the-secrets-of-voiced-powerpoint-presentations/"><u>[Updated] Unveiling the Secrets of Voiced PowerPoint Presentations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/creative-capture-uncovering-the-top-6-ways-to-document-minecraft-sessions/"><u>Creative Capture Uncovering the Top 6 Ways to Document Minecraft Sessions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-free-spooky-tunes-get-your-ios-devices-equipped-with-original-halloween-soundtracks/"><u>Download Free Spooky Tunes - Get Your iOS Devices Equipped with Original Halloween Soundtracks!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-11-proipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 11 Pro/iPad/iPod</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/maximizing-your-computers-potential-expert-tips-from-yl-computing-boost-speed-and-performance/"><u>Maximizing Your Computer’s Potential: Expert Tips From YL Computing – Boost Speed and Performance!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-toshibas-speakers-expert-guides-to-fixing-no-sound-issues/"><u>Reviving Your Toshiba's Speakers: Expert Guides to Fixing No Sound Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-exploring-vn-video-editor-pro-is-this-app-right-for-you-for-2024/"><u>Updated Exploring VN Video Editor Pro Is This App Right for You for 2024</u></a></li>
 </ul></div>
 

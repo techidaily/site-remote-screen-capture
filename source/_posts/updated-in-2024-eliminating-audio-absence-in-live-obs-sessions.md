@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Eliminating Audio Absence in Live OBS Sessions"
-date: 2025-01-14T00:30:33.126Z
-updated: 2025-01-20T02:41:50.542Z
+date: 2025-01-20T02:45:27.610Z
+updated: 2025-01-25T19:08:54.666Z
 tags: 
   - screen-recording
   - ai video
@@ -35,15 +35,15 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
 
@@ -55,6 +55,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **3\. Unmute OBS**
 
 If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any desktop sound. test if OBS desktop audio comes back. If not, try the next remedy below. So the first troubleshooting step is to check your Volume Mixer.
@@ -64,10 +68,6 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 2) Click the speaker icon beneath OBS to unmute this program.
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
 
@@ -79,6 +79,10 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -89,6 +93,10 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -97,10 +105,6 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 * From there, expand the Sound, video, and game controller, then right-click the audio driver and Update.
 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
 
@@ -113,7 +117,7 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -133,11 +137,7 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -162,16 +162,15 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-capture-clarity-at-no-cost-top-screen-recorder-for-windows-and-macos/"><u>[New] Capture Clarity at No Cost - Top Screen Recorder for Windows & MacOS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-countdown-configuration-for-obs-users-a-compreenas-guide/"><u>[New] Countdown Configuration for OBS Users A Compreenas Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-10-mp4-players-you-cant-miss/"><u>[Updated] In 2024, 10 MP4 Players You Can't Miss</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-multi-user-android-calls-the-top-8-tools/"><u>[Updated] Multi-User Android Calls The Top 8 Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-techbite-provision-recorder-assessment-for-2024/"><u>[Updated] TechBite ProVision Recorder Assessment for 2024</u></a></li>
-<li><a href="https://fox-within.techidaily.com/clonare-i-tuoi-dati-ssd-gratuitamente-con-protezione-avanzata-software-in-italia/"><u>Clonare I Tuoi Dati SSD Gratuitamente Con Protezione Avanzata - Software in Italia</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-the-idle-tag-in-online-discussions/"><u>Demystifying the 'Idle' Tag in Online Discussions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/display-changes-preserved-post-save/"><u>Display Changes Preserved Post-Save</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-best-tech-to-preserve-classroom-interactions/"><u>In 2024, Best Tech to Preserve Classroom Interactions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-your-photo-game-unveiling-six-secrets-for-picking-premium-selfie-sticks/"><u>Master Your Photo Game: Unveiling Six Secrets for Picking Premium Selfie Sticks</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/missing-page-error-file-not-retrieved-code-404/"><u>Missing Page Error – File Not Retrieved (Code #404)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-free-online-image-perfection-at-your-fingertips-for-2024/"><u>[New] Free Online Image Perfection at Your Fingertips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-easy-speech-alteration-for-sony-playstation-devices/"><u>[New] In 2024, Easy Speech Alteration for Sony PlayStation Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-premium-online-audio-solutions-guide/"><u>[New] In 2024, Premium Online Audio Solutions Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-comprehensive-list-of-top-9-video-meeting-software-on-devices/"><u>[Updated] 2024 Approved Comprehensive List of Top 9 Video Meeting Software on Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-streamlining-remote-collaboration-master-skypes-screen-share-tools/"><u>[Updated] 2024 Approved Streamlining Remote Collaboration Master Skype’s Screen-Share Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-flipping-photos-for-followers-a-rotational-approach-for-insta-success/"><u>[Updated] In 2024, Flipping Photos for Followers A Rotational Approach for Insta Success</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/checking-compatibility-your-pathway-to-an-iphone-upgrade/"><u>Checking Compatibility: Your Pathway to an iPhone Upgrade</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-unmatched-performance-with-ibuypowers-custom-built-gaming-rig-reviews-and-insights/"><u>Experience Unmatched Performance with IBUYpower's Custom-Built Gaming Rig: Reviews & Insights</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-v30-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/maximize-performance-expert-strategies-for-freeing-memory-on-your-computer-guidance-from-yl-software/"><u>Maximize Performance: Expert Strategies for Freeing Memory on Your Computer - Guidance From YL Software</u></a></li>
 </ul></div>
 
