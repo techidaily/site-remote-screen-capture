@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Chromebook Screen Capture  4 Easy Techniques\""
-date: 2025-01-25T03:02:05.989Z
-updated: 2025-01-25T18:55:50.634Z
+date: 2025-02-04T22:11:25.096Z
+updated: 2025-02-07T19:47:36.201Z
 tags: 
   - screen-recording
   - ai video
@@ -47,7 +47,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
@@ -57,7 +57,7 @@ Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
@@ -70,19 +70,15 @@ Using your Chromebook in tablet mode? If so, then there’s also a handy way to 
 
 **Note:** No matter whether you’re utilizing the Chromebook in either landscape or portrait mode, the Volume Rockers still remain in the same orientation, so it’s worth noting which button relates to “Volume Down”.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Taking a Screenshot on a Chromebook with the Use of a Stylus
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-stylus-screenshot.jpg)
 
-If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If your Chromebook features a handy stylus, then here’s how to capture a screenshot via the touchscreen functionality. Simply remove the stylus from the Chromebook and select the “**Capture** **Screen**” option from the **Stylus Tool Menu** (located on the lower task bar) to capture the whole screen. If you’re aiming to just capture a specific area, then simply select the “**Capture Region**” option. This option will allow users to highlight the particular area they’re looking to screenshot.
 
 ## 4\. Taking a Screenshot on a Chromebook with the Use of a Third-Party App and Extension
 
@@ -98,15 +94,15 @@ With a number of simple yet effective editing features built-in, such as further
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-lightshot-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Available for both Chrome, Windows, and even Mac devices, this more in-depth extension is perfect for those looking to annotate, add layers to, or modify their screen captures to more advanced levels. Although it’s not possible to capture your entire webpage with this extension, LightShot boasts the ability to take screenshots of not only your desktop but also other desired applications with 2 simple clicks of a button. The simplistic desktop saving capability and the ability to upload it direct to the LightShot server makes this application attractive to those looking for a more professional editing tool.
 
 #### 3. Webpage Screenshot
 
 Offering the ability for users to capture scrolling screenshots, Webpage Screenshot is a highly desired extension. Allowing users to store an entire page worth of information thanks to its all-page capture abilities, this application was the original application for Google Chrome. With basic annotation editing, capture cropping, and optional interval inputting, this easy-to-use and straight forward extension is perfect for those looking to capture larger sections of text with ease.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Where Do I Find by Screenshots After They’re Captured?
 
@@ -126,6 +122,10 @@ In summary, there are plenty of ways to successfully capture a screenshot whilst
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -141,22 +141,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-basic-to-brilliant-top-100plus-biographies-that-captivate-audiences/"><u>[New] 2024 Approved From Basic to Brilliant Top 100+ Biographies that Captivate Audiences</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-preserve-precision-4-advanced-screen-recording-for-gamers/"><u>[New] 2024 Approved Preserve Precision 4 Advanced Screen Recording for Gamers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-audience-engagement-meets-technology-four-recording-ways-on-facebook-for-2024/"><u>[New] Audience Engagement Meets Technology Four Recording Ways on Facebook for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-budget-recording-tools-the-ultimate-guide-for-windows-for-2024/"><u>[New] Budget Recording Tools The Ultimate Guide for Windows for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-digital-documentation-at-its-best-with-ezvide-software-for-2024/"><u>[New] Digital Documentation at Its Best with EZvide Software for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-guiding-principles-for-speech-conversion-in-google-translate-for-2024/"><u>[New] Guiding Principles for Speech Conversion in Google Translate for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-optimizing-team-calls-prepost-meeting-screen-customization/"><u>[New] In 2024, Optimizing Team Calls Pre/Post-Meeting Screen Customization</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-seamless-tv-recording-on-pc-with-zero-cost-software/"><u>[New] In 2024, Seamless TV Recording on PC with Zero Cost Software</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-streaming-supremacy-duo/"><u>[New] Streaming Supremacy Duo</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-tips-for-recording-high-quality-mov-video-on-windows-11/"><u>[Updated] 2024 Approved Tips for Recording High-Quality MOV Video on Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-maintaining-meetings-in-google-recorder/"><u>[Updated] In 2024, Maintaining Meetings in Google Recorder</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-quick-guide-eradicating-unwanted-youtube-downloads-on-pcmac/"><u>[Updated] Quick Guide Eradicating Unwanted YouTube Downloads on PC/Mac</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-fixes-for-your-quiet-turtle-beach-advance-prise-microphone-get-it-working-again/"><u>Expert Fixes for Your Quiet Turtle Beach Advance Prise Microphone – Get It Working Again!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-reno-8t-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo Reno 8T 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/lustrous-frameworks-structuring-illumination-in-film-for-2024/"><u>Lustrous Frameworks Structuring Illumination in Film for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/proses-perhitungan-jumlah-bacaanmenulis-pada-ssd-ke-hdd-menggunakan-windows-secure-boot/"><u>Proses Perhitungan Jumlah Bacaan/Menulis Pada SSD Ke HDD Menggunakan Windows (Secure Boot)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-nord-n30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-filmmakers-approach-to-classroom-instructional-videos/"><u>[New] 2024 Approved A Filmmaker’s Approach to Classroom Instructional Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-apex-legends-solo-mode-top-choices-for-non-crossplay-gaming/"><u>[New] 2024 Approved Apex Legends Solo Mode Top Choices for Non-Crossplay Gaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ultimate-listing-best-no-ad-android-recording-apps/"><u>[New] 2024 Approved Ultimate Listing Best No-Ad Android Recording Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-uncover-10-keys-to-picking-your-perfect-broadcast-platform/"><u>[New] 2024 Approved Uncover 10 Keys to Picking Your Perfect Broadcast Platform</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-5-proven-principles-to-skyrocket-your-online-presence-novice-style/"><u>[Updated] 2024 Approved 5 Proven Principles to Skyrocket Your Online Presence, Novice Style</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-innovative-immersion-a-guide-to-the-leaders/"><u>[Updated] In 2024, Innovative Immersion A Guide to the Leaders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-the-art-of-recording-macs-roblox-sessions/"><u>[Updated] In 2024, Mastering the Art of Recording Mac's Roblox Sessions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-premium-free-switch-console-emulators/"><u>[Updated] In 2024, Premium Free Switch Console Emulators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-how-to-record-minecraft-on-mac/"><u>2024 Approved How to Record Minecraft on Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastering-video-quality-in-obs/"><u>2024 Approved Mastering Video Quality in OBS</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1728489179609-windows-11/"><u>深入解構 Windows 11 - 順利下載、安装與配置的完美方法</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-critical-review-of-top-no-cost-video-communication-apps-iosandroid/"><u>In 2024, A Critical Review of Top No-Cost Video Communication Apps (iOS/Android)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maintaining-creative-commons-on-youtube-for-greater-exposure-for-2024/"><u>Maintaining Creative Commons on YouTube for Greater Exposure for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/scattare-gratuitamente-con-convertire-pef-di-movavi-la-tua-guida-completa/"><u>Scattare Gratuitamente Con Convertire PEF Di Movavi: La Tua Guida Completa</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oneplus-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost OnePlus Device</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-5-choice-of-online-meeting-recorder-gadgets-for-2024/"><u>Ultimate 5 Choice of Online Meeting Recorder Gadgets for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-google-pixel-8-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Google Pixel 8 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
