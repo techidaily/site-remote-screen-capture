@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Advanced 3D Shaping  Crafting Perfect MC Circles & Spheres\""
-date: 2025-02-01T18:48:43.281Z
-updated: 2025-02-07T20:28:26.531Z
+date: 2025-02-11T16:09:06.570Z
+updated: 2025-02-17T16:36:06.096Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ Minecraft is famous for its cube-shaped structure. The entire world of Minecraft
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to make a circle in Minecraft: A Step by Step Guide
 
 If you have ever noticed that when we zoom in out images, small pixels are held together to form a perfect image. We have to apply the same method here. We have to take these cubes as pixels and connect them with each other for a complete picture to form a circle.
@@ -36,10 +40,6 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 **Step 1:** The first step of how to make a circle in Minecraft is to decide the circumference of the circle you want to create. In this example, we are going to create a circle with a circumference of 17 blocks. You can choose any circumference depending upon the size of the circle you want. Place 17 blocks in a series to make a straight line. Now at the 9th block, which is the middle of the line, place two blocks perpendicular blocks on both sides of the line.
 
 ![minecraft-make-circle1](https://images.wondershare.com/filmora/article-images/minecraft-make-circle1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2:** Now add 7 blocks on each side of the line to make a plus '+' sign. It will create a circumference of the circle by both the x-axis and y-axis.
 
@@ -57,22 +57,14 @@ If you have ever noticed that when we zoom in out images, small pixels are held 
 
 ![minecraft-make-circle5](https://images.wondershare.com/filmora/article-images/minecraft-make-circle5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6:** Since the outer of the circle is complete, now you can either remove the center lines of the circle to make it hollow or fill it with the blocks to make it a complete filled circle and make it a place where you can stand.
 
 ![minecraft-make-circle6](https://images.wondershare.com/filmora/article-images/minecraft-make-circle6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to make a Sphere in Minecraft
@@ -83,6 +75,10 @@ The only difference between making a circle and a sphere is the difference in di
 
 ![minecraft-make-sphere1](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now it's time to create layers of the sphere. To do that you have to create a layer of 7 blocks wide on the top and the bottom of the column.
 
 ![minecraft-make-sphere2](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere2.jpg)
@@ -90,6 +86,10 @@ The only difference between making a circle and a sphere is the difference in di
 **Step 3:** Since you have created the 1st and the 16th levels of the sphere, now you have to follow this procedure for all remaining layers: Make a layer of 11 blocks for the 2nd and 15th levels.
 
 ![minecraft-make-sphere3](https://images.wondershare.com/filmora/article-images/minecraft-make-sphere3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Follow the same pattern throughout the levels: 13 blocks layer on 3rd and 14th level, 15 blocks on 4th and 13th levels, 17 blocks on 5th and 12th level, and so on. As you can notice that each new level comes with 2 extra blocks. Follow this process until you reach the middle of the column.
 
@@ -105,11 +105,11 @@ Creating such amazing things and sharing them on your social media and video sha
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -126,16 +126,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-hunt-cut-to-7-fps-giants/"><u>[New] The Ultimate Hunt Cut to 7 FPS Giants</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/op-effort-for-quick-setup-youtube-biz-channel-ideas/"><u>[New] Top Effort for Quick Setup YouTube Biz Channel Ideas</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-a-deep-dive-into-recmasters-video-capturing-technology/"><u>[Updated] A Deep Dive Into Recmaster's Video Capturing Technology</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-splitcam-analysis-where-does-it-rank-among-recorders-for-2024/"><u>[Updated] SplitCam Analysis Where Does It Rank Among Recorders for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-visual-capture-specialists-top-10-tools/"><u>[Updated] Visual Capture Specialists' Top 10 Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-list-best-video-platforms-for-secure-businesses/"><u>2024 Approved Essential List Best Video Platforms for Secure Businesses</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-vector-graphics-tools-to-shape-your-creative-vision/"><u>2024 Approved Top 10 Vector Graphics Tools to Shape Your Creative Vision</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-straightforward-route-scrolling-through-popular-youtube-feedbacks/"><u>The Straightforward Route Scrolling Through Popular YouTube Feedbacks</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-failed-connections-to-nvidia-geforce-ex/"><u>Troubleshooting Failed Connections to NVIDIA GeForce Ex</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-master-list-of-top-online-video-conferencing-platforms-all-free/"><u>[New] Master List of Top Online Video Conferencing Platforms (All Free)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-reviving-the-full-screen-in-obs/"><u>[New] Reviving the Full Screen in OBS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-slomo-videography-the-complete-app-analysis/"><u>[New] SloMo Videography The Complete App Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamlining-the-process-keeping-track-of-your-fb-communication-for-2024/"><u>[New] Streamlining the Process Keeping Track of Your FB Communication for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-thorough-guide-to-thriving-in-stardews-hidden-landmark-ginger-isle/"><u>[Updated] 2024 Approved A Thorough Guide to Thriving in Stardew's Hidden Landmark Ginger Isle</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-frostbite-finishes-olympic-ice-classics-for-2024/"><u>[Updated] Frostbite Finishes Olympic Ice Classics for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-inbuilt-screen-capture-huaweis-mate-series-and-p-lineup-phones-for-2024/"><u>[Updated] Inbuilt Screen Capture Huawei's Mate Series & P Lineup Phones for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ready-for-high-res-our-choice-of-best-screenshot-and-recorder-apps/"><u>[Updated] Ready for High-Res Our Choice of Best Screenshot & Recorder Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unplugging-pauses-from-social-streams-a-2023-approach-to-fixing-livestream-issues-for-2024/"><u>[Updated] Unplugging Pauses From Social Streams A 2023 Approach to Fixing Livestream Issues for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-filtering-work-in-ai-chatbots-and-why-should-you-care/"><u>How Does Filtering Work in AI Chatbots and Why Should You Care?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-uncover-the-most-stellar-yt-gamers-intros-no-cost-high-quality/"><u>In 2024, Uncover the Most Stellar YT Gamers' Intros No Cost, High Quality?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/mastering-device-independent-techniques-for-capturing-youtube-live-streams/"><u>Mastering Device-Independent Techniques for Capturing YouTube Live Streams</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/perfecting-instagrams-audio-emoji-placement-for-2024/"><u>Perfecting Instagram's Audio Emoji Placement for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-noobs-guide-to-recording-twitch-games/"><u>The Noob's Guide to Recording Twitch Games</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On OnePlus 12 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Secure Surveillance Skills  Redacting and Obscuring Personal Information\""
-date: 2025-02-01T23:33:49.079Z
-updated: 2025-02-07T21:13:42.215Z
+date: 2025-02-10T16:43:43.173Z
+updated: 2025-02-17T17:11:23.649Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ This article will take you through all the steps you need to take to hide privat
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -72,6 +72,10 @@ Recording voice-over during the recording session, adding markers, or using HotK
 
 ![Filmora Scrn Annotations ](https://images.wondershare.com/filmora/article-images/annotation-filmora-scrn.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 All files captured with the screen recorder are displayed in the software's video editor that allows you to trim or cut video clips, add captions, or use blending modes to merge the layers in your videos seamlessly.
 
 The Annotations tab lets you add captions, overlays, speech bubbles, and, most importantly, blur effects. The **Mosaic, Linear, Vertical, Horizontal** **, Horizontal Mix, and Vertical Mix** **blur** options are available to users who want to protect sensitive info in their screen recordings. Let's have a look at how you can protect the privacy of the information in your screen recordings by blurring them in Filmora Scrn.
@@ -84,21 +88,25 @@ The original frame is shown below, and I want to blur and hide these two sensiti
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-effects-examples.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After I applied the Horizontal Mix blur and the Vertical Mix blur to these two pictures, below is what I got:
 
 ![Filmora Scrn Blur Effects](https://images.wondershare.com/filmora/article-images/blur-mix-effects-filmora-scrn.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+See, these two "private" pictures are hidden as if nothing were here. Do not believe the miracles? Why not follow the steps below to check it by yourself?
 
 ## Part 2: How to Blur and Hide Private Information with Filmora Scrn
 
@@ -107,10 +115,6 @@ Hiding the identity of the people in your videos and concealing private informat
 #### Step 1. Record a video or import a video file into the editor
 
 ![Filmora Scrn Annotations ](<https://images.wondershare.com/filmora/article-images/blurring-private> info-import.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you choose to capture a screen with the Filmora Scrn's screen recorder, the video file you create will be automatically imported into the software's video editor and placed into the Media Bin after the recording session is over.
 
@@ -138,10 +142,6 @@ Ok, that's it. Hope you have hidden and blurred the private info in your recorde
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -157,20 +157,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mastering-internet-based-live-audio-capture-5-key-strategies/"><u>[New] 2024 Approved Mastering Internet-Based Live Audio Capture 5 Key Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-premium-12-video-capture-apps-no-time-limit/"><u>[New] 2024 Approved Premium 12 Video Capture Apps, No Time Limit</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-techniques-saving-and-recording-ps4-gaming-escapades/"><u>[New] In 2024, Top Techniques Saving and Recording PS4 Gaming Escapades</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-must-have-gear-for-road-trip-documentaries/"><u>[New] Must-Have Gear for Road Trip Documentaries</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-prime-array-of-unplugged-digital-pastimes-for-2024/"><u>[Updated] Prime Array of Unplugged Digital Pastimes for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-rapid-views-hourlys-youtube-hit-list-for-2024/"><u>[Updated] Rapid Views Hourly's YouTube Hit List for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-amplify-your-iphone-films-with-free-audio-additions-discover-three-ways/"><u>In 2024, Amplify Your iPhone Films with Free Audio Additions – Discover Three Ways</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-exploring-top-videography-apps-for-enhanced-win11-experience/"><u>In 2024, Exploring Top Videography Apps for Enhanced Win11 Experience</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ice-chase-top-moments-captured-s-olympic-snowboard-race-events/"><u>In 2024, Ice Chase Top Moments Captured 'S Olympic Snowboard Race Events</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Lava Storm 5G? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-transform-slide-show-into-video-format/"><u>In 2024, Transform Slide Show Into Video Format</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-htc-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your HTC Device</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/quick-and-easy-methods-for-apple-music-unsubscription-without-using-itunes-according-to-zdnet-experts/"><u>Quick and Easy Methods for Apple Music Unsubscription Without Using iTunes, According to ZDNet Experts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-v30-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme V30 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-shortcomings-of-ai-powered-message-bots/"><u>Unveiling the Shortcomings of AI-Powered Message Bots</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-delving-into-the-meaning-of-a-mysterious-blue-marker-in-fb-chats/"><u>[New] 2024 Approved Delving Into the Meaning of a Mysterious Blue Marker in FB Chats</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-elite-10-audio-boosters-for-os-x-ios-android/"><u>[New] 2024 Approved Elite 10 Audio Boosters for OS X, iOS, Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-enhance-ipad-recording-simpler-approaches-revealed-for-2024/"><u>[New] Enhance iPad Recording Simpler Approaches Revealed for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-ultimate-guide-to-drone-racers-and-top-5-fpv-drones/"><u>[New] Ultimate Guide to Drone Racers & Top 5 FPV Drones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-watch-over-instagrams-friendship-shifts/"><u>[New] Watch Over Instagram's Friendship Shifts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-iobit-screen-recorder-review-and-alternative/"><u>[Updated] IObit Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mac-studios-for-top-quality-recordings/"><u>[Updated] Mac Studios for Top-Quality Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-to-effortless-iphone-screen-recording-for-2024/"><u>[Updated] Step-by-Step to Effortless IPhone Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unveiling-top-10-destinations-for-high-end-vectors-for-2024/"><u>[Updated] Unveiling Top 10 Destinations for High-End Vectors for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-essential-techniques-for-logitech-webcam-videos/"><u>2024 Approved Essential Techniques for Logitech Webcam Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-hits-2-billion-european-regulatory-hit-for-distorting-competition-in-the-app-marketplace-tech-analysis/"><u>Apple Hits $2 Billion European Regulatory Hit for Distorting Competition in the App Marketplace | Tech Analysis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/enhance-skype-videocalls-with-obs-capture/"><u>Enhance Skype Videocalls with OBS Capture</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/essential-tips-for-itunes-video-recording/"><u>Essential Tips for iTunes Video Recording</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/experience-next-level-personalization-with-our-site-optimized-by-cookiebot-technology/"><u>Experience Next-Level Personalization with Our Site Optimized by Cookiebot Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-unlocking-full-potential-with-obs-and-skype-collaboration-tools/"><u>In 2024, Unlocking Full Potential with OBS and Skype Collaboration Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srs-mastery-innovative-conversion-techniques/"><u>SRS Mastery Innovative Conversion Techniques</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-tutorial-for-setting-up-flipbook-downloads-using-flipbuilder/"><u>Step-by-Step Tutorial for Setting Up Flipbook Downloads Using FlipBuilder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/streamlining-workplace-e-mail-dilemmas-with-machine-learning/"><u>Streamlining Workplace E-Mail Dilemmas with Machine Learning</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ancient-art-of-role-playing-evolutionary-trajectory/"><u>The Ancient Art of Role-Playing Evolutionary Trajectory</u></a></li>
 </ul></div>
 
