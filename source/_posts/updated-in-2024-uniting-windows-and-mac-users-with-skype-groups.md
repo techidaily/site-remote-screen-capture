@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Uniting Windows & Mac Users with Skype Groups"
-date: 2025-02-16T16:18:33.067Z
-updated: 2025-02-17T17:14:21.628Z
+date: 2025-02-27T07:03:01.573Z
+updated: 2025-03-06T09:04:05.366Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ From the inventions of Alexander Graham Bell to today’s swift text messages, t
 * [**Part 2: Start a Skype Group Chat on Mac**](#part2)
 * [**Part 3: Manage Your Skype Group Chat**](#part3)
 * [**Part 4: Q&A about Skype Group Chat**](#part4)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Make a Skype Group Chat on Windows
 
@@ -68,17 +64,9 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 
 ![select new chat](https://images.wondershare.com/filmora/article-images/select-new-chat1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * A new window will pop up for you to determine the group name and picture. Choose a name that best describes the purpose of the group, as in our case it’s a dummy chat group, so I named it “Skype group chat”. Once you’ve done press the forward arrow button.
 
 ![get group name](https://images.wondershare.com/filmora/article-images/get-group-name2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * You’ll be taken to your “Contact List” to choose the contacts you want to add to the group. After selecting all the contacts press the “Done” button and Skype will make a group chat and notify all the members of their joining the group.
 
@@ -89,10 +77,6 @@ Skype allows anyone to create a group chat on Mac. You can easily create and enj
 ![get new group](https://images.wondershare.com/filmora/article-images/get-new-group4.jpg)
 
 * Now you can have a group video or audio call in real-time with members around the world. Talk and collaborate with coworkers, family, and friends while being able to send pictures, videos, and other files simultaneously.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Manage Your Skype Group Chat
 
@@ -120,21 +104,9 @@ Skype gives you full control over the group chats you create on Windows, Mac, Li
 
 ![group gallery](https://images.wondershare.com/filmora/article-images/group-gallery10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Q&A about Skype Group Chat
 
 Have some questions about skype group video chat? Keep the following!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Q1: How many people can you have on a Skype group chat?
 
@@ -155,10 +127,6 @@ You can in effect block a contact in Skype
 * 4\. Skype will ask you to confirm if you want to block this particular contact and also if you want to report the abuse from this person by pressing the toggle button.
 
 ![confirm block](https://images.wondershare.com/filmora/article-images/confirm-block5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * 5\. Press the “Block” button and the contact will effectively be blocked from your Skype account and removed from your contact list and chats.
 
@@ -183,10 +151,6 @@ To delete all your Skype contacts at once follow the steps:
 * 3\. In the Privacy settings, you will see all the other details. We need to go into the “View list” under the Profile section. This will reveal all your contacts in a list.
 
 ![view list](https://images.wondershare.com/filmora/article-images/view-list8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * 4\. In the list, you’ll be presented with all your contacts. Deleting them is very easy, just left-click each or dotted menu option and select “Delete contact”. This way you won’t have to go into each contact’s profile to delete the particular contact.
 
@@ -215,14 +179,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-virtual-explorers-toolkit-select-these-7-must-have-tech/"><u>[New] Virtual Explorers' Toolkit - Select These 7 Must-Have Tech</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-digital-dialogue-preservation-guide/"><u>[Updated] 2024 Approved Digital Dialogue Preservation Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-connect-with-creators-unravel-your-youtube-subscriber-type-with-6-exciting-questionnaires/"><u>[Updated] In 2024, Connect With Creators Unravel Your YouTube Subscriber Type with 6 Exciting Questionnaires</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-seamless-transition-from-smartphones-to-pc-and-mac-videos-for-2024/"><u>[Updated] Seamless Transition From Smartphones to PC & Mac Videos for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-techniques-for-optimal-steam-gameplay-capture-for-2024/"><u>[Updated] Top Techniques for Optimal Steam Gameplay Capture for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphoneipad-wireless-connection-woes-with-these-easy-to-follow-steps-8-in-total/"><u>Overcome iPhone/iPad Wireless Connection Woes with These Easy-to-Follow Steps (8 in Total)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes-for-2024/"><u>Simplifying Meeting Execution Combining Slack's Ease With Filmora' Writes for 2024</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/transferring-tunes-seamless-steps-to-move-songs-from-icloud-drive-to-your-iphones-apple-music-library/"><u>Transferring Tunes: Seamless Steps to Move Songs From iCloud Drive to Your iPhone's Apple Music Library</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-ten-skype-capture-devices-reviewed/"><u>[New] 2024 Approved Top Ten Skype Capture Devices Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-mastering-easy-ipad-video-recording-methods/"><u>[New] In 2024, Mastering Easy iPad Video Recording Methods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-seamlessly-fuse-videos-using-blend-modes/"><u>[New] In 2024, Seamlessly Fuse Videos Using Blend Modes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-adding-borders-to-videos/"><u>[Updated] 2024 Approved Mastering Instagram Adding Borders to Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-minicam-snapshot-review-and-substitutes/"><u>[Updated] 2024 Approved MiniCam Snapshot Review and Substitutes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pixel-perfect-windows-recorder-free/"><u>[Updated] 2024 Approved Pixel Perfect Windows Recorder, Free</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs/"><u>[Updated] In 2024, Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-efficient-classroom-documentation-choose-the-best-screen-recorder/"><u>[Updated] In 2024, Efficient Classroom Documentation Choose the Best Screen Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-enhanced-interaction-through-effective-zoom-screenshares/"><u>[Updated] In 2024, Enhanced Interaction Through Effective Zoom Screenshares</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-premiere-video-editing-options-for-app-developers-for-2024/"><u>[Updated] Premiere Video Editing Options for App Developers for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-the-foremost-android-alternatives-for-playstation-2-emulation-for-2024/"><u>[Updated] Unveiling The Foremost Android Alternatives for PlayStation 2 Emulation for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-arena-aces-unbeatable-10-royale-games/"><u>2024 Approved Arena Aces Unbeatable 10 Royale Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-digital-boutiques-unique-personalized-present-boxes/"><u>2024 Approved Ultimate Digital Boutiques Unique, Personalized Present Boxes</u></a></li>
+<li><a href="https://win-best.techidaily.com/6-google/"><u>文書の一部分を失った場合、6つの回復手段を紹介する - Googleドキュメント</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/her-youtubes-mysteries-with-advanced-insights-from-social-blade/"><u>Decipher YouTube's Mysteries with Advanced Insights From Social Blade</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-record-ps3-gameplay/"><u>How to Record PS3 Gameplay</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-vivo-y78plus-t1-edition-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Vivo Y78+ (T1) Edition Screen | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavipngarw/"><u>Movaviで簡単に無料PNGへのARWファイル変換</u></a></li>
 </ul></div>
 
